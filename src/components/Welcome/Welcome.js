@@ -7,6 +7,8 @@ import Icon from '../Icon'
 
 import './Welcome.css'
 
+const completedPercent = training => Math.floor(training.lessonsCompleted.length / training.lessons.length * 100)
+
 const Welcome = (props) => {
   const classes = classNames(
     'Welcome'
@@ -31,9 +33,9 @@ const Welcome = (props) => {
           {TRAININGS.map(({ id, name, logo, lessons }) => {
             const training = props.trainings[id]
             return (
-              <Link key={id} to={`/${id}`} title={name} onClick={() => fetchTraining(id)}>
+              <Link key={id} to={`/${id}`} title={name} onClick={() => !training && fetchTraining(id)}>
                 {name}
-                {training && <span className='completed'>{training.lessonsCompleted.length} of {training.lessons.length}</span>}
+                {training && <span className='completed'>{completedPercent(training)}%</span>}
               </Link>
             )
           })}

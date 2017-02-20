@@ -1,4 +1,4 @@
-import { values } from 'ramda'
+// import { values } from 'ramda'
 
 export const getTraining = (state, props) => {
   const { id } = props.params
@@ -11,7 +11,9 @@ export const getLessonById = (state, id) => {
 }
 
 export const getLessons = (state, props) => {
-  return values(state.entitites.lessons.byId)
+  const training = state.entitites.trainings.byId[props.trainingId]
+  if (!training) return []
+  return training.lessons.map(lessonId => state.entitites.lessons.byId[lessonId])
 }
 
 export const getTrainingsById = (state, props) => {

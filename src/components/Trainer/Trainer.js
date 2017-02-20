@@ -89,6 +89,7 @@ class Trainer extends Component {
             />
             <Exercise exercise={exercise} />
           </section>
+          <br />
           <Button to='/'>Go to welcome page</Button>
         </div>
       </div>

@@ -58,6 +58,8 @@ export function updateEditorCode (lessonId, code) {
 
 export function fetchTraining (trainingId) {
   return (dispatch, getState, services) => {
+    // if (getState().entitites.trainings.byId[trainingId]) return false
+
     dispatch({ type: FETCH_TRAINIG, payload: { trainingId } })
     trackEvent({ eventCategory: `Training`, eventAction: 'Fetch training', eventLabel: trainingId })
 

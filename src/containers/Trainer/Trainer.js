@@ -15,7 +15,7 @@ function mapStateToProps (state, props) {
     ? selectors.getLessonById(state, currentId)
     : selectors.getLessonById(state, lastId)
 
-  const lessons = selectors.getLessons(state, props)
+  const lessons = selectors.getLessons(state, { trainingId: id })
 
   return {
     id,

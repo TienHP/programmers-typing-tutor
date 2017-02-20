@@ -1,4 +1,4 @@
-import CodeMirror from 'react-codemirror'
+// import CodeMirror from 'react-codemirror'
 import React, { PropTypes } from 'react'
 import classNames from 'classnames'
 import './Success.css'
@@ -7,7 +7,7 @@ import { calculateAccuracy } from '../../utils'
 import Icon from '../Icon'
 import Button from '../Button'
 import {
-  CODE_THEME,
+  // CODE_THEME,
   TEXT
 } from '../../constants'
 
@@ -58,8 +58,7 @@ const Success = ({ training, lessons, fetchTraining }) => {
           {lessons.map(({ id, mode, example, mistakes, keystrokes, elapsedTime }) => (
             <tr key={id}>
               <td className='example'>
-                {mode}
-                <CodeMirror
+                {/*<CodeMirror
                   value={example}
                   options={{
                     mode: training.mode,
@@ -67,7 +66,7 @@ const Success = ({ training, lessons, fetchTraining }) => {
                     viewportMargin: Infinity,
                     readOnly: 'nocursor'
                   }}
-                />
+                />*/}
               </td>
               <td>{mistakes}</td>
               <td>{keystrokes}</td>
