@@ -22,14 +22,16 @@ export const calculateAccuracy = (mistakes, keystrokes) => {
   return Math.floor(100 - mistakes / keystrokes * 100)
 }
 
+const sendGa = document.location.host !== 'localhost' && window.ga
+
 // trackEvent({ eventCategory: '', eventAction: '', eventLabel: '', eventValue: 0 })
 export const trackEvent = ({ eventCategory, eventAction, eventLabel, eventValue, fieldsObject }) => {
-  return window.ga && window.ga('send', 'event', eventCategory, eventAction, eventLabel, eventValue, fieldsObject)
+  return sendGa('send', 'event', eventCategory, eventAction, eventLabel, eventValue, fieldsObject)
 }
 
 export const setPage = (page) => {
-  return window.ga && window.ga('set', 'page', page)
+  return sendGa('set', 'page', page)
 }
 export const trackPageView = () => {
-  return window.ga && window.ga('send', 'pageview')
+  return sendGa('send', 'pageview')
 }
