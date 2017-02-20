@@ -1,8 +1,9 @@
 import React, { PropTypes } from 'react'
 import CodeMirror from 'react-codemirror'
 import classNames from 'classnames'
+
 import {
-  CODE_MIRROR_MODES,
+  TRAININGS_MODES,
   CODE_THEME
 } from '../../constants'
 
@@ -36,7 +37,7 @@ const Example = (props) => {
 
 Example.propTypes = {
   value: PropTypes.string.isRequired,
-  mode: React.PropTypes.oneOf(CODE_MIRROR_MODES).isRequired
+  mode: React.PropTypes.oneOf(TRAININGS_MODES).isRequired
 }
 
 export default Example

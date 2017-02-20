@@ -82,7 +82,7 @@ const Success = ({ training, lessons, fetchTraining }) => {
         </tbody>
       </table>
       <Button to='/' className='ui button'>Go to welcome page</Button>
-      <Button onClick={() => fetchTraining(training.mode, training.level)}className='ui button'>Restart training</Button>
+      <Button onClick={() => fetchTraining(training.id)}className='ui button'>Restart training</Button>
     </div>
   )
 }

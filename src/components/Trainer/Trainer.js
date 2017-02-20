@@ -60,7 +60,6 @@ class Trainer extends Component {
   renderLesson () {
     const {
       training,
-      mode,
       lesson
     } = this.props
 
@@ -80,11 +79,11 @@ class Trainer extends Component {
           <Header training={training} lesson={lesson} />
           <section className='editors'>
             {example.startsWith(editor) && (
-              <Example value={example} mode={mode} />
+              <Example value={example} mode={training.mode} />
             )}
             <Editor
               value={editor}
-              mode={mode}
+              mode={training.mode}
               onChangeCode={code => this.props.updateEditorCode(lesson.id, code)}
             />
             <Exercise exercise={exercise} />
@@ -96,8 +95,7 @@ class Trainer extends Component {
 }
 
 Trainer.propTypes = {
-  level: PropTypes.string.isRequired,
-  mode: PropTypes.string.isRequired,
+  id: PropTypes.string.isRequired,
   training: PropTypes.object,
   lesson: PropTypes.object,
   updateEditorCode: PropTypes.func.isRequired,

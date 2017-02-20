@@ -1,4 +1,4 @@
-/* global fetch */
+/* global fetch, ga */
 
 import 'whatwg-fetch'
 import without from 'ramda/src/without'
@@ -20,4 +20,16 @@ export function getRandomLesson (lessons, completedLessons) {
 export const calculateAccuracy = (mistakes, keystrokes) => {
   if (!keystrokes) return 100
   return Math.floor(100 - mistakes / keystrokes * 100)
+}
+
+// trackEvent({ eventCategory: '', eventAction: '', eventLabel: '', eventValue: 0 })
+export const trackEvent = ({ eventCategory, eventAction, eventLabel, eventValue, fieldsObject }) => {
+  return window.ga && window.ga('send', 'event', eventCategory, eventAction, eventLabel, eventValue, fieldsObject)
+}
+
+export const setPage = (page) => {
+  return window.ga && window.ga('set', 'page', page)
+}
+export const trackPageView = () => {
+  return window.ga && window.ga('send', 'pageview')
 }

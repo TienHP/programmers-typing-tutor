@@ -1,0 +1,3877 @@
+{
+  "id": "popular-groovy-words",
+  "name": "Popular groovy words training",
+  "mode": "groovy",
+  "level": "beginner",
+  "logo": "images/languages/groovy.png",
+  "lessons": [
+    {
+      "exercise": "",
+      "example": "A"
+    },
+    {
+      "exercise": "",
+      "example": "ALLOC"
+    },
+    {
+      "exercise": "",
+      "example": "API"
+    },
+    {
+      "exercise": "",
+      "example": "After"
+    },
+    {
+      "exercise": "",
+      "example": "Almiray"
+    },
+    {
+      "exercise": "",
+      "example": "Andres"
+    },
+    {
+      "exercise": "",
+      "example": "ArrayList"
+    },
+    {
+      "exercise": "",
+      "example": "Assert"
+    },
+    {
+      "exercise": "",
+      "example": "Author"
+    },
+    {
+      "exercise": "",
+      "example": "Autowired"
+    },
+    {
+      "exercise": "",
+      "example": "B"
+    },
+    {
+      "exercise": "",
+      "example": "Bar"
+    },
+    {
+      "exercise": "",
+      "example": "Bean"
+    },
+    {
+      "exercise": "",
+      "example": "Before"
+    },
+    {
+      "exercise": "",
+      "example": "BeforeClass"
+    },
+    {
+      "exercise": "",
+      "example": "Boolean"
+    },
+    {
+      "exercise": "",
+      "example": "Build"
+    },
+    {
+      "exercise": "",
+      "example": "Builder"
+    },
+    {
+      "exercise": "",
+      "example": "C"
+    },
+    {
+      "exercise": "",
+      "example": "Canonical"
+    },
+    {
+      "exercise": "",
+      "example": "Checked"
+    },
+    {
+      "exercise": "",
+      "example": "Class"
+    },
+    {
+      "exercise": "",
+      "example": "Closure"
+    },
+    {
+      "exercise": "",
+      "example": "Command"
+    },
+    {
+      "exercise": "",
+      "example": "CompileStatic"
+    },
+    {
+      "exercise": "",
+      "example": "Component"
+    },
+    {
+      "exercise": "",
+      "example": "Compute"
+    },
+    {
+      "exercise": "",
+      "example": "Configuration"
+    },
+    {
+      "exercise": "",
+      "example": "Constants"
+    },
+    {
+      "exercise": "",
+      "example": "ContextHelper"
+    },
+    {
+      "exercise": "",
+      "example": "Convenience"
+    },
+    {
+      "exercise": "",
+      "example": "Create"
+    },
+    {
+      "exercise": "",
+      "example": "Created"
+    },
+    {
+      "exercise": "",
+      "example": "D"
+    },
+    {
+      "exercise": "",
+      "example": "DELETE"
+    },
+    {
+      "exercise": "",
+      "example": "Date"
+    },
+    {
+      "exercise": "",
+      "example": "DomainClassUnitTestMixin"
+    },
+    {
+      "exercise": "",
+      "example": "DslContext"
+    },
+    {
+      "exercise": "",
+      "example": "DslScriptException"
+    },
+    {
+      "exercise": "",
+      "example": "END"
+    },
+    {
+      "exercise": "",
+      "example": "Entity"
+    },
+    {
+      "exercise": "",
+      "example": "Environment"
+    },
+    {
+      "exercise": "",
+      "example": "EqualsAndHashCode"
+    },
+    {
+      "exercise": "",
+      "example": "Exception"
+    },
+    {
+      "exercise": "",
+      "example": "FROM"
+    },
+    {
+      "exercise": "",
+      "example": "File"
+    },
+    {
+      "exercise": "",
+      "example": "Foo"
+    },
+    {
+      "exercise": "",
+      "example": "GET"
+    },
+    {
+      "exercise": "",
+      "example": "Grails"
+    },
+    {
+      "exercise": "",
+      "example": "Groovy"
+    },
+    {
+      "exercise": "",
+      "example": "HomePage"
+    },
+    {
+      "exercise": "",
+      "example": "HttpServletResponse"
+    },
+    {
+      "exercise": "",
+      "example": "HttpStatus"
+    },
+    {
+      "exercise": "",
+      "example": "I"
+    },
+    {
+      "exercise": "",
+      "example": "IN"
+    },
+    {
+      "exercise": "",
+      "example": "IOException"
+    },
+    {
+      "exercise": "",
+      "example": "Id"
+    },
+    {
+      "exercise": "",
+      "example": "If"
+    },
+    {
+      "exercise": "",
+      "example": "Ignore"
+    },
+    {
+      "exercise": "",
+      "example": "IllegalArgumentException"
+    },
+    {
+      "exercise": "",
+      "example": "Implement"
+    },
+    {
+      "exercise": "",
+      "example": "Inject"
+    },
+    {
+      "exercise": "",
+      "example": "Input"
+    },
+    {
+      "exercise": "",
+      "example": "Integer"
+    },
+    {
+      "exercise": "",
+      "example": "JSON"
+    },
+    {
+      "exercise": "",
+      "example": "JSONObject"
+    },
+    {
+      "exercise": "",
+      "example": "JVM"
+    },
+    {
+      "exercise": "",
+      "example": "JsonSlurper"
+    },
+    {
+      "exercise": "",
+      "example": "LIR"
+    },
+    {
+      "exercise": "",
+      "example": "List"
+    },
+    {
+      "exercise": "",
+      "example": "Log"
+    },
+    {
+      "exercise": "",
+      "example": "Logger"
+    },
+    {
+      "exercise": "",
+      "example": "LoggerFactory"
+    },
+    {
+      "exercise": "",
+      "example": "LoginPage"
+    },
+    {
+      "exercise": "",
+      "example": "Long"
+    },
+    {
+      "exercise": "",
+      "example": "MNT"
+    },
+    {
+      "exercise": "",
+      "example": "Map"
+    },
+    {
+      "exercise": "",
+      "example": "Math"
+    },
+    {
+      "exercise": "",
+      "example": "Maven"
+    },
+    {
+      "exercise": "",
+      "example": "Message"
+    },
+    {
+      "exercise": "",
+      "example": "Mock"
+    },
+    {
+      "exercise": "",
+      "example": "NCC"
+    },
+    {
+      "exercise": "",
+      "example": "NCubeManager"
+    },
+    {
+      "exercise": "",
+      "example": "Node"
+    },
+    {
+      "exercise": "",
+      "example": "NodeBuilder"
+    },
+    {
+      "exercise": "",
+      "example": "ORG"
+    },
+    {
+      "exercise": "",
+      "example": "Object"
+    },
+    {
+      "exercise": "",
+      "example": "ObjectMapper"
+    },
+    {
+      "exercise": "",
+      "example": "Optional"
+    },
+    {
+      "exercise": "",
+      "example": "Override"
+    },
+    {
+      "exercise": "",
+      "example": "PA"
+    },
+    {
+      "exercise": "",
+      "example": "POST"
+    },
+    {
+      "exercise": "",
+      "example": "PROJECT_NAME"
+    },
+    {
+      "exercise": "",
+      "example": "Pattern"
+    },
+    {
+      "exercise": "",
+      "example": "Person"
+    },
+    {
+      "exercise": "",
+      "example": "Plugin"
+    },
+    {
+      "exercise": "",
+      "example": "Project"
+    },
+    {
+      "exercise": "",
+      "example": "ProjectBuilder"
+    },
+    {
+      "exercise": "",
+      "example": "Properties"
+    },
+    {
+      "exercise": "",
+      "example": "PsiElement"
+    },
+    {
+      "exercise": "",
+      "example": "RIPE"
+    },
+    {
+      "exercise": "",
+      "example": "Release"
+    },
+    {
+      "exercise": "",
+      "example": "RequiresPlugin"
+    },
+    {
+      "exercise": "",
+      "example": "Role"
+    },
+    {
+      "exercise": "",
+      "example": "Rule"
+    },
+    {
+      "exercise": "",
+      "example": "RuntimeException"
+    },
+    {
+      "exercise": "",
+      "example": "SELECT"
+    },
+    {
+      "exercise": "",
+      "example": "SOURCE"
+    },
+    {
+      "exercise": "",
+      "example": "SUCCESS"
+    },
+    {
+      "exercise": "",
+      "example": "ScheduledExecution"
+    },
+    {
+      "exercise": "",
+      "example": "Secured"
+    },
+    {
+      "exercise": "",
+      "example": "See"
+    },
+    {
+      "exercise": "",
+      "example": "Set"
+    },
+    {
+      "exercise": "",
+      "example": "Shared"
+    },
+    {
+      "exercise": "",
+      "example": "Slf4j"
+    },
+    {
+      "exercise": "",
+      "example": "Specification"
+    },
+    {
+      "exercise": "",
+      "example": "SpringSecurityUtils"
+    },
+    {
+      "exercise": "",
+      "example": "Sql"
+    },
+    {
+      "exercise": "",
+      "example": "String"
+    },
+    {
+      "exercise": "",
+      "example": "StringBuffer"
+    },
+    {
+      "exercise": "",
+      "example": "StringBuilder"
+    },
+    {
+      "exercise": "",
+      "example": "StringWriter"
+    },
+    {
+      "exercise": "",
+      "example": "Subject"
+    },
+    {
+      "exercise": "",
+      "example": "SuppressWarnings"
+    },
+    {
+      "exercise": "",
+      "example": "System"
+    },
+    {
+      "exercise": "",
+      "example": "T"
+    },
+    {
+      "exercise": "",
+      "example": "TEST"
+    },
+    {
+      "exercise": "",
+      "example": "TODO"
+    },
+    {
+      "exercise": "",
+      "example": "TP1"
+    },
+    {
+      "exercise": "",
+      "example": "Task"
+    },
+    {
+      "exercise": "",
+      "example": "TaskAction"
+    },
+    {
+      "exercise": "",
+      "example": "Test"
+    },
+    {
+      "exercise": "",
+      "example": "TestFor"
+    },
+    {
+      "exercise": "",
+      "example": "The"
+    },
+    {
+      "exercise": "",
+      "example": "This"
+    },
+    {
+      "exercise": "",
+      "example": "Thread"
+    },
+    {
+      "exercise": "",
+      "example": "Throwable"
+    },
+    {
+      "exercise": "",
+      "example": "ToString"
+    },
+    {
+      "exercise": "",
+      "example": "Transactional"
+    },
+    {
+      "exercise": "",
+      "example": "Type"
+    },
+    {
+      "exercise": "",
+      "example": "TypeChecked"
+    },
+    {
+      "exercise": "",
+      "example": "URL"
+    },
+    {
+      "exercise": "",
+      "example": "UTF"
+    },
+    {
+      "exercise": "",
+      "example": "Unroll"
+    },
+    {
+      "exercise": "",
+      "example": "User"
+    },
+    {
+      "exercise": "",
+      "example": "UserRole"
+    },
+    {
+      "exercise": "",
+      "example": "Utilities"
+    },
+    {
+      "exercise": "",
+      "example": "W"
+    },
+    {
+      "exercise": "",
+      "example": "Windows_NT"
+    },
+    {
+      "exercise": "",
+      "example": "Work"
+    },
+    {
+      "exercise": "",
+      "example": "X"
+    },
+    {
+      "exercise": "",
+      "example": "You"
+    },
+    {
+      "exercise": "",
+      "example": "_"
+    },
+    {
+      "exercise": "",
+      "example": "a"
+    },
+    {
+      "exercise": "",
+      "example": "access"
+    },
+    {
+      "exercise": "",
+      "example": "account"
+    },
+    {
+      "exercise": "",
+      "example": "ack"
+    },
+    {
+      "exercise": "",
+      "example": "ackFor"
+    },
+    {
+      "exercise": "",
+      "example": "action"
+    },
+    {
+      "exercise": "",
+      "example": "actions"
+    },
+    {
+      "exercise": "",
+      "example": "active"
+    },
+    {
+      "exercise": "",
+      "example": "actual"
+    },
+    {
+      "exercise": "",
+      "example": "add"
+    },
+    {
+      "exercise": "",
+      "example": "addClass"
+    },
+    {
+      "exercise": "",
+      "example": "addFileToProject"
+    },
+    {
+      "exercise": "",
+      "example": "additional"
+    },
+    {
+      "exercise": "",
+      "example": "address"
+    },
+    {
+      "exercise": "",
+      "example": "admin"
+    },
+    {
+      "exercise": "",
+      "example": "after"
+    },
+    {
+      "exercise": "",
+      "example": "agent"
+    },
+    {
+      "exercise": "",
+      "example": "all"
+    },
+    {
+      "exercise": "",
+      "example": "allowedMethods"
+    },
+    {
+      "exercise": "",
+      "example": "amazonaws"
+    },
+    {
+      "exercise": "",
+      "example": "an"
+    },
+    {
+      "exercise": "",
+      "example": "and"
+    },
+    {
+      "exercise": "",
+      "example": "android"
+    },
+    {
+      "exercise": "",
+      "example": "annotation"
+    },
+    {
+      "exercise": "",
+      "example": "annotations"
+    },
+    {
+      "exercise": "",
+      "example": "anrisoftware"
+    },
+    {
+      "exercise": "",
+      "example": "ant"
+    },
+    {
+      "exercise": "",
+      "example": "any"
+    },
+    {
+      "exercise": "",
+      "example": "apache"
+    },
+    {
+      "exercise": "",
+      "example": "api"
+    },
+    {
+      "exercise": "",
+      "example": "app"
+    },
+    {
+      "exercise": "",
+      "example": "appName"
+    },
+    {
+      "exercise": "",
+      "example": "append"
+    },
+    {
+      "exercise": "",
+      "example": "application"
+    },
+    {
+      "exercise": "",
+      "example": "apply"
+    },
+    {
+      "exercise": "",
+      "example": "architecture"
+    },
+    {
+      "exercise": "",
+      "example": "are"
+    },
+    {
+      "exercise": "",
+      "example": "arg"
+    },
+    {
+      "exercise": "",
+      "example": "args"
+    },
+    {
+      "exercise": "",
+      "example": "artifact"
+    },
+    {
+      "exercise": "",
+      "example": "artifactId"
+    },
+    {
+      "exercise": "",
+      "example": "artifacts"
+    },
+    {
+      "exercise": "",
+      "example": "as"
+    },
+    {
+      "exercise": "",
+      "example": "asgard"
+    },
+    {
+      "exercise": "",
+      "example": "assert"
+    },
+    {
+      "exercise": "",
+      "example": "assertEquals"
+    },
+    {
+      "exercise": "",
+      "example": "assertErrors"
+    },
+    {
+      "exercise": "",
+      "example": "assertFalse"
+    },
+    {
+      "exercise": "",
+      "example": "assertNotNull"
+    },
+    {
+      "exercise": "",
+      "example": "assertNull"
+    },
+    {
+      "exercise": "",
+      "example": "assertScript"
+    },
+    {
+      "exercise": "",
+      "example": "assertSuccess"
+    },
+    {
+      "exercise": "",
+      "example": "assertThat"
+    },
+    {
+      "exercise": "",
+      "example": "assertTrue"
+    },
+    {
+      "exercise": "",
+      "example": "asset"
+    },
+    {
+      "exercise": "",
+      "example": "ast"
+    },
+    {
+      "exercise": "",
+      "example": "at"
+    },
+    {
+      "exercise": "",
+      "example": "attr"
+    },
+    {
+      "exercise": "",
+      "example": "attribute"
+    },
+    {
+      "exercise": "",
+      "example": "attributes"
+    },
+    {
+      "exercise": "",
+      "example": "attrs"
+    },
+    {
+      "exercise": "",
+      "example": "aut"
+    },
+    {
+      "exercise": "",
+      "example": "auth"
+    },
+    {
+      "exercise": "",
+      "example": "authentication"
+    },
+    {
+      "exercise": "",
+      "example": "author"
+    },
+    {
+      "exercise": "",
+      "example": "awt"
+    },
+    {
+      "exercise": "",
+      "example": "b"
+    },
+    {
+      "exercise": "",
+      "example": "bar"
+    },
+    {
+      "exercise": "",
+      "example": "base"
+    },
+    {
+      "exercise": "",
+      "example": "basic"
+    },
+    {
+      "exercise": "",
+      "example": "be"
+    },
+    {
+      "exercise": "",
+      "example": "bean"
+    },
+    {
+      "exercise": "",
+      "example": "beans"
+    },
+    {
+      "exercise": "",
+      "example": "before"
+    },
+    {
+      "exercise": "",
+      "example": "bin"
+    },
+    {
+      "exercise": "",
+      "example": "bind"
+    },
+    {
+      "exercise": "",
+      "example": "binding"
+    },
+    {
+      "exercise": "",
+      "example": "blank"
+    },
+    {
+      "exercise": "",
+      "example": "block"
+    },
+    {
+      "exercise": "",
+      "example": "bo"
+    },
+    {
+      "exercise": "",
+      "example": "body"
+    },
+    {
+      "exercise": "",
+      "example": "boolean"
+    },
+    {
+      "exercise": "",
+      "example": "boot"
+    },
+    {
+      "exercise": "",
+      "example": "br"
+    },
+    {
+      "exercise": "",
+      "example": "branch"
+    },
+    {
+      "exercise": "",
+      "example": "break"
+    },
+    {
+      "exercise": "",
+      "example": "build"
+    },
+    {
+      "exercise": "",
+      "example": "buildFile"
+    },
+    {
+      "exercise": "",
+      "example": "buildParameterNodes"
+    },
+    {
+      "exercise": "",
+      "example": "builder"
+    },
+    {
+      "exercise": "",
+      "example": "but"
+    },
+    {
+      "exercise": "",
+      "example": "by"
+    },
+    {
+      "exercise": "",
+      "example": "c"
+    },
+    {
+      "exercise": "",
+      "example": "cache"
+    },
+    {
+      "exercise": "",
+      "example": "call"
+    },
+    {
+      "exercise": "",
+      "example": "called"
+    },
+    {
+      "exercise": "",
+      "example": "can"
+    },
+    {
+      "exercise": "",
+      "example": "capability"
+    },
+    {
+      "exercise": "",
+      "example": "caret"
+    },
+    {
+      "exercise": "",
+      "example": "case"
+    },
+    {
+      "exercise": "",
+      "example": "catch"
+    },
+    {
+      "exercise": "",
+      "example": "category"
+    },
+    {
+      "exercise": "",
+      "example": "certif"
+    },
+    {
+      "exercise": "",
+      "example": "ch"
+    },
+    {
+      "exercise": "",
+      "example": "change"
+    },
+    {
+      "exercise": "",
+      "example": "changed"
+    },
+    {
+      "exercise": "",
+      "example": "check"
+    },
+    {
+      "exercise": "",
+      "example": "checkResult"
+    },
+    {
+      "exercise": "",
+      "example": "children"
+    },
+    {
+      "exercise": "",
+      "example": "chrom"
+    },
+    {
+      "exercise": "",
+      "example": "cl"
+    },
+    {
+      "exercise": "",
+      "example": "class"
+    },
+    {
+      "exercise": "",
+      "example": "className"
+    },
+    {
+      "exercise": "",
+      "example": "classes"
+    },
+    {
+      "exercise": "",
+      "example": "classpath"
+    },
+    {
+      "exercise": "",
+      "example": "clazz"
+    },
+    {
+      "exercise": "",
+      "example": "cleanup"
+    },
+    {
+      "exercise": "",
+      "example": "clear"
+    },
+    {
+      "exercise": "",
+      "example": "cli"
+    },
+    {
+      "exercise": "",
+      "example": "click"
+    },
+    {
+      "exercise": "",
+      "example": "client"
+    },
+    {
+      "exercise": "",
+      "example": "close"
+    },
+    {
+      "exercise": "",
+      "example": "closure"
+    },
+    {
+      "exercise": "",
+      "example": "clouddriver"
+    },
+    {
+      "exercise": "",
+      "example": "cluster"
+    },
+    {
+      "exercise": "",
+      "example": "cmd"
+    },
+    {
+      "exercise": "",
+      "example": "co"
+    },
+    {
+      "exercise": "",
+      "example": "code"
+    },
+    {
+      "exercise": "",
+      "example": "codec"
+    },
+    {
+      "exercise": "",
+      "example": "codehaus"
+    },
+    {
+      "exercise": "",
+      "example": "codenarc"
+    },
+    {
+      "exercise": "",
+      "example": "collect"
+    },
+    {
+      "exercise": "",
+      "example": "color"
+    },
+    {
+      "exercise": "",
+      "example": "column"
+    },
+    {
+      "exercise": "",
+      "example": "columns"
+    },
+    {
+      "exercise": "",
+      "example": "com"
+    },
+    {
+      "exercise": "",
+      "example": "command"
+    },
+    {
+      "exercise": "",
+      "example": "commands"
+    },
+    {
+      "exercise": "",
+      "example": "common"
+    },
+    {
+      "exercise": "",
+      "example": "commons"
+    },
+    {
+      "exercise": "",
+      "example": "compile"
+    },
+    {
+      "exercise": "",
+      "example": "component"
+    },
+    {
+      "exercise": "",
+      "example": "concept"
+    },
+    {
+      "exercise": "",
+      "example": "concept_key"
+    },
+    {
+      "exercise": "",
+      "example": "concurrent"
+    },
+    {
+      "exercise": "",
+      "example": "condition"
+    },
+    {
+      "exercise": "",
+      "example": "conditions"
+    },
+    {
+      "exercise": "",
+      "example": "conf"
+    },
+    {
+      "exercise": "",
+      "example": "config"
+    },
+    {
+      "exercise": "",
+      "example": "configs"
+    },
+    {
+      "exercise": "",
+      "example": "configuration"
+    },
+    {
+      "exercise": "",
+      "example": "configure"
+    },
+    {
+      "exercise": "",
+      "example": "configureByFile"
+    },
+    {
+      "exercise": "",
+      "example": "configureByText"
+    },
+    {
+      "exercise": "",
+      "example": "connection"
+    },
+    {
+      "exercise": "",
+      "example": "console"
+    },
+    {
+      "exercise": "",
+      "example": "constraints"
+    },
+    {
+      "exercise": "",
+      "example": "contact"
+    },
+    {
+      "exercise": "",
+      "example": "container"
+    },
+    {
+      "exercise": "",
+      "example": "contains"
+    },
+    {
+      "exercise": "",
+      "example": "content"
+    },
+    {
+      "exercise": "",
+      "example": "contentType"
+    },
+    {
+      "exercise": "",
+      "example": "context"
+    },
+    {
+      "exercise": "",
+      "example": "continue"
+    },
+    {
+      "exercise": "",
+      "example": "control"
+    },
+    {
+      "exercise": "",
+      "example": "controller"
+    },
+    {
+      "exercise": "",
+      "example": "controllers"
+    },
+    {
+      "exercise": "",
+      "example": "converters"
+    },
+    {
+      "exercise": "",
+      "example": "coord"
+    },
+    {
+      "exercise": "",
+      "example": "copy"
+    },
+    {
+      "exercise": "",
+      "example": "core"
+    },
+    {
+      "exercise": "",
+      "example": "correct"
+    },
+    {
+      "exercise": "",
+      "example": "count"
+    },
+    {
+      "exercise": "",
+      "example": "countErrorWarnInfo"
+    },
+    {
+      "exercise": "",
+      "example": "country"
+    },
+    {
+      "exercise": "",
+      "example": "create"
+    },
+    {
+      "exercise": "",
+      "example": "created"
+    },
+    {
+      "exercise": "",
+      "example": "credentials"
+    },
+    {
+      "exercise": "",
+      "example": "css"
+    },
+    {
+      "exercise": "",
+      "example": "csv"
+    },
+    {
+      "exercise": "",
+      "example": "ctx"
+    },
+    {
+      "exercise": "",
+      "example": "cube"
+    },
+    {
+      "exercise": "",
+      "example": "current"
+    },
+    {
+      "exercise": "",
+      "example": "currentTimeMillis"
+    },
+    {
+      "exercise": "",
+      "example": "custom"
+    },
+    {
+      "exercise": "",
+      "example": "cytomine"
+    },
+    {
+      "exercise": "",
+      "example": "d"
+    },
+    {
+      "exercise": "",
+      "example": "dao"
+    },
+    {
+      "exercise": "",
+      "example": "data"
+    },
+    {
+      "exercise": "",
+      "example": "dataSource"
+    },
+    {
+      "exercise": "",
+      "example": "database"
+    },
+    {
+      "exercise": "",
+      "example": "dataquery"
+    },
+    {
+      "exercise": "",
+      "example": "date"
+    },
+    {
+      "exercise": "",
+      "example": "db"
+    },
+    {
+      "exercise": "",
+      "example": "dbCreate"
+    },
+    {
+      "exercise": "",
+      "example": "dbtest"
+    },
+    {
+      "exercise": "",
+      "example": "de"
+    },
+    {
+      "exercise": "",
+      "example": "debug"
+    },
+    {
+      "exercise": "",
+      "example": "def"
+    },
+    {
+      "exercise": "",
+      "example": "default"
+    },
+    {
+      "exercise": "",
+      "example": "definition"
+    },
+    {
+      "exercise": "",
+      "example": "delegate"
+    },
+    {
+      "exercise": "",
+      "example": "delete"
+    },
+    {
+      "exercise": "",
+      "example": "demand"
+    },
+    {
+      "exercise": "",
+      "example": "dependencies"
+    },
+    {
+      "exercise": "",
+      "example": "dependency"
+    },
+    {
+      "exercise": "",
+      "example": "deploy"
+    },
+    {
+      "exercise": "",
+      "example": "descr"
+    },
+    {
+      "exercise": "",
+      "example": "description"
+    },
+    {
+      "exercise": "",
+      "example": "details"
+    },
+    {
+      "exercise": "",
+      "example": "device"
+    },
+    {
+      "exercise": "",
+      "example": "dir"
+    },
+    {
+      "exercise": "",
+      "example": "directory"
+    },
+    {
+      "exercise": "",
+      "example": "disable"
+    },
+    {
+      "exercise": "",
+      "example": "displayed"
+    },
+    {
+      "exercise": "",
+      "example": "distributed"
+    },
+    {
+      "exercise": "",
+      "example": "distribution"
+    },
+    {
+      "exercise": "",
+      "example": "div"
+    },
+    {
+      "exercise": "",
+      "example": "do"
+    },
+    {
+      "exercise": "",
+      "example": "doTest"
+    },
+    {
+      "exercise": "",
+      "example": "doc"
+    },
+    {
+      "exercise": "",
+      "example": "document"
+    },
+    {
+      "exercise": "",
+      "example": "documentation"
+    },
+    {
+      "exercise": "",
+      "example": "domain"
+    },
+    {
+      "exercise": "",
+      "example": "dsl"
+    },
+    {
+      "exercise": "",
+      "example": "dtolabs"
+    },
+    {
+      "exercise": "",
+      "example": "e"
+    },
+    {
+      "exercise": "",
+      "example": "each"
+    },
+    {
+      "exercise": "",
+      "example": "ec2"
+    },
+    {
+      "exercise": "",
+      "example": "echo"
+    },
+    {
+      "exercise": "",
+      "example": "eclipse"
+    },
+    {
+      "exercise": "",
+      "example": "edit"
+    },
+    {
+      "exercise": "",
+      "example": "editor"
+    },
+    {
+      "exercise": "",
+      "example": "ehcache"
+    },
+    {
+      "exercise": "",
+      "example": "either"
+    },
+    {
+      "exercise": "",
+      "example": "elasticsearch"
+    },
+    {
+      "exercise": "",
+      "example": "element"
+    },
+    {
+      "exercise": "",
+      "example": "else"
+    },
+    {
+      "exercise": "",
+      "example": "email"
+    },
+    {
+      "exercise": "",
+      "example": "empty"
+    },
+    {
+      "exercise": "",
+      "example": "enable"
+    },
+    {
+      "exercise": "",
+      "example": "enabled"
+    },
+    {
+      "exercise": "",
+      "example": "encoding"
+    },
+    {
+      "exercise": "",
+      "example": "end"
+    },
+    {
+      "exercise": "",
+      "example": "engine"
+    },
+    {
+      "exercise": "",
+      "example": "entity"
+    },
+    {
+      "exercise": "",
+      "example": "entry"
+    },
+    {
+      "exercise": "",
+      "example": "env"
+    },
+    {
+      "exercise": "",
+      "example": "environment"
+    },
+    {
+      "exercise": "",
+      "example": "environments"
+    },
+    {
+      "exercise": "",
+      "example": "equals"
+    },
+    {
+      "exercise": "",
+      "example": "error"
+    },
+    {
+      "exercise": "",
+      "example": "errors"
+    },
+    {
+      "exercise": "",
+      "example": "escapes"
+    },
+    {
+      "exercise": "",
+      "example": "eucalyptus"
+    },
+    {
+      "exercise": "",
+      "example": "evaluate"
+    },
+    {
+      "exercise": "",
+      "example": "event"
+    },
+    {
+      "exercise": "",
+      "example": "events"
+    },
+    {
+      "exercise": "",
+      "example": "evt"
+    },
+    {
+      "exercise": "",
+      "example": "ex"
+    },
+    {
+      "exercise": "",
+      "example": "example"
+    },
+    {
+      "exercise": "",
+      "example": "exception"
+    },
+    {
+      "exercise": "",
+      "example": "exceptions"
+    },
+    {
+      "exercise": "",
+      "example": "excludes"
+    },
+    {
+      "exercise": "",
+      "example": "exec"
+    },
+    {
+      "exercise": "",
+      "example": "execute"
+    },
+    {
+      "exercise": "",
+      "example": "executeInContext"
+    },
+    {
+      "exercise": "",
+      "example": "executed"
+    },
+    {
+      "exercise": "",
+      "example": "execution"
+    },
+    {
+      "exercise": "",
+      "example": "exists"
+    },
+    {
+      "exercise": "",
+      "example": "exit"
+    },
+    {
+      "exercise": "",
+      "example": "expect"
+    },
+    {
+      "exercise": "",
+      "example": "expected"
+    },
+    {
+      "exercise": "",
+      "example": "export"
+    },
+    {
+      "exercise": "",
+      "example": "expr"
+    },
+    {
+      "exercise": "",
+      "example": "expression"
+    },
+    {
+      "exercise": "",
+      "example": "ext"
+    },
+    {
+      "exercise": "",
+      "example": "extends"
+    },
+    {
+      "exercise": "",
+      "example": "extensions"
+    },
+    {
+      "exercise": "",
+      "example": "f"
+    },
+    {
+      "exercise": "",
+      "example": "factory"
+    },
+    {
+      "exercise": "",
+      "example": "fail"
+    },
+    {
+      "exercise": "",
+      "example": "failOnError"
+    },
+    {
+      "exercise": "",
+      "example": "failed"
+    },
+    {
+      "exercise": "",
+      "example": "false"
+    },
+    {
+      "exercise": "",
+      "example": "fasterxml"
+    },
+    {
+      "exercise": "",
+      "example": "field"
+    },
+    {
+      "exercise": "",
+      "example": "file"
+    },
+    {
+      "exercise": "",
+      "example": "files"
+    },
+    {
+      "exercise": "",
+      "example": "filter"
+    },
+    {
+      "exercise": "",
+      "example": "final"
+    },
+    {
+      "exercise": "",
+      "example": "finally"
+    },
+    {
+      "exercise": "",
+      "example": "find"
+    },
+    {
+      "exercise": "",
+      "example": "first"
+    },
+    {
+      "exercise": "",
+      "example": "firstName"
+    },
+    {
+      "exercise": "",
+      "example": "fixtures"
+    },
+    {
+      "exercise": "",
+      "example": "flash"
+    },
+    {
+      "exercise": "",
+      "example": "flowdock"
+    },
+    {
+      "exercise": "",
+      "example": "flush"
+    },
+    {
+      "exercise": "",
+      "example": "folder"
+    },
+    {
+      "exercise": "",
+      "example": "following"
+    },
+    {
+      "exercise": "",
+      "example": "foo"
+    },
+    {
+      "exercise": "",
+      "example": "for"
+    },
+    {
+      "exercise": "",
+      "example": "form"
+    },
+    {
+      "exercise": "",
+      "example": "format"
+    },
+    {
+      "exercise": "",
+      "example": "found"
+    },
+    {
+      "exercise": "",
+      "example": "framework"
+    },
+    {
+      "exercise": "",
+      "example": "frameworkService"
+    },
+    {
+      "exercise": "",
+      "example": "from"
+    },
+    {
+      "exercise": "",
+      "example": "fwkControl"
+    },
+    {
+      "exercise": "",
+      "example": "g"
+    },
+    {
+      "exercise": "",
+      "example": "geb"
+    },
+    {
+      "exercise": "",
+      "example": "gene"
+    },
+    {
+      "exercise": "",
+      "example": "generated"
+    },
+    {
+      "exercise": "",
+      "example": "geoscript"
+    },
+    {
+      "exercise": "",
+      "example": "get"
+    },
+    {
+      "exercise": "",
+      "example": "getInstance"
+    },
+    {
+      "exercise": "",
+      "example": "getName"
+    },
+    {
+      "exercise": "",
+      "example": "getTransient"
+    },
+    {
+      "exercise": "",
+      "example": "git"
+    },
+    {
+      "exercise": "",
+      "example": "github"
+    },
+    {
+      "exercise": "",
+      "example": "given"
+    },
+    {
+      "exercise": "",
+      "example": "global"
+    },
+    {
+      "exercise": "",
+      "example": "gmail"
+    },
+    {
+      "exercise": "",
+      "example": "google"
+    },
+    {
+      "exercise": "",
+      "example": "gradle"
+    },
+    {
+      "exercise": "",
+      "example": "grails"
+    },
+    {
+      "exercise": "",
+      "example": "grailsApplication"
+    },
+    {
+      "exercise": "",
+      "example": "griffon"
+    },
+    {
+      "exercise": "",
+      "example": "groovy"
+    },
+    {
+      "exercise": "",
+      "example": "groovyx"
+    },
+    {
+      "exercise": "",
+      "example": "group"
+    },
+    {
+      "exercise": "",
+      "example": "groupId"
+    },
+    {
+      "exercise": "",
+      "example": "hamcrest"
+    },
+    {
+      "exercise": "",
+      "example": "handler"
+    },
+    {
+      "exercise": "",
+      "example": "has"
+    },
+    {
+      "exercise": "",
+      "example": "hashCode"
+    },
+    {
+      "exercise": "",
+      "example": "have"
+    },
+    {
+      "exercise": "",
+      "example": "head"
+    },
+    {
+      "exercise": "",
+      "example": "header"
+    },
+    {
+      "exercise": "",
+      "example": "headers"
+    },
+    {
+      "exercise": "",
+      "example": "hearthsim"
+    },
+    {
+      "exercise": "",
+      "example": "helpers"
+    },
+    {
+      "exercise": "",
+      "example": "here"
+    },
+    {
+      "exercise": "",
+      "example": "hibernate"
+    },
+    {
+      "exercise": "",
+      "example": "hm"
+    },
+    {
+      "exercise": "",
+      "example": "host"
+    },
+    {
+      "exercise": "",
+      "example": "href"
+    },
+    {
+      "exercise": "",
+      "example": "html"
+    },
+    {
+      "exercise": "",
+      "example": "http"
+    },
+    {
+      "exercise": "",
+      "example": "https"
+    },
+    {
+      "exercise": "",
+      "example": "hudson"
+    },
+    {
+      "exercise": "",
+      "example": "i"
+    },
+    {
+      "exercise": "",
+      "example": "id"
+    },
+    {
+      "exercise": "",
+      "example": "if"
+    },
+    {
+      "exercise": "",
+      "example": "image"
+    },
+    {
+      "exercise": "",
+      "example": "impl"
+    },
+    {
+      "exercise": "",
+      "example": "import"
+    },
+    {
+      "exercise": "",
+      "example": "in"
+    },
+    {
+      "exercise": "",
+      "example": "include"
+    },
+    {
+      "exercise": "",
+      "example": "index"
+    },
+    {
+      "exercise": "",
+      "example": "inet6num"
+    },
+    {
+      "exercise": "",
+      "example": "inetnum"
+    },
+    {
+      "exercise": "",
+      "example": "info"
+    },
+    {
+      "exercise": "",
+      "example": "information"
+    },
+    {
+      "exercise": "",
+      "example": "inherits"
+    },
+    {
+      "exercise": "",
+      "example": "init"
+    },
+    {
+      "exercise": "",
+      "example": "initialize"
+    },
+    {
+      "exercise": "",
+      "example": "inject"
+    },
+    {
+      "exercise": "",
+      "example": "input"
+    },
+    {
+      "exercise": "",
+      "example": "instance"
+    },
+    {
+      "exercise": "",
+      "example": "instanceof"
+    },
+    {
+      "exercise": "",
+      "example": "instructions"
+    },
+    {
+      "exercise": "",
+      "example": "int"
+    },
+    {
+      "exercise": "",
+      "example": "integration"
+    },
+    {
+      "exercise": "",
+      "example": "intellij"
+    },
+    {
+      "exercise": "",
+      "example": "interface"
+    },
+    {
+      "exercise": "",
+      "example": "internal"
+    },
+    {
+      "exercise": "",
+      "example": "into"
+    },
+    {
+      "exercise": "",
+      "example": "invalid"
+    },
+    {
+      "exercise": "",
+      "example": "io"
+    },
+    {
+      "exercise": "",
+      "example": "is"
+    },
+    {
+      "exercise": "",
+      "example": "isDisplayed"
+    },
+    {
+      "exercise": "",
+      "example": "isPR"
+    },
+    {
+      "exercise": "",
+      "example": "it"
+    },
+    {
+      "exercise": "",
+      "example": "item"
+    },
+    {
+      "exercise": "",
+      "example": "items"
+    },
+    {
+      "exercise": "",
+      "example": "iteratec"
+    },
+    {
+      "exercise": "",
+      "example": "jackson"
+    },
+    {
+      "exercise": "",
+      "example": "jar"
+    },
+    {
+      "exercise": "",
+      "example": "java"
+    },
+    {
+      "exercise": "",
+      "example": "javaposse"
+    },
+    {
+      "exercise": "",
+      "example": "javax"
+    },
+    {
+      "exercise": "",
+      "example": "jbilling"
+    },
+    {
+      "exercise": "",
+      "example": "jdbc"
+    },
+    {
+      "exercise": "",
+      "example": "jenkins"
+    },
+    {
+      "exercise": "",
+      "example": "jenkinsci"
+    },
+    {
+      "exercise": "",
+      "example": "jetbrains"
+    },
+    {
+      "exercise": "",
+      "example": "job"
+    },
+    {
+      "exercise": "",
+      "example": "jobManagement"
+    },
+    {
+      "exercise": "",
+      "example": "jobName"
+    },
+    {
+      "exercise": "",
+      "example": "jobdsl"
+    },
+    {
+      "exercise": "",
+      "example": "jobs"
+    },
+    {
+      "exercise": "",
+      "example": "joda"
+    },
+    {
+      "exercise": "",
+      "example": "join"
+    },
+    {
+      "exercise": "",
+      "example": "js"
+    },
+    {
+      "exercise": "",
+      "example": "json"
+    },
+    {
+      "exercise": "",
+      "example": "junit"
+    },
+    {
+      "exercise": "",
+      "example": "key"
+    },
+    {
+      "exercise": "",
+      "example": "kuali"
+    },
+    {
+      "exercise": "",
+      "example": "label"
+    },
+    {
+      "exercise": "",
+      "example": "lang"
+    },
+    {
+      "exercise": "",
+      "example": "layer"
+    },
+    {
+      "exercise": "",
+      "example": "length"
+    },
+    {
+      "exercise": "",
+      "example": "level"
+    },
+    {
+      "exercise": "",
+      "example": "li"
+    },
+    {
+      "exercise": "",
+      "example": "line"
+    },
+    {
+      "exercise": "",
+      "example": "link"
+    },
+    {
+      "exercise": "",
+      "example": "linkedin"
+    },
+    {
+      "exercise": "",
+      "example": "lir"
+    },
+    {
+      "exercise": "",
+      "example": "list"
+    },
+    {
+      "exercise": "",
+      "example": "load"
+    },
+    {
+      "exercise": "",
+      "example": "location"
+    },
+    {
+      "exercise": "",
+      "example": "locations"
+    },
+    {
+      "exercise": "",
+      "example": "log"
+    },
+    {
+      "exercise": "",
+      "example": "log4j"
+    },
+    {
+      "exercise": "",
+      "example": "logger"
+    },
+    {
+      "exercise": "",
+      "example": "logging"
+    },
+    {
+      "exercise": "",
+      "example": "login"
+    },
+    {
+      "exercise": "",
+      "example": "long"
+    },
+    {
+      "exercise": "",
+      "example": "lookup"
+    },
+    {
+      "exercise": "",
+      "example": "lower"
+    },
+    {
+      "exercise": "",
+      "example": "m"
+    },
+    {
+      "exercise": "",
+      "example": "mail"
+    },
+    {
+      "exercise": "",
+      "example": "mailto"
+    },
+    {
+      "exercise": "",
+      "example": "main"
+    },
+    {
+      "exercise": "",
+      "example": "make"
+    },
+    {
+      "exercise": "",
+      "example": "manager"
+    },
+    {
+      "exercise": "",
+      "example": "map"
+    },
+    {
+      "exercise": "",
+      "example": "mapping"
+    },
+    {
+      "exercise": "",
+      "example": "maven"
+    },
+    {
+      "exercise": "",
+      "example": "mavenCentral"
+    },
+    {
+      "exercise": "",
+      "example": "mavenRepo"
+    },
+    {
+      "exercise": "",
+      "example": "max"
+    },
+    {
+      "exercise": "",
+      "example": "maxMemory"
+    },
+    {
+      "exercise": "",
+      "example": "maxPerm"
+    },
+    {
+      "exercise": "",
+      "example": "me"
+    },
+    {
+      "exercise": "",
+      "example": "merge"
+    },
+    {
+      "exercise": "",
+      "example": "message"
+    },
+    {
+      "exercise": "",
+      "example": "metadata"
+    },
+    {
+      "exercise": "",
+      "example": "method"
+    },
+    {
+      "exercise": "",
+      "example": "methods"
+    },
+    {
+      "exercise": "",
+      "example": "mime"
+    },
+    {
+      "exercise": "",
+      "example": "min"
+    },
+    {
+      "exercise": "",
+      "example": "minMemory"
+    },
+    {
+      "exercise": "",
+      "example": "mixin"
+    },
+    {
+      "exercise": "",
+      "example": "mnt"
+    },
+    {
+      "exercise": "",
+      "example": "mock"
+    },
+    {
+      "exercise": "",
+      "example": "mockJobManagement"
+    },
+    {
+      "exercise": "",
+      "example": "mode"
+    },
+    {
+      "exercise": "",
+      "example": "model"
+    },
+    {
+      "exercise": "",
+      "example": "module"
+    },
+    {
+      "exercise": "",
+      "example": "msg"
+    },
+    {
+      "exercise": "",
+      "example": "multipartForm"
+    },
+    {
+      "exercise": "",
+      "example": "multiple"
+    },
+    {
+      "exercise": "",
+      "example": "must"
+    },
+    {
+      "exercise": "",
+      "example": "my"
+    },
+    {
+      "exercise": "",
+      "example": "myFixture"
+    },
+    {
+      "exercise": "",
+      "example": "myParameterName"
+    },
+    {
+      "exercise": "",
+      "example": "mysql"
+    },
+    {
+      "exercise": "",
+      "example": "n"
+    },
+    {
+      "exercise": "",
+      "example": "name"
+    },
+    {
+      "exercise": "",
+      "example": "names"
+    },
+    {
+      "exercise": "",
+      "example": "namespace"
+    },
+    {
+      "exercise": "",
+      "example": "ncube"
+    },
+    {
+      "exercise": "",
+      "example": "net"
+    },
+    {
+      "exercise": "",
+      "example": "netflix"
+    },
+    {
+      "exercise": "",
+      "example": "netname"
+    },
+    {
+      "exercise": "",
+      "example": "new"
+    },
+    {
+      "exercise": "",
+      "example": "newInstance"
+    },
+    {
+      "exercise": "",
+      "example": "newJob"
+    },
+    {
+      "exercise": "",
+      "example": "next"
+    },
+    {
+      "exercise": "",
+      "example": "nextflow"
+    },
+    {
+      "exercise": "",
+      "example": "nio"
+    },
+    {
+      "exercise": "",
+      "example": "no"
+    },
+    {
+      "exercise": "",
+      "example": "node"
+    },
+    {
+      "exercise": "",
+      "example": "nodes"
+    },
+    {
+      "exercise": "",
+      "example": "none"
+    },
+    {
+      "exercise": "",
+      "example": "not"
+    },
+    {
+      "exercise": "",
+      "example": "notFound"
+    },
+    {
+      "exercise": "",
+      "example": "now"
+    },
+    {
+      "exercise": "",
+      "example": "npassword"
+    },
+    {
+      "exercise": "",
+      "example": "nrFound"
+    },
+    {
+      "exercise": "",
+      "example": "null"
+    },
+    {
+      "exercise": "",
+      "example": "nullable"
+    },
+    {
+      "exercise": "",
+      "example": "num"
+    },
+    {
+      "exercise": "",
+      "example": "number"
+    },
+    {
+      "exercise": "",
+      "example": "o"
+    },
+    {
+      "exercise": "",
+      "example": "obj"
+    },
+    {
+      "exercise": "",
+      "example": "object"
+    },
+    {
+      "exercise": "",
+      "example": "of"
+    },
+    {
+      "exercise": "",
+      "example": "off"
+    },
+    {
+      "exercise": "",
+      "example": "offset"
+    },
+    {
+      "exercise": "",
+      "example": "on"
+    },
+    {
+      "exercise": "",
+      "example": "one"
+    },
+    {
+      "exercise": "",
+      "example": "only"
+    },
+    {
+      "exercise": "",
+      "example": "openapi"
+    },
+    {
+      "exercise": "",
+      "example": "openqa"
+    },
+    {
+      "exercise": "",
+      "example": "operation"
+    },
+    {
+      "exercise": "",
+      "example": "optional"
+    },
+    {
+      "exercise": "",
+      "example": "options"
+    },
+    {
+      "exercise": "",
+      "example": "or"
+    },
+    {
+      "exercise": "",
+      "example": "orca"
+    },
+    {
+      "exercise": "",
+      "example": "order"
+    },
+    {
+      "exercise": "",
+      "example": "org"
+    },
+    {
+      "exercise": "",
+      "example": "os"
+    },
+    {
+      "exercise": "",
+      "example": "osm"
+    },
+    {
+      "exercise": "",
+      "example": "other"
+    },
+    {
+      "exercise": "",
+      "example": "out"
+    },
+    {
+      "exercise": "",
+      "example": "output"
+    },
+    {
+      "exercise": "",
+      "example": "overview"
+    },
+    {
+      "exercise": "",
+      "example": "owner"
+    },
+    {
+      "exercise": "",
+      "example": "owner3"
+    },
+    {
+      "exercise": "",
+      "example": "p"
+    },
+    {
+      "exercise": "",
+      "example": "package"
+    },
+    {
+      "exercise": "",
+      "example": "page"
+    },
+    {
+      "exercise": "",
+      "example": "pages"
+    },
+    {
+      "exercise": "",
+      "example": "param"
+    },
+    {
+      "exercise": "",
+      "example": "parameter"
+    },
+    {
+      "exercise": "",
+      "example": "parameters"
+    },
+    {
+      "exercise": "",
+      "example": "params"
+    },
+    {
+      "exercise": "",
+      "example": "parent"
+    },
+    {
+      "exercise": "",
+      "example": "parse"
+    },
+    {
+      "exercise": "",
+      "example": "part"
+    },
+    {
+      "exercise": "",
+      "example": "passed"
+    },
+    {
+      "exercise": "",
+      "example": "password"
+    },
+    {
+      "exercise": "",
+      "example": "path"
+    },
+    {
+      "exercise": "",
+      "example": "pattern"
+    },
+    {
+      "exercise": "",
+      "example": "persistence"
+    },
+    {
+      "exercise": "",
+      "example": "person"
+    },
+    {
+      "exercise": "",
+      "example": "pillarone"
+    },
+    {
+      "exercise": "",
+      "example": "pipeline"
+    },
+    {
+      "exercise": "",
+      "example": "plot"
+    },
+    {
+      "exercise": "",
+      "example": "plugin"
+    },
+    {
+      "exercise": "",
+      "example": "plugins"
+    },
+    {
+      "exercise": "",
+      "example": "populateValidParams"
+    },
+    {
+      "exercise": "",
+      "example": "port"
+    },
+    {
+      "exercise": "",
+      "example": "post"
+    },
+    {
+      "exercise": "",
+      "example": "pre"
+    },
+    {
+      "exercise": "",
+      "example": "print"
+    },
+    {
+      "exercise": "",
+      "example": "printStackTrace"
+    },
+    {
+      "exercise": "",
+      "example": "println"
+    },
+    {
+      "exercise": "",
+      "example": "private"
+    },
+    {
+      "exercise": "",
+      "example": "process"
+    },
+    {
+      "exercise": "",
+      "example": "profile"
+    },
+    {
+      "exercise": "",
+      "example": "project"
+    },
+    {
+      "exercise": "",
+      "example": "prop"
+    },
+    {
+      "exercise": "",
+      "example": "properties"
+    },
+    {
+      "exercise": "",
+      "example": "property"
+    },
+    {
+      "exercise": "",
+      "example": "propertyName"
+    },
+    {
+      "exercise": "",
+      "example": "props"
+    },
+    {
+      "exercise": "",
+      "example": "protected"
+    },
+    {
+      "exercise": "",
+      "example": "provided"
+    },
+    {
+      "exercise": "",
+      "example": "provider"
+    },
+    {
+      "exercise": "",
+      "example": "psi"
+    },
+    {
+      "exercise": "",
+      "example": "public"
+    },
+    {
+      "exercise": "",
+      "example": "publish"
+    },
+    {
+      "exercise": "",
+      "example": "publisherNode"
+    },
+    {
+      "exercise": "",
+      "example": "publisherNodes"
+    },
+    {
+      "exercise": "",
+      "example": "put"
+    },
+    {
+      "exercise": "",
+      "example": "pw"
+    },
+    {
+      "exercise": "",
+      "example": "query"
+    },
+    {
+      "exercise": "",
+      "example": "queryObject"
+    },
+    {
+      "exercise": "",
+      "example": "queryObjectNotFound"
+    },
+    {
+      "exercise": "",
+      "example": "r"
+    },
+    {
+      "exercise": "",
+      "example": "rGBT"
+    },
+    {
+      "exercise": "",
+      "example": "read"
+    },
+    {
+      "exercise": "",
+      "example": "redirect"
+    },
+    {
+      "exercise": "",
+      "example": "ref"
+    },
+    {
+      "exercise": "",
+      "example": "reference"
+    },
+    {
+      "exercise": "",
+      "example": "reflect"
+    },
+    {
+      "exercise": "",
+      "example": "refresh"
+    },
+    {
+      "exercise": "",
+      "example": "regex"
+    },
+    {
+      "exercise": "",
+      "example": "region"
+    },
+    {
+      "exercise": "",
+      "example": "release"
+    },
+    {
+      "exercise": "",
+      "example": "remote"
+    },
+    {
+      "exercise": "",
+      "example": "remove"
+    },
+    {
+      "exercise": "",
+      "example": "render"
+    },
+    {
+      "exercise": "",
+      "example": "repo"
+    },
+    {
+      "exercise": "",
+      "example": "report"
+    },
+    {
+      "exercise": "",
+      "example": "reports"
+    },
+    {
+      "exercise": "",
+      "example": "repositories"
+    },
+    {
+      "exercise": "",
+      "example": "repository"
+    },
+    {
+      "exercise": "",
+      "example": "request"
+    },
+    {
+      "exercise": "",
+      "example": "requireMinimumPluginVersion"
+    },
+    {
+      "exercise": "",
+      "example": "requirePlugin"
+    },
+    {
+      "exercise": "",
+      "example": "required"
+    },
+    {
+      "exercise": "",
+      "example": "res"
+    },
+    {
+      "exercise": "",
+      "example": "reset"
+    },
+    {
+      "exercise": "",
+      "example": "resolution"
+    },
+    {
+      "exercise": "",
+      "example": "resolve"
+    },
+    {
+      "exercise": "",
+      "example": "resolved"
+    },
+    {
+      "exercise": "",
+      "example": "resolver"
+    },
+    {
+      "exercise": "",
+      "example": "resource"
+    },
+    {
+      "exercise": "",
+      "example": "resources"
+    },
+    {
+      "exercise": "",
+      "example": "resp"
+    },
+    {
+      "exercise": "",
+      "example": "response"
+    },
+    {
+      "exercise": "",
+      "example": "rest"
+    },
+    {
+      "exercise": "",
+      "example": "result"
+    },
+    {
+      "exercise": "",
+      "example": "results"
+    },
+    {
+      "exercise": "",
+      "example": "ret"
+    },
+    {
+      "exercise": "",
+      "example": "return"
+    },
+    {
+      "exercise": "",
+      "example": "returned"
+    },
+    {
+      "exercise": "",
+      "example": "returns"
+    },
+    {
+      "exercise": "",
+      "example": "rice"
+    },
+    {
+      "exercise": "",
+      "example": "ripe"
+    },
+    {
+      "exercise": "",
+      "example": "riskanalytics"
+    },
+    {
+      "exercise": "",
+      "example": "role"
+    },
+    {
+      "exercise": "",
+      "example": "root"
+    },
+    {
+      "exercise": "",
+      "example": "route"
+    },
+    {
+      "exercise": "",
+      "example": "row"
+    },
+    {
+      "exercise": "",
+      "example": "rs"
+    },
+    {
+      "exercise": "",
+      "example": "rule"
+    },
+    {
+      "exercise": "",
+      "example": "rules"
+    },
+    {
+      "exercise": "",
+      "example": "rulesets"
+    },
+    {
+      "exercise": "",
+      "example": "run"
+    },
+    {
+      "exercise": "",
+      "example": "rundeck"
+    },
+    {
+      "exercise": "",
+      "example": "runner"
+    },
+    {
+      "exercise": "",
+      "example": "runtime"
+    },
+    {
+      "exercise": "",
+      "example": "s"
+    },
+    {
+      "exercise": "",
+      "example": "s3"
+    },
+    {
+      "exercise": "",
+      "example": "save"
+    },
+    {
+      "exercise": "",
+      "example": "sb"
+    },
+    {
+      "exercise": "",
+      "example": "scenario"
+    },
+    {
+      "exercise": "",
+      "example": "scheduledExecution"
+    },
+    {
+      "exercise": "",
+      "example": "schema"
+    },
+    {
+      "exercise": "",
+      "example": "scm"
+    },
+    {
+      "exercise": "",
+      "example": "scmNodes"
+    },
+    {
+      "exercise": "",
+      "example": "script"
+    },
+    {
+      "exercise": "",
+      "example": "scripts"
+    },
+    {
+      "exercise": "",
+      "example": "se"
+    },
+    {
+      "exercise": "",
+      "example": "search"
+    },
+    {
+      "exercise": "",
+      "example": "sec"
+    },
+    {
+      "exercise": "",
+      "example": "section"
+    },
+    {
+      "exercise": "",
+      "example": "security"
+    },
+    {
+      "exercise": "",
+      "example": "see"
+    },
+    {
+      "exercise": "",
+      "example": "select"
+    },
+    {
+      "exercise": "",
+      "example": "selenium"
+    },
+    {
+      "exercise": "",
+      "example": "send"
+    },
+    {
+      "exercise": "",
+      "example": "sequence"
+    },
+    {
+      "exercise": "",
+      "example": "server"
+    },
+    {
+      "exercise": "",
+      "example": "service"
+    },
+    {
+      "exercise": "",
+      "example": "services"
+    },
+    {
+      "exercise": "",
+      "example": "servlet"
+    },
+    {
+      "exercise": "",
+      "example": "session"
+    },
+    {
+      "exercise": "",
+      "example": "set"
+    },
+    {
+      "exercise": "",
+      "example": "setUp"
+    },
+    {
+      "exercise": "",
+      "example": "settings"
+    },
+    {
+      "exercise": "",
+      "example": "setup"
+    },
+    {
+      "exercise": "",
+      "example": "sh"
+    },
+    {
+      "exercise": "",
+      "example": "shell"
+    },
+    {
+      "exercise": "",
+      "example": "should"
+    },
+    {
+      "exercise": "",
+      "example": "shouldFail"
+    },
+    {
+      "exercise": "",
+      "example": "show"
+    },
+    {
+      "exercise": "",
+      "example": "since"
+    },
+    {
+      "exercise": "",
+      "example": "size"
+    },
+    {
+      "exercise": "",
+      "example": "sleep"
+    },
+    {
+      "exercise": "",
+      "example": "slf4j"
+    },
+    {
+      "exercise": "",
+      "example": "smarthome"
+    },
+    {
+      "exercise": "",
+      "example": "so"
+    },
+    {
+      "exercise": "",
+      "example": "some"
+    },
+    {
+      "exercise": "",
+      "example": "something"
+    },
+    {
+      "exercise": "",
+      "example": "sort"
+    },
+    {
+      "exercise": "",
+      "example": "source"
+    },
+    {
+      "exercise": "",
+      "example": "spec"
+    },
+    {
+      "exercise": "",
+      "example": "spinnaker"
+    },
+    {
+      "exercise": "",
+      "example": "split"
+    },
+    {
+      "exercise": "",
+      "example": "spock"
+    },
+    {
+      "exercise": "",
+      "example": "spring"
+    },
+    {
+      "exercise": "",
+      "example": "springSecurityService"
+    },
+    {
+      "exercise": "",
+      "example": "springfox"
+    },
+    {
+      "exercise": "",
+      "example": "springframework"
+    },
+    {
+      "exercise": "",
+      "example": "springsecurity"
+    },
+    {
+      "exercise": "",
+      "example": "sql"
+    },
+    {
+      "exercise": "",
+      "example": "sqlt"
+    },
+    {
+      "exercise": "",
+      "example": "src"
+    },
+    {
+      "exercise": "",
+      "example": "st"
+    },
+    {
+      "exercise": "",
+      "example": "stage"
+    },
+    {
+      "exercise": "",
+      "example": "start"
+    },
+    {
+      "exercise": "",
+      "example": "state"
+    },
+    {
+      "exercise": "",
+      "example": "static"
+    },
+    {
+      "exercise": "",
+      "example": "status"
+    },
+    {
+      "exercise": "",
+      "example": "step"
+    },
+    {
+      "exercise": "",
+      "example": "stepNodes"
+    },
+    {
+      "exercise": "",
+      "example": "steps"
+    },
+    {
+      "exercise": "",
+      "example": "stereotype"
+    },
+    {
+      "exercise": "",
+      "example": "stop"
+    },
+    {
+      "exercise": "",
+      "example": "string"
+    },
+    {
+      "exercise": "",
+      "example": "stripIndent"
+    },
+    {
+      "exercise": "",
+      "example": "subject"
+    },
+    {
+      "exercise": "",
+      "example": "success"
+    },
+    {
+      "exercise": "",
+      "example": "summary"
+    },
+    {
+      "exercise": "",
+      "example": "super"
+    },
+    {
+      "exercise": "",
+      "example": "support"
+    },
+    {
+      "exercise": "",
+      "example": "swing"
+    },
+    {
+      "exercise": "",
+      "example": "switch"
+    },
+    {
+      "exercise": "",
+      "example": "syncUpdate"
+    },
+    {
+      "exercise": "",
+      "example": "t"
+    },
+    {
+      "exercise": "",
+      "example": "table"
+    },
+    {
+      "exercise": "",
+      "example": "tag"
+    },
+    {
+      "exercise": "",
+      "example": "tags"
+    },
+    {
+      "exercise": "",
+      "example": "target"
+    },
+    {
+      "exercise": "",
+      "example": "task"
+    },
+    {
+      "exercise": "",
+      "example": "tasks"
+    },
+    {
+      "exercise": "",
+      "example": "td"
+    },
+    {
+      "exercise": "",
+      "example": "tearDown"
+    },
+    {
+      "exercise": "",
+      "example": "tech"
+    },
+    {
+      "exercise": "",
+      "example": "template"
+    },
+    {
+      "exercise": "",
+      "example": "tenantId"
+    },
+    {
+      "exercise": "",
+      "example": "test"
+    },
+    {
+      "exercise": "",
+      "example": "testHighlighting"
+    },
+    {
+      "exercise": "",
+      "example": "testSomething"
+    },
+    {
+      "exercise": "",
+      "example": "tests"
+    },
+    {
+      "exercise": "",
+      "example": "text"
+    },
+    {
+      "exercise": "",
+      "example": "that"
+    },
+    {
+      "exercise": "",
+      "example": "the"
+    },
+    {
+      "exercise": "",
+      "example": "then"
+    },
+    {
+      "exercise": "",
+      "example": "these"
+    },
+    {
+      "exercise": "",
+      "example": "thing"
+    },
+    {
+      "exercise": "",
+      "example": "this"
+    },
+    {
+      "exercise": "",
+      "example": "throw"
+    },
+    {
+      "exercise": "",
+      "example": "thrown"
+    },
+    {
+      "exercise": "",
+      "example": "throws"
+    },
+    {
+      "exercise": "",
+      "example": "time"
+    },
+    {
+      "exercise": "",
+      "example": "timestamp"
+    },
+    {
+      "exercise": "",
+      "example": "title"
+    },
+    {
+      "exercise": "",
+      "example": "to"
+    },
+    {
+      "exercise": "",
+      "example": "toLowerCase"
+    },
+    {
+      "exercise": "",
+      "example": "toString"
+    },
+    {
+      "exercise": "",
+      "example": "token"
+    },
+    {
+      "exercise": "",
+      "example": "tools"
+    },
+    {
+      "exercise": "",
+      "example": "tr"
+    },
+    {
+      "exercise": "",
+      "example": "trace"
+    },
+    {
+      "exercise": "",
+      "example": "transaction"
+    },
+    {
+      "exercise": "",
+      "example": "transform"
+    },
+    {
+      "exercise": "",
+      "example": "transmart"
+    },
+    {
+      "exercise": "",
+      "example": "transmartproject"
+    },
+    {
+      "exercise": "",
+      "example": "trigger"
+    },
+    {
+      "exercise": "",
+      "example": "triggers"
+    },
+    {
+      "exercise": "",
+      "example": "trim"
+    },
+    {
+      "exercise": "",
+      "example": "true"
+    },
+    {
+      "exercise": "",
+      "example": "try"
+    },
+    {
+      "exercise": "",
+      "example": "txt"
+    },
+    {
+      "exercise": "",
+      "example": "type"
+    },
+    {
+      "exercise": "",
+      "example": "types"
+    },
+    {
+      "exercise": "",
+      "example": "ui"
+    },
+    {
+      "exercise": "",
+      "example": "ul"
+    },
+    {
+      "exercise": "",
+      "example": "uncomment"
+    },
+    {
+      "exercise": "",
+      "example": "up"
+    },
+    {
+      "exercise": "",
+      "example": "update"
+    },
+    {
+      "exercise": "",
+      "example": "updated"
+    },
+    {
+      "exercise": "",
+      "example": "uri"
+    },
+    {
+      "exercise": "",
+      "example": "url"
+    },
+    {
+      "exercise": "",
+      "example": "usage"
+    },
+    {
+      "exercise": "",
+      "example": "use"
+    },
+    {
+      "exercise": "",
+      "example": "used"
+    },
+    {
+      "exercise": "",
+      "example": "user"
+    },
+    {
+      "exercise": "",
+      "example": "userId"
+    },
+    {
+      "exercise": "",
+      "example": "userInstance"
+    },
+    {
+      "exercise": "",
+      "example": "username"
+    },
+    {
+      "exercise": "",
+      "example": "util"
+    },
+    {
+      "exercise": "",
+      "example": "utils"
+    },
+    {
+      "exercise": "",
+      "example": "v"
+    },
+    {
+      "exercise": "",
+      "example": "val"
+    },
+    {
+      "exercise": "",
+      "example": "valid"
+    },
+    {
+      "exercise": "",
+      "example": "validate"
+    },
+    {
+      "exercise": "",
+      "example": "validation"
+    },
+    {
+      "exercise": "",
+      "example": "value"
+    },
+    {
+      "exercise": "",
+      "example": "values"
+    },
+    {
+      "exercise": "",
+      "example": "verbose"
+    },
+    {
+      "exercise": "",
+      "example": "verify"
+    },
+    {
+      "exercise": "",
+      "example": "version"
+    },
+    {
+      "exercise": "",
+      "example": "vertx"
+    },
+    {
+      "exercise": "",
+      "example": "view"
+    },
+    {
+      "exercise": "",
+      "example": "views"
+    },
+    {
+      "exercise": "",
+      "example": "void"
+    },
+    {
+      "exercise": "",
+      "example": "waitFor"
+    },
+    {
+      "exercise": "",
+      "example": "waitTime"
+    },
+    {
+      "exercise": "",
+      "example": "war"
+    },
+    {
+      "exercise": "",
+      "example": "warn"
+    },
+    {
+      "exercise": "",
+      "example": "was"
+    },
+    {
+      "exercise": "",
+      "example": "we"
+    },
+    {
+      "exercise": "",
+      "example": "web"
+    },
+    {
+      "exercise": "",
+      "example": "when"
+    },
+    {
+      "exercise": "",
+      "example": "where"
+    },
+    {
+      "exercise": "",
+      "example": "which"
+    },
+    {
+      "exercise": "",
+      "example": "while"
+    },
+    {
+      "exercise": "",
+      "example": "width"
+    },
+    {
+      "exercise": "",
+      "example": "will"
+    },
+    {
+      "exercise": "",
+      "example": "with"
+    },
+    {
+      "exercise": "",
+      "example": "withFormat"
+    },
+    {
+      "exercise": "",
+      "example": "without"
+    },
+    {
+      "exercise": "",
+      "example": "work"
+    },
+    {
+      "exercise": "",
+      "example": "workflow"
+    },
+    {
+      "exercise": "",
+      "example": "write"
+    },
+    {
+      "exercise": "",
+      "example": "writer"
+    },
+    {
+      "exercise": "",
+      "example": "ws"
+    },
+    {
+      "exercise": "",
+      "example": "www"
+    },
+    {
+      "exercise": "",
+      "example": "x"
+    },
+    {
+      "exercise": "",
+      "example": "x64"
+    },
+    {
+      "exercise": "",
+      "example": "xml"
+    },
+    {
+      "exercise": "",
+      "example": "y"
+    },
+    {
+      "exercise": "",
+      "example": "you"
+    },
+    {
+      "exercise": "",
+      "example": "zwave"
+    }
+  ]
+}

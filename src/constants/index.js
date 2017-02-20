@@ -1,40 +1,190 @@
 export const CODE_THEME = 'material'
-
-export const CODE_MIRROR_MODES = [
-  'javascript',
-  'html',
-  'htmlmixed',
-  'css'
-]
-export const TRAINING_LEVELS = [
-  'advanced',
-  'beginner',
-  'expert'
-]
+import { pluck } from 'ramda'
 
 export const TRAININGS = [
   {
-    id: 't1',
-    name: 'Java Script Training',
-    mode: 'javascript',
-    level: 'beginner',
-    logo: 'images/languages/javascript.png'
+    id: 'debug',
+    name: 'Debug',
+    mode: 'javascript'
   },
   {
-    id: 't2',
-    name: 'HTML Training',
-    mode: 'html',
-    level: 'beginner',
-    logo: 'images/languages/html.png'
+    id: 'reactjs-beginner',
+    name: 'React.js',
+    mode: 'javascript'
   },
   {
-    id: 't3',
-    name: 'CSS Training',
-    mode: 'css',
-    level: 'beginner',
-    logo: 'images/languages/css.png'
+    id: 'html-beginner',
+    name: 'HTML',
+    mode: 'html'
+  },
+  {
+    id: 'css-beginner',
+    name: 'CSS',
+    mode: 'css'
+  },
+  {
+    id: 'top-1000-popular-clj-words',
+    name: 'Top 1000 popular clj words',
+    mode: 'clj'
+  },
+  {
+    id: 'top-1000-popular-cmake-words',
+    name: 'Top 1000 popular cmake words',
+    mode: 'cmake'
+  },
+  {
+    id: 'top-1000-popular-cpp-words',
+    name: 'Top 1000 popular cpp words',
+    mode: 'cpp'
+  },
+  {
+    id: 'top-1000-popular-cs-words',
+    name: 'Top 1000 popular cs words',
+    mode: 'cs'
+  },
+  {
+    id: 'top-1000-popular-css-words',
+    name: 'Top 1000 popular css words',
+    mode: 'css'
+  },
+  {
+    id: 'top-1000-popular-elm-words',
+    name: 'Top 1000 popular elm words',
+    mode: 'elm'
+  },
+  {
+    id: 'top-1000-popular-erl-words',
+    name: 'Top 1000 popular erl words',
+    mode: 'erl'
+  },
+  {
+    id: 'top-1000-popular-ex-words',
+    name: 'Top 1000 popular ex words',
+    mode: 'ex'
+  },
+  {
+    id: 'top-1000-popular-fs-words',
+    name: 'Top 1000 popular fs words',
+    mode: 'fs'
+  },
+  {
+    id: 'top-1000-popular-go-words',
+    name: 'Top 1000 popular go words',
+    mode: 'go'
+  },
+  {
+    id: 'top-1000-popular-groovy-words',
+    name: 'Top 1000 popular groovy words',
+    mode: 'groovy'
+  },
+  {
+    id: 'top-1000-popular-hs-words',
+    name: 'Top 1000 popular hs words',
+    mode: 'hs'
+  },
+  {
+    id: 'top-1000-popular-html-words',
+    name: 'Top 1000 popular html words',
+    mode: 'html'
+  },
+  {
+    id: 'top-1000-popular-java-words',
+    name: 'Top 1000 popular java words',
+    mode: 'java'
+  },
+  {
+    id: 'top-1000-popular-js-words',
+    name: 'Top 1000 popular js words',
+    mode: 'js'
+  },
+  {
+    id: 'top-1000-popular-jsx-words',
+    name: 'Top 1000 popular jsx words',
+    mode: 'jsx'
+  },
+  {
+    id: 'top-1000-popular-kt-words',
+    name: 'Top 1000 popular kt words',
+    mode: 'kt'
+  },
+  {
+    id: 'top-1000-popular-lisp-words',
+    name: 'Top 1000 popular lisp words',
+    mode: 'lisp'
+  },
+  {
+    id: 'top-1000-popular-lua-words',
+    name: 'Top 1000 popular lua words',
+    mode: 'lua'
+  },
+  {
+    id: 'top-1000-popular-objc-words',
+    name: 'Top 1000 popular objc words',
+    mode: 'objc'
+  },
+  {
+    id: 'top-1000-popular-pas-words',
+    name: 'Top 1000 popular pas words',
+    mode: 'pas'
+  },
+  {
+    id: 'top-1000-popular-php-words',
+    name: 'Top 1000 popular php words',
+    mode: 'php'
+  },
+  {
+    id: 'top-1000-popular-pl-words',
+    name: 'Top 1000 popular pl words',
+    mode: 'pl'
+  },
+  {
+    id: 'top-1000-popular-purs-words',
+    name: 'Top 1000 popular purs words',
+    mode: 'purs'
+  },
+  {
+    id: 'top-1000-popular-py-words',
+    name: 'Top 1000 popular py words',
+    mode: 'py'
+  },
+  {
+    id: 'top-1000-popular-r-words',
+    name: 'Top 1000 popular r words',
+    mode: 'r'
+  },
+  {
+    id: 'top-1000-popular-rb-words',
+    name: 'Top 1000 popular rb words',
+    mode: 'rb'
+  },
+  {
+    id: 'top-1000-popular-rs-words',
+    name: 'Top 1000 popular rs words',
+    mode: 'rs'
+  },
+  {
+    id: 'top-1000-popular-scala-words',
+    name: 'Top 1000 popular scala words',
+    mode: 'scala'
+  },
+  {
+    id: 'top-1000-popular-sql-words',
+    name: 'Top 1000 popular sql words',
+    mode: 'sql'
+  },
+  {
+    id: 'top-1000-popular-swift-words',
+    name: 'Top 1000 popular swift words',
+    mode: 'swift'
+  },
+  {
+    id: 'top-1000-popular-vim-words',
+    name: 'Top 1000 popular vim words',
+    mode: 'vim'
   }
 ]
+
+export const TRAININGS_MODES = pluck('mode', TRAININGS)
 
 /** Redux Action Types */
 

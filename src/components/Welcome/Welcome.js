@@ -10,10 +10,10 @@ const Welcome = (props) => {
   const classes = classNames(
     'Welcome'
   )
-  const fetchTraining = (id, mode, level) => {
+  const fetchTraining = (id) => {
     const notFetched = findIndex(propEq('id', id), props.trainings) === -1
     if (notFetched) {
-      props.fetchTraining(mode, level)
+      props.fetchTraining(id)
     }
   }
   return (
@@ -23,9 +23,9 @@ const Welcome = (props) => {
         <h2>{TEXT.Welcome.subtitle}</h2>
 
         <div className='trainings-list'>
-          {TRAININGS.map(({ id, mode, level, name, logo }) => (
-            <Link key={id} to={`/${mode}/${level}`} title={name} onClick={() => fetchTraining(id, mode, level)}>
-              <img src={logo} alt={name} />
+          {TRAININGS.map(({ id, name, logo, lessons }) => (
+            <Link key={id} to={`/${id}`} title={name} onClick={() => fetchTraining(id)}>
+              {name}
             </Link>
           ))}
         </div>

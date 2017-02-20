@@ -5,7 +5,8 @@ import {
   UPDATE_EDITOR_CODE,
   INCREMENT_MISTAKES,
   SET_ENTITIES,
-  START_TRAINING
+  // START_TRAINING,
+  START_LESSON
   // COMPLETE_TRAINING
 } from '../constants'
 import { append } from 'ramda'
@@ -79,7 +80,7 @@ export default combineReducers({
           }
         }
       },
-      [START_TRAINING]: (state, action) => {
+      [START_LESSON]: (state, action) => {
         const lesson = state[action.payload.lessonId]
         return {
           ...state,

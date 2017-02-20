@@ -1,28 +1,41 @@
 import pluck from 'ramda/src/pluck'
 
 import {
-  CREATE_TRAINING,
-  CREATE_TRAINING_SUCCESS,
-  CREATE_TRAINING_FAILED,
-  UPDATE_TRAINING_FORM,
-  SET_ENTITIES,
-  INCREMENT_MISTAKES,
   COMPLETE_LESSON,
-  FETCH_TRAINIG,
-  FETCH_TRAINIG_SUCCESS,
-  FETCH_TRAINIG_FAILED,
-  UPDATE_EDITOR_CODE,
   COMPLETE_TRAINING,
-  START_TRAINING
+  CREATE_TRAINING,
+  CREATE_TRAINING_FAILED,
+  CREATE_TRAINING_SUCCESS,
+  FETCH_TRAINIG,
+  FETCH_TRAINIG_FAILED,
+  FETCH_TRAINIG_SUCCESS,
+  INCREMENT_MISTAKES,
+  SET_ENTITIES,
+  START_LESSON,
+  START_TRAINING,
+  UPDATE_EDITOR_CODE,
+  UPDATE_TRAINING_FORM
 } from '../constants'
+
+import {
+  trackEvent
+  // setPage,
+  // trackPageView
+} from '../utils'
 
 export function updateEditorCode (lessonId, code) {
   return (dispatch, getState, services) => {
     const { statedAt, example, trainingId } = getState().entitites.lessons.byId[lessonId]
     const training = getState().entitites.trainings.byId[trainingId]
 
+    if (!statedAt && training.lessonsCompleted.length === 0) {
+      dispatch({ type: START_TRAINING, payload: { trainingId } })
+      trackEvent({ eventCategory: `Training`, eventAction: 'Start training', eventLabel: trainingId })
+    }
+
     if (!statedAt) {
-      dispatch({ type: START_TRAINING, payload: { lessonId, trainingId } })
+      dispatch({ type: START_LESSON, payload: { lessonId, trainingId } })
+      trackEvent({ eventCategory: `Lesson`, eventAction: 'Start lesson', eventLabel: lessonId })
     }
 
     dispatch({ type: UPDATE_EDITOR_CODE, payload: { lessonId, code } })
@@ -33,21 +46,24 @@ export function updateEditorCode (lessonId, code) {
 
     if (example === code) {
       dispatch({ type: COMPLETE_LESSON, payload: { lessonId, trainingId } })
+      trackEvent({ eventCategory: `Lesson`, eventAction: 'Complete lesson', eventLabel: lessonId })
 
       if (training.lessons.length - 1 === training.lessonsCompleted.length) {
         dispatch({ type: COMPLETE_TRAINING, payload: { lessonId, trainingId } })
+        trackEvent({ eventCategory: `Training`, eventAction: 'Complete training', eventLabel: trainingId })
       }
     }
   }
 }
 
-export function fetchTraining (mode, level) {
+export function fetchTraining (trainingId) {
   return (dispatch, getState, services) => {
-    dispatch({ type: FETCH_TRAINIG, payload: { mode, level } })
+    dispatch({ type: FETCH_TRAINIG, payload: { trainingId } })
+    trackEvent({ eventCategory: `Training`, eventAction: 'Fetch training', eventLabel: trainingId })
 
-    services.training.fetch(mode, level).then(
+    services.training.fetch(trainingId).then(
       training => {
-        dispatch({ type: SET_ENTITIES, payload: getTrainingEntities(training) })
+        dispatch({ type: SET_ENTITIES, payload: getTrainingEntities(training, trainingId) })
         dispatch({ type: FETCH_TRAINIG_SUCCESS, payload: training })
       },
       error => {
@@ -64,9 +80,9 @@ export function fetchTraining (mode, level) {
  *
  * @return {Object}          Возвращает объект entities: { ... }
  */
-function getTrainingEntities (training) {
+function getTrainingEntities (training, trainingId) {
   const {
-    id,
+    // id,
     name,
     mode,
     level,
@@ -74,47 +90,38 @@ function getTrainingEntities (training) {
   } = training
 
   const lessons = training.lessons.map((lesson, i) => {
-    lesson.id = 'lesson' + i
+    lesson.id = `${trainingId}#${i}`
     return lesson
   })
-
-  const trainingSlug = `${mode}/${level}`
 
   return {
     trainings: {
       byId: {
-        [id]: {
-          id,
+        [trainingId]: {
+          id: trainingId,
           name,
-          slug: trainingSlug,
           mode,
           level,
           logo,
           lessons: pluck('id', lessons),
           lessonsCompleted: []
         }
-      },
-      bySlug: {
-        [trainingSlug]: id
       }
     },
     lessons: lessons.reduce((lessons, lesson) => {
-      const lessonSlug = `${trainingSlug}/${lesson.id}`
       lessons.byId[lesson.id] = {
         id: lesson.id,
-        slug: lessonSlug,
         editor: '',
         example: lesson.example,
         exercise: lesson.exercise,
-        trainingId: id,
+        trainingId: trainingId,
         finishedAt: null,
         statedAt: null,
         keystrokes: 0,
         mistakes: 0
       }
-      lessons.bySlug[lessonSlug] = lesson.id
       return lessons
-    }, { byId: {}, bySlug: {} })
+    }, { byId: {} })
   }
 }
 

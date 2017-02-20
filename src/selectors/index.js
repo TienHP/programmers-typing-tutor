@@ -1,18 +1,8 @@
 import { values } from 'ramda'
 
 export const getTraining = (state, props) => {
-  const {
-    mode,
-    level
-  } = props.params
-
-  const {
-    bySlug,
-    byId
-  } = state.entitites.trainings
-
-  const slug = `${mode}/${level}`
-  const id = bySlug[slug]
+  const { id } = props.params
+  const { byId } = state.entitites.trainings
   return byId[id]
 }
 

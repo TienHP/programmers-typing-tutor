@@ -1,0 +1,3909 @@
+{
+  "id": "popular-go-words",
+  "name": "Popular go words training",
+  "mode": "go",
+  "level": "beginner",
+  "logo": "images/languages/go.png",
+  "lessons": [
+    {
+      "exercise": "",
+      "example": "0x00"
+    },
+    {
+      "exercise": "",
+      "example": "0x7F"
+    },
+    {
+      "exercise": "",
+      "example": "0x80"
+    },
+    {
+      "exercise": "",
+      "example": "0xff"
+    },
+    {
+      "exercise": "",
+      "example": "A"
+    },
+    {
+      "exercise": "",
+      "example": "API"
+    },
+    {
+      "exercise": "",
+      "example": "APIVersion"
+    },
+    {
+      "exercise": "",
+      "example": "AWS"
+    },
+    {
+      "exercise": "",
+      "example": "Action"
+    },
+    {
+      "exercise": "",
+      "example": "Add"
+    },
+    {
+      "exercise": "",
+      "example": "Addr"
+    },
+    {
+      "exercise": "",
+      "example": "Address"
+    },
+    {
+      "exercise": "",
+      "example": "After"
+    },
+    {
+      "exercise": "",
+      "example": "Agent"
+    },
+    {
+      "exercise": "",
+      "example": "Amazon"
+    },
+    {
+      "exercise": "",
+      "example": "An"
+    },
+    {
+      "exercise": "",
+      "example": "Any"
+    },
+    {
+      "exercise": "",
+      "example": "Args"
+    },
+    {
+      "exercise": "",
+      "example": "Assert"
+    },
+    {
+      "exercise": "",
+      "example": "B"
+    },
+    {
+      "exercise": "",
+      "example": "BY"
+    },
+    {
+      "exercise": "",
+      "example": "BeforeEach"
+    },
+    {
+      "exercise": "",
+      "example": "Body"
+    },
+    {
+      "exercise": "",
+      "example": "Buffer"
+    },
+    {
+      "exercise": "",
+      "example": "By"
+    },
+    {
+      "exercise": "",
+      "example": "Bytes"
+    },
+    {
+      "exercise": "",
+      "example": "C"
+    },
+    {
+      "exercise": "",
+      "example": "Check"
+    },
+    {
+      "exercise": "",
+      "example": "CheckBreak"
+    },
+    {
+      "exercise": "",
+      "example": "Client"
+    },
+    {
+      "exercise": "",
+      "example": "Close"
+    },
+    {
+      "exercise": "",
+      "example": "Code"
+    },
+    {
+      "exercise": "",
+      "example": "Command"
+    },
+    {
+      "exercise": "",
+      "example": "Config"
+    },
+    {
+      "exercise": "",
+      "example": "Conn"
+    },
+    {
+      "exercise": "",
+      "example": "Container"
+    },
+    {
+      "exercise": "",
+      "example": "Containers"
+    },
+    {
+      "exercise": "",
+      "example": "Contains"
+    },
+    {
+      "exercise": "",
+      "example": "Content"
+    },
+    {
+      "exercise": "",
+      "example": "Context"
+    },
+    {
+      "exercise": "",
+      "example": "Convert"
+    },
+    {
+      "exercise": "",
+      "example": "Create"
+    },
+    {
+      "exercise": "",
+      "example": "DB"
+    },
+    {
+      "exercise": "",
+      "example": "DO"
+    },
+    {
+      "exercise": "",
+      "example": "Data"
+    },
+    {
+      "exercise": "",
+      "example": "DecSendContainerState"
+    },
+    {
+      "exercise": "",
+      "example": "Decode"
+    },
+    {
+      "exercise": "",
+      "example": "DeepEqual"
+    },
+    {
+      "exercise": "",
+      "example": "Default"
+    },
+    {
+      "exercise": "",
+      "example": "DefaultingInterface"
+    },
+    {
+      "exercise": "",
+      "example": "Delete"
+    },
+    {
+      "exercise": "",
+      "example": "Description"
+    },
+    {
+      "exercise": "",
+      "example": "Do"
+    },
+    {
+      "exercise": "",
+      "example": "DockerSuite"
+    },
+    {
+      "exercise": "",
+      "example": "Domain"
+    },
+    {
+      "exercise": "",
+      "example": "Done"
+    },
+    {
+      "exercise": "",
+      "example": "Duration"
+    },
+    {
+      "exercise": "",
+      "example": "EDIT"
+    },
+    {
+      "exercise": "",
+      "example": "EOF"
+    },
+    {
+      "exercise": "",
+      "example": "Elem"
+    },
+    {
+      "exercise": "",
+      "example": "EncBinary"
+    },
+    {
+      "exercise": "",
+      "example": "EncSendContainerState"
+    },
+    {
+      "exercise": "",
+      "example": "Encode"
+    },
+    {
+      "exercise": "",
+      "example": "EncodeString"
+    },
+    {
+      "exercise": "",
+      "example": "Equal"
+    },
+    {
+      "exercise": "",
+      "example": "Equals"
+    },
+    {
+      "exercise": "",
+      "example": "Err"
+    },
+    {
+      "exercise": "",
+      "example": "ErrUnexpectedEOF"
+    },
+    {
+      "exercise": "",
+      "example": "Error"
+    },
+    {
+      "exercise": "",
+      "example": "ErrorIsNil"
+    },
+    {
+      "exercise": "",
+      "example": "Errorf"
+    },
+    {
+      "exercise": "",
+      "example": "Exit"
+    },
+    {
+      "exercise": "",
+      "example": "Expect"
+    },
+    {
+      "exercise": "",
+      "example": "Expected"
+    },
+    {
+      "exercise": "",
+      "example": "FILE"
+    },
+    {
+      "exercise": "",
+      "example": "FROM"
+    },
+    {
+      "exercise": "",
+      "example": "Failed"
+    },
+    {
+      "exercise": "",
+      "example": "Fatal"
+    },
+    {
+      "exercise": "",
+      "example": "Fatalf"
+    },
+    {
+      "exercise": "",
+      "example": "Field"
+    },
+    {
+      "exercise": "",
+      "example": "Field1"
+    },
+    {
+      "exercise": "",
+      "example": "Field2"
+    },
+    {
+      "exercise": "",
+      "example": "FieldDescriptorProto_Label"
+    },
+    {
+      "exercise": "",
+      "example": "FieldDescriptorProto_Type"
+    },
+    {
+      "exercise": "",
+      "example": "Fields"
+    },
+    {
+      "exercise": "",
+      "example": "File"
+    },
+    {
+      "exercise": "",
+      "example": "Flags"
+    },
+    {
+      "exercise": "",
+      "example": "For"
+    },
+    {
+      "exercise": "",
+      "example": "ForceSendFields"
+    },
+    {
+      "exercise": "",
+      "example": "Format"
+    },
+    {
+      "exercise": "",
+      "example": "Fprintf"
+    },
+    {
+      "exercise": "",
+      "example": "From"
+    },
+    {
+      "exercise": "",
+      "example": "GENERATED"
+    },
+    {
+      "exercise": "",
+      "example": "GET"
+    },
+    {
+      "exercise": "",
+      "example": "Get"
+    },
+    {
+      "exercise": "",
+      "example": "Go"
+    },
+    {
+      "exercise": "",
+      "example": "GoString"
+    },
+    {
+      "exercise": "",
+      "example": "GoogleCloudPlatform"
+    },
+    {
+      "exercise": "",
+      "example": "Got"
+    },
+    {
+      "exercise": "",
+      "example": "HTTP"
+    },
+    {
+      "exercise": "",
+      "example": "Handler"
+    },
+    {
+      "exercise": "",
+      "example": "HaveOccurred"
+    },
+    {
+      "exercise": "",
+      "example": "Header"
+    },
+    {
+      "exercise": "",
+      "example": "Host"
+    },
+    {
+      "exercise": "",
+      "example": "ID"
+    },
+    {
+      "exercise": "",
+      "example": "IP"
+    },
+    {
+      "exercise": "",
+      "example": "IS"
+    },
+    {
+      "exercise": "",
+      "example": "Id"
+    },
+    {
+      "exercise": "",
+      "example": "If"
+    },
+    {
+      "exercise": "",
+      "example": "Image"
+    },
+    {
+      "exercise": "",
+      "example": "In"
+    },
+    {
+      "exercise": "",
+      "example": "Index"
+    },
+    {
+      "exercise": "",
+      "example": "Info"
+    },
+    {
+      "exercise": "",
+      "example": "Infof"
+    },
+    {
+      "exercise": "",
+      "example": "Int"
+    },
+    {
+      "exercise": "",
+      "example": "Interface"
+    },
+    {
+      "exercise": "",
+      "example": "Intn"
+    },
+    {
+      "exercise": "",
+      "example": "IsNil"
+    },
+    {
+      "exercise": "",
+      "example": "It"
+    },
+    {
+      "exercise": "",
+      "example": "Items"
+    },
+    {
+      "exercise": "",
+      "example": "JSON"
+    },
+    {
+      "exercise": "",
+      "example": "Join"
+    },
+    {
+      "exercise": "",
+      "example": "Key"
+    },
+    {
+      "exercise": "",
+      "example": "Kind"
+    },
+    {
+      "exercise": "",
+      "example": "Label"
+    },
+    {
+      "exercise": "",
+      "example": "Labels"
+    },
+    {
+      "exercise": "",
+      "example": "Left"
+    },
+    {
+      "exercise": "",
+      "example": "Len"
+    },
+    {
+      "exercise": "",
+      "example": "List"
+    },
+    {
+      "exercise": "",
+      "example": "ListMeta"
+    },
+    {
+      "exercise": "",
+      "example": "Lock"
+    },
+    {
+      "exercise": "",
+      "example": "Logf"
+    },
+    {
+      "exercise": "",
+      "example": "M"
+    },
+    {
+      "exercise": "",
+      "example": "Marshal"
+    },
+    {
+      "exercise": "",
+      "example": "MarshalJSON"
+    },
+    {
+      "exercise": "",
+      "example": "MarshalTo"
+    },
+    {
+      "exercise": "",
+      "example": "Message"
+    },
+    {
+      "exercise": "",
+      "example": "Method"
+    },
+    {
+      "exercise": "",
+      "example": "Millisecond"
+    },
+    {
+      "exercise": "",
+      "example": "More"
+    },
+    {
+      "exercise": "",
+      "example": "N"
+    },
+    {
+      "exercise": "",
+      "example": "NOT"
+    },
+    {
+      "exercise": "",
+      "example": "Name"
+    },
+    {
+      "exercise": "",
+      "example": "Namespace"
+    },
+    {
+      "exercise": "",
+      "example": "New"
+    },
+    {
+      "exercise": "",
+      "example": "NewDecoder"
+    },
+    {
+      "exercise": "",
+      "example": "NewReader"
+    },
+    {
+      "exercise": "",
+      "example": "NewRequest"
+    },
+    {
+      "exercise": "",
+      "example": "Next"
+    },
+    {
+      "exercise": "",
+      "example": "NoError"
+    },
+    {
+      "exercise": "",
+      "example": "Node"
+    },
+    {
+      "exercise": "",
+      "example": "Not"
+    },
+    {
+      "exercise": "",
+      "example": "NotTo"
+    },
+    {
+      "exercise": "",
+      "example": "Note"
+    },
+    {
+      "exercise": "",
+      "example": "Now"
+    },
+    {
+      "exercise": "",
+      "example": "Number"
+    },
+    {
+      "exercise": "",
+      "example": "Object"
+    },
+    {
+      "exercise": "",
+      "example": "ObjectMeta"
+    },
+    {
+      "exercise": "",
+      "example": "Op"
+    },
+    {
+      "exercise": "",
+      "example": "Open"
+    },
+    {
+      "exercise": "",
+      "example": "Operation"
+    },
+    {
+      "exercise": "",
+      "example": "Optional"
+    },
+    {
+      "exercise": "",
+      "example": "Output"
+    },
+    {
+      "exercise": "",
+      "example": "P"
+    },
+    {
+      "exercise": "",
+      "example": "POST"
+    },
+    {
+      "exercise": "",
+      "example": "Parse"
+    },
+    {
+      "exercise": "",
+      "example": "Path"
+    },
+    {
+      "exercise": "",
+      "example": "Pod"
+    },
+    {
+      "exercise": "",
+      "example": "Pointer"
+    },
+    {
+      "exercise": "",
+      "example": "Port"
+    },
+    {
+      "exercise": "",
+      "example": "Ports"
+    },
+    {
+      "exercise": "",
+      "example": "Prettify"
+    },
+    {
+      "exercise": "",
+      "example": "Printf"
+    },
+    {
+      "exercise": "",
+      "example": "Println"
+    },
+    {
+      "exercise": "",
+      "example": "Protocol"
+    },
+    {
+      "exercise": "",
+      "example": "Query"
+    },
+    {
+      "exercise": "",
+      "example": "RLock"
+    },
+    {
+      "exercise": "",
+      "example": "RUnlock"
+    },
+    {
+      "exercise": "",
+      "example": "Read"
+    },
+    {
+      "exercise": "",
+      "example": "ReadAll"
+    },
+    {
+      "exercise": "",
+      "example": "Reader"
+    },
+    {
+      "exercise": "",
+      "example": "Remove"
+    },
+    {
+      "exercise": "",
+      "example": "Replicas"
+    },
+    {
+      "exercise": "",
+      "example": "Request"
+    },
+    {
+      "exercise": "",
+      "example": "Required"
+    },
+    {
+      "exercise": "",
+      "example": "Reset"
+    },
+    {
+      "exercise": "",
+      "example": "Resource"
+    },
+    {
+      "exercise": "",
+      "example": "Resources"
+    },
+    {
+      "exercise": "",
+      "example": "Response"
+    },
+    {
+      "exercise": "",
+      "example": "ResponseWriter"
+    },
+    {
+      "exercise": "",
+      "example": "Result"
+    },
+    {
+      "exercise": "",
+      "example": "Returns"
+    },
+    {
+      "exercise": "",
+      "example": "Run"
+    },
+    {
+      "exercise": "",
+      "example": "S"
+    },
+    {
+      "exercise": "",
+      "example": "SDKShapeTraits"
+    },
+    {
+      "exercise": "",
+      "example": "Schema"
+    },
+    {
+      "exercise": "",
+      "example": "SchemaProps"
+    },
+    {
+      "exercise": "",
+      "example": "Scope"
+    },
+    {
+      "exercise": "",
+      "example": "Second"
+    },
+    {
+      "exercise": "",
+      "example": "See"
+    },
+    {
+      "exercise": "",
+      "example": "Selector"
+    },
+    {
+      "exercise": "",
+      "example": "Send"
+    },
+    {
+      "exercise": "",
+      "example": "Server"
+    },
+    {
+      "exercise": "",
+      "example": "ServerResponse"
+    },
+    {
+      "exercise": "",
+      "example": "Service"
+    },
+    {
+      "exercise": "",
+      "example": "Set"
+    },
+    {
+      "exercise": "",
+      "example": "Should"
+    },
+    {
+      "exercise": "",
+      "example": "Size"
+    },
+    {
+      "exercise": "",
+      "example": "Sleep"
+    },
+    {
+      "exercise": "",
+      "example": "Source"
+    },
+    {
+      "exercise": "",
+      "example": "Spec"
+    },
+    {
+      "exercise": "",
+      "example": "Split"
+    },
+    {
+      "exercise": "",
+      "example": "Sprintf"
+    },
+    {
+      "exercise": "",
+      "example": "Start"
+    },
+    {
+      "exercise": "",
+      "example": "State"
+    },
+    {
+      "exercise": "",
+      "example": "Status"
+    },
+    {
+      "exercise": "",
+      "example": "StatusCode"
+    },
+    {
+      "exercise": "",
+      "example": "StatusOK"
+    },
+    {
+      "exercise": "",
+      "example": "Stderr"
+    },
+    {
+      "exercise": "",
+      "example": "Stdout"
+    },
+    {
+      "exercise": "",
+      "example": "Stop"
+    },
+    {
+      "exercise": "",
+      "example": "Store"
+    },
+    {
+      "exercise": "",
+      "example": "String"
+    },
+    {
+      "exercise": "",
+      "example": "T"
+    },
+    {
+      "exercise": "",
+      "example": "THE"
+    },
+    {
+      "exercise": "",
+      "example": "THIS"
+    },
+    {
+      "exercise": "",
+      "example": "TODO"
+    },
+    {
+      "exercise": "",
+      "example": "Tag"
+    },
+    {
+      "exercise": "",
+      "example": "Tags"
+    },
+    {
+      "exercise": "",
+      "example": "Template"
+    },
+    {
+      "exercise": "",
+      "example": "Test"
+    },
+    {
+      "exercise": "",
+      "example": "The"
+    },
+    {
+      "exercise": "",
+      "example": "This"
+    },
+    {
+      "exercise": "",
+      "example": "Time"
+    },
+    {
+      "exercise": "",
+      "example": "Timestamp"
+    },
+    {
+      "exercise": "",
+      "example": "To"
+    },
+    {
+      "exercise": "",
+      "example": "Token"
+    },
+    {
+      "exercise": "",
+      "example": "TrimSpace"
+    },
+    {
+      "exercise": "",
+      "example": "TryDecodeAsNil"
+    },
+    {
+      "exercise": "",
+      "example": "Type"
+    },
+    {
+      "exercise": "",
+      "example": "TypeMeta"
+    },
+    {
+      "exercise": "",
+      "example": "TypeOf"
+    },
+    {
+      "exercise": "",
+      "example": "UID"
+    },
+    {
+      "exercise": "",
+      "example": "URL"
+    },
+    {
+      "exercise": "",
+      "example": "Unexpected"
+    },
+    {
+      "exercise": "",
+      "example": "UnixNano"
+    },
+    {
+      "exercise": "",
+      "example": "Unlock"
+    },
+    {
+      "exercise": "",
+      "example": "Unmarshal"
+    },
+    {
+      "exercise": "",
+      "example": "Update"
+    },
+    {
+      "exercise": "",
+      "example": "Usage"
+    },
+    {
+      "exercise": "",
+      "example": "Use"
+    },
+    {
+      "exercise": "",
+      "example": "User"
+    },
+    {
+      "exercise": "",
+      "example": "V"
+    },
+    {
+      "exercise": "",
+      "example": "Val"
+    },
+    {
+      "exercise": "",
+      "example": "Validate"
+    },
+    {
+      "exercise": "",
+      "example": "Value"
+    },
+    {
+      "exercise": "",
+      "example": "ValueOf"
+    },
+    {
+      "exercise": "",
+      "example": "Values"
+    },
+    {
+      "exercise": "",
+      "example": "Version"
+    },
+    {
+      "exercise": "",
+      "example": "Wait"
+    },
+    {
+      "exercise": "",
+      "example": "We"
+    },
+    {
+      "exercise": "",
+      "example": "Write"
+    },
+    {
+      "exercise": "",
+      "example": "WriteHeader"
+    },
+    {
+      "exercise": "",
+      "example": "WriteString"
+    },
+    {
+      "exercise": "",
+      "example": "Writer"
+    },
+    {
+      "exercise": "",
+      "example": "X"
+    },
+    {
+      "exercise": "",
+      "example": "XXX_unrecognized"
+    },
+    {
+      "exercise": "",
+      "example": "You"
+    },
+    {
+      "exercise": "",
+      "example": "_"
+    },
+    {
+      "exercise": "",
+      "example": "_p0"
+    },
+    {
+      "exercise": "",
+      "example": "a"
+    },
+    {
+      "exercise": "",
+      "example": "abc"
+    },
+    {
+      "exercise": "",
+      "example": "about"
+    },
+    {
+      "exercise": "",
+      "example": "access"
+    },
+    {
+      "exercise": "",
+      "example": "account"
+    },
+    {
+      "exercise": "",
+      "example": "action"
+    },
+    {
+      "exercise": "",
+      "example": "actual"
+    },
+    {
+      "exercise": "",
+      "example": "add"
+    },
+    {
+      "exercise": "",
+      "example": "addr"
+    },
+    {
+      "exercise": "",
+      "example": "address"
+    },
+    {
+      "exercise": "",
+      "example": "after"
+    },
+    {
+      "exercise": "",
+      "example": "agent"
+    },
+    {
+      "exercise": "",
+      "example": "all"
+    },
+    {
+      "exercise": "",
+      "example": "allErrs"
+    },
+    {
+      "exercise": "",
+      "example": "allows"
+    },
+    {
+      "exercise": "",
+      "example": "already"
+    },
+    {
+      "exercise": "",
+      "example": "also"
+    },
+    {
+      "exercise": "",
+      "example": "alt"
+    },
+    {
+      "exercise": "",
+      "example": "always"
+    },
+    {
+      "exercise": "",
+      "example": "an"
+    },
+    {
+      "exercise": "",
+      "example": "and"
+    },
+    {
+      "exercise": "",
+      "example": "any"
+    },
+    {
+      "exercise": "",
+      "example": "api"
+    },
+    {
+      "exercise": "",
+      "example": "app"
+    },
+    {
+      "exercise": "",
+      "example": "append"
+    },
+    {
+      "exercise": "",
+      "example": "application"
+    },
+    {
+      "exercise": "",
+      "example": "are"
+    },
+    {
+      "exercise": "",
+      "example": "arg"
+    },
+    {
+      "exercise": "",
+      "example": "args"
+    },
+    {
+      "exercise": "",
+      "example": "arguments"
+    },
+    {
+      "exercise": "",
+      "example": "array"
+    },
+    {
+      "exercise": "",
+      "example": "as"
+    },
+    {
+      "exercise": "",
+      "example": "assert"
+    },
+    {
+      "exercise": "",
+      "example": "associated"
+    },
+    {
+      "exercise": "",
+      "example": "ast"
+    },
+    {
+      "exercise": "",
+      "example": "at"
+    },
+    {
+      "exercise": "",
+      "example": "auth"
+    },
+    {
+      "exercise": "",
+      "example": "autorest"
+    },
+    {
+      "exercise": "",
+      "example": "available"
+    },
+    {
+      "exercise": "",
+      "example": "aws"
+    },
+    {
+      "exercise": "",
+      "example": "awserr"
+    },
+    {
+      "exercise": "",
+      "example": "awsutil"
+    },
+    {
+      "exercise": "",
+      "example": "b"
+    },
+    {
+      "exercise": "",
+      "example": "bad"
+    },
+    {
+      "exercise": "",
+      "example": "bar"
+    },
+    {
+      "exercise": "",
+      "example": "base"
+    },
+    {
+      "exercise": "",
+      "example": "be"
+    },
+    {
+      "exercise": "",
+      "example": "because"
+    },
+    {
+      "exercise": "",
+      "example": "been"
+    },
+    {
+      "exercise": "",
+      "example": "before"
+    },
+    {
+      "exercise": "",
+      "example": "being"
+    },
+    {
+      "exercise": "",
+      "example": "big"
+    },
+    {
+      "exercise": "",
+      "example": "binary"
+    },
+    {
+      "exercise": "",
+      "example": "block"
+    },
+    {
+      "exercise": "",
+      "example": "body"
+    },
+    {
+      "exercise": "",
+      "example": "bool"
+    },
+    {
+      "exercise": "",
+      "example": "break"
+    },
+    {
+      "exercise": "",
+      "example": "bson"
+    },
+    {
+      "exercise": "",
+      "example": "bucket"
+    },
+    {
+      "exercise": "",
+      "example": "buf"
+    },
+    {
+      "exercise": "",
+      "example": "buffer"
+    },
+    {
+      "exercise": "",
+      "example": "bufio"
+    },
+    {
+      "exercise": "",
+      "example": "build"
+    },
+    {
+      "exercise": "",
+      "example": "busybox"
+    },
+    {
+      "exercise": "",
+      "example": "but"
+    },
+    {
+      "exercise": "",
+      "example": "by"
+    },
+    {
+      "exercise": "",
+      "example": "byte"
+    },
+    {
+      "exercise": "",
+      "example": "bytes"
+    },
+    {
+      "exercise": "",
+      "example": "c"
+    },
+    {
+      "exercise": "",
+      "example": "cache"
+    },
+    {
+      "exercise": "",
+      "example": "call"
+    },
+    {
+      "exercise": "",
+      "example": "called"
+    },
+    {
+      "exercise": "",
+      "example": "calls"
+    },
+    {
+      "exercise": "",
+      "example": "can"
+    },
+    {
+      "exercise": "",
+      "example": "cannot"
+    },
+    {
+      "exercise": "",
+      "example": "case"
+    },
+    {
+      "exercise": "",
+      "example": "cc"
+    },
+    {
+      "exercise": "",
+      "example": "cfg"
+    },
+    {
+      "exercise": "",
+      "example": "ch"
+    },
+    {
+      "exercise": "",
+      "example": "chan"
+    },
+    {
+      "exercise": "",
+      "example": "change"
+    },
+    {
+      "exercise": "",
+      "example": "changed"
+    },
+    {
+      "exercise": "",
+      "example": "changes"
+    },
+    {
+      "exercise": "",
+      "example": "channel"
+    },
+    {
+      "exercise": "",
+      "example": "check"
+    },
+    {
+      "exercise": "",
+      "example": "checker"
+    },
+    {
+      "exercise": "",
+      "example": "cli"
+    },
+    {
+      "exercise": "",
+      "example": "client"
+    },
+    {
+      "exercise": "",
+      "example": "close"
+    },
+    {
+      "exercise": "",
+      "example": "closed"
+    },
+    {
+      "exercise": "",
+      "example": "cloud"
+    },
+    {
+      "exercise": "",
+      "example": "cluster"
+    },
+    {
+      "exercise": "",
+      "example": "cmd"
+    },
+    {
+      "exercise": "",
+      "example": "code"
+    },
+    {
+      "exercise": "",
+      "example": "codec1978"
+    },
+    {
+      "exercise": "",
+      "example": "codecSelfer1234"
+    },
+    {
+      "exercise": "",
+      "example": "codecSelferC_UTF81234"
+    },
+    {
+      "exercise": "",
+      "example": "codecSelfer_containerArrayElem1234"
+    },
+    {
+      "exercise": "",
+      "example": "codecSelfer_containerArrayEnd1234"
+    },
+    {
+      "exercise": "",
+      "example": "com"
+    },
+    {
+      "exercise": "",
+      "example": "command"
+    },
+    {
+      "exercise": "",
+      "example": "common"
+    },
+    {
+      "exercise": "",
+      "example": "conf"
+    },
+    {
+      "exercise": "",
+      "example": "config"
+    },
+    {
+      "exercise": "",
+      "example": "configuration"
+    },
+    {
+      "exercise": "",
+      "example": "conn"
+    },
+    {
+      "exercise": "",
+      "example": "connection"
+    },
+    {
+      "exercise": "",
+      "example": "const"
+    },
+    {
+      "exercise": "",
+      "example": "container"
+    },
+    {
+      "exercise": "",
+      "example": "containers"
+    },
+    {
+      "exercise": "",
+      "example": "contains"
+    },
+    {
+      "exercise": "",
+      "example": "content"
+    },
+    {
+      "exercise": "",
+      "example": "context"
+    },
+    {
+      "exercise": "",
+      "example": "continue"
+    },
+    {
+      "exercise": "",
+      "example": "controller"
+    },
+    {
+      "exercise": "",
+      "example": "conversion"
+    },
+    {
+      "exercise": "",
+      "example": "copy"
+    },
+    {
+      "exercise": "",
+      "example": "core"
+    },
+    {
+      "exercise": "",
+      "example": "could"
+    },
+    {
+      "exercise": "",
+      "example": "count"
+    },
+    {
+      "exercise": "",
+      "example": "cpu"
+    },
+    {
+      "exercise": "",
+      "example": "cr"
+    },
+    {
+      "exercise": "",
+      "example": "create"
+    },
+    {
+      "exercise": "",
+      "example": "created"
+    },
+    {
+      "exercise": "",
+      "example": "creates"
+    },
+    {
+      "exercise": "",
+      "example": "creating"
+    },
+    {
+      "exercise": "",
+      "example": "crypto"
+    },
+    {
+      "exercise": "",
+      "example": "cs"
+    },
+    {
+      "exercise": "",
+      "example": "ctx"
+    },
+    {
+      "exercise": "",
+      "example": "ctx_"
+    },
+    {
+      "exercise": "",
+      "example": "ctxt"
+    },
+    {
+      "exercise": "",
+      "example": "current"
+    },
+    {
+      "exercise": "",
+      "example": "custom"
+    },
+    {
+      "exercise": "",
+      "example": "d"
+    },
+    {
+      "exercise": "",
+      "example": "daemon"
+    },
+    {
+      "exercise": "",
+      "example": "data"
+    },
+    {
+      "exercise": "",
+      "example": "database"
+    },
+    {
+      "exercise": "",
+      "example": "db"
+    },
+    {
+      "exercise": "",
+      "example": "debug"
+    },
+    {
+      "exercise": "",
+      "example": "default"
+    },
+    {
+      "exercise": "",
+      "example": "defaulting"
+    },
+    {
+      "exercise": "",
+      "example": "defer"
+    },
+    {
+      "exercise": "",
+      "example": "defined"
+    },
+    {
+      "exercise": "",
+      "example": "delete"
+    },
+    {
+      "exercise": "",
+      "example": "deleted"
+    },
+    {
+      "exercise": "",
+      "example": "deployment"
+    },
+    {
+      "exercise": "",
+      "example": "desc"
+    },
+    {
+      "exercise": "",
+      "example": "description"
+    },
+    {
+      "exercise": "",
+      "example": "descriptor"
+    },
+    {
+      "exercise": "",
+      "example": "details"
+    },
+    {
+      "exercise": "",
+      "example": "device"
+    },
+    {
+      "exercise": "",
+      "example": "dir"
+    },
+    {
+      "exercise": "",
+      "example": "directory"
+    },
+    {
+      "exercise": "",
+      "example": "disk"
+    },
+    {
+      "exercise": "",
+      "example": "do"
+    },
+    {
+      "exercise": "",
+      "example": "doRequest"
+    },
+    {
+      "exercise": "",
+      "example": "doc"
+    },
+    {
+      "exercise": "",
+      "example": "docker"
+    },
+    {
+      "exercise": "",
+      "example": "dockerCmd"
+    },
+    {
+      "exercise": "",
+      "example": "docs"
+    },
+    {
+      "exercise": "",
+      "example": "does"
+    },
+    {
+      "exercise": "",
+      "example": "doesn"
+    },
+    {
+      "exercise": "",
+      "example": "don"
+    },
+    {
+      "exercise": "",
+      "example": "done"
+    },
+    {
+      "exercise": "",
+      "example": "driver"
+    },
+    {
+      "exercise": "",
+      "example": "dst"
+    },
+    {
+      "exercise": "",
+      "example": "e"
+    },
+    {
+      "exercise": "",
+      "example": "e1"
+    },
+    {
+      "exercise": "",
+      "example": "each"
+    },
+    {
+      "exercise": "",
+      "example": "ec2"
+    },
+    {
+      "exercise": "",
+      "example": "either"
+    },
+    {
+      "exercise": "",
+      "example": "element"
+    },
+    {
+      "exercise": "",
+      "example": "else"
+    },
+    {
+      "exercise": "",
+      "example": "empty"
+    },
+    {
+      "exercise": "",
+      "example": "encoding"
+    },
+    {
+      "exercise": "",
+      "example": "end"
+    },
+    {
+      "exercise": "",
+      "example": "endpoint"
+    },
+    {
+      "exercise": "",
+      "example": "endpoints"
+    },
+    {
+      "exercise": "",
+      "example": "engine"
+    },
+    {
+      "exercise": "",
+      "example": "entry"
+    },
+    {
+      "exercise": "",
+      "example": "enum"
+    },
+    {
+      "exercise": "",
+      "example": "env"
+    },
+    {
+      "exercise": "",
+      "example": "environment"
+    },
+    {
+      "exercise": "",
+      "example": "err"
+    },
+    {
+      "exercise": "",
+      "example": "error"
+    },
+    {
+      "exercise": "",
+      "example": "errors"
+    },
+    {
+      "exercise": "",
+      "example": "errs"
+    },
+    {
+      "exercise": "",
+      "example": "etc"
+    },
+    {
+      "exercise": "",
+      "example": "etcd"
+    },
+    {
+      "exercise": "",
+      "example": "event"
+    },
+    {
+      "exercise": "",
+      "example": "events"
+    },
+    {
+      "exercise": "",
+      "example": "example"
+    },
+    {
+      "exercise": "",
+      "example": "exec"
+    },
+    {
+      "exercise": "",
+      "example": "exist"
+    },
+    {
+      "exercise": "",
+      "example": "existing"
+    },
+    {
+      "exercise": "",
+      "example": "exists"
+    },
+    {
+      "exercise": "",
+      "example": "exp"
+    },
+    {
+      "exercise": "",
+      "example": "expect"
+    },
+    {
+      "exercise": "",
+      "example": "expected"
+    },
+    {
+      "exercise": "",
+      "example": "expr"
+    },
+    {
+      "exercise": "",
+      "example": "extensions"
+    },
+    {
+      "exercise": "",
+      "example": "f"
+    },
+    {
+      "exercise": "",
+      "example": "fail"
+    },
+    {
+      "exercise": "",
+      "example": "failed"
+    },
+    {
+      "exercise": "",
+      "example": "fake"
+    },
+    {
+      "exercise": "",
+      "example": "false"
+    },
+    {
+      "exercise": "",
+      "example": "fd"
+    },
+    {
+      "exercise": "",
+      "example": "field"
+    },
+    {
+      "exercise": "",
+      "example": "fieldNum"
+    },
+    {
+      "exercise": "",
+      "example": "fields"
+    },
+    {
+      "exercise": "",
+      "example": "file"
+    },
+    {
+      "exercise": "",
+      "example": "filename"
+    },
+    {
+      "exercise": "",
+      "example": "filepath"
+    },
+    {
+      "exercise": "",
+      "example": "files"
+    },
+    {
+      "exercise": "",
+      "example": "filter"
+    },
+    {
+      "exercise": "",
+      "example": "find"
+    },
+    {
+      "exercise": "",
+      "example": "first"
+    },
+    {
+      "exercise": "",
+      "example": "flag"
+    },
+    {
+      "exercise": "",
+      "example": "flags"
+    },
+    {
+      "exercise": "",
+      "example": "float32"
+    },
+    {
+      "exercise": "",
+      "example": "float64"
+    },
+    {
+      "exercise": "",
+      "example": "fmt"
+    },
+    {
+      "exercise": "",
+      "example": "fn"
+    },
+    {
+      "exercise": "",
+      "example": "following"
+    },
+    {
+      "exercise": "",
+      "example": "foo"
+    },
+    {
+      "exercise": "",
+      "example": "for"
+    },
+    {
+      "exercise": "",
+      "example": "form"
+    },
+    {
+      "exercise": "",
+      "example": "format"
+    },
+    {
+      "exercise": "",
+      "example": "found"
+    },
+    {
+      "exercise": "",
+      "example": "framework"
+    },
+    {
+      "exercise": "",
+      "example": "from"
+    },
+    {
+      "exercise": "",
+      "example": "fs"
+    },
+    {
+      "exercise": "",
+      "example": "func"
+    },
+    {
+      "exercise": "",
+      "example": "function"
+    },
+    {
+      "exercise": "",
+      "example": "g"
+    },
+    {
+      "exercise": "",
+      "example": "gc"
+    },
+    {
+      "exercise": "",
+      "example": "generated"
+    },
+    {
+      "exercise": "",
+      "example": "gensupport"
+    },
+    {
+      "exercise": "",
+      "example": "get"
+    },
+    {
+      "exercise": "",
+      "example": "github"
+    },
+    {
+      "exercise": "",
+      "example": "github_com_gogo_protobuf_proto"
+    },
+    {
+      "exercise": "",
+      "example": "given"
+    },
+    {
+      "exercise": "",
+      "example": "gl"
+    },
+    {
+      "exercise": "",
+      "example": "glog"
+    },
+    {
+      "exercise": "",
+      "example": "go"
+    },
+    {
+      "exercise": "",
+      "example": "golang"
+    },
+    {
+      "exercise": "",
+      "example": "google"
+    },
+    {
+      "exercise": "",
+      "example": "googleapi"
+    },
+    {
+      "exercise": "",
+      "example": "googleapis"
+    },
+    {
+      "exercise": "",
+      "example": "got"
+    },
+    {
+      "exercise": "",
+      "example": "goto"
+    },
+    {
+      "exercise": "",
+      "example": "group"
+    },
+    {
+      "exercise": "",
+      "example": "h"
+    },
+    {
+      "exercise": "",
+      "example": "handle"
+    },
+    {
+      "exercise": "",
+      "example": "handler"
+    },
+    {
+      "exercise": "",
+      "example": "has"
+    },
+    {
+      "exercise": "",
+      "example": "hash"
+    },
+    {
+      "exercise": "",
+      "example": "have"
+    },
+    {
+      "exercise": "",
+      "example": "header"
+    },
+    {
+      "exercise": "",
+      "example": "headers"
+    },
+    {
+      "exercise": "",
+      "example": "hello"
+    },
+    {
+      "exercise": "",
+      "example": "here"
+    },
+    {
+      "exercise": "",
+      "example": "host"
+    },
+    {
+      "exercise": "",
+      "example": "html"
+    },
+    {
+      "exercise": "",
+      "example": "http"
+    },
+    {
+      "exercise": "",
+      "example": "httpMethod"
+    },
+    {
+      "exercise": "",
+      "example": "https"
+    },
+    {
+      "exercise": "",
+      "example": "httptest"
+    },
+    {
+      "exercise": "",
+      "example": "i"
+    },
+    {
+      "exercise": "",
+      "example": "iNdEx"
+    },
+    {
+      "exercise": "",
+      "example": "id"
+    },
+    {
+      "exercise": "",
+      "example": "idx"
+    },
+    {
+      "exercise": "",
+      "example": "if"
+    },
+    {
+      "exercise": "",
+      "example": "image"
+    },
+    {
+      "exercise": "",
+      "example": "implements"
+    },
+    {
+      "exercise": "",
+      "example": "import"
+    },
+    {
+      "exercise": "",
+      "example": "in"
+    },
+    {
+      "exercise": "",
+      "example": "include"
+    },
+    {
+      "exercise": "",
+      "example": "index"
+    },
+    {
+      "exercise": "",
+      "example": "influxql"
+    },
+    {
+      "exercise": "",
+      "example": "info"
+    },
+    {
+      "exercise": "",
+      "example": "information"
+    },
+    {
+      "exercise": "",
+      "example": "init"
+    },
+    {
+      "exercise": "",
+      "example": "input"
+    },
+    {
+      "exercise": "",
+      "example": "instance"
+    },
+    {
+      "exercise": "",
+      "example": "instances"
+    },
+    {
+      "exercise": "",
+      "example": "instead"
+    },
+    {
+      "exercise": "",
+      "example": "int"
+    },
+    {
+      "exercise": "",
+      "example": "int32"
+    },
+    {
+      "exercise": "",
+      "example": "int64"
+    },
+    {
+      "exercise": "",
+      "example": "intStringLen"
+    },
+    {
+      "exercise": "",
+      "example": "integer"
+    },
+    {
+      "exercise": "",
+      "example": "interface"
+    },
+    {
+      "exercise": "",
+      "example": "internal"
+    },
+    {
+      "exercise": "",
+      "example": "into"
+    },
+    {
+      "exercise": "",
+      "example": "invalid"
+    },
+    {
+      "exercise": "",
+      "example": "invalidParams"
+    },
+    {
+      "exercise": "",
+      "example": "io"
+    },
+    {
+      "exercise": "",
+      "example": "ioutil"
+    },
+    {
+      "exercise": "",
+      "example": "ip"
+    },
+    {
+      "exercise": "",
+      "example": "is"
+    },
+    {
+      "exercise": "",
+      "example": "it"
+    },
+    {
+      "exercise": "",
+      "example": "item"
+    },
+    {
+      "exercise": "",
+      "example": "items"
+    },
+    {
+      "exercise": "",
+      "example": "its"
+    },
+    {
+      "exercise": "",
+      "example": "j"
+    },
+    {
+      "exercise": "",
+      "example": "jc"
+    },
+    {
+      "exercise": "",
+      "example": "job"
+    },
+    {
+      "exercise": "",
+      "example": "json"
+    },
+    {
+      "exercise": "",
+      "example": "juju"
+    },
+    {
+      "exercise": "",
+      "example": "just"
+    },
+    {
+      "exercise": "",
+      "example": "k"
+    },
+    {
+      "exercise": "",
+      "example": "k8s"
+    },
+    {
+      "exercise": "",
+      "example": "kapi"
+    },
+    {
+      "exercise": "",
+      "example": "key"
+    },
+    {
+      "exercise": "",
+      "example": "keys"
+    },
+    {
+      "exercise": "",
+      "example": "kind"
+    },
+    {
+      "exercise": "",
+      "example": "kl"
+    },
+    {
+      "exercise": "",
+      "example": "kubecontainer"
+    },
+    {
+      "exercise": "",
+      "example": "kubelet"
+    },
+    {
+      "exercise": "",
+      "example": "kubernetes"
+    },
+    {
+      "exercise": "",
+      "example": "l"
+    },
+    {
+      "exercise": "",
+      "example": "label"
+    },
+    {
+      "exercise": "",
+      "example": "labels"
+    },
+    {
+      "exercise": "",
+      "example": "last"
+    },
+    {
+      "exercise": "",
+      "example": "latest"
+    },
+    {
+      "exercise": "",
+      "example": "len"
+    },
+    {
+      "exercise": "",
+      "example": "length"
+    },
+    {
+      "exercise": "",
+      "example": "level"
+    },
+    {
+      "exercise": "",
+      "example": "limit"
+    },
+    {
+      "exercise": "",
+      "example": "line"
+    },
+    {
+      "exercise": "",
+      "example": "link"
+    },
+    {
+      "exercise": "",
+      "example": "list"
+    },
+    {
+      "exercise": "",
+      "example": "load"
+    },
+    {
+      "exercise": "",
+      "example": "local"
+    },
+    {
+      "exercise": "",
+      "example": "locales"
+    },
+    {
+      "exercise": "",
+      "example": "location"
+    },
+    {
+      "exercise": "",
+      "example": "locationName"
+    },
+    {
+      "exercise": "",
+      "example": "lock"
+    },
+    {
+      "exercise": "",
+      "example": "log"
+    },
+    {
+      "exercise": "",
+      "example": "logger"
+    },
+    {
+      "exercise": "",
+      "example": "logrus"
+    },
+    {
+      "exercise": "",
+      "example": "m"
+    },
+    {
+      "exercise": "",
+      "example": "machine"
+    },
+    {
+      "exercise": "",
+      "example": "main"
+    },
+    {
+      "exercise": "",
+      "example": "make"
+    },
+    {
+      "exercise": "",
+      "example": "manager"
+    },
+    {
+      "exercise": "",
+      "example": "map"
+    },
+    {
+      "exercise": "",
+      "example": "master"
+    },
+    {
+      "exercise": "",
+      "example": "match"
+    },
+    {
+      "exercise": "",
+      "example": "matches"
+    },
+    {
+      "exercise": "",
+      "example": "math"
+    },
+    {
+      "exercise": "",
+      "example": "math_rand"
+    },
+    {
+      "exercise": "",
+      "example": "max"
+    },
+    {
+      "exercise": "",
+      "example": "maxResults"
+    },
+    {
+      "exercise": "",
+      "example": "maximum"
+    },
+    {
+      "exercise": "",
+      "example": "md"
+    },
+    {
+      "exercise": "",
+      "example": "means"
+    },
+    {
+      "exercise": "",
+      "example": "memory"
+    },
+    {
+      "exercise": "",
+      "example": "message"
+    },
+    {
+      "exercise": "",
+      "example": "meta"
+    },
+    {
+      "exercise": "",
+      "example": "metadata"
+    },
+    {
+      "exercise": "",
+      "example": "method"
+    },
+    {
+      "exercise": "",
+      "example": "methods"
+    },
+    {
+      "exercise": "",
+      "example": "min"
+    },
+    {
+      "exercise": "",
+      "example": "missing"
+    },
+    {
+      "exercise": "",
+      "example": "mode"
+    },
+    {
+      "exercise": "",
+      "example": "model"
+    },
+    {
+      "exercise": "",
+      "example": "models"
+    },
+    {
+      "exercise": "",
+      "example": "more"
+    },
+    {
+      "exercise": "",
+      "example": "mount"
+    },
+    {
+      "exercise": "",
+      "example": "msg"
+    },
+    {
+      "exercise": "",
+      "example": "msglen"
+    },
+    {
+      "exercise": "",
+      "example": "mu"
+    },
+    {
+      "exercise": "",
+      "example": "must"
+    },
+    {
+      "exercise": "",
+      "example": "mux"
+    },
+    {
+      "exercise": "",
+      "example": "n"
+    },
+    {
+      "exercise": "",
+      "example": "name"
+    },
+    {
+      "exercise": "",
+      "example": "names"
+    },
+    {
+      "exercise": "",
+      "example": "namespace"
+    },
+    {
+      "exercise": "",
+      "example": "need"
+    },
+    {
+      "exercise": "",
+      "example": "net"
+    },
+    {
+      "exercise": "",
+      "example": "network"
+    },
+    {
+      "exercise": "",
+      "example": "new"
+    },
+    {
+      "exercise": "",
+      "example": "newRequest"
+    },
+    {
+      "exercise": "",
+      "example": "newVal"
+    },
+    {
+      "exercise": "",
+      "example": "next"
+    },
+    {
+      "exercise": "",
+      "example": "nil"
+    },
+    {
+      "exercise": "",
+      "example": "no"
+    },
+    {
+      "exercise": "",
+      "example": "noMethod"
+    },
+    {
+      "exercise": "",
+      "example": "node"
+    },
+    {
+      "exercise": "",
+      "example": "nodes"
+    },
+    {
+      "exercise": "",
+      "example": "non"
+    },
+    {
+      "exercise": "",
+      "example": "not"
+    },
+    {
+      "exercise": "",
+      "example": "now"
+    },
+    {
+      "exercise": "",
+      "example": "ns"
+    },
+    {
+      "exercise": "",
+      "example": "num"
+    },
+    {
+      "exercise": "",
+      "example": "number"
+    },
+    {
+      "exercise": "",
+      "example": "o"
+    },
+    {
+      "exercise": "",
+      "example": "obj"
+    },
+    {
+      "exercise": "",
+      "example": "object"
+    },
+    {
+      "exercise": "",
+      "example": "objects"
+    },
+    {
+      "exercise": "",
+      "example": "of"
+    },
+    {
+      "exercise": "",
+      "example": "off"
+    },
+    {
+      "exercise": "",
+      "example": "offset"
+    },
+    {
+      "exercise": "",
+      "example": "ok"
+    },
+    {
+      "exercise": "",
+      "example": "old"
+    },
+    {
+      "exercise": "",
+      "example": "omitempty"
+    },
+    {
+      "exercise": "",
+      "example": "on"
+    },
+    {
+      "exercise": "",
+      "example": "one"
+    },
+    {
+      "exercise": "",
+      "example": "only"
+    },
+    {
+      "exercise": "",
+      "example": "op"
+    },
+    {
+      "exercise": "",
+      "example": "openshift"
+    },
+    {
+      "exercise": "",
+      "example": "operation"
+    },
+    {
+      "exercise": "",
+      "example": "opt"
+    },
+    {
+      "exercise": "",
+      "example": "opt_"
+    },
+    {
+      "exercise": "",
+      "example": "optional"
+    },
+    {
+      "exercise": "",
+      "example": "options"
+    },
+    {
+      "exercise": "",
+      "example": "opts"
+    },
+    {
+      "exercise": "",
+      "example": "or"
+    },
+    {
+      "exercise": "",
+      "example": "order"
+    },
+    {
+      "exercise": "",
+      "example": "org"
+    },
+    {
+      "exercise": "",
+      "example": "origin"
+    },
+    {
+      "exercise": "",
+      "example": "os"
+    },
+    {
+      "exercise": "",
+      "example": "other"
+    },
+    {
+      "exercise": "",
+      "example": "out"
+    },
+    {
+      "exercise": "",
+      "example": "output"
+    },
+    {
+      "exercise": "",
+      "example": "p"
+    },
+    {
+      "exercise": "",
+      "example": "package"
+    },
+    {
+      "exercise": "",
+      "example": "page"
+    },
+    {
+      "exercise": "",
+      "example": "pageToken"
+    },
+    {
+      "exercise": "",
+      "example": "panic"
+    },
+    {
+      "exercise": "",
+      "example": "parameter"
+    },
+    {
+      "exercise": "",
+      "example": "parameters"
+    },
+    {
+      "exercise": "",
+      "example": "params"
+    },
+    {
+      "exercise": "",
+      "example": "parent"
+    },
+    {
+      "exercise": "",
+      "example": "parse"
+    },
+    {
+      "exercise": "",
+      "example": "parser"
+    },
+    {
+      "exercise": "",
+      "example": "part"
+    },
+    {
+      "exercise": "",
+      "example": "partial"
+    },
+    {
+      "exercise": "",
+      "example": "parts"
+    },
+    {
+      "exercise": "",
+      "example": "passed"
+    },
+    {
+      "exercise": "",
+      "example": "password"
+    },
+    {
+      "exercise": "",
+      "example": "path"
+    },
+    {
+      "exercise": "",
+      "example": "pb"
+    },
+    {
+      "exercise": "",
+      "example": "peer"
+    },
+    {
+      "exercise": "",
+      "example": "pending"
+    },
+    {
+      "exercise": "",
+      "example": "pkg"
+    },
+    {
+      "exercise": "",
+      "example": "plugin"
+    },
+    {
+      "exercise": "",
+      "example": "pod"
+    },
+    {
+      "exercise": "",
+      "example": "pods"
+    },
+    {
+      "exercise": "",
+      "example": "point"
+    },
+    {
+      "exercise": "",
+      "example": "pointer"
+    },
+    {
+      "exercise": "",
+      "example": "policy"
+    },
+    {
+      "exercise": "",
+      "example": "popr"
+    },
+    {
+      "exercise": "",
+      "example": "port"
+    },
+    {
+      "exercise": "",
+      "example": "ports"
+    },
+    {
+      "exercise": "",
+      "example": "pos"
+    },
+    {
+      "exercise": "",
+      "example": "postIndex"
+    },
+    {
+      "exercise": "",
+      "example": "prefix"
+    },
+    {
+      "exercise": "",
+      "example": "print"
+    },
+    {
+      "exercise": "",
+      "example": "process"
+    },
+    {
+      "exercise": "",
+      "example": "project"
+    },
+    {
+      "exercise": "",
+      "example": "proto"
+    },
+    {
+      "exercise": "",
+      "example": "protobuf"
+    },
+    {
+      "exercise": "",
+      "example": "protocol"
+    },
+    {
+      "exercise": "",
+      "example": "provided"
+    },
+    {
+      "exercise": "",
+      "example": "provider"
+    },
+    {
+      "exercise": "",
+      "example": "proxy"
+    },
+    {
+      "exercise": "",
+      "example": "ptr"
+    },
+    {
+      "exercise": "",
+      "example": "q"
+    },
+    {
+      "exercise": "",
+      "example": "query"
+    },
+    {
+      "exercise": "",
+      "example": "r"
+    },
+    {
+      "exercise": "",
+      "example": "r0"
+    },
+    {
+      "exercise": "",
+      "example": "rand"
+    },
+    {
+      "exercise": "",
+      "example": "range"
+    },
+    {
+      "exercise": "",
+      "example": "raw"
+    },
+    {
+      "exercise": "",
+      "example": "rc"
+    },
+    {
+      "exercise": "",
+      "example": "re"
+    },
+    {
+      "exercise": "",
+      "example": "read"
+    },
+    {
+      "exercise": "",
+      "example": "ref"
+    },
+    {
+      "exercise": "",
+      "example": "reference"
+    },
+    {
+      "exercise": "",
+      "example": "reflect"
+    },
+    {
+      "exercise": "",
+      "example": "regexp"
+    },
+    {
+      "exercise": "",
+      "example": "region"
+    },
+    {
+      "exercise": "",
+      "example": "registry"
+    },
+    {
+      "exercise": "",
+      "example": "remove"
+    },
+    {
+      "exercise": "",
+      "example": "reply"
+    },
+    {
+      "exercise": "",
+      "example": "repo"
+    },
+    {
+      "exercise": "",
+      "example": "representation"
+    },
+    {
+      "exercise": "",
+      "example": "represents"
+    },
+    {
+      "exercise": "",
+      "example": "req"
+    },
+    {
+      "exercise": "",
+      "example": "reqErr"
+    },
+    {
+      "exercise": "",
+      "example": "request"
+    },
+    {
+      "exercise": "",
+      "example": "requests"
+    },
+    {
+      "exercise": "",
+      "example": "require"
+    },
+    {
+      "exercise": "",
+      "example": "required"
+    },
+    {
+      "exercise": "",
+      "example": "res"
+    },
+    {
+      "exercise": "",
+      "example": "resource"
+    },
+    {
+      "exercise": "",
+      "example": "resources"
+    },
+    {
+      "exercise": "",
+      "example": "resp"
+    },
+    {
+      "exercise": "",
+      "example": "response"
+    },
+    {
+      "exercise": "",
+      "example": "responses"
+    },
+    {
+      "exercise": "",
+      "example": "result"
+    },
+    {
+      "exercise": "",
+      "example": "results"
+    },
+    {
+      "exercise": "",
+      "example": "ret"
+    },
+    {
+      "exercise": "",
+      "example": "retrieved"
+    },
+    {
+      "exercise": "",
+      "example": "return"
+    },
+    {
+      "exercise": "",
+      "example": "returned"
+    },
+    {
+      "exercise": "",
+      "example": "returns"
+    },
+    {
+      "exercise": "",
+      "example": "roachpb"
+    },
+    {
+      "exercise": "",
+      "example": "root"
+    },
+    {
+      "exercise": "",
+      "example": "route"
+    },
+    {
+      "exercise": "",
+      "example": "rows"
+    },
+    {
+      "exercise": "",
+      "example": "rr"
+    },
+    {
+      "exercise": "",
+      "example": "rs"
+    },
+    {
+      "exercise": "",
+      "example": "run"
+    },
+    {
+      "exercise": "",
+      "example": "rune"
+    },
+    {
+      "exercise": "",
+      "example": "running"
+    },
+    {
+      "exercise": "",
+      "example": "runtime"
+    },
+    {
+      "exercise": "",
+      "example": "rv"
+    },
+    {
+      "exercise": "",
+      "example": "s"
+    },
+    {
+      "exercise": "",
+      "example": "same"
+    },
+    {
+      "exercise": "",
+      "example": "sc"
+    },
+    {
+      "exercise": "",
+      "example": "schema"
+    },
+    {
+      "exercise": "",
+      "example": "scope"
+    },
+    {
+      "exercise": "",
+      "example": "scopes"
+    },
+    {
+      "exercise": "",
+      "example": "sdk"
+    },
+    {
+      "exercise": "",
+      "example": "secret"
+    },
+    {
+      "exercise": "",
+      "example": "see"
+    },
+    {
+      "exercise": "",
+      "example": "seed"
+    },
+    {
+      "exercise": "",
+      "example": "select"
+    },
+    {
+      "exercise": "",
+      "example": "selector"
+    },
+    {
+      "exercise": "",
+      "example": "self"
+    },
+    {
+      "exercise": "",
+      "example": "send"
+    },
+    {
+      "exercise": "",
+      "example": "sent"
+    },
+    {
+      "exercise": "",
+      "example": "server"
+    },
+    {
+      "exercise": "",
+      "example": "service"
+    },
+    {
+      "exercise": "",
+      "example": "services"
+    },
+    {
+      "exercise": "",
+      "example": "session"
+    },
+    {
+      "exercise": "",
+      "example": "set"
+    },
+    {
+      "exercise": "",
+      "example": "sets"
+    },
+    {
+      "exercise": "",
+      "example": "shift"
+    },
+    {
+      "exercise": "",
+      "example": "should"
+    },
+    {
+      "exercise": "",
+      "example": "since"
+    },
+    {
+      "exercise": "",
+      "example": "single"
+    },
+    {
+      "exercise": "",
+      "example": "size"
+    },
+    {
+      "exercise": "",
+      "example": "skippy"
+    },
+    {
+      "exercise": "",
+      "example": "slice"
+    },
+    {
+      "exercise": "",
+      "example": "so"
+    },
+    {
+      "exercise": "",
+      "example": "some"
+    },
+    {
+      "exercise": "",
+      "example": "sort"
+    },
+    {
+      "exercise": "",
+      "example": "source"
+    },
+    {
+      "exercise": "",
+      "example": "spec"
+    },
+    {
+      "exercise": "",
+      "example": "specific"
+    },
+    {
+      "exercise": "",
+      "example": "specified"
+    },
+    {
+      "exercise": "",
+      "example": "specify"
+    },
+    {
+      "exercise": "",
+      "example": "sql"
+    },
+    {
+      "exercise": "",
+      "example": "sqlpt"
+    },
+    {
+      "exercise": "",
+      "example": "src"
+    },
+    {
+      "exercise": "",
+      "example": "srv"
+    },
+    {
+      "exercise": "",
+      "example": "st"
+    },
+    {
+      "exercise": "",
+      "example": "stack"
+    },
+    {
+      "exercise": "",
+      "example": "start"
+    },
+    {
+      "exercise": "",
+      "example": "state"
+    },
+    {
+      "exercise": "",
+      "example": "stats"
+    },
+    {
+      "exercise": "",
+      "example": "status"
+    },
+    {
+      "exercise": "",
+      "example": "stdout"
+    },
+    {
+      "exercise": "",
+      "example": "stmt"
+    },
+    {
+      "exercise": "",
+      "example": "stop"
+    },
+    {
+      "exercise": "",
+      "example": "storage"
+    },
+    {
+      "exercise": "",
+      "example": "store"
+    },
+    {
+      "exercise": "",
+      "example": "str"
+    },
+    {
+      "exercise": "",
+      "example": "strconv"
+    },
+    {
+      "exercise": "",
+      "example": "stream"
+    },
+    {
+      "exercise": "",
+      "example": "string"
+    },
+    {
+      "exercise": "",
+      "example": "stringLen"
+    },
+    {
+      "exercise": "",
+      "example": "strings"
+    },
+    {
+      "exercise": "",
+      "example": "struct"
+    },
+    {
+      "exercise": "",
+      "example": "structure"
+    },
+    {
+      "exercise": "",
+      "example": "success"
+    },
+    {
+      "exercise": "",
+      "example": "support"
+    },
+    {
+      "exercise": "",
+      "example": "supported"
+    },
+    {
+      "exercise": "",
+      "example": "sure"
+    },
+    {
+      "exercise": "",
+      "example": "svc"
+    },
+    {
+      "exercise": "",
+      "example": "switch"
+    },
+    {
+      "exercise": "",
+      "example": "sync"
+    },
+    {
+      "exercise": "",
+      "example": "syscall"
+    },
+    {
+      "exercise": "",
+      "example": "system"
+    },
+    {
+      "exercise": "",
+      "example": "t"
+    },
+    {
+      "exercise": "",
+      "example": "table"
+    },
+    {
+      "exercise": "",
+      "example": "tag"
+    },
+    {
+      "exercise": "",
+      "example": "tags"
+    },
+    {
+      "exercise": "",
+      "example": "target"
+    },
+    {
+      "exercise": "",
+      "example": "task"
+    },
+    {
+      "exercise": "",
+      "example": "tc"
+    },
+    {
+      "exercise": "",
+      "example": "tcp"
+    },
+    {
+      "exercise": "",
+      "example": "template"
+    },
+    {
+      "exercise": "",
+      "example": "terraform"
+    },
+    {
+      "exercise": "",
+      "example": "test"
+    },
+    {
+      "exercise": "",
+      "example": "testing"
+    },
+    {
+      "exercise": "",
+      "example": "tests"
+    },
+    {
+      "exercise": "",
+      "example": "text"
+    },
+    {
+      "exercise": "",
+      "example": "tg"
+    },
+    {
+      "exercise": "",
+      "example": "than"
+    },
+    {
+      "exercise": "",
+      "example": "that"
+    },
+    {
+      "exercise": "",
+      "example": "that1"
+    },
+    {
+      "exercise": "",
+      "example": "the"
+    },
+    {
+      "exercise": "",
+      "example": "them"
+    },
+    {
+      "exercise": "",
+      "example": "then"
+    },
+    {
+      "exercise": "",
+      "example": "there"
+    },
+    {
+      "exercise": "",
+      "example": "these"
+    },
+    {
+      "exercise": "",
+      "example": "they"
+    },
+    {
+      "exercise": "",
+      "example": "this"
+    },
+    {
+      "exercise": "",
+      "example": "time"
+    },
+    {
+      "exercise": "",
+      "example": "timeout"
+    },
+    {
+      "exercise": "",
+      "example": "timestamp"
+    },
+    {
+      "exercise": "",
+      "example": "tls"
+    },
+    {
+      "exercise": "",
+      "example": "tmp"
+    },
+    {
+      "exercise": "",
+      "example": "to"
+    },
+    {
+      "exercise": "",
+      "example": "tok"
+    },
+    {
+      "exercise": "",
+      "example": "token"
+    },
+    {
+      "exercise": "",
+      "example": "top"
+    },
+    {
+      "exercise": "",
+      "example": "total"
+    },
+    {
+      "exercise": "",
+      "example": "tr"
+    },
+    {
+      "exercise": "",
+      "example": "transaction"
+    },
+    {
+      "exercise": "",
+      "example": "true"
+    },
+    {
+      "exercise": "",
+      "example": "ts"
+    },
+    {
+      "exercise": "",
+      "example": "tt"
+    },
+    {
+      "exercise": "",
+      "example": "two"
+    },
+    {
+      "exercise": "",
+      "example": "tx"
+    },
+    {
+      "exercise": "",
+      "example": "txn"
+    },
+    {
+      "exercise": "",
+      "example": "typ"
+    },
+    {
+      "exercise": "",
+      "example": "type"
+    },
+    {
+      "exercise": "",
+      "example": "types"
+    },
+    {
+      "exercise": "",
+      "example": "u"
+    },
+    {
+      "exercise": "",
+      "example": "ui"
+    },
+    {
+      "exercise": "",
+      "example": "uint"
+    },
+    {
+      "exercise": "",
+      "example": "uint16"
+    },
+    {
+      "exercise": "",
+      "example": "uint32"
+    },
+    {
+      "exercise": "",
+      "example": "uint64"
+    },
+    {
+      "exercise": "",
+      "example": "uint8"
+    },
+    {
+      "exercise": "",
+      "example": "uintptr"
+    },
+    {
+      "exercise": "",
+      "example": "unexpected"
+    },
+    {
+      "exercise": "",
+      "example": "unit"
+    },
+    {
+      "exercise": "",
+      "example": "unsafe"
+    },
+    {
+      "exercise": "",
+      "example": "until"
+    },
+    {
+      "exercise": "",
+      "example": "unversioned"
+    },
+    {
+      "exercise": "",
+      "example": "up"
+    },
+    {
+      "exercise": "",
+      "example": "update"
+    },
+    {
+      "exercise": "",
+      "example": "updated"
+    },
+    {
+      "exercise": "",
+      "example": "url"
+    },
+    {
+      "exercise": "",
+      "example": "urlParams_"
+    },
+    {
+      "exercise": "",
+      "example": "urls"
+    },
+    {
+      "exercise": "",
+      "example": "us"
+    },
+    {
+      "exercise": "",
+      "example": "usage"
+    },
+    {
+      "exercise": "",
+      "example": "use"
+    },
+    {
+      "exercise": "",
+      "example": "used"
+    },
+    {
+      "exercise": "",
+      "example": "user"
+    },
+    {
+      "exercise": "",
+      "example": "users"
+    },
+    {
+      "exercise": "",
+      "example": "using"
+    },
+    {
+      "exercise": "",
+      "example": "util"
+    },
+    {
+      "exercise": "",
+      "example": "utils"
+    },
+    {
+      "exercise": "",
+      "example": "v"
+    },
+    {
+      "exercise": "",
+      "example": "v1"
+    },
+    {
+      "exercise": "",
+      "example": "v2"
+    },
+    {
+      "exercise": "",
+      "example": "val"
+    },
+    {
+      "exercise": "",
+      "example": "valid"
+    },
+    {
+      "exercise": "",
+      "example": "value"
+    },
+    {
+      "exercise": "",
+      "example": "values"
+    },
+    {
+      "exercise": "",
+      "example": "var"
+    },
+    {
+      "exercise": "",
+      "example": "variable"
+    },
+    {
+      "exercise": "",
+      "example": "version"
+    },
+    {
+      "exercise": "",
+      "example": "volume"
+    },
+    {
+      "exercise": "",
+      "example": "volumes"
+    },
+    {
+      "exercise": "",
+      "example": "w"
+    },
+    {
+      "exercise": "",
+      "example": "wait"
+    },
+    {
+      "exercise": "",
+      "example": "want"
+    },
+    {
+      "exercise": "",
+      "example": "was"
+    },
+    {
+      "exercise": "",
+      "example": "watch"
+    },
+    {
+      "exercise": "",
+      "example": "we"
+    },
+    {
+      "exercise": "",
+      "example": "wg"
+    },
+    {
+      "exercise": "",
+      "example": "when"
+    },
+    {
+      "exercise": "",
+      "example": "where"
+    },
+    {
+      "exercise": "",
+      "example": "whether"
+    },
+    {
+      "exercise": "",
+      "example": "which"
+    },
+    {
+      "exercise": "",
+      "example": "will"
+    },
+    {
+      "exercise": "",
+      "example": "wire"
+    },
+    {
+      "exercise": "",
+      "example": "wireType"
+    },
+    {
+      "exercise": "",
+      "example": "with"
+    },
+    {
+      "exercise": "",
+      "example": "without"
+    },
+    {
+      "exercise": "",
+      "example": "work"
+    },
+    {
+      "exercise": "",
+      "example": "write"
+    },
+    {
+      "exercise": "",
+      "example": "wrong"
+    },
+    {
+      "exercise": "",
+      "example": "www"
+    },
+    {
+      "exercise": "",
+      "example": "x"
+    },
+    {
+      "exercise": "",
+      "example": "xml"
+    },
+    {
+      "exercise": "",
+      "example": "y"
+    },
+    {
+      "exercise": "",
+      "example": "yaml"
+    },
+    {
+      "exercise": "",
+      "example": "you"
+    },
+    {
+      "exercise": "",
+      "example": "your"
+    },
+    {
+      "exercise": "",
+      "example": "z"
+    },
+    {
+      "exercise": "",
+      "example": "zero"
+    },
+    {
+      "exercise": "",
+      "example": "zone"
+    },
+    {
+      "exercise": "",
+      "example": "Ω"
+    }
+  ]
+}

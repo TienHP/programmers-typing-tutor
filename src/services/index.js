@@ -1,18 +1,15 @@
 import { fetchJson } from '../utils'
 import {
-  CODE_MIRROR_MODES,
-  TRAINING_LEVELS
+  TRAININGS
 } from '../constants'
+import { pluck } from 'ramda'
 
 export const training = {
-  fetch (mode, level) {
-    if (CODE_MIRROR_MODES.indexOf(mode) === -1) {
-      throw new Error('Unknown Codemirror mode: ' + mode)
-    }
-    if (TRAINING_LEVELS.indexOf(level) === -1) {
-      throw new Error('Unknown Training level: ' + level)
+  fetch (trainingId) {
+    if (pluck('id', TRAININGS).indexOf(trainingId) === -1) {
+      throw new Error('Unknown training Id: ' + trainingId)
     }
 
-    return fetchJson(`training/${mode}/${level}.json`)
+    return fetchJson(`training/${trainingId}.json`)
   }
 }

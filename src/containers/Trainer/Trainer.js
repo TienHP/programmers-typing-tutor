@@ -6,10 +6,7 @@ import Trainer from '../../components/Trainer'
 import { without, head, last } from 'ramda'
 
 function mapStateToProps (state, props) {
-  const {
-    mode,
-    level
-  } = props.params
+  const { id } = props.params
 
   const training = selectors.getTraining(state, props)
   const currentId = training && head(without(training.lessonsCompleted, training.lessons))
@@ -21,8 +18,7 @@ function mapStateToProps (state, props) {
   const lessons = selectors.getLessons(state, props)
 
   return {
-    mode,
-    level,
+    id,
     training,
     lesson,
     lessons,

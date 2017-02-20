@@ -1,0 +1,3949 @@
+{
+  "id": "popular-cmake-words",
+  "name": "Popular cmake words training",
+  "mode": "cmake",
+  "level": "beginner",
+  "logo": "images/languages/cmake.png",
+  "lessons": [
+    {
+      "exercise": "",
+      "example": "9_"
+    },
+    {
+      "exercise": "",
+      "example": "A"
+    },
+    {
+      "exercise": "",
+      "example": "ABI"
+    },
+    {
+      "exercise": "",
+      "example": "ABSOLUTE"
+    },
+    {
+      "exercise": "",
+      "example": "ADD_CUSTOM_COMMAND"
+    },
+    {
+      "exercise": "",
+      "example": "AND"
+    },
+    {
+      "exercise": "",
+      "example": "ANDROID_ABI"
+    },
+    {
+      "exercise": "",
+      "example": "ANDROID_ARCH_NAME"
+    },
+    {
+      "exercise": "",
+      "example": "ANDROID_CXX_FLAGS"
+    },
+    {
+      "exercise": "",
+      "example": "ANDROID_LINKER_FLAGS"
+    },
+    {
+      "exercise": "",
+      "example": "ANDROID_NATIVE_API_LEVEL"
+    },
+    {
+      "exercise": "",
+      "example": "ANDROID_NDK"
+    },
+    {
+      "exercise": "",
+      "example": "ANDROID_NDK_ABI_NAME"
+    },
+    {
+      "exercise": "",
+      "example": "ANDROID_STANDALONE_TOOLCHAIN"
+    },
+    {
+      "exercise": "",
+      "example": "ANDROID_STL"
+    },
+    {
+      "exercise": "",
+      "example": "API"
+    },
+    {
+      "exercise": "",
+      "example": "APPEND"
+    },
+    {
+      "exercise": "",
+      "example": "APPLE"
+    },
+    {
+      "exercise": "",
+      "example": "ARCH"
+    },
+    {
+      "exercise": "",
+      "example": "ARGC"
+    },
+    {
+      "exercise": "",
+      "example": "ARGN"
+    },
+    {
+      "exercise": "",
+      "example": "ARGS"
+    },
+    {
+      "exercise": "",
+      "example": "Add"
+    },
+    {
+      "exercise": "",
+      "example": "Android"
+    },
+    {
+      "exercise": "",
+      "example": "Arduino"
+    },
+    {
+      "exercise": "",
+      "example": "BLAS_LIBRARIES"
+    },
+    {
+      "exercise": "",
+      "example": "BLA_VENDOR"
+    },
+    {
+      "exercise": "",
+      "example": "BOOL"
+    },
+    {
+      "exercise": "",
+      "example": "BOOST_ROOT"
+    },
+    {
+      "exercise": "",
+      "example": "BUILD_SHARED_LIBS"
+    },
+    {
+      "exercise": "",
+      "example": "BUILD_TYPE"
+    },
+    {
+      "exercise": "",
+      "example": "Bb"
+    },
+    {
+      "exercise": "",
+      "example": "Boost"
+    },
+    {
+      "exercise": "",
+      "example": "Boost_"
+    },
+    {
+      "exercise": "",
+      "example": "Boost_FOUND"
+    },
+    {
+      "exercise": "",
+      "example": "Boost_INCLUDE_DIR"
+    },
+    {
+      "exercise": "",
+      "example": "Build"
+    },
+    {
+      "exercise": "",
+      "example": "C"
+    },
+    {
+      "exercise": "",
+      "example": "CACHE"
+    },
+    {
+      "exercise": "",
+      "example": "CHECK_FUNCTION_EXISTS"
+    },
+    {
+      "exercise": "",
+      "example": "CHECK_INCLUDE_FILES"
+    },
+    {
+      "exercise": "",
+      "example": "CHECK_SYMBOL_EXISTS"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_ABSOLUTE_DESTINATION_FILES"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_ASM_TARGET_INCLUDE_PATH"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_BINARY_DIR"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_BUILD_TYPE"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_COMMAND"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_COMPILER_IS_CYGWIN"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_COMPILER_IS_GNUCXX"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_COMPILER_IS_MINGW"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_CONFIGURATION_TYPES"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_CROSSCOMPILING"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_CURRENT_BINARY_DIR"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_CURRENT_LIST_DIR"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_CURRENT_LIST_FILE"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_CURRENT_LIST_LINE"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_CURRENT_SOURCE_DIR"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_CXX_COMPILER"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_CXX_COMPILER_ID"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_CXX_FLAGS"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_CXX_FLAGS_DEBUG"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_CXX_INCLUDE_REGEX_COMPLAIN"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_CXX_INCLUDE_REGEX_SCAN"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_CXX_TARGET_INCLUDE_PATH"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_C_COMPILER"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_C_FLAGS"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_C_INCLUDE_PATH"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_C_INCLUDE_REGEX_COMPLAIN"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_C_INCLUDE_REGEX_SCAN"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_C_TARGET_INCLUDE_PATH"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_DEPENDS_CHECK_C"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_DEPENDS_CHECK_CXX"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_DEPENDS_LANGUAGES"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_EXE_LINKER_FLAGS"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_EXTRA_INCLUDE_FILES"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_FILES_DIRECTORY"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_FIND_LIBRARY_SUFFIXES"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_FIND_ROOT_PATH_MODE_INCLUDE"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_FIND_ROOT_PATH_MODE_LIBRARY"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_FIND_ROOT_PATH_MODE_PROGRAM"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_FORCE_UNIX_PATHS"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_Fortran_TARGET_INCLUDE_PATH"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_GENERATOR"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_INSTALL_COMPONENT"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_INSTALL_CONFIG_NAME"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_INSTALL_DO_STRIP"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_INSTALL_LOCAL_ONLY"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_INSTALL_MANIFEST"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_INSTALL_PREFIX"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_INSTALL_SO_NO_EXE"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_MATCH_1"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_REQUIRED_FLAGS"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_REQUIRED_INCLUDES"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_REQUIRED_LIBRARIES"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_SIZEOF_VOID_P"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_SOURCE_DIR"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_SYSTEM_NAME"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_SYSTEM_PROCESSOR"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_TARGET_DEFINITIONS"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_TARGET_LINKED_INFO_FILES"
+    },
+    {
+      "exercise": "",
+      "example": "CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION"
+    },
+    {
+      "exercise": "",
+      "example": "CMake"
+    },
+    {
+      "exercise": "",
+      "example": "CMakeCCompiler"
+    },
+    {
+      "exercise": "",
+      "example": "CMakeCXXCompiler"
+    },
+    {
+      "exercise": "",
+      "example": "CMakeDirectoryInformation"
+    },
+    {
+      "exercise": "",
+      "example": "CMakeFiles"
+    },
+    {
+      "exercise": "",
+      "example": "CMakeLists"
+    },
+    {
+      "exercise": "",
+      "example": "CMakeParseArguments"
+    },
+    {
+      "exercise": "",
+      "example": "CMakeSystem"
+    },
+    {
+      "exercise": "",
+      "example": "COMMAND"
+    },
+    {
+      "exercise": "",
+      "example": "COMMENT"
+    },
+    {
+      "exercise": "",
+      "example": "COMMON"
+    },
+    {
+      "exercise": "",
+      "example": "COMPILE_FLAGS"
+    },
+    {
+      "exercise": "",
+      "example": "COMPONENT"
+    },
+    {
+      "exercise": "",
+      "example": "CONFIGURATIONS"
+    },
+    {
+      "exercise": "",
+      "example": "COPYING"
+    },
+    {
+      "exercise": "",
+      "example": "CPack"
+    },
+    {
+      "exercise": "",
+      "example": "CUDA"
+    },
+    {
+      "exercise": "",
+      "example": "CXX"
+    },
+    {
+      "exercise": "",
+      "example": "CYGWIN"
+    },
+    {
+      "exercise": "",
+      "example": "Cellar"
+    },
+    {
+      "exercise": "",
+      "example": "Check"
+    },
+    {
+      "exercise": "",
+      "example": "Clang"
+    },
+    {
+      "exercise": "",
+      "example": "Compiler"
+    },
+    {
+      "exercise": "",
+      "example": "Could"
+    },
+    {
+      "exercise": "",
+      "example": "Create"
+    },
+    {
+      "exercise": "",
+      "example": "D"
+    },
+    {
+      "exercise": "",
+      "example": "DEBUG"
+    },
+    {
+      "exercise": "",
+      "example": "DEFAULT_MSG"
+    },
+    {
+      "exercise": "",
+      "example": "DEFINED"
+    },
+    {
+      "exercise": "",
+      "example": "DEPENDS"
+    },
+    {
+      "exercise": "",
+      "example": "DESTINATION"
+    },
+    {
+      "exercise": "",
+      "example": "DIRECTORY"
+    },
+    {
+      "exercise": "",
+      "example": "DO"
+    },
+    {
+      "exercise": "",
+      "example": "DOC"
+    },
+    {
+      "exercise": "",
+      "example": "Darwin"
+    },
+    {
+      "exercise": "",
+      "example": "Dd"
+    },
+    {
+      "exercise": "",
+      "example": "Debug"
+    },
+    {
+      "exercise": "",
+      "example": "Default"
+    },
+    {
+      "exercise": "",
+      "example": "Define"
+    },
+    {
+      "exercise": "",
+      "example": "DependInfo"
+    },
+    {
+      "exercise": "",
+      "example": "Doxygen"
+    },
+    {
+      "exercise": "",
+      "example": "E"
+    },
+    {
+      "exercise": "",
+      "example": "EDIT"
+    },
+    {
+      "exercise": "",
+      "example": "ELSE"
+    },
+    {
+      "exercise": "",
+      "example": "ELSEIF"
+    },
+    {
+      "exercise": "",
+      "example": "ENDFOREACH"
+    },
+    {
+      "exercise": "",
+      "example": "ENDFUNCTION"
+    },
+    {
+      "exercise": "",
+      "example": "ENDIF"
+    },
+    {
+      "exercise": "",
+      "example": "ENDMACRO"
+    },
+    {
+      "exercise": "",
+      "example": "ENV"
+    },
+    {
+      "exercise": "",
+      "example": "EQUAL"
+    },
+    {
+      "exercise": "",
+      "example": "ERROR_QUIET"
+    },
+    {
+      "exercise": "",
+      "example": "EXECUTE_PROCESS"
+    },
+    {
+      "exercise": "",
+      "example": "EXISTS"
+    },
+    {
+      "exercise": "",
+      "example": "EXPR"
+    },
+    {
+      "exercise": "",
+      "example": "Ee"
+    },
+    {
+      "exercise": "",
+      "example": "Enable"
+    },
+    {
+      "exercise": "",
+      "example": "Example"
+    },
+    {
+      "exercise": "",
+      "example": "ExternalProject_Add"
+    },
+    {
+      "exercise": "",
+      "example": "FALSE"
+    },
+    {
+      "exercise": "",
+      "example": "FATAL_ERROR"
+    },
+    {
+      "exercise": "",
+      "example": "FILE"
+    },
+    {
+      "exercise": "",
+      "example": "FILEPATH"
+    },
+    {
+      "exercise": "",
+      "example": "FILES"
+    },
+    {
+      "exercise": "",
+      "example": "FIND"
+    },
+    {
+      "exercise": "",
+      "example": "FIND_LIBRARY"
+    },
+    {
+      "exercise": "",
+      "example": "FIND_PACKAGE"
+    },
+    {
+      "exercise": "",
+      "example": "FIND_PATH"
+    },
+    {
+      "exercise": "",
+      "example": "FIND_SFML_COMPONENT_UPPER"
+    },
+    {
+      "exercise": "",
+      "example": "FORCE"
+    },
+    {
+      "exercise": "",
+      "example": "FOREACH"
+    },
+    {
+      "exercise": "",
+      "example": "Files"
+    },
+    {
+      "exercise": "",
+      "example": "Find"
+    },
+    {
+      "exercise": "",
+      "example": "FindPackageHandleStandardArgs"
+    },
+    {
+      "exercise": "",
+      "example": "Flags"
+    },
+    {
+      "exercise": "",
+      "example": "For"
+    },
+    {
+      "exercise": "",
+      "example": "Force"
+    },
+    {
+      "exercise": "",
+      "example": "Fortran"
+    },
+    {
+      "exercise": "",
+      "example": "Found"
+    },
+    {
+      "exercise": "",
+      "example": "Frameworks"
+    },
+    {
+      "exercise": "",
+      "example": "GCC"
+    },
+    {
+      "exercise": "",
+      "example": "GET"
+    },
+    {
+      "exercise": "",
+      "example": "GET_FILENAME_COMPONENT"
+    },
+    {
+      "exercise": "",
+      "example": "GLOB"
+    },
+    {
+      "exercise": "",
+      "example": "GLOBAL"
+    },
+    {
+      "exercise": "",
+      "example": "GREATER"
+    },
+    {
+      "exercise": "",
+      "example": "Generated"
+    },
+    {
+      "exercise": "",
+      "example": "Generating"
+    },
+    {
+      "exercise": "",
+      "example": "Generator"
+    },
+    {
+      "exercise": "",
+      "example": "Get"
+    },
+    {
+      "exercise": "",
+      "example": "HEADER"
+    },
+    {
+      "exercise": "",
+      "example": "HINTS"
+    },
+    {
+      "exercise": "",
+      "example": "HTML"
+    },
+    {
+      "exercise": "",
+      "example": "I"
+    },
+    {
+      "exercise": "",
+      "example": "IF"
+    },
+    {
+      "exercise": "",
+      "example": "IMPORTED_CONFIGURATIONS"
+    },
+    {
+      "exercise": "",
+      "example": "IN"
+    },
+    {
+      "exercise": "",
+      "example": "INCLUDE"
+    },
+    {
+      "exercise": "",
+      "example": "INSTALL"
+    },
+    {
+      "exercise": "",
+      "example": "INSTALL_DIR"
+    },
+    {
+      "exercise": "",
+      "example": "INTERNAL"
+    },
+    {
+      "exercise": "",
+      "example": "IS_ABSOLUTE"
+    },
+    {
+      "exercise": "",
+      "example": "ITK"
+    },
+    {
+      "exercise": "",
+      "example": "If"
+    },
+    {
+      "exercise": "",
+      "example": "Ii"
+    },
+    {
+      "exercise": "",
+      "example": "In"
+    },
+    {
+      "exercise": "",
+      "example": "Include"
+    },
+    {
+      "exercise": "",
+      "example": "Install"
+    },
+    {
+      "exercise": "",
+      "example": "Intel"
+    },
+    {
+      "exercise": "",
+      "example": "It"
+    },
+    {
+      "exercise": "",
+      "example": "L"
+    },
+    {
+      "exercise": "",
+      "example": "LATEX_TARGET"
+    },
+    {
+      "exercise": "",
+      "example": "LENGTH"
+    },
+    {
+      "exercise": "",
+      "example": "LESS"
+    },
+    {
+      "exercise": "",
+      "example": "LIB"
+    },
+    {
+      "exercise": "",
+      "example": "LIBRARIES"
+    },
+    {
+      "exercise": "",
+      "example": "LIST"
+    },
+    {
+      "exercise": "",
+      "example": "LLVM"
+    },
+    {
+      "exercise": "",
+      "example": "LaTeX"
+    },
+    {
+      "exercise": "",
+      "example": "Library"
+    },
+    {
+      "exercise": "",
+      "example": "Linux"
+    },
+    {
+      "exercise": "",
+      "example": "Ll"
+    },
+    {
+      "exercise": "",
+      "example": "Look"
+    },
+    {
+      "exercise": "",
+      "example": "MACRO"
+    },
+    {
+      "exercise": "",
+      "example": "MARK_AS_ADVANCED"
+    },
+    {
+      "exercise": "",
+      "example": "MATCH"
+    },
+    {
+      "exercise": "",
+      "example": "MATCHES"
+    },
+    {
+      "exercise": "",
+      "example": "MESSAGE"
+    },
+    {
+      "exercise": "",
+      "example": "MINGW"
+    },
+    {
+      "exercise": "",
+      "example": "MODULE"
+    },
+    {
+      "exercise": "",
+      "example": "MPI"
+    },
+    {
+      "exercise": "",
+      "example": "MPI_"
+    },
+    {
+      "exercise": "",
+      "example": "MSVC"
+    },
+    {
+      "exercise": "",
+      "example": "MY_CHECK_TYPE_SIZE"
+    },
+    {
+      "exercise": "",
+      "example": "Mac"
+    },
+    {
+      "exercise": "",
+      "example": "Make"
+    },
+    {
+      "exercise": "",
+      "example": "Makefile"
+    },
+    {
+      "exercise": "",
+      "example": "Makefiles"
+    },
+    {
+      "exercise": "",
+      "example": "MinGW"
+    },
+    {
+      "exercise": "",
+      "example": "Modules"
+    },
+    {
+      "exercise": "",
+      "example": "MySQL"
+    },
+    {
+      "exercise": "",
+      "example": "NAME"
+    },
+    {
+      "exercise": "",
+      "example": "NAMES"
+    },
+    {
+      "exercise": "",
+      "example": "NAME_WE"
+    },
+    {
+      "exercise": "",
+      "example": "NAS"
+    },
+    {
+      "exercise": "",
+      "example": "NDK"
+    },
+    {
+      "exercise": "",
+      "example": "NEVER"
+    },
+    {
+      "exercise": "",
+      "example": "NO"
+    },
+    {
+      "exercise": "",
+      "example": "NOT"
+    },
+    {
+      "exercise": "",
+      "example": "NOTFOUND"
+    },
+    {
+      "exercise": "",
+      "example": "NO_DEFAULT_PATH"
+    },
+    {
+      "exercise": "",
+      "example": "Nn"
+    },
+    {
+      "exercise": "",
+      "example": "No"
+    },
+    {
+      "exercise": "",
+      "example": "Note"
+    },
+    {
+      "exercise": "",
+      "example": "OF"
+    },
+    {
+      "exercise": "",
+      "example": "OFF"
+    },
+    {
+      "exercise": "",
+      "example": "OGRE"
+    },
+    {
+      "exercise": "",
+      "example": "OGRE_"
+    },
+    {
+      "exercise": "",
+      "example": "ON"
+    },
+    {
+      "exercise": "",
+      "example": "ONLY"
+    },
+    {
+      "exercise": "",
+      "example": "OPTIONAL"
+    },
+    {
+      "exercise": "",
+      "example": "OPTIONS"
+    },
+    {
+      "exercise": "",
+      "example": "OR"
+    },
+    {
+      "exercise": "",
+      "example": "OS"
+    },
+    {
+      "exercise": "",
+      "example": "OSX"
+    },
+    {
+      "exercise": "",
+      "example": "OUTPUT"
+    },
+    {
+      "exercise": "",
+      "example": "OUTPUT_STRIP_TRAILING_WHITESPACE"
+    },
+    {
+      "exercise": "",
+      "example": "OUTPUT_VARIABLE"
+    },
+    {
+      "exercise": "",
+      "example": "On"
+    },
+    {
+      "exercise": "",
+      "example": "Once"
+    },
+    {
+      "exercise": "",
+      "example": "OpenCV"
+    },
+    {
+      "exercise": "",
+      "example": "OpenGL"
+    },
+    {
+      "exercise": "",
+      "example": "P"
+    },
+    {
+      "exercise": "",
+      "example": "PACKAGE_NAME"
+    },
+    {
+      "exercise": "",
+      "example": "PARENT_SCOPE"
+    },
+    {
+      "exercise": "",
+      "example": "PATH"
+    },
+    {
+      "exercise": "",
+      "example": "PATHS"
+    },
+    {
+      "exercise": "",
+      "example": "PATH_SUFFIXES"
+    },
+    {
+      "exercise": "",
+      "example": "PLUGIN"
+    },
+    {
+      "exercise": "",
+      "example": "POST_BUILD"
+    },
+    {
+      "exercise": "",
+      "example": "PREFIX"
+    },
+    {
+      "exercise": "",
+      "example": "PROJECT_NAME"
+    },
+    {
+      "exercise": "",
+      "example": "PROPERTIES"
+    },
+    {
+      "exercise": "",
+      "example": "PROPERTY"
+    },
+    {
+      "exercise": "",
+      "example": "PYTHON_EXECUTABLE"
+    },
+    {
+      "exercise": "",
+      "example": "Path"
+    },
+    {
+      "exercise": "",
+      "example": "Per"
+    },
+    {
+      "exercise": "",
+      "example": "PkgConfig"
+    },
+    {
+      "exercise": "",
+      "example": "Platform"
+    },
+    {
+      "exercise": "",
+      "example": "Preprocessor"
+    },
+    {
+      "exercise": "",
+      "example": "Program"
+    },
+    {
+      "exercise": "",
+      "example": "Python"
+    },
+    {
+      "exercise": "",
+      "example": "QT_"
+    },
+    {
+      "exercise": "",
+      "example": "QUIET"
+    },
+    {
+      "exercise": "",
+      "example": "Qt"
+    },
+    {
+      "exercise": "",
+      "example": "QtCore"
+    },
+    {
+      "exercise": "",
+      "example": "READ"
+    },
+    {
+      "exercise": "",
+      "example": "REGEX"
+    },
+    {
+      "exercise": "",
+      "example": "RELEASE"
+    },
+    {
+      "exercise": "",
+      "example": "REMOVE_DUPLICATES"
+    },
+    {
+      "exercise": "",
+      "example": "REMOVE_ITEM"
+    },
+    {
+      "exercise": "",
+      "example": "REMOVE_RECURSE"
+    },
+    {
+      "exercise": "",
+      "example": "REPLACE"
+    },
+    {
+      "exercise": "",
+      "example": "REQUIRED"
+    },
+    {
+      "exercise": "",
+      "example": "RESULT_VARIABLE"
+    },
+    {
+      "exercise": "",
+      "example": "ROOT_BUILD_OPTION"
+    },
+    {
+      "exercise": "",
+      "example": "RPATH"
+    },
+    {
+      "exercise": "",
+      "example": "Redistribution"
+    },
+    {
+      "exercise": "",
+      "example": "RelWithDebInfo"
+    },
+    {
+      "exercise": "",
+      "example": "Relative"
+    },
+    {
+      "exercise": "",
+      "example": "Release"
+    },
+    {
+      "exercise": "",
+      "example": "Rr"
+    },
+    {
+      "exercise": "",
+      "example": "SCRIPTS"
+    },
+    {
+      "exercise": "",
+      "example": "SDK"
+    },
+    {
+      "exercise": "",
+      "example": "SDL"
+    },
+    {
+      "exercise": "",
+      "example": "SDL2"
+    },
+    {
+      "exercise": "",
+      "example": "SDL2_LIBRARY_TEMP"
+    },
+    {
+      "exercise": "",
+      "example": "SET"
+    },
+    {
+      "exercise": "",
+      "example": "SFML"
+    },
+    {
+      "exercise": "",
+      "example": "SFML_"
+    },
+    {
+      "exercise": "",
+      "example": "SHARED"
+    },
+    {
+      "exercise": "",
+      "example": "SOURCE"
+    },
+    {
+      "exercise": "",
+      "example": "SOURCES"
+    },
+    {
+      "exercise": "",
+      "example": "STATIC"
+    },
+    {
+      "exercise": "",
+      "example": "STATUS"
+    },
+    {
+      "exercise": "",
+      "example": "STREQUAL"
+    },
+    {
+      "exercise": "",
+      "example": "STRING"
+    },
+    {
+      "exercise": "",
+      "example": "STRINGS"
+    },
+    {
+      "exercise": "",
+      "example": "See"
+    },
+    {
+      "exercise": "",
+      "example": "Set"
+    },
+    {
+      "exercise": "",
+      "example": "SimplexLP"
+    },
+    {
+      "exercise": "",
+      "example": "Ss"
+    },
+    {
+      "exercise": "",
+      "example": "Studio"
+    },
+    {
+      "exercise": "",
+      "example": "System"
+    },
+    {
+      "exercise": "",
+      "example": "TARGET"
+    },
+    {
+      "exercise": "",
+      "example": "TARGET_NAME"
+    },
+    {
+      "exercise": "",
+      "example": "THE"
+    },
+    {
+      "exercise": "",
+      "example": "TODO"
+    },
+    {
+      "exercise": "",
+      "example": "TOUPPER"
+    },
+    {
+      "exercise": "",
+      "example": "TRUE"
+    },
+    {
+      "exercise": "",
+      "example": "TYPE"
+    },
+    {
+      "exercise": "",
+      "example": "Targets"
+    },
+    {
+      "exercise": "",
+      "example": "Test"
+    },
+    {
+      "exercise": "",
+      "example": "Testfile"
+    },
+    {
+      "exercise": "",
+      "example": "The"
+    },
+    {
+      "exercise": "",
+      "example": "This"
+    },
+    {
+      "exercise": "",
+      "example": "To"
+    },
+    {
+      "exercise": "",
+      "example": "True"
+    },
+    {
+      "exercise": "",
+      "example": "Try"
+    },
+    {
+      "exercise": "",
+      "example": "UNIX"
+    },
+    {
+      "exercise": "",
+      "example": "URL"
+    },
+    {
+      "exercise": "",
+      "example": "UTIL"
+    },
+    {
+      "exercise": "",
+      "example": "Unix"
+    },
+    {
+      "exercise": "",
+      "example": "Unspecified"
+    },
+    {
+      "exercise": "",
+      "example": "Usage"
+    },
+    {
+      "exercise": "",
+      "example": "Use"
+    },
+    {
+      "exercise": "",
+      "example": "VAR"
+    },
+    {
+      "exercise": "",
+      "example": "VARIABLE"
+    },
+    {
+      "exercise": "",
+      "example": "VERBATIM"
+    },
+    {
+      "exercise": "",
+      "example": "VERSION"
+    },
+    {
+      "exercise": "",
+      "example": "VERSION_LESS"
+    },
+    {
+      "exercise": "",
+      "example": "Version"
+    },
+    {
+      "exercise": "",
+      "example": "Visual"
+    },
+    {
+      "exercise": "",
+      "example": "WARNING"
+    },
+    {
+      "exercise": "",
+      "example": "WIN32"
+    },
+    {
+      "exercise": "",
+      "example": "WORKING_DIRECTORY"
+    },
+    {
+      "exercise": "",
+      "example": "WRITE"
+    },
+    {
+      "exercise": "",
+      "example": "We"
+    },
+    {
+      "exercise": "",
+      "example": "When"
+    },
+    {
+      "exercise": "",
+      "example": "Windows"
+    },
+    {
+      "exercise": "",
+      "example": "Wl"
+    },
+    {
+      "exercise": "",
+      "example": "X"
+    },
+    {
+      "exercise": "",
+      "example": "X11"
+    },
+    {
+      "exercise": "",
+      "example": "YES"
+    },
+    {
+      "exercise": "",
+      "example": "You"
+    },
+    {
+      "exercise": "",
+      "example": "Za"
+    },
+    {
+      "exercise": "",
+      "example": "_"
+    },
+    {
+      "exercise": "",
+      "example": "_DIR"
+    },
+    {
+      "exercise": "",
+      "example": "_FOUND"
+    },
+    {
+      "exercise": "",
+      "example": "_IMPORT_CHECK_TARGETS"
+    },
+    {
+      "exercise": "",
+      "example": "_LIBRARIES"
+    },
+    {
+      "exercise": "",
+      "example": "_LIBRARY"
+    },
+    {
+      "exercise": "",
+      "example": "_LIBRARY_DEBUG"
+    },
+    {
+      "exercise": "",
+      "example": "_LIBRARY_RELEASE"
+    },
+    {
+      "exercise": "",
+      "example": "_NAME"
+    },
+    {
+      "exercise": "",
+      "example": "__"
+    },
+    {
+      "exercise": "",
+      "example": "__availableToolchains"
+    },
+    {
+      "exercise": "",
+      "example": "__cmd"
+    },
+    {
+      "exercise": "",
+      "example": "__libstl"
+    },
+    {
+      "exercise": "",
+      "example": "__var"
+    },
+    {
+      "exercise": "",
+      "example": "_argn"
+    },
+    {
+      "exercise": "",
+      "example": "_boost_COMPILER"
+    },
+    {
+      "exercise": "",
+      "example": "_file"
+    },
+    {
+      "exercise": "",
+      "example": "_flags"
+    },
+    {
+      "exercise": "",
+      "example": "_index"
+    },
+    {
+      "exercise": "",
+      "example": "_item"
+    },
+    {
+      "exercise": "",
+      "example": "_language"
+    },
+    {
+      "exercise": "",
+      "example": "_library"
+    },
+    {
+      "exercise": "",
+      "example": "_msg"
+    },
+    {
+      "exercise": "",
+      "example": "_name"
+    },
+    {
+      "exercise": "",
+      "example": "_prefix"
+    },
+    {
+      "exercise": "",
+      "example": "_prefixFile"
+    },
+    {
+      "exercise": "",
+      "example": "_sourceFiles"
+    },
+    {
+      "exercise": "",
+      "example": "_state"
+    },
+    {
+      "exercise": "",
+      "example": "_target"
+    },
+    {
+      "exercise": "",
+      "example": "_targetName"
+    },
+    {
+      "exercise": "",
+      "example": "_var"
+    },
+    {
+      "exercise": "",
+      "example": "a"
+    },
+    {
+      "exercise": "",
+      "example": "about"
+    },
+    {
+      "exercise": "",
+      "example": "absolute"
+    },
+    {
+      "exercise": "",
+      "example": "accompanying"
+    },
+    {
+      "exercise": "",
+      "example": "add"
+    },
+    {
+      "exercise": "",
+      "example": "add_custom_command"
+    },
+    {
+      "exercise": "",
+      "example": "add_custom_target"
+    },
+    {
+      "exercise": "",
+      "example": "add_definitions"
+    },
+    {
+      "exercise": "",
+      "example": "add_dependencies"
+    },
+    {
+      "exercise": "",
+      "example": "add_library"
+    },
+    {
+      "exercise": "",
+      "example": "added"
+    },
+    {
+      "exercise": "",
+      "example": "additional"
+    },
+    {
+      "exercise": "",
+      "example": "after"
+    },
+    {
+      "exercise": "",
+      "example": "again"
+    },
+    {
+      "exercise": "",
+      "example": "against"
+    },
+    {
+      "exercise": "",
+      "example": "all"
+    },
+    {
+      "exercise": "",
+      "example": "already"
+    },
+    {
+      "exercise": "",
+      "example": "also"
+    },
+    {
+      "exercise": "",
+      "example": "always"
+    },
+    {
+      "exercise": "",
+      "example": "an"
+    },
+    {
+      "exercise": "",
+      "example": "and"
+    },
+    {
+      "exercise": "",
+      "example": "android"
+    },
+    {
+      "exercise": "",
+      "example": "ans"
+    },
+    {
+      "exercise": "",
+      "example": "any"
+    },
+    {
+      "exercise": "",
+      "example": "app"
+    },
+    {
+      "exercise": "",
+      "example": "append"
+    },
+    {
+      "exercise": "",
+      "example": "apps"
+    },
+    {
+      "exercise": "",
+      "example": "arch"
+    },
+    {
+      "exercise": "",
+      "example": "architecture"
+    },
+    {
+      "exercise": "",
+      "example": "are"
+    },
+    {
+      "exercise": "",
+      "example": "arg"
+    },
+    {
+      "exercise": "",
+      "example": "args"
+    },
+    {
+      "exercise": "",
+      "example": "argument"
+    },
+    {
+      "exercise": "",
+      "example": "arguments"
+    },
+    {
+      "exercise": "",
+      "example": "arm"
+    },
+    {
+      "exercise": "",
+      "example": "armeabi"
+    },
+    {
+      "exercise": "",
+      "example": "as"
+    },
+    {
+      "exercise": "",
+      "example": "at"
+    },
+    {
+      "exercise": "",
+      "example": "automatically"
+    },
+    {
+      "exercise": "",
+      "example": "available"
+    },
+    {
+      "exercise": "",
+      "example": "base"
+    },
+    {
+      "exercise": "",
+      "example": "based"
+    },
+    {
+      "exercise": "",
+      "example": "basename"
+    },
+    {
+      "exercise": "",
+      "example": "be"
+    },
+    {
+      "exercise": "",
+      "example": "because"
+    },
+    {
+      "exercise": "",
+      "example": "been"
+    },
+    {
+      "exercise": "",
+      "example": "before"
+    },
+    {
+      "exercise": "",
+      "example": "being"
+    },
+    {
+      "exercise": "",
+      "example": "bin"
+    },
+    {
+      "exercise": "",
+      "example": "binary"
+    },
+    {
+      "exercise": "",
+      "example": "bindings"
+    },
+    {
+      "exercise": "",
+      "example": "bit"
+    },
+    {
+      "exercise": "",
+      "example": "blank"
+    },
+    {
+      "exercise": "",
+      "example": "boost"
+    },
+    {
+      "exercise": "",
+      "example": "both"
+    },
+    {
+      "exercise": "",
+      "example": "break"
+    },
+    {
+      "exercise": "",
+      "example": "build"
+    },
+    {
+      "exercise": "",
+      "example": "building"
+    },
+    {
+      "exercise": "",
+      "example": "builds"
+    },
+    {
+      "exercise": "",
+      "example": "built"
+    },
+    {
+      "exercise": "",
+      "example": "but"
+    },
+    {
+      "exercise": "",
+      "example": "by"
+    },
+    {
+      "exercise": "",
+      "example": "c"
+    },
+    {
+      "exercise": "",
+      "example": "cache"
+    },
+    {
+      "exercise": "",
+      "example": "call"
+    },
+    {
+      "exercise": "",
+      "example": "caller"
+    },
+    {
+      "exercise": "",
+      "example": "can"
+    },
+    {
+      "exercise": "",
+      "example": "case"
+    },
+    {
+      "exercise": "",
+      "example": "catkin"
+    },
+    {
+      "exercise": "",
+      "example": "cc"
+    },
+    {
+      "exercise": "",
+      "example": "change"
+    },
+    {
+      "exercise": "",
+      "example": "char"
+    },
+    {
+      "exercise": "",
+      "example": "check"
+    },
+    {
+      "exercise": "",
+      "example": "check_function_exists"
+    },
+    {
+      "exercise": "",
+      "example": "check_include_file"
+    },
+    {
+      "exercise": "",
+      "example": "checks"
+    },
+    {
+      "exercise": "",
+      "example": "clang"
+    },
+    {
+      "exercise": "",
+      "example": "class"
+    },
+    {
+      "exercise": "",
+      "example": "classes"
+    },
+    {
+      "exercise": "",
+      "example": "clean"
+    },
+    {
+      "exercise": "",
+      "example": "cmake"
+    },
+    {
+      "exercise": "",
+      "example": "cmake_policy"
+    },
+    {
+      "exercise": "",
+      "example": "cmakedefine"
+    },
+    {
+      "exercise": "",
+      "example": "cmd"
+    },
+    {
+      "exercise": "",
+      "example": "cmeon"
+    },
+    {
+      "exercise": "",
+      "example": "cn"
+    },
+    {
+      "exercise": "",
+      "example": "code"
+    },
+    {
+      "exercise": "",
+      "example": "com"
+    },
+    {
+      "exercise": "",
+      "example": "command"
+    },
+    {
+      "exercise": "",
+      "example": "commands"
+    },
+    {
+      "exercise": "",
+      "example": "common"
+    },
+    {
+      "exercise": "",
+      "example": "compatibility"
+    },
+    {
+      "exercise": "",
+      "example": "compilation"
+    },
+    {
+      "exercise": "",
+      "example": "compile"
+    },
+    {
+      "exercise": "",
+      "example": "compiled"
+    },
+    {
+      "exercise": "",
+      "example": "compiler"
+    },
+    {
+      "exercise": "",
+      "example": "component"
+    },
+    {
+      "exercise": "",
+      "example": "components"
+    },
+    {
+      "exercise": "",
+      "example": "config"
+    },
+    {
+      "exercise": "",
+      "example": "configuration"
+    },
+    {
+      "exercise": "",
+      "example": "configure"
+    },
+    {
+      "exercise": "",
+      "example": "configure_file"
+    },
+    {
+      "exercise": "",
+      "example": "contain"
+    },
+    {
+      "exercise": "",
+      "example": "contained"
+    },
+    {
+      "exercise": "",
+      "example": "contains"
+    },
+    {
+      "exercise": "",
+      "example": "conversion"
+    },
+    {
+      "exercise": "",
+      "example": "copied"
+    },
+    {
+      "exercise": "",
+      "example": "copy"
+    },
+    {
+      "exercise": "",
+      "example": "core"
+    },
+    {
+      "exercise": "",
+      "example": "corresponding"
+    },
+    {
+      "exercise": "",
+      "example": "coverage"
+    },
+    {
+      "exercise": "",
+      "example": "cpp"
+    },
+    {
+      "exercise": "",
+      "example": "create"
+    },
+    {
+      "exercise": "",
+      "example": "csw"
+    },
+    {
+      "exercise": "",
+      "example": "cuda_execute_process"
+    },
+    {
+      "exercise": "",
+      "example": "current"
+    },
+    {
+      "exercise": "",
+      "example": "custom"
+    },
+    {
+      "exercise": "",
+      "example": "cxx"
+    },
+    {
+      "exercise": "",
+      "example": "d"
+    },
+    {
+      "exercise": "",
+      "example": "data"
+    },
+    {
+      "exercise": "",
+      "example": "debug"
+    },
+    {
+      "exercise": "",
+      "example": "def"
+    },
+    {
+      "exercise": "",
+      "example": "default"
+    },
+    {
+      "exercise": "",
+      "example": "define"
+    },
+    {
+      "exercise": "",
+      "example": "defined"
+    },
+    {
+      "exercise": "",
+      "example": "defines"
+    },
+    {
+      "exercise": "",
+      "example": "definitions"
+    },
+    {
+      "exercise": "",
+      "example": "demos"
+    },
+    {
+      "exercise": "",
+      "example": "dep"
+    },
+    {
+      "exercise": "",
+      "example": "depend"
+    },
+    {
+      "exercise": "",
+      "example": "dependencies"
+    },
+    {
+      "exercise": "",
+      "example": "dependency"
+    },
+    {
+      "exercise": "",
+      "example": "depends"
+    },
+    {
+      "exercise": "",
+      "example": "deprecated"
+    },
+    {
+      "exercise": "",
+      "example": "description"
+    },
+    {
+      "exercise": "",
+      "example": "details"
+    },
+    {
+      "exercise": "",
+      "example": "different"
+    },
+    {
+      "exercise": "",
+      "example": "dir"
+    },
+    {
+      "exercise": "",
+      "example": "directories"
+    },
+    {
+      "exercise": "",
+      "example": "directory"
+    },
+    {
+      "exercise": "",
+      "example": "dirs"
+    },
+    {
+      "exercise": "",
+      "example": "disable"
+    },
+    {
+      "exercise": "",
+      "example": "distribute"
+    },
+    {
+      "exercise": "",
+      "example": "distribution"
+    },
+    {
+      "exercise": "",
+      "example": "dll"
+    },
+    {
+      "exercise": "",
+      "example": "do"
+    },
+    {
+      "exercise": "",
+      "example": "doc"
+    },
+    {
+      "exercise": "",
+      "example": "documentation"
+    },
+    {
+      "exercise": "",
+      "example": "does"
+    },
+    {
+      "exercise": "",
+      "example": "doesn"
+    },
+    {
+      "exercise": "",
+      "example": "don"
+    },
+    {
+      "exercise": "",
+      "example": "done"
+    },
+    {
+      "exercise": "",
+      "example": "dot"
+    },
+    {
+      "exercise": "",
+      "example": "doxygen"
+    },
+    {
+      "exercise": "",
+      "example": "during"
+    },
+    {
+      "exercise": "",
+      "example": "e"
+    },
+    {
+      "exercise": "",
+      "example": "each"
+    },
+    {
+      "exercise": "",
+      "example": "eigen"
+    },
+    {
+      "exercise": "",
+      "example": "einstein"
+    },
+    {
+      "exercise": "",
+      "example": "else"
+    },
+    {
+      "exercise": "",
+      "example": "elseif"
+    },
+    {
+      "exercise": "",
+      "example": "empty"
+    },
+    {
+      "exercise": "",
+      "example": "enable"
+    },
+    {
+      "exercise": "",
+      "example": "enabled"
+    },
+    {
+      "exercise": "",
+      "example": "end"
+    },
+    {
+      "exercise": "",
+      "example": "endforeach"
+    },
+    {
+      "exercise": "",
+      "example": "endfunction"
+    },
+    {
+      "exercise": "",
+      "example": "endif"
+    },
+    {
+      "exercise": "",
+      "example": "endmacro"
+    },
+    {
+      "exercise": "",
+      "example": "entry"
+    },
+    {
+      "exercise": "",
+      "example": "environment"
+    },
+    {
+      "exercise": "",
+      "example": "error"
+    },
+    {
+      "exercise": "",
+      "example": "etc"
+    },
+    {
+      "exercise": "",
+      "example": "example"
+    },
+    {
+      "exercise": "",
+      "example": "exceptions"
+    },
+    {
+      "exercise": "",
+      "example": "exe"
+    },
+    {
+      "exercise": "",
+      "example": "executable"
+    },
+    {
+      "exercise": "",
+      "example": "execute_process"
+    },
+    {
+      "exercise": "",
+      "example": "exist"
+    },
+    {
+      "exercise": "",
+      "example": "exists"
+    },
+    {
+      "exercise": "",
+      "example": "exit"
+    },
+    {
+      "exercise": "",
+      "example": "export"
+    },
+    {
+      "exercise": "",
+      "example": "expressions"
+    },
+    {
+      "exercise": "",
+      "example": "extProjName"
+    },
+    {
+      "exercise": "",
+      "example": "extension"
+    },
+    {
+      "exercise": "",
+      "example": "external"
+    },
+    {
+      "exercise": "",
+      "example": "extra"
+    },
+    {
+      "exercise": "",
+      "example": "extras"
+    },
+    {
+      "exercise": "",
+      "example": "f"
+    },
+    {
+      "exercise": "",
+      "example": "fail"
+    },
+    {
+      "exercise": "",
+      "example": "false"
+    },
+    {
+      "exercise": "",
+      "example": "file"
+    },
+    {
+      "exercise": "",
+      "example": "filename"
+    },
+    {
+      "exercise": "",
+      "example": "files"
+    },
+    {
+      "exercise": "",
+      "example": "filter"
+    },
+    {
+      "exercise": "",
+      "example": "find"
+    },
+    {
+      "exercise": "",
+      "example": "find_library"
+    },
+    {
+      "exercise": "",
+      "example": "find_package"
+    },
+    {
+      "exercise": "",
+      "example": "find_package_handle_standard_args"
+    },
+    {
+      "exercise": "",
+      "example": "find_path"
+    },
+    {
+      "exercise": "",
+      "example": "find_program"
+    },
+    {
+      "exercise": "",
+      "example": "first"
+    },
+    {
+      "exercise": "",
+      "example": "flag"
+    },
+    {
+      "exercise": "",
+      "example": "flags"
+    },
+    {
+      "exercise": "",
+      "example": "fno"
+    },
+    {
+      "exercise": "",
+      "example": "following"
+    },
+    {
+      "exercise": "",
+      "example": "foo"
+    },
+    {
+      "exercise": "",
+      "example": "for"
+    },
+    {
+      "exercise": "",
+      "example": "force"
+    },
+    {
+      "exercise": "",
+      "example": "foreach"
+    },
+    {
+      "exercise": "",
+      "example": "format"
+    },
+    {
+      "exercise": "",
+      "example": "forms"
+    },
+    {
+      "exercise": "",
+      "example": "found"
+    },
+    {
+      "exercise": "",
+      "example": "framework"
+    },
+    {
+      "exercise": "",
+      "example": "from"
+    },
+    {
+      "exercise": "",
+      "example": "full"
+    },
+    {
+      "exercise": "",
+      "example": "function"
+    },
+    {
+      "exercise": "",
+      "example": "functions"
+    },
+    {
+      "exercise": "",
+      "example": "g"
+    },
+    {
+      "exercise": "",
+      "example": "gcc"
+    },
+    {
+      "exercise": "",
+      "example": "general"
+    },
+    {
+      "exercise": "",
+      "example": "generate"
+    },
+    {
+      "exercise": "",
+      "example": "generated"
+    },
+    {
+      "exercise": "",
+      "example": "generated_file"
+    },
+    {
+      "exercise": "",
+      "example": "generating"
+    },
+    {
+      "exercise": "",
+      "example": "generator"
+    },
+    {
+      "exercise": "",
+      "example": "get"
+    },
+    {
+      "exercise": "",
+      "example": "get_filename_component"
+    },
+    {
+      "exercise": "",
+      "example": "get_property"
+    },
+    {
+      "exercise": "",
+      "example": "get_target_property"
+    },
+    {
+      "exercise": "",
+      "example": "getting"
+    },
+    {
+      "exercise": "",
+      "example": "git"
+    },
+    {
+      "exercise": "",
+      "example": "given"
+    },
+    {
+      "exercise": "",
+      "example": "graphics"
+    },
+    {
+      "exercise": "",
+      "example": "groovy"
+    },
+    {
+      "exercise": "",
+      "example": "gtest"
+    },
+    {
+      "exercise": "",
+      "example": "h"
+    },
+    {
+      "exercise": "",
+      "example": "handle"
+    },
+    {
+      "exercise": "",
+      "example": "has"
+    },
+    {
+      "exercise": "",
+      "example": "hash"
+    },
+    {
+      "exercise": "",
+      "example": "have"
+    },
+    {
+      "exercise": "",
+      "example": "header"
+    },
+    {
+      "exercise": "",
+      "example": "headers"
+    },
+    {
+      "exercise": "",
+      "example": "help"
+    },
+    {
+      "exercise": "",
+      "example": "here"
+    },
+    {
+      "exercise": "",
+      "example": "home"
+    },
+    {
+      "exercise": "",
+      "example": "host"
+    },
+    {
+      "exercise": "",
+      "example": "hpp"
+    },
+    {
+      "exercise": "",
+      "example": "html"
+    },
+    {
+      "exercise": "",
+      "example": "http"
+    },
+    {
+      "exercise": "",
+      "example": "hunter_add_version"
+    },
+    {
+      "exercise": "",
+      "example": "hunter_config"
+    },
+    {
+      "exercise": "",
+      "example": "hydro"
+    },
+    {
+      "exercise": "",
+      "example": "i"
+    },
+    {
+      "exercise": "",
+      "example": "idir"
+    },
+    {
+      "exercise": "",
+      "example": "if"
+    },
+    {
+      "exercise": "",
+      "example": "ifdef"
+    },
+    {
+      "exercise": "",
+      "example": "ifndef"
+    },
+    {
+      "exercise": "",
+      "example": "implicit"
+    },
+    {
+      "exercise": "",
+      "example": "imported"
+    },
+    {
+      "exercise": "",
+      "example": "in"
+    },
+    {
+      "exercise": "",
+      "example": "inc"
+    },
+    {
+      "exercise": "",
+      "example": "include"
+    },
+    {
+      "exercise": "",
+      "example": "include_directories"
+    },
+    {
+      "exercise": "",
+      "example": "included"
+    },
+    {
+      "exercise": "",
+      "example": "includes"
+    },
+    {
+      "exercise": "",
+      "example": "including"
+    },
+    {
+      "exercise": "",
+      "example": "index"
+    },
+    {
+      "exercise": "",
+      "example": "indigo"
+    },
+    {
+      "exercise": "",
+      "example": "infile"
+    },
+    {
+      "exercise": "",
+      "example": "info"
+    },
+    {
+      "exercise": "",
+      "example": "information"
+    },
+    {
+      "exercise": "",
+      "example": "input"
+    },
+    {
+      "exercise": "",
+      "example": "install"
+    },
+    {
+      "exercise": "",
+      "example": "installation"
+    },
+    {
+      "exercise": "",
+      "example": "installed"
+    },
+    {
+      "exercise": "",
+      "example": "instead"
+    },
+    {
+      "exercise": "",
+      "example": "int"
+    },
+    {
+      "exercise": "",
+      "example": "internal"
+    },
+    {
+      "exercise": "",
+      "example": "into"
+    },
+    {
+      "exercise": "",
+      "example": "is"
+    },
+    {
+      "exercise": "",
+      "example": "it"
+    },
+    {
+      "exercise": "",
+      "example": "item"
+    },
+    {
+      "exercise": "",
+      "example": "itk"
+    },
+    {
+      "exercise": "",
+      "example": "its"
+    },
+    {
+      "exercise": "",
+      "example": "itself"
+    },
+    {
+      "exercise": "",
+      "example": "just"
+    },
+    {
+      "exercise": "",
+      "example": "keep"
+    },
+    {
+      "exercise": "",
+      "example": "key"
+    },
+    {
+      "exercise": "",
+      "example": "keyword"
+    },
+    {
+      "exercise": "",
+      "example": "keywords"
+    },
+    {
+      "exercise": "",
+      "example": "know"
+    },
+    {
+      "exercise": "",
+      "example": "lang"
+    },
+    {
+      "exercise": "",
+      "example": "language"
+    },
+    {
+      "exercise": "",
+      "example": "languages"
+    },
+    {
+      "exercise": "",
+      "example": "left"
+    },
+    {
+      "exercise": "",
+      "example": "level"
+    },
+    {
+      "exercise": "",
+      "example": "lib"
+    },
+    {
+      "exercise": "",
+      "example": "lib64"
+    },
+    {
+      "exercise": "",
+      "example": "libraries"
+    },
+    {
+      "exercise": "",
+      "example": "library"
+    },
+    {
+      "exercise": "",
+      "example": "libs"
+    },
+    {
+      "exercise": "",
+      "example": "like"
+    },
+    {
+      "exercise": "",
+      "example": "line"
+    },
+    {
+      "exercise": "",
+      "example": "link"
+    },
+    {
+      "exercise": "",
+      "example": "linker"
+    },
+    {
+      "exercise": "",
+      "example": "linking"
+    },
+    {
+      "exercise": "",
+      "example": "links"
+    },
+    {
+      "exercise": "",
+      "example": "linux"
+    },
+    {
+      "exercise": "",
+      "example": "list"
+    },
+    {
+      "exercise": "",
+      "example": "listed"
+    },
+    {
+      "exercise": "",
+      "example": "listname"
+    },
+    {
+      "exercise": "",
+      "example": "lists"
+    },
+    {
+      "exercise": "",
+      "example": "local"
+    },
+    {
+      "exercise": "",
+      "example": "location"
+    },
+    {
+      "exercise": "",
+      "example": "log"
+    },
+    {
+      "exercise": "",
+      "example": "long"
+    },
+    {
+      "exercise": "",
+      "example": "look"
+    },
+    {
+      "exercise": "",
+      "example": "lua"
+    },
+    {
+      "exercise": "",
+      "example": "m"
+    },
+    {
+      "exercise": "",
+      "example": "macro"
+    },
+    {
+      "exercise": "",
+      "example": "macros"
+    },
+    {
+      "exercise": "",
+      "example": "main"
+    },
+    {
+      "exercise": "",
+      "example": "make"
+    },
+    {
+      "exercise": "",
+      "example": "man"
+    },
+    {
+      "exercise": "",
+      "example": "manually"
+    },
+    {
+      "exercise": "",
+      "example": "mark_as_advanced"
+    },
+    {
+      "exercise": "",
+      "example": "match"
+    },
+    {
+      "exercise": "",
+      "example": "materials"
+    },
+    {
+      "exercise": "",
+      "example": "math"
+    },
+    {
+      "exercise": "",
+      "example": "members"
+    },
+    {
+      "exercise": "",
+      "example": "message"
+    },
+    {
+      "exercise": "",
+      "example": "missing"
+    },
+    {
+      "exercise": "",
+      "example": "mode"
+    },
+    {
+      "exercise": "",
+      "example": "modify"
+    },
+    {
+      "exercise": "",
+      "example": "module"
+    },
+    {
+      "exercise": "",
+      "example": "modules"
+    },
+    {
+      "exercise": "",
+      "example": "more"
+    },
+    {
+      "exercise": "",
+      "example": "msg"
+    },
+    {
+      "exercise": "",
+      "example": "multiple"
+    },
+    {
+      "exercise": "",
+      "example": "must"
+    },
+    {
+      "exercise": "",
+      "example": "mysql"
+    },
+    {
+      "exercise": "",
+      "example": "n"
+    },
+    {
+      "exercise": "",
+      "example": "name"
+    },
+    {
+      "exercise": "",
+      "example": "names"
+    },
+    {
+      "exercise": "",
+      "example": "native"
+    },
+    {
+      "exercise": "",
+      "example": "need"
+    },
+    {
+      "exercise": "",
+      "example": "needed"
+    },
+    {
+      "exercise": "",
+      "example": "needs"
+    },
+    {
+      "exercise": "",
+      "example": "new"
+    },
+    {
+      "exercise": "",
+      "example": "newer"
+    },
+    {
+      "exercise": "",
+      "example": "no"
+    },
+    {
+      "exercise": "",
+      "example": "non"
+    },
+    {
+      "exercise": "",
+      "example": "none"
+    },
+    {
+      "exercise": "",
+      "example": "not"
+    },
+    {
+      "exercise": "",
+      "example": "now"
+    },
+    {
+      "exercise": "",
+      "example": "number"
+    },
+    {
+      "exercise": "",
+      "example": "nvcc"
+    },
+    {
+      "exercise": "",
+      "example": "nvcc_host_compiler_flags"
+    },
+    {
+      "exercise": "",
+      "example": "o"
+    },
+    {
+      "exercise": "",
+      "example": "obj"
+    },
+    {
+      "exercise": "",
+      "example": "object"
+    },
+    {
+      "exercise": "",
+      "example": "of"
+    },
+    {
+      "exercise": "",
+      "example": "off"
+    },
+    {
+      "exercise": "",
+      "example": "old"
+    },
+    {
+      "exercise": "",
+      "example": "on"
+    },
+    {
+      "exercise": "",
+      "example": "once"
+    },
+    {
+      "exercise": "",
+      "example": "one"
+    },
+    {
+      "exercise": "",
+      "example": "only"
+    },
+    {
+      "exercise": "",
+      "example": "openair"
+    },
+    {
+      "exercise": "",
+      "example": "openair2"
+    },
+    {
+      "exercise": "",
+      "example": "openairinterface5g"
+    },
+    {
+      "exercise": "",
+      "example": "opencv"
+    },
+    {
+      "exercise": "",
+      "example": "opm"
+    },
+    {
+      "exercise": "",
+      "example": "opt"
+    },
+    {
+      "exercise": "",
+      "example": "optimized"
+    },
+    {
+      "exercise": "",
+      "example": "option"
+    },
+    {
+      "exercise": "",
+      "example": "optional"
+    },
+    {
+      "exercise": "",
+      "example": "options"
+    },
+    {
+      "exercise": "",
+      "example": "or"
+    },
+    {
+      "exercise": "",
+      "example": "order"
+    },
+    {
+      "exercise": "",
+      "example": "org"
+    },
+    {
+      "exercise": "",
+      "example": "other"
+    },
+    {
+      "exercise": "",
+      "example": "otherwise"
+    },
+    {
+      "exercise": "",
+      "example": "out"
+    },
+    {
+      "exercise": "",
+      "example": "outfile"
+    },
+    {
+      "exercise": "",
+      "example": "output"
+    },
+    {
+      "exercise": "",
+      "example": "output_dir"
+    },
+    {
+      "exercise": "",
+      "example": "outside"
+    },
+    {
+      "exercise": "",
+      "example": "over"
+    },
+    {
+      "exercise": "",
+      "example": "package"
+    },
+    {
+      "exercise": "",
+      "example": "packages"
+    },
+    {
+      "exercise": "",
+      "example": "page"
+    },
+    {
+      "exercise": "",
+      "example": "parameter"
+    },
+    {
+      "exercise": "",
+      "example": "part"
+    },
+    {
+      "exercise": "",
+      "example": "passed"
+    },
+    {
+      "exercise": "",
+      "example": "patch"
+    },
+    {
+      "exercise": "",
+      "example": "path"
+    },
+    {
+      "exercise": "",
+      "example": "paths"
+    },
+    {
+      "exercise": "",
+      "example": "pcl"
+    },
+    {
+      "exercise": "",
+      "example": "pkg"
+    },
+    {
+      "exercise": "",
+      "example": "pkgConfig"
+    },
+    {
+      "exercise": "",
+      "example": "platform"
+    },
+    {
+      "exercise": "",
+      "example": "platforms"
+    },
+    {
+      "exercise": "",
+      "example": "plugin"
+    },
+    {
+      "exercise": "",
+      "example": "plugins"
+    },
+    {
+      "exercise": "",
+      "example": "point"
+    },
+    {
+      "exercise": "",
+      "example": "possible"
+    },
+    {
+      "exercise": "",
+      "example": "precompiled"
+    },
+    {
+      "exercise": "",
+      "example": "prefix"
+    },
+    {
+      "exercise": "",
+      "example": "program"
+    },
+    {
+      "exercise": "",
+      "example": "proj"
+    },
+    {
+      "exercise": "",
+      "example": "project"
+    },
+    {
+      "exercise": "",
+      "example": "projects"
+    },
+    {
+      "exercise": "",
+      "example": "property"
+    },
+    {
+      "exercise": "",
+      "example": "provided"
+    },
+    {
+      "exercise": "",
+      "example": "pthread"
+    },
+    {
+      "exercise": "",
+      "example": "public"
+    },
+    {
+      "exercise": "",
+      "example": "put"
+    },
+    {
+      "exercise": "",
+      "example": "py"
+    },
+    {
+      "exercise": "",
+      "example": "python"
+    },
+    {
+      "exercise": "",
+      "example": "qt4"
+    },
+    {
+      "exercise": "",
+      "example": "re"
+    },
+    {
+      "exercise": "",
+      "example": "regex"
+    },
+    {
+      "exercise": "",
+      "example": "regular"
+    },
+    {
+      "exercise": "",
+      "example": "related"
+    },
+    {
+      "exercise": "",
+      "example": "relative"
+    },
+    {
+      "exercise": "",
+      "example": "release"
+    },
+    {
+      "exercise": "",
+      "example": "remove"
+    },
+    {
+      "exercise": "",
+      "example": "required"
+    },
+    {
+      "exercise": "",
+      "example": "requires"
+    },
+    {
+      "exercise": "",
+      "example": "res"
+    },
+    {
+      "exercise": "",
+      "example": "result"
+    },
+    {
+      "exercise": "",
+      "example": "results"
+    },
+    {
+      "exercise": "",
+      "example": "return"
+    },
+    {
+      "exercise": "",
+      "example": "root"
+    },
+    {
+      "exercise": "",
+      "example": "ros"
+    },
+    {
+      "exercise": "",
+      "example": "rst"
+    },
+    {
+      "exercise": "",
+      "example": "rules"
+    },
+    {
+      "exercise": "",
+      "example": "run"
+    },
+    {
+      "exercise": "",
+      "example": "runtime"
+    },
+    {
+      "exercise": "",
+      "example": "s"
+    },
+    {
+      "exercise": "",
+      "example": "same"
+    },
+    {
+      "exercise": "",
+      "example": "scanning"
+    },
+    {
+      "exercise": "",
+      "example": "script"
+    },
+    {
+      "exercise": "",
+      "example": "scripts"
+    },
+    {
+      "exercise": "",
+      "example": "sdk"
+    },
+    {
+      "exercise": "",
+      "example": "search"
+    },
+    {
+      "exercise": "",
+      "example": "see"
+    },
+    {
+      "exercise": "",
+      "example": "self"
+    },
+    {
+      "exercise": "",
+      "example": "set"
+    },
+    {
+      "exercise": "",
+      "example": "set_property"
+    },
+    {
+      "exercise": "",
+      "example": "set_target_properties"
+    },
+    {
+      "exercise": "",
+      "example": "sets"
+    },
+    {
+      "exercise": "",
+      "example": "setting"
+    },
+    {
+      "exercise": "",
+      "example": "settings"
+    },
+    {
+      "exercise": "",
+      "example": "setup"
+    },
+    {
+      "exercise": "",
+      "example": "sh"
+    },
+    {
+      "exercise": "",
+      "example": "share"
+    },
+    {
+      "exercise": "",
+      "example": "shared"
+    },
+    {
+      "exercise": "",
+      "example": "should"
+    },
+    {
+      "exercise": "",
+      "example": "since"
+    },
+    {
+      "exercise": "",
+      "example": "size"
+    },
+    {
+      "exercise": "",
+      "example": "so"
+    },
+    {
+      "exercise": "",
+      "example": "some"
+    },
+    {
+      "exercise": "",
+      "example": "source"
+    },
+    {
+      "exercise": "",
+      "example": "sources"
+    },
+    {
+      "exercise": "",
+      "example": "specific"
+    },
+    {
+      "exercise": "",
+      "example": "specified"
+    },
+    {
+      "exercise": "",
+      "example": "specify"
+    },
+    {
+      "exercise": "",
+      "example": "src"
+    },
+    {
+      "exercise": "",
+      "example": "standalone"
+    },
+    {
+      "exercise": "",
+      "example": "standard"
+    },
+    {
+      "exercise": "",
+      "example": "static"
+    },
+    {
+      "exercise": "",
+      "example": "status"
+    },
+    {
+      "exercise": "",
+      "example": "std"
+    },
+    {
+      "exercise": "",
+      "example": "stdlib"
+    },
+    {
+      "exercise": "",
+      "example": "step"
+    },
+    {
+      "exercise": "",
+      "example": "string"
+    },
+    {
+      "exercise": "",
+      "example": "struct"
+    },
+    {
+      "exercise": "",
+      "example": "subdirectories"
+    },
+    {
+      "exercise": "",
+      "example": "subdirectory"
+    },
+    {
+      "exercise": "",
+      "example": "substitute"
+    },
+    {
+      "exercise": "",
+      "example": "suffix"
+    },
+    {
+      "exercise": "",
+      "example": "support"
+    },
+    {
+      "exercise": "",
+      "example": "supported"
+    },
+    {
+      "exercise": "",
+      "example": "sure"
+    },
+    {
+      "exercise": "",
+      "example": "sw"
+    },
+    {
+      "exercise": "",
+      "example": "sys"
+    },
+    {
+      "exercise": "",
+      "example": "system"
+    },
+    {
+      "exercise": "",
+      "example": "t"
+    },
+    {
+      "exercise": "",
+      "example": "tag"
+    },
+    {
+      "exercise": "",
+      "example": "target"
+    },
+    {
+      "exercise": "",
+      "example": "target_link_libraries"
+    },
+    {
+      "exercise": "",
+      "example": "targets"
+    },
+    {
+      "exercise": "",
+      "example": "test"
+    },
+    {
+      "exercise": "",
+      "example": "tested"
+    },
+    {
+      "exercise": "",
+      "example": "testing"
+    },
+    {
+      "exercise": "",
+      "example": "tests"
+    },
+    {
+      "exercise": "",
+      "example": "text"
+    },
+    {
+      "exercise": "",
+      "example": "than"
+    },
+    {
+      "exercise": "",
+      "example": "that"
+    },
+    {
+      "exercise": "",
+      "example": "the"
+    },
+    {
+      "exercise": "",
+      "example": "them"
+    },
+    {
+      "exercise": "",
+      "example": "then"
+    },
+    {
+      "exercise": "",
+      "example": "there"
+    },
+    {
+      "exercise": "",
+      "example": "these"
+    },
+    {
+      "exercise": "",
+      "example": "they"
+    },
+    {
+      "exercise": "",
+      "example": "this"
+    },
+    {
+      "exercise": "",
+      "example": "time"
+    },
+    {
+      "exercise": "",
+      "example": "tmp"
+    },
+    {
+      "exercise": "",
+      "example": "to"
+    },
+    {
+      "exercise": "",
+      "example": "tool"
+    },
+    {
+      "exercise": "",
+      "example": "toolchain"
+    },
+    {
+      "exercise": "",
+      "example": "tools"
+    },
+    {
+      "exercise": "",
+      "example": "top"
+    },
+    {
+      "exercise": "",
+      "example": "tree"
+    },
+    {
+      "exercise": "",
+      "example": "true"
+    },
+    {
+      "exercise": "",
+      "example": "try"
+    },
+    {
+      "exercise": "",
+      "example": "txt"
+    },
+    {
+      "exercise": "",
+      "example": "type"
+    },
+    {
+      "exercise": "",
+      "example": "typedef"
+    },
+    {
+      "exercise": "",
+      "example": "types"
+    },
+    {
+      "exercise": "",
+      "example": "undef"
+    },
+    {
+      "exercise": "",
+      "example": "unittests"
+    },
+    {
+      "exercise": "",
+      "example": "unity"
+    },
+    {
+      "exercise": "",
+      "example": "unix"
+    },
+    {
+      "exercise": "",
+      "example": "unset"
+    },
+    {
+      "exercise": "",
+      "example": "up"
+    },
+    {
+      "exercise": "",
+      "example": "use"
+    },
+    {
+      "exercise": "",
+      "example": "used"
+    },
+    {
+      "exercise": "",
+      "example": "user"
+    },
+    {
+      "exercise": "",
+      "example": "uses"
+    },
+    {
+      "exercise": "",
+      "example": "using"
+    },
+    {
+      "exercise": "",
+      "example": "usr"
+    },
+    {
+      "exercise": "",
+      "example": "v"
+    },
+    {
+      "exercise": "",
+      "example": "v7a"
+    },
+    {
+      "exercise": "",
+      "example": "value"
+    },
+    {
+      "exercise": "",
+      "example": "values"
+    },
+    {
+      "exercise": "",
+      "example": "var"
+    },
+    {
+      "exercise": "",
+      "example": "variable"
+    },
+    {
+      "exercise": "",
+      "example": "variables"
+    },
+    {
+      "exercise": "",
+      "example": "version"
+    },
+    {
+      "exercise": "",
+      "example": "versions"
+    },
+    {
+      "exercise": "",
+      "example": "void"
+    },
+    {
+      "exercise": "",
+      "example": "vtk"
+    },
+    {
+      "exercise": "",
+      "example": "want"
+    },
+    {
+      "exercise": "",
+      "example": "warning"
+    },
+    {
+      "exercise": "",
+      "example": "warnings"
+    },
+    {
+      "exercise": "",
+      "example": "was"
+    },
+    {
+      "exercise": "",
+      "example": "we"
+    },
+    {
+      "exercise": "",
+      "example": "well"
+    },
+    {
+      "exercise": "",
+      "example": "what"
+    },
+    {
+      "exercise": "",
+      "example": "when"
+    },
+    {
+      "exercise": "",
+      "example": "where"
+    },
+    {
+      "exercise": "",
+      "example": "whether"
+    },
+    {
+      "exercise": "",
+      "example": "which"
+    },
+    {
+      "exercise": "",
+      "example": "will"
+    },
+    {
+      "exercise": "",
+      "example": "windows"
+    },
+    {
+      "exercise": "",
+      "example": "with"
+    },
+    {
+      "exercise": "",
+      "example": "without"
+    },
+    {
+      "exercise": "",
+      "example": "work"
+    },
+    {
+      "exercise": "",
+      "example": "would"
+    },
+    {
+      "exercise": "",
+      "example": "www"
+    },
+    {
+      "exercise": "",
+      "example": "x"
+    },
+    {
+      "exercise": "",
+      "example": "x86"
+    },
+    {
+      "exercise": "",
+      "example": "x86_64"
+    },
+    {
+      "exercise": "",
+      "example": "xml"
+    },
+    {
+      "exercise": "",
+      "example": "you"
+    },
+    {
+      "exercise": "",
+      "example": "your"
+    },
+    {
+      "exercise": "",
+      "example": "z"
+    },
+    {
+      "exercise": "",
+      "example": "z0"
+    },
+    {
+      "exercise": "",
+      "example": "zlib"
+    },
+    {
+      "exercise": "",
+      "example": "~"
+    }
+  ]
+}
