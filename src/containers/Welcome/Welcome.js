@@ -4,7 +4,7 @@ import * as selectors from '../../selectors'
 import Welcome from '../../components/Welcome'
 
 function mapStateToProps (state, props) {
-  const trainings = selectors.getTrainings(state, props)
+  const trainings = selectors.getTrainingsById(state, props)
 
   return {
     trainings

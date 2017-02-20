@@ -8,6 +8,7 @@ import Example from '../Example'
 import Exercise from '../Exercise'
 import Success from '../Success'
 import Header from '../Header'
+import Button from '../Button'
 
 class Trainer extends Component {
 
@@ -88,6 +89,7 @@ class Trainer extends Component {
             />
             <Exercise exercise={exercise} />
           </section>
+          <Button to='/'>Go to welcome page</Button>
         </div>
       </div>
     )

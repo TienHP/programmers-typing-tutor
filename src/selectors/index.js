@@ -14,8 +14,8 @@ export const getLessons = (state, props) => {
   return values(state.entitites.lessons.byId)
 }
 
-export const getTrainings = (state, props) => {
-  return values(state.entitites.trainings.byId)
+export const getTrainingsById = (state, props) => {
+  return state.entitites.trainings.byId
 }
 
 export const getTrainingForm = (state, props) => {

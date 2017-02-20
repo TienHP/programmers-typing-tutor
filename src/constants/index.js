@@ -3,11 +3,6 @@ import { pluck } from 'ramda'
 
 export const TRAININGS = [
   {
-    id: 'debug',
-    name: 'Debug',
-    mode: 'javascript'
-  },
-  {
     id: 'reactjs-beginner',
     name: 'React.js',
     mode: 'javascript'
@@ -183,6 +178,14 @@ export const TRAININGS = [
     mode: 'vim'
   }
 ]
+
+if (process.env.NODE_ENV !== 'production') {
+  TRAININGS.unshift({
+    id: 'debug',
+    name: 'Debug',
+    mode: 'javascript'
+  })
+}
 
 export const TRAININGS_MODES = pluck('mode', TRAININGS)
 
