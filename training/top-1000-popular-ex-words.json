@@ -1,0 +1,3921 @@
+{
+  "id": "popular-ex-words",
+  "name": "Popular ex words training",
+  "mode": "ex",
+  "level": "beginner",
+  "logo": "images/languages/ex.png",
+  "lessons": [
+    {
+      "exercise": "",
+      "example": "3rd"
+    },
+    {
+      "exercise": "",
+      "example": "A"
+    },
+    {
+      "exercise": "",
+      "example": "ALSO"
+    },
+    {
+      "exercise": "",
+      "example": "API"
+    },
+    {
+      "exercise": "",
+      "example": "Adapters"
+    },
+    {
+      "exercise": "",
+      "example": "Alternatively"
+    },
+    {
+      "exercise": "",
+      "example": "And"
+    },
+    {
+      "exercise": "",
+      "example": "Application"
+    },
+    {
+      "exercise": "",
+      "example": "Applications"
+    },
+    {
+      "exercise": "",
+      "example": "ArgumentError"
+    },
+    {
+      "exercise": "",
+      "example": "B"
+    },
+    {
+      "exercise": "",
+      "example": "Bar"
+    },
+    {
+      "exercise": "",
+      "example": "Case"
+    },
+    {
+      "exercise": "",
+      "example": "CaseTemplate"
+    },
+    {
+      "exercise": "",
+      "example": "Changeset"
+    },
+    {
+      "exercise": "",
+      "example": "Channel"
+    },
+    {
+      "exercise": "",
+      "example": "ChannelTest"
+    },
+    {
+      "exercise": "",
+      "example": "Check"
+    },
+    {
+      "exercise": "",
+      "example": "Client"
+    },
+    {
+      "exercise": "",
+      "example": "Code"
+    },
+    {
+      "exercise": "",
+      "example": "CodeReloader"
+    },
+    {
+      "exercise": "",
+      "example": "Config"
+    },
+    {
+      "exercise": "",
+      "example": "Configuration"
+    },
+    {
+      "exercise": "",
+      "example": "Configure"
+    },
+    {
+      "exercise": "",
+      "example": "Configures"
+    },
+    {
+      "exercise": "",
+      "example": "Conn"
+    },
+    {
+      "exercise": "",
+      "example": "ConnTest"
+    },
+    {
+      "exercise": "",
+      "example": "Controller"
+    },
+    {
+      "exercise": "",
+      "example": "Creates"
+    },
+    {
+      "exercise": "",
+      "example": "Credo"
+    },
+    {
+      "exercise": "",
+      "example": "DAEMON"
+    },
+    {
+      "exercise": "",
+      "example": "DEBHELPER"
+    },
+    {
+      "exercise": "",
+      "example": "DESC"
+    },
+    {
+      "exercise": "",
+      "example": "DESCRIPTION"
+    },
+    {
+      "exercise": "",
+      "example": "Debian"
+    },
+    {
+      "exercise": "",
+      "example": "Dependencies"
+    },
+    {
+      "exercise": "",
+      "example": "Do"
+    },
+    {
+      "exercise": "",
+      "example": "ENTITY"
+    },
+    {
+      "exercise": "",
+      "example": "ENV"
+    },
+    {
+      "exercise": "",
+      "example": "Ecto"
+    },
+    {
+      "exercise": "",
+      "example": "Elixir"
+    },
+    {
+      "exercise": "",
+      "example": "Endpoint"
+    },
+    {
+      "exercise": "",
+      "example": "Enum"
+    },
+    {
+      "exercise": "",
+      "example": "Error"
+    },
+    {
+      "exercise": "",
+      "example": "ExUnit"
+    },
+    {
+      "exercise": "",
+      "example": "Example"
+    },
+    {
+      "exercise": "",
+      "example": "Examples"
+    },
+    {
+      "exercise": "",
+      "example": "FIRSTNAME"
+    },
+    {
+      "exercise": "",
+      "example": "FLAVOR"
+    },
+    {
+      "exercise": "",
+      "example": "Fall"
+    },
+    {
+      "exercise": "",
+      "example": "File"
+    },
+    {
+      "exercise": "",
+      "example": "Finally"
+    },
+    {
+      "exercise": "",
+      "example": "Fooish"
+    },
+    {
+      "exercise": "",
+      "example": "For"
+    },
+    {
+      "exercise": "",
+      "example": "GET"
+    },
+    {
+      "exercise": "",
+      "example": "GenServer"
+    },
+    {
+      "exercise": "",
+      "example": "Generates"
+    },
+    {
+      "exercise": "",
+      "example": "Gettext"
+    },
+    {
+      "exercise": "",
+      "example": "Guardian"
+    },
+    {
+      "exercise": "",
+      "example": "HTML"
+    },
+    {
+      "exercise": "",
+      "example": "HTTP"
+    },
+    {
+      "exercise": "",
+      "example": "HTTPoison"
+    },
+    {
+      "exercise": "",
+      "example": "Hello"
+    },
+    {
+      "exercise": "",
+      "example": "Helpers"
+    },
+    {
+      "exercise": "",
+      "example": "Here"
+    },
+    {
+      "exercise": "",
+      "example": "Hex"
+    },
+    {
+      "exercise": "",
+      "example": "IO"
+    },
+    {
+      "exercise": "",
+      "example": "If"
+    },
+    {
+      "exercise": "",
+      "example": "Import"
+    },
+    {
+      "exercise": "",
+      "example": "In"
+    },
+    {
+      "exercise": "",
+      "example": "Info"
+    },
+    {
+      "exercise": "",
+      "example": "It"
+    },
+    {
+      "exercise": "",
+      "example": "Keyword"
+    },
+    {
+      "exercise": "",
+      "example": "List"
+    },
+    {
+      "exercise": "",
+      "example": "LiveReloader"
+    },
+    {
+      "exercise": "",
+      "example": "Logger"
+    },
+    {
+      "exercise": "",
+      "example": "Makefile"
+    },
+    {
+      "exercise": "",
+      "example": "ManagerApi"
+    },
+    {
+      "exercise": "",
+      "example": "Map"
+    },
+    {
+      "exercise": "",
+      "example": "Message"
+    },
+    {
+      "exercise": "",
+      "example": "Migration"
+    },
+    {
+      "exercise": "",
+      "example": "Mix"
+    },
+    {
+      "exercise": "",
+      "example": "Model"
+    },
+    {
+      "exercise": "",
+      "example": "Module"
+    },
+    {
+      "exercise": "",
+      "example": "MyApp"
+    },
+    {
+      "exercise": "",
+      "example": "NAME"
+    },
+    {
+      "exercise": "",
+      "example": "NOT"
+    },
+    {
+      "exercise": "",
+      "example": "New"
+    },
+    {
+      "exercise": "",
+      "example": "OPTIONS"
+    },
+    {
+      "exercise": "",
+      "example": "OTP"
+    },
+    {
+      "exercise": "",
+      "example": "OpenAperture"
+    },
+    {
+      "exercise": "",
+      "example": "Options"
+    },
+    {
+      "exercise": "",
+      "example": "Or"
+    },
+    {
+      "exercise": "",
+      "example": "PACKAGE"
+    },
+    {
+      "exercise": "",
+      "example": "PG2"
+    },
+    {
+      "exercise": "",
+      "example": "PIDFILE"
+    },
+    {
+      "exercise": "",
+      "example": "PORT"
+    },
+    {
+      "exercise": "",
+      "example": "Page"
+    },
+    {
+      "exercise": "",
+      "example": "PageController"
+    },
+    {
+      "exercise": "",
+      "example": "Parsers"
+    },
+    {
+      "exercise": "",
+      "example": "Path"
+    },
+    {
+      "exercise": "",
+      "example": "Phoenix"
+    },
+    {
+      "exercise": "",
+      "example": "Please"
+    },
+    {
+      "exercise": "",
+      "example": "Plug"
+    },
+    {
+      "exercise": "",
+      "example": "Poison"
+    },
+    {
+      "exercise": "",
+      "example": "Post"
+    },
+    {
+      "exercise": "",
+      "example": "Postgres"
+    },
+    {
+      "exercise": "",
+      "example": "Process"
+    },
+    {
+      "exercise": "",
+      "example": "Project"
+    },
+    {
+      "exercise": "",
+      "example": "PubSub"
+    },
+    {
+      "exercise": "",
+      "example": "Query"
+    },
+    {
+      "exercise": "",
+      "example": "Repo"
+    },
+    {
+      "exercise": "",
+      "example": "Response"
+    },
+    {
+      "exercise": "",
+      "example": "Return"
+    },
+    {
+      "exercise": "",
+      "example": "Returns"
+    },
+    {
+      "exercise": "",
+      "example": "Rise"
+    },
+    {
+      "exercise": "",
+      "example": "Router"
+    },
+    {
+      "exercise": "",
+      "example": "SECTION"
+    },
+    {
+      "exercise": "",
+      "example": "SEE"
+    },
+    {
+      "exercise": "",
+      "example": "SH"
+    },
+    {
+      "exercise": "",
+      "example": "SOAP"
+    },
+    {
+      "exercise": "",
+      "example": "SQL"
+    },
+    {
+      "exercise": "",
+      "example": "SSL"
+    },
+    {
+      "exercise": "",
+      "example": "SURNAME"
+    },
+    {
+      "exercise": "",
+      "example": "SYM"
+    },
+    {
+      "exercise": "",
+      "example": "Schema"
+    },
+    {
+      "exercise": "",
+      "example": "Script"
+    },
+    {
+      "exercise": "",
+      "example": "See"
+    },
+    {
+      "exercise": "",
+      "example": "Server"
+    },
+    {
+      "exercise": "",
+      "example": "Session"
+    },
+    {
+      "exercise": "",
+      "example": "Set"
+    },
+    {
+      "exercise": "",
+      "example": "Show"
+    },
+    {
+      "exercise": "",
+      "example": "Socket"
+    },
+    {
+      "exercise": "",
+      "example": "Spec"
+    },
+    {
+      "exercise": "",
+      "example": "Specifies"
+    },
+    {
+      "exercise": "",
+      "example": "Start"
+    },
+    {
+      "exercise": "",
+      "example": "String"
+    },
+    {
+      "exercise": "",
+      "example": "Such"
+    },
+    {
+      "exercise": "",
+      "example": "Supervisor"
+    },
+    {
+      "exercise": "",
+      "example": "System"
+    },
+    {
+      "exercise": "",
+      "example": "Task"
+    },
+    {
+      "exercise": "",
+      "example": "Tasks"
+    },
+    {
+      "exercise": "",
+      "example": "Test"
+    },
+    {
+      "exercise": "",
+      "example": "TestRepo"
+    },
+    {
+      "exercise": "",
+      "example": "The"
+    },
+    {
+      "exercise": "",
+      "example": "This"
+    },
+    {
+      "exercise": "",
+      "example": "To"
+    },
+    {
+      "exercise": "",
+      "example": "Transports"
+    },
+    {
+      "exercise": "",
+      "example": "Type"
+    },
+    {
+      "exercise": "",
+      "example": "URL"
+    },
+    {
+      "exercise": "",
+      "example": "Uncomment"
+    },
+    {
+      "exercise": "",
+      "example": "Usage"
+    },
+    {
+      "exercise": "",
+      "example": "Use"
+    },
+    {
+      "exercise": "",
+      "example": "User"
+    },
+    {
+      "exercise": "",
+      "example": "UserController"
+    },
+    {
+      "exercise": "",
+      "example": "Utils"
+    },
+    {
+      "exercise": "",
+      "example": "VERBOSE"
+    },
+    {
+      "exercise": "",
+      "example": "Values"
+    },
+    {
+      "exercise": "",
+      "example": "View"
+    },
+    {
+      "exercise": "",
+      "example": "We"
+    },
+    {
+      "exercise": "",
+      "example": "Web"
+    },
+    {
+      "exercise": "",
+      "example": "WebSocket"
+    },
+    {
+      "exercise": "",
+      "example": "When"
+    },
+    {
+      "exercise": "",
+      "example": "You"
+    },
+    {
+      "exercise": "",
+      "example": "_"
+    },
+    {
+      "exercise": "",
+      "example": "__DIR__"
+    },
+    {
+      "exercise": "",
+      "example": "__MODULE__"
+    },
+    {
+      "exercise": "",
+      "example": "__using__"
+    },
+    {
+      "exercise": "",
+      "example": "_args"
+    },
+    {
+      "exercise": "",
+      "example": "_assigns"
+    },
+    {
+      "exercise": "",
+      "example": "_opts"
+    },
+    {
+      "exercise": "",
+      "example": "_params"
+    },
+    {
+      "exercise": "",
+      "example": "_socket"
+    },
+    {
+      "exercise": "",
+      "example": "_type"
+    },
+    {
+      "exercise": "",
+      "example": "a"
+    },
+    {
+      "exercise": "",
+      "example": "abort"
+    },
+    {
+      "exercise": "",
+      "example": "above"
+    },
+    {
+      "exercise": "",
+      "example": "acc"
+    },
+    {
+      "exercise": "",
+      "example": "accepted"
+    },
+    {
+      "exercise": "",
+      "example": "accepts"
+    },
+    {
+      "exercise": "",
+      "example": "access"
+    },
+    {
+      "exercise": "",
+      "example": "action"
+    },
+    {
+      "exercise": "",
+      "example": "adapter"
+    },
+    {
+      "exercise": "",
+      "example": "add"
+    },
+    {
+      "exercise": "",
+      "example": "address"
+    },
+    {
+      "exercise": "",
+      "example": "adjective"
+    },
+    {
+      "exercise": "",
+      "example": "admin"
+    },
+    {
+      "exercise": "",
+      "example": "affect"
+    },
+    {
+      "exercise": "",
+      "example": "after"
+    },
+    {
+      "exercise": "",
+      "example": "aid"
+    },
+    {
+      "exercise": "",
+      "example": "alias"
+    },
+    {
+      "exercise": "",
+      "example": "aliases"
+    },
+    {
+      "exercise": "",
+      "example": "all"
+    },
+    {
+      "exercise": "",
+      "example": "allow"
+    },
+    {
+      "exercise": "",
+      "example": "allowed"
+    },
+    {
+      "exercise": "",
+      "example": "already"
+    },
+    {
+      "exercise": "",
+      "example": "also"
+    },
+    {
+      "exercise": "",
+      "example": "always"
+    },
+    {
+      "exercise": "",
+      "example": "an"
+    },
+    {
+      "exercise": "",
+      "example": "and"
+    },
+    {
+      "exercise": "",
+      "example": "another"
+    },
+    {
+      "exercise": "",
+      "example": "any"
+    },
+    {
+      "exercise": "",
+      "example": "api"
+    },
+    {
+      "exercise": "",
+      "example": "app"
+    },
+    {
+      "exercise": "",
+      "example": "application"
+    },
+    {
+      "exercise": "",
+      "example": "applications"
+    },
+    {
+      "exercise": "",
+      "example": "apply"
+    },
+    {
+      "exercise": "",
+      "example": "are"
+    },
+    {
+      "exercise": "",
+      "example": "arg"
+    },
+    {
+      "exercise": "",
+      "example": "args"
+    },
+    {
+      "exercise": "",
+      "example": "argument"
+    },
+    {
+      "exercise": "",
+      "example": "as"
+    },
+    {
+      "exercise": "",
+      "example": "assert"
+    },
+    {
+      "exercise": "",
+      "example": "assert_file"
+    },
+    {
+      "exercise": "",
+      "example": "assert_raise"
+    },
+    {
+      "exercise": "",
+      "example": "assert_receive"
+    },
+    {
+      "exercise": "",
+      "example": "assign"
+    },
+    {
+      "exercise": "",
+      "example": "assigns"
+    },
+    {
+      "exercise": "",
+      "example": "ast"
+    },
+    {
+      "exercise": "",
+      "example": "async"
+    },
+    {
+      "exercise": "",
+      "example": "at"
+    },
+    {
+      "exercise": "",
+      "example": "atom"
+    },
+    {
+      "exercise": "",
+      "example": "attributes"
+    },
+    {
+      "exercise": "",
+      "example": "attrs"
+    },
+    {
+      "exercise": "",
+      "example": "author"
+    },
+    {
+      "exercise": "",
+      "example": "automatically"
+    },
+    {
+      "exercise": "",
+      "example": "available"
+    },
+    {
+      "exercise": "",
+      "example": "b"
+    },
+    {
+      "exercise": "",
+      "example": "bang"
+    },
+    {
+      "exercise": "",
+      "example": "bar"
+    },
+    {
+      "exercise": "",
+      "example": "base"
+    },
+    {
+      "exercise": "",
+      "example": "based"
+    },
+    {
+      "exercise": "",
+      "example": "baz"
+    },
+    {
+      "exercise": "",
+      "example": "be"
+    },
+    {
+      "exercise": "",
+      "example": "because"
+    },
+    {
+      "exercise": "",
+      "example": "before"
+    },
+    {
+      "exercise": "",
+      "example": "beginning"
+    },
+    {
+      "exercise": "",
+      "example": "behaviour"
+    },
+    {
+      "exercise": "",
+      "example": "below"
+    },
+    {
+      "exercise": "",
+      "example": "bin"
+    },
+    {
+      "exercise": "",
+      "example": "binary"
+    },
+    {
+      "exercise": "",
+      "example": "binary_id"
+    },
+    {
+      "exercise": "",
+      "example": "binding"
+    },
+    {
+      "exercise": "",
+      "example": "block"
+    },
+    {
+      "exercise": "",
+      "example": "body"
+    },
+    {
+      "exercise": "",
+      "example": "br"
+    },
+    {
+      "exercise": "",
+      "example": "briefly"
+    },
+    {
+      "exercise": "",
+      "example": "broadcast"
+    },
+    {
+      "exercise": "",
+      "example": "broadcast_from"
+    },
+    {
+      "exercise": "",
+      "example": "browser"
+    },
+    {
+      "exercise": "",
+      "example": "brunch"
+    },
+    {
+      "exercise": "",
+      "example": "build"
+    },
+    {
+      "exercise": "",
+      "example": "build_embedded"
+    },
+    {
+      "exercise": "",
+      "example": "but"
+    },
+    {
+      "exercise": "",
+      "example": "by"
+    },
+    {
+      "exercise": "",
+      "example": "bypass"
+    },
+    {
+      "exercise": "",
+      "example": "c"
+    },
+    {
+      "exercise": "",
+      "example": "cache"
+    },
+    {
+      "exercise": "",
+      "example": "call"
+    },
+    {
+      "exercise": "",
+      "example": "callback"
+    },
+    {
+      "exercise": "",
+      "example": "called"
+    },
+    {
+      "exercise": "",
+      "example": "can"
+    },
+    {
+      "exercise": "",
+      "example": "cannot"
+    },
+    {
+      "exercise": "",
+      "example": "case"
+    },
+    {
+      "exercise": "",
+      "example": "cast"
+    },
+    {
+      "exercise": "",
+      "example": "catch"
+    },
+    {
+      "exercise": "",
+      "example": "change"
+    },
+    {
+      "exercise": "",
+      "example": "changed"
+    },
+    {
+      "exercise": "",
+      "example": "changeset"
+    },
+    {
+      "exercise": "",
+      "example": "channel"
+    },
+    {
+      "exercise": "",
+      "example": "channels"
+    },
+    {
+      "exercise": "",
+      "example": "check"
+    },
+    {
+      "exercise": "",
+      "example": "check_origin"
+    },
+    {
+      "exercise": "",
+      "example": "children"
+    },
+    {
+      "exercise": "",
+      "example": "choice"
+    },
+    {
+      "exercise": "",
+      "example": "chosen"
+    },
+    {
+      "exercise": "",
+      "example": "citerefentry"
+    },
+    {
+      "exercise": "",
+      "example": "citetitle"
+    },
+    {
+      "exercise": "",
+      "example": "class"
+    },
+    {
+      "exercise": "",
+      "example": "clause"
+    },
+    {
+      "exercise": "",
+      "example": "clean"
+    },
+    {
+      "exercise": "",
+      "example": "client"
+    },
+    {
+      "exercise": "",
+      "example": "cm"
+    },
+    {
+      "exercise": "",
+      "example": "cmd"
+    },
+    {
+      "exercise": "",
+      "example": "cmdsynopsis"
+    },
+    {
+      "exercise": "",
+      "example": "code"
+    },
+    {
+      "exercise": "",
+      "example": "code_reloader"
+    },
+    {
+      "exercise": "",
+      "example": "com"
+    },
+    {
+      "exercise": "",
+      "example": "command"
+    },
+    {
+      "exercise": "",
+      "example": "commands"
+    },
+    {
+      "exercise": "",
+      "example": "comments"
+    },
+    {
+      "exercise": "",
+      "example": "compile"
+    },
+    {
+      "exercise": "",
+      "example": "compilers"
+    },
+    {
+      "exercise": "",
+      "example": "complete"
+    },
+    {
+      "exercise": "",
+      "example": "concat"
+    },
+    {
+      "exercise": "",
+      "example": "cond"
+    },
+    {
+      "exercise": "",
+      "example": "conf"
+    },
+    {
+      "exercise": "",
+      "example": "config"
+    },
+    {
+      "exercise": "",
+      "example": "config_change"
+    },
+    {
+      "exercise": "",
+      "example": "configuration"
+    },
+    {
+      "exercise": "",
+      "example": "configure"
+    },
+    {
+      "exercise": "",
+      "example": "configuring"
+    },
+    {
+      "exercise": "",
+      "example": "conj"
+    },
+    {
+      "exercise": "",
+      "example": "conn"
+    },
+    {
+      "exercise": "",
+      "example": "connect"
+    },
+    {
+      "exercise": "",
+      "example": "connection"
+    },
+    {
+      "exercise": "",
+      "example": "connections"
+    },
+    {
+      "exercise": "",
+      "example": "console"
+    },
+    {
+      "exercise": "",
+      "example": "containing"
+    },
+    {
+      "exercise": "",
+      "example": "contains"
+    },
+    {
+      "exercise": "",
+      "example": "content"
+    },
+    {
+      "exercise": "",
+      "example": "contents"
+    },
+    {
+      "exercise": "",
+      "example": "context"
+    },
+    {
+      "exercise": "",
+      "example": "control"
+    },
+    {
+      "exercise": "",
+      "example": "controller"
+    },
+    {
+      "exercise": "",
+      "example": "controllers"
+    },
+    {
+      "exercise": "",
+      "example": "conveniences"
+    },
+    {
+      "exercise": "",
+      "example": "cookie"
+    },
+    {
+      "exercise": "",
+      "example": "could"
+    },
+    {
+      "exercise": "",
+      "example": "count"
+    },
+    {
+      "exercise": "",
+      "example": "cowboy"
+    },
+    {
+      "exercise": "",
+      "example": "create"
+    },
+    {
+      "exercise": "",
+      "example": "css"
+    },
+    {
+      "exercise": "",
+      "example": "current"
+    },
+    {
+      "exercise": "",
+      "example": "custom"
+    },
+    {
+      "exercise": "",
+      "example": "custom_path"
+    },
+    {
+      "exercise": "",
+      "example": "d"
+    },
+    {
+      "exercise": "",
+      "example": "daemon"
+    },
+    {
+      "exercise": "",
+      "example": "dashes"
+    },
+    {
+      "exercise": "",
+      "example": "data"
+    },
+    {
+      "exercise": "",
+      "example": "database"
+    },
+    {
+      "exercise": "",
+      "example": "date"
+    },
+    {
+      "exercise": "",
+      "example": "datetime"
+    },
+    {
+      "exercise": "",
+      "example": "day"
+    },
+    {
+      "exercise": "",
+      "example": "debhelper"
+    },
+    {
+      "exercise": "",
+      "example": "debian"
+    },
+    {
+      "exercise": "",
+      "example": "debug"
+    },
+    {
+      "exercise": "",
+      "example": "debug_errors"
+    },
+    {
+      "exercise": "",
+      "example": "decode"
+    },
+    {
+      "exercise": "",
+      "example": "deconfigure"
+    },
+    {
+      "exercise": "",
+      "example": "def"
+    },
+    {
+      "exercise": "",
+      "example": "default"
+    },
+    {
+      "exercise": "",
+      "example": "defaults"
+    },
+    {
+      "exercise": "",
+      "example": "define"
+    },
+    {
+      "exercise": "",
+      "example": "defined"
+    },
+    {
+      "exercise": "",
+      "example": "defines"
+    },
+    {
+      "exercise": "",
+      "example": "defining"
+    },
+    {
+      "exercise": "",
+      "example": "definitions"
+    },
+    {
+      "exercise": "",
+      "example": "defmacro"
+    },
+    {
+      "exercise": "",
+      "example": "defmodule"
+    },
+    {
+      "exercise": "",
+      "example": "defp"
+    },
+    {
+      "exercise": "",
+      "example": "defstruct"
+    },
+    {
+      "exercise": "",
+      "example": "delete"
+    },
+    {
+      "exercise": "",
+      "example": "demonstrative"
+    },
+    {
+      "exercise": "",
+      "example": "dependencies"
+    },
+    {
+      "exercise": "",
+      "example": "dependency"
+    },
+    {
+      "exercise": "",
+      "example": "depends"
+    },
+    {
+      "exercise": "",
+      "example": "deps"
+    },
+    {
+      "exercise": "",
+      "example": "description"
+    },
+    {
+      "exercise": "",
+      "example": "details"
+    },
+    {
+      "exercise": "",
+      "example": "dev"
+    },
+    {
+      "exercise": "",
+      "example": "development"
+    },
+    {
+      "exercise": "",
+      "example": "dh_installdeb"
+    },
+    {
+      "exercise": "",
+      "example": "dhemail"
+    },
+    {
+      "exercise": "",
+      "example": "dhfirstname"
+    },
+    {
+      "exercise": "",
+      "example": "dhpackage"
+    },
+    {
+      "exercise": "",
+      "example": "dhsection"
+    },
+    {
+      "exercise": "",
+      "example": "dhsurname"
+    },
+    {
+      "exercise": "",
+      "example": "dhusername"
+    },
+    {
+      "exercise": "",
+      "example": "digest"
+    },
+    {
+      "exercise": "",
+      "example": "directly"
+    },
+    {
+      "exercise": "",
+      "example": "directory"
+    },
+    {
+      "exercise": "",
+      "example": "disable"
+    },
+    {
+      "exercise": "",
+      "example": "disconnect"
+    },
+    {
+      "exercise": "",
+      "example": "dispatch"
+    },
+    {
+      "exercise": "",
+      "example": "do"
+    },
+    {
+      "exercise": "",
+      "example": "doc"
+    },
+    {
+      "exercise": "",
+      "example": "docbook"
+    },
+    {
+      "exercise": "",
+      "example": "docs"
+    },
+    {
+      "exercise": "",
+      "example": "document"
+    },
+    {
+      "exercise": "",
+      "example": "documentation"
+    },
+    {
+      "exercise": "",
+      "example": "documented"
+    },
+    {
+      "exercise": "",
+      "example": "documents"
+    },
+    {
+      "exercise": "",
+      "example": "does"
+    },
+    {
+      "exercise": "",
+      "example": "domain"
+    },
+    {
+      "exercise": "",
+      "example": "don"
+    },
+    {
+      "exercise": "",
+      "example": "done"
+    },
+    {
+      "exercise": "",
+      "example": "during"
+    },
+    {
+      "exercise": "",
+      "example": "e"
+    },
+    {
+      "exercise": "",
+      "example": "each"
+    },
+    {
+      "exercise": "",
+      "example": "easier"
+    },
+    {
+      "exercise": "",
+      "example": "echo"
+    },
+    {
+      "exercise": "",
+      "example": "ecto"
+    },
+    {
+      "exercise": "",
+      "example": "edit"
+    },
+    {
+      "exercise": "",
+      "example": "eex"
+    },
+    {
+      "exercise": "",
+      "example": "el"
+    },
+    {
+      "exercise": "",
+      "example": "elixir"
+    },
+    {
+      "exercise": "",
+      "example": "elixirc_paths"
+    },
+    {
+      "exercise": "",
+      "example": "else"
+    },
+    {
+      "exercise": "",
+      "example": "emacs"
+    },
+    {
+      "exercise": "",
+      "example": "email"
+    },
+    {
+      "exercise": "",
+      "example": "empty"
+    },
+    {
+      "exercise": "",
+      "example": "emulate"
+    },
+    {
+      "exercise": "",
+      "example": "enable"
+    },
+    {
+      "exercise": "",
+      "example": "enabled"
+    },
+    {
+      "exercise": "",
+      "example": "encode"
+    },
+    {
+      "exercise": "",
+      "example": "end"
+    },
+    {
+      "exercise": "",
+      "example": "endpoint"
+    },
+    {
+      "exercise": "",
+      "example": "entry"
+    },
+    {
+      "exercise": "",
+      "example": "env"
+    },
+    {
+      "exercise": "",
+      "example": "environment"
+    },
+    {
+      "exercise": "",
+      "example": "err"
+    },
+    {
+      "exercise": "",
+      "example": "errcode"
+    },
+    {
+      "exercise": "",
+      "example": "error"
+    },
+    {
+      "exercise": "",
+      "example": "errorcode"
+    },
+    {
+      "exercise": "",
+      "example": "errors"
+    },
+    {
+      "exercise": "",
+      "example": "errors_on"
+    },
+    {
+      "exercise": "",
+      "example": "esac"
+    },
+    {
+      "exercise": "",
+      "example": "etc"
+    },
+    {
+      "exercise": "",
+      "example": "event"
+    },
+    {
+      "exercise": "",
+      "example": "events"
+    },
+    {
+      "exercise": "",
+      "example": "every"
+    },
+    {
+      "exercise": "",
+      "example": "ex"
+    },
+    {
+      "exercise": "",
+      "example": "ex_doc"
+    },
+    {
+      "exercise": "",
+      "example": "examine"
+    },
+    {
+      "exercise": "",
+      "example": "example"
+    },
+    {
+      "exercise": "",
+      "example": "examples"
+    },
+    {
+      "exercise": "",
+      "example": "exception"
+    },
+    {
+      "exercise": "",
+      "example": "exec"
+    },
+    {
+      "exercise": "",
+      "example": "executed"
+    },
+    {
+      "exercise": "",
+      "example": "exists"
+    },
+    {
+      "exercise": "",
+      "example": "exit"
+    },
+    {
+      "exercise": "",
+      "example": "expect"
+    },
+    {
+      "exercise": "",
+      "example": "expected"
+    },
+    {
+      "exercise": "",
+      "example": "explicitly"
+    },
+    {
+      "exercise": "",
+      "example": "exs"
+    },
+    {
+      "exercise": "",
+      "example": "external"
+    },
+    {
+      "exercise": "",
+      "example": "f"
+    },
+    {
+      "exercise": "",
+      "example": "failed"
+    },
+    {
+      "exercise": "",
+      "example": "false"
+    },
+    {
+      "exercise": "",
+      "example": "favour"
+    },
+    {
+      "exercise": "",
+      "example": "fetch"
+    },
+    {
+      "exercise": "",
+      "example": "fetch_flash"
+    },
+    {
+      "exercise": "",
+      "example": "fetch_session"
+    },
+    {
+      "exercise": "",
+      "example": "fi"
+    },
+    {
+      "exercise": "",
+      "example": "field"
+    },
+    {
+      "exercise": "",
+      "example": "fields"
+    },
+    {
+      "exercise": "",
+      "example": "file"
+    },
+    {
+      "exercise": "",
+      "example": "filename"
+    },
+    {
+      "exercise": "",
+      "example": "files"
+    },
+    {
+      "exercise": "",
+      "example": "find"
+    },
+    {
+      "exercise": "",
+      "example": "first"
+    },
+    {
+      "exercise": "",
+      "example": "firstname"
+    },
+    {
+      "exercise": "",
+      "example": "fn"
+    },
+    {
+      "exercise": "",
+      "example": "foo"
+    },
+    {
+      "exercise": "",
+      "example": "foobar"
+    },
+    {
+      "exercise": "",
+      "example": "for"
+    },
+    {
+      "exercise": "",
+      "example": "force"
+    },
+    {
+      "exercise": "",
+      "example": "force_ssl"
+    },
+    {
+      "exercise": "",
+      "example": "form"
+    },
+    {
+      "exercise": "",
+      "example": "format"
+    },
+    {
+      "exercise": "",
+      "example": "forms"
+    },
+    {
+      "exercise": "",
+      "example": "found"
+    },
+    {
+      "exercise": "",
+      "example": "from"
+    },
+    {
+      "exercise": "",
+      "example": "fully"
+    },
+    {
+      "exercise": "",
+      "example": "fun"
+    },
+    {
+      "exercise": "",
+      "example": "function"
+    },
+    {
+      "exercise": "",
+      "example": "functionality"
+    },
+    {
+      "exercise": "",
+      "example": "functions"
+    },
+    {
+      "exercise": "",
+      "example": "generate"
+    },
+    {
+      "exercise": "",
+      "example": "generated"
+    },
+    {
+      "exercise": "",
+      "example": "generates"
+    },
+    {
+      "exercise": "",
+      "example": "generating"
+    },
+    {
+      "exercise": "",
+      "example": "generators"
+    },
+    {
+      "exercise": "",
+      "example": "get"
+    },
+    {
+      "exercise": "",
+      "example": "get_env"
+    },
+    {
+      "exercise": "",
+      "example": "get_flash"
+    },
+    {
+      "exercise": "",
+      "example": "gettext"
+    },
+    {
+      "exercise": "",
+      "example": "git"
+    },
+    {
+      "exercise": "",
+      "example": "github"
+    },
+    {
+      "exercise": "",
+      "example": "given"
+    },
+    {
+      "exercise": "",
+      "example": "group"
+    },
+    {
+      "exercise": "",
+      "example": "h"
+    },
+    {
+      "exercise": "",
+      "example": "halt"
+    },
+    {
+      "exercise": "",
+      "example": "handle"
+    },
+    {
+      "exercise": "",
+      "example": "handle_in"
+    },
+    {
+      "exercise": "",
+      "example": "handler"
+    },
+    {
+      "exercise": "",
+      "example": "has"
+    },
+    {
+      "exercise": "",
+      "example": "have"
+    },
+    {
+      "exercise": "",
+      "example": "header"
+    },
+    {
+      "exercise": "",
+      "example": "headers"
+    },
+    {
+      "exercise": "",
+      "example": "hello"
+    },
+    {
+      "exercise": "",
+      "example": "help"
+    },
+    {
+      "exercise": "",
+      "example": "here"
+    },
+    {
+      "exercise": "",
+      "example": "holder"
+    },
+    {
+      "exercise": "",
+      "example": "host"
+    },
+    {
+      "exercise": "",
+      "example": "hostname"
+    },
+    {
+      "exercise": "",
+      "example": "hour"
+    },
+    {
+      "exercise": "",
+      "example": "how"
+    },
+    {
+      "exercise": "",
+      "example": "html"
+    },
+    {
+      "exercise": "",
+      "example": "html_response"
+    },
+    {
+      "exercise": "",
+      "example": "http"
+    },
+    {
+      "exercise": "",
+      "example": "https"
+    },
+    {
+      "exercise": "",
+      "example": "i"
+    },
+    {
+      "exercise": "",
+      "example": "id"
+    },
+    {
+      "exercise": "",
+      "example": "iex"
+    },
+    {
+      "exercise": "",
+      "example": "if"
+    },
+    {
+      "exercise": "",
+      "example": "image"
+    },
+    {
+      "exercise": "",
+      "example": "images"
+    },
+    {
+      "exercise": "",
+      "example": "import"
+    },
+    {
+      "exercise": "",
+      "example": "import_config"
+    },
+    {
+      "exercise": "",
+      "example": "important"
+    },
+    {
+      "exercise": "",
+      "example": "imported"
+    },
+    {
+      "exercise": "",
+      "example": "imports"
+    },
+    {
+      "exercise": "",
+      "example": "in"
+    },
+    {
+      "exercise": "",
+      "example": "include"
+    },
+    {
+      "exercise": "",
+      "example": "included"
+    },
+    {
+      "exercise": "",
+      "example": "index"
+    },
+    {
+      "exercise": "",
+      "example": "info"
+    },
+    {
+      "exercise": "",
+      "example": "information"
+    },
+    {
+      "exercise": "",
+      "example": "init"
+    },
+    {
+      "exercise": "",
+      "example": "input"
+    },
+    {
+      "exercise": "",
+      "example": "insert"
+    },
+    {
+      "exercise": "",
+      "example": "inside"
+    },
+    {
+      "exercise": "",
+      "example": "inspect"
+    },
+    {
+      "exercise": "",
+      "example": "install"
+    },
+    {
+      "exercise": "",
+      "example": "integer"
+    },
+    {
+      "exercise": "",
+      "example": "interacts"
+    },
+    {
+      "exercise": "",
+      "example": "internal"
+    },
+    {
+      "exercise": "",
+      "example": "into"
+    },
+    {
+      "exercise": "",
+      "example": "invalid"
+    },
+    {
+      "exercise": "",
+      "example": "invalid_attrs"
+    },
+    {
+      "exercise": "",
+      "example": "io"
+    },
+    {
+      "exercise": "",
+      "example": "is"
+    },
+    {
+      "exercise": "",
+      "example": "is_atom"
+    },
+    {
+      "exercise": "",
+      "example": "is_binary"
+    },
+    {
+      "exercise": "",
+      "example": "it"
+    },
+    {
+      "exercise": "",
+      "example": "its"
+    },
+    {
+      "exercise": "",
+      "example": "join"
+    },
+    {
+      "exercise": "",
+      "example": "js"
+    },
+    {
+      "exercise": "",
+      "example": "json"
+    },
+    {
+      "exercise": "",
+      "example": "json_decoder"
+    },
+    {
+      "exercise": "",
+      "example": "json_response"
+    },
+    {
+      "exercise": "",
+      "example": "k"
+    },
+    {
+      "exercise": "",
+      "example": "keep"
+    },
+    {
+      "exercise": "",
+      "example": "key"
+    },
+    {
+      "exercise": "",
+      "example": "kind"
+    },
+    {
+      "exercise": "",
+      "example": "lang"
+    },
+    {
+      "exercise": "",
+      "example": "last"
+    },
+    {
+      "exercise": "",
+      "example": "layout"
+    },
+    {
+      "exercise": "",
+      "example": "left"
+    },
+    {
+      "exercise": "",
+      "example": "length"
+    },
+    {
+      "exercise": "",
+      "example": "let"
+    },
+    {
+      "exercise": "",
+      "example": "level"
+    },
+    {
+      "exercise": "",
+      "example": "lib"
+    },
+    {
+      "exercise": "",
+      "example": "like"
+    },
+    {
+      "exercise": "",
+      "example": "line"
+    },
+    {
+      "exercise": "",
+      "example": "links"
+    },
+    {
+      "exercise": "",
+      "example": "lisp"
+    },
+    {
+      "exercise": "",
+      "example": "list"
+    },
+    {
+      "exercise": "",
+      "example": "listitem"
+    },
+    {
+      "exercise": "",
+      "example": "lists"
+    },
+    {
+      "exercise": "",
+      "example": "live_reload"
+    },
+    {
+      "exercise": "",
+      "example": "load"
+    },
+    {
+      "exercise": "",
+      "example": "loaded"
+    },
+    {
+      "exercise": "",
+      "example": "loc"
+    },
+    {
+      "exercise": "",
+      "example": "local"
+    },
+    {
+      "exercise": "",
+      "example": "localhost"
+    },
+    {
+      "exercise": "",
+      "example": "location"
+    },
+    {
+      "exercise": "",
+      "example": "log_daemon_msg"
+    },
+    {
+      "exercise": "",
+      "example": "log_end_msg"
+    },
+    {
+      "exercise": "",
+      "example": "logger"
+    },
+    {
+      "exercise": "",
+      "example": "long"
+    },
+    {
+      "exercise": "",
+      "example": "macros"
+    },
+    {
+      "exercise": "",
+      "example": "make"
+    },
+    {
+      "exercise": "",
+      "example": "man"
+    },
+    {
+      "exercise": "",
+      "example": "manifest"
+    },
+    {
+      "exercise": "",
+      "example": "manpage"
+    },
+    {
+      "exercise": "",
+      "example": "manpages"
+    },
+    {
+      "exercise": "",
+      "example": "manual"
+    },
+    {
+      "exercise": "",
+      "example": "manvolnum"
+    },
+    {
+      "exercise": "",
+      "example": "map"
+    },
+    {
+      "exercise": "",
+      "example": "marked"
+    },
+    {
+      "exercise": "",
+      "example": "match"
+    },
+    {
+      "exercise": "",
+      "example": "matches"
+    },
+    {
+      "exercise": "",
+      "example": "maybe"
+    },
+    {
+      "exercise": "",
+      "example": "meck"
+    },
+    {
+      "exercise": "",
+      "example": "merge"
+    },
+    {
+      "exercise": "",
+      "example": "message"
+    },
+    {
+      "exercise": "",
+      "example": "messages"
+    },
+    {
+      "exercise": "",
+      "example": "metadata"
+    },
+    {
+      "exercise": "",
+      "example": "method"
+    },
+    {
+      "exercise": "",
+      "example": "migrate"
+    },
+    {
+      "exercise": "",
+      "example": "migration"
+    },
+    {
+      "exercise": "",
+      "example": "min"
+    },
+    {
+      "exercise": "",
+      "example": "mix"
+    },
+    {
+      "exercise": "",
+      "example": "mod"
+    },
+    {
+      "exercise": "",
+      "example": "model"
+    },
+    {
+      "exercise": "",
+      "example": "models"
+    },
+    {
+      "exercise": "",
+      "example": "module"
+    },
+    {
+      "exercise": "",
+      "example": "moduledoc"
+    },
+    {
+      "exercise": "",
+      "example": "month"
+    },
+    {
+      "exercise": "",
+      "example": "more"
+    },
+    {
+      "exercise": "",
+      "example": "msg"
+    },
+    {
+      "exercise": "",
+      "example": "multipart"
+    },
+    {
+      "exercise": "",
+      "example": "must"
+    },
+    {
+      "exercise": "",
+      "example": "mydep"
+    },
+    {
+      "exercise": "",
+      "example": "n"
+    },
+    {
+      "exercise": "",
+      "example": "name"
+    },
+    {
+      "exercise": "",
+      "example": "need"
+    },
+    {
+      "exercise": "",
+      "example": "neg"
+    },
+    {
+      "exercise": "",
+      "example": "new"
+    },
+    {
+      "exercise": "",
+      "example": "new_msg"
+    },
+    {
+      "exercise": "",
+      "example": "nil"
+    },
+    {
+      "exercise": "",
+      "example": "no"
+    },
+    {
+      "exercise": "",
+      "example": "node"
+    },
+    {
+      "exercise": "",
+      "example": "nor"
+    },
+    {
+      "exercise": "",
+      "example": "noreply"
+    },
+    {
+      "exercise": "",
+      "example": "not"
+    },
+    {
+      "exercise": "",
+      "example": "not_found"
+    },
+    {
+      "exercise": "",
+      "example": "noun"
+    },
+    {
+      "exercise": "",
+      "example": "nroff"
+    },
+    {
+      "exercise": "",
+      "example": "of"
+    },
+    {
+      "exercise": "",
+      "example": "ok"
+    },
+    {
+      "exercise": "",
+      "example": "old"
+    },
+    {
+      "exercise": "",
+      "example": "on"
+    },
+    {
+      "exercise": "",
+      "example": "one"
+    },
+    {
+      "exercise": "",
+      "example": "ones"
+    },
+    {
+      "exercise": "",
+      "example": "only"
+    },
+    {
+      "exercise": "",
+      "example": "opt"
+    },
+    {
+      "exercise": "",
+      "example": "option"
+    },
+    {
+      "exercise": "",
+      "example": "optional"
+    },
+    {
+      "exercise": "",
+      "example": "optional_fields"
+    },
+    {
+      "exercise": "",
+      "example": "options"
+    },
+    {
+      "exercise": "",
+      "example": "opts"
+    },
+    {
+      "exercise": "",
+      "example": "or"
+    },
+    {
+      "exercise": "",
+      "example": "org"
+    },
+    {
+      "exercise": "",
+      "example": "origin"
+    },
+    {
+      "exercise": "",
+      "example": "other"
+    },
+    {
+      "exercise": "",
+      "example": "otp_app"
+    },
+    {
+      "exercise": "",
+      "example": "override"
+    },
+    {
+      "exercise": "",
+      "example": "p"
+    },
+    {
+      "exercise": "",
+      "example": "package"
+    },
+    {
+      "exercise": "",
+      "example": "packages"
+    },
+    {
+      "exercise": "",
+      "example": "page"
+    },
+    {
+      "exercise": "",
+      "example": "para"
+    },
+    {
+      "exercise": "",
+      "example": "param"
+    },
+    {
+      "exercise": "",
+      "example": "parameter"
+    },
+    {
+      "exercise": "",
+      "example": "parameters"
+    },
+    {
+      "exercise": "",
+      "example": "params"
+    },
+    {
+      "exercise": "",
+      "example": "parent"
+    },
+    {
+      "exercise": "",
+      "example": "parse"
+    },
+    {
+      "exercise": "",
+      "example": "parsers"
+    },
+    {
+      "exercise": "",
+      "example": "party"
+    },
+    {
+      "exercise": "",
+      "example": "pass"
+    },
+    {
+      "exercise": "",
+      "example": "passed"
+    },
+    {
+      "exercise": "",
+      "example": "passthrough"
+    },
+    {
+      "exercise": "",
+      "example": "password"
+    },
+    {
+      "exercise": "",
+      "example": "path"
+    },
+    {
+      "exercise": "",
+      "example": "paths"
+    },
+    {
+      "exercise": "",
+      "example": "payload"
+    },
+    {
+      "exercise": "",
+      "example": "pending"
+    },
+    {
+      "exercise": "",
+      "example": "per"
+    },
+    {
+      "exercise": "",
+      "example": "performed"
+    },
+    {
+      "exercise": "",
+      "example": "phoenix"
+    },
+    {
+      "exercise": "",
+      "example": "phoenix_ecto"
+    },
+    {
+      "exercise": "",
+      "example": "phoenix_html"
+    },
+    {
+      "exercise": "",
+      "example": "photo_blog"
+    },
+    {
+      "exercise": "",
+      "example": "pid"
+    },
+    {
+      "exercise": "",
+      "example": "pidfile"
+    },
+    {
+      "exercise": "",
+      "example": "pipe_through"
+    },
+    {
+      "exercise": "",
+      "example": "pipeline"
+    },
+    {
+      "exercise": "",
+      "example": "plain"
+    },
+    {
+      "exercise": "",
+      "example": "plug"
+    },
+    {
+      "exercise": "",
+      "example": "pm"
+    },
+    {
+      "exercise": "",
+      "example": "pn"
+    },
+    {
+      "exercise": "",
+      "example": "png"
+    },
+    {
+      "exercise": "",
+      "example": "pnoun"
+    },
+    {
+      "exercise": "",
+      "example": "policy"
+    },
+    {
+      "exercise": "",
+      "example": "poll"
+    },
+    {
+      "exercise": "",
+      "example": "pool"
+    },
+    {
+      "exercise": "",
+      "example": "pool_size"
+    },
+    {
+      "exercise": "",
+      "example": "port"
+    },
+    {
+      "exercise": "",
+      "example": "possible"
+    },
+    {
+      "exercise": "",
+      "example": "post"
+    },
+    {
+      "exercise": "",
+      "example": "post_path"
+    },
+    {
+      "exercise": "",
+      "example": "postgres"
+    },
+    {
+      "exercise": "",
+      "example": "postgrex"
+    },
+    {
+      "exercise": "",
+      "example": "postinst"
+    },
+    {
+      "exercise": "",
+      "example": "postrm"
+    },
+    {
+      "exercise": "",
+      "example": "posts"
+    },
+    {
+      "exercise": "",
+      "example": "preinst"
+    },
+    {
+      "exercise": "",
+      "example": "prerm"
+    },
+    {
+      "exercise": "",
+      "example": "previous"
+    },
+    {
+      "exercise": "",
+      "example": "print"
+    },
+    {
+      "exercise": "",
+      "example": "priv"
+    },
+    {
+      "exercise": "",
+      "example": "private"
+    },
+    {
+      "exercise": "",
+      "example": "process"
+    },
+    {
+      "exercise": "",
+      "example": "prod"
+    },
+    {
+      "exercise": "",
+      "example": "production"
+    },
+    {
+      "exercise": "",
+      "example": "productname"
+    },
+    {
+      "exercise": "",
+      "example": "program"
+    },
+    {
+      "exercise": "",
+      "example": "programs"
+    },
+    {
+      "exercise": "",
+      "example": "project"
+    },
+    {
+      "exercise": "",
+      "example": "provide"
+    },
+    {
+      "exercise": "",
+      "example": "provided"
+    },
+    {
+      "exercise": "",
+      "example": "pubsub"
+    },
+    {
+      "exercise": "",
+      "example": "pubsub_server"
+    },
+    {
+      "exercise": "",
+      "example": "push"
+    },
+    {
+      "exercise": "",
+      "example": "put"
+    },
+    {
+      "exercise": "",
+      "example": "put_status"
+    },
+    {
+      "exercise": "",
+      "example": "puts"
+    },
+    {
+      "exercise": "",
+      "example": "q"
+    },
+    {
+      "exercise": "",
+      "example": "query"
+    },
+    {
+      "exercise": "",
+      "example": "quiet"
+    },
+    {
+      "exercise": "",
+      "example": "quote"
+    },
+    {
+      "exercise": "",
+      "example": "quoted"
+    },
+    {
+      "exercise": "",
+      "example": "raise"
+    },
+    {
+      "exercise": "",
+      "example": "read"
+    },
+    {
+      "exercise": "",
+      "example": "reason"
+    },
+    {
+      "exercise": "",
+      "example": "receive"
+    },
+    {
+      "exercise": "",
+      "example": "recommend"
+    },
+    {
+      "exercise": "",
+      "example": "redirect"
+    },
+    {
+      "exercise": "",
+      "example": "redirected_to"
+    },
+    {
+      "exercise": "",
+      "example": "ref"
+    },
+    {
+      "exercise": "",
+      "example": "refentry"
+    },
+    {
+      "exercise": "",
+      "example": "refentryinfo"
+    },
+    {
+      "exercise": "",
+      "example": "refentrytitle"
+    },
+    {
+      "exercise": "",
+      "example": "reference"
+    },
+    {
+      "exercise": "",
+      "example": "refmeta"
+    },
+    {
+      "exercise": "",
+      "example": "refname"
+    },
+    {
+      "exercise": "",
+      "example": "refnamediv"
+    },
+    {
+      "exercise": "",
+      "example": "refpurpose"
+    },
+    {
+      "exercise": "",
+      "example": "refsect1"
+    },
+    {
+      "exercise": "",
+      "example": "refsynopsisdiv"
+    },
+    {
+      "exercise": "",
+      "example": "refute"
+    },
+    {
+      "exercise": "",
+      "example": "relative"
+    },
+    {
+      "exercise": "",
+      "example": "releases"
+    },
+    {
+      "exercise": "",
+      "example": "reload"
+    },
+    {
+      "exercise": "",
+      "example": "reloading"
+    },
+    {
+      "exercise": "",
+      "example": "rely"
+    },
+    {
+      "exercise": "",
+      "example": "remove"
+    },
+    {
+      "exercise": "",
+      "example": "removed"
+    },
+    {
+      "exercise": "",
+      "example": "removing"
+    },
+    {
+      "exercise": "",
+      "example": "render"
+    },
+    {
+      "exercise": "",
+      "example": "renders"
+    },
+    {
+      "exercise": "",
+      "example": "replace"
+    },
+    {
+      "exercise": "",
+      "example": "replaceable"
+    },
+    {
+      "exercise": "",
+      "example": "reply"
+    },
+    {
+      "exercise": "",
+      "example": "repo"
+    },
+    {
+      "exercise": "",
+      "example": "repositories"
+    },
+    {
+      "exercise": "",
+      "example": "repository"
+    },
+    {
+      "exercise": "",
+      "example": "req"
+    },
+    {
+      "exercise": "",
+      "example": "request"
+    },
+    {
+      "exercise": "",
+      "example": "requests"
+    },
+    {
+      "exercise": "",
+      "example": "require"
+    },
+    {
+      "exercise": "",
+      "example": "required"
+    },
+    {
+      "exercise": "",
+      "example": "required_fields"
+    },
+    {
+      "exercise": "",
+      "example": "rescue"
+    },
+    {
+      "exercise": "",
+      "example": "reset"
+    },
+    {
+      "exercise": "",
+      "example": "resource"
+    },
+    {
+      "exercise": "",
+      "example": "resources"
+    },
+    {
+      "exercise": "",
+      "example": "resp"
+    },
+    {
+      "exercise": "",
+      "example": "resp_body"
+    },
+    {
+      "exercise": "",
+      "example": "response"
+    },
+    {
+      "exercise": "",
+      "example": "responsible"
+    },
+    {
+      "exercise": "",
+      "example": "restart"
+    },
+    {
+      "exercise": "",
+      "example": "restricted"
+    },
+    {
+      "exercise": "",
+      "example": "result"
+    },
+    {
+      "exercise": "",
+      "example": "return"
+    },
+    {
+      "exercise": "",
+      "example": "returned"
+    },
+    {
+      "exercise": "",
+      "example": "returns"
+    },
+    {
+      "exercise": "",
+      "example": "reverse"
+    },
+    {
+      "exercise": "",
+      "example": "rooms"
+    },
+    {
+      "exercise": "",
+      "example": "root"
+    },
+    {
+      "exercise": "",
+      "example": "route"
+    },
+    {
+      "exercise": "",
+      "example": "router"
+    },
+    {
+      "exercise": "",
+      "example": "routes"
+    },
+    {
+      "exercise": "",
+      "example": "run"
+    },
+    {
+      "exercise": "",
+      "example": "running"
+    },
+    {
+      "exercise": "",
+      "example": "runs"
+    },
+    {
+      "exercise": "",
+      "example": "s"
+    },
+    {
+      "exercise": "",
+      "example": "safe"
+    },
+    {
+      "exercise": "",
+      "example": "sbin"
+    },
+    {
+      "exercise": "",
+      "example": "schema"
+    },
+    {
+      "exercise": "",
+      "example": "scope"
+    },
+    {
+      "exercise": "",
+      "example": "script"
+    },
+    {
+      "exercise": "",
+      "example": "scripts"
+    },
+    {
+      "exercise": "",
+      "example": "search"
+    },
+    {
+      "exercise": "",
+      "example": "secret"
+    },
+    {
+      "exercise": "",
+      "example": "section"
+    },
+    {
+      "exercise": "",
+      "example": "see"
+    },
+    {
+      "exercise": "",
+      "example": "seeds"
+    },
+    {
+      "exercise": "",
+      "example": "seg"
+    },
+    {
+      "exercise": "",
+      "example": "seglistitem"
+    },
+    {
+      "exercise": "",
+      "example": "segtitle"
+    },
+    {
+      "exercise": "",
+      "example": "select"
+    },
+    {
+      "exercise": "",
+      "example": "selected"
+    },
+    {
+      "exercise": "",
+      "example": "self"
+    },
+    {
+      "exercise": "",
+      "example": "send"
+    },
+    {
+      "exercise": "",
+      "example": "send_resp"
+    },
+    {
+      "exercise": "",
+      "example": "sent"
+    },
+    {
+      "exercise": "",
+      "example": "server"
+    },
+    {
+      "exercise": "",
+      "example": "session"
+    },
+    {
+      "exercise": "",
+      "example": "set"
+    },
+    {
+      "exercise": "",
+      "example": "setting"
+    },
+    {
+      "exercise": "",
+      "example": "setup"
+    },
+    {
+      "exercise": "",
+      "example": "setup_all"
+    },
+    {
+      "exercise": "",
+      "example": "sgml"
+    },
+    {
+      "exercise": "",
+      "example": "sh"
+    },
+    {
+      "exercise": "",
+      "example": "share"
+    },
+    {
+      "exercise": "",
+      "example": "shell"
+    },
+    {
+      "exercise": "",
+      "example": "short"
+    },
+    {
+      "exercise": "",
+      "example": "should"
+    },
+    {
+      "exercise": "",
+      "example": "show"
+    },
+    {
+      "exercise": "",
+      "example": "shutdown"
+    },
+    {
+      "exercise": "",
+      "example": "singular"
+    },
+    {
+      "exercise": "",
+      "example": "site"
+    },
+    {
+      "exercise": "",
+      "example": "size"
+    },
+    {
+      "exercise": "",
+      "example": "sleep"
+    },
+    {
+      "exercise": "",
+      "example": "so"
+    },
+    {
+      "exercise": "",
+      "example": "socket"
+    },
+    {
+      "exercise": "",
+      "example": "sockets"
+    },
+    {
+      "exercise": "",
+      "example": "some"
+    },
+    {
+      "exercise": "",
+      "example": "something"
+    },
+    {
+      "exercise": "",
+      "example": "source"
+    },
+    {
+      "exercise": "",
+      "example": "sources"
+    },
+    {
+      "exercise": "",
+      "example": "spec"
+    },
+    {
+      "exercise": "",
+      "example": "specific"
+    },
+    {
+      "exercise": "",
+      "example": "split"
+    },
+    {
+      "exercise": "",
+      "example": "stable"
+    },
+    {
+      "exercise": "",
+      "example": "stack"
+    },
+    {
+      "exercise": "",
+      "example": "stacktrace"
+    },
+    {
+      "exercise": "",
+      "example": "start"
+    },
+    {
+      "exercise": "",
+      "example": "start_link"
+    },
+    {
+      "exercise": "",
+      "example": "start_permanent"
+    },
+    {
+      "exercise": "",
+      "example": "started"
+    },
+    {
+      "exercise": "",
+      "example": "starting"
+    },
+    {
+      "exercise": "",
+      "example": "starts"
+    },
+    {
+      "exercise": "",
+      "example": "state"
+    },
+    {
+      "exercise": "",
+      "example": "static"
+    },
+    {
+      "exercise": "",
+      "example": "status"
+    },
+    {
+      "exercise": "",
+      "example": "stop"
+    },
+    {
+      "exercise": "",
+      "example": "store"
+    },
+    {
+      "exercise": "",
+      "example": "str"
+    },
+    {
+      "exercise": "",
+      "example": "strategies"
+    },
+    {
+      "exercise": "",
+      "example": "strategy"
+    },
+    {
+      "exercise": "",
+      "example": "string"
+    },
+    {
+      "exercise": "",
+      "example": "struct"
+    },
+    {
+      "exercise": "",
+      "example": "subsection"
+    },
+    {
+      "exercise": "",
+      "example": "such"
+    },
+    {
+      "exercise": "",
+      "example": "summary"
+    },
+    {
+      "exercise": "",
+      "example": "supervisors"
+    },
+    {
+      "exercise": "",
+      "example": "support"
+    },
+    {
+      "exercise": "",
+      "example": "supported"
+    },
+    {
+      "exercise": "",
+      "example": "surname"
+    },
+    {
+      "exercise": "",
+      "example": "system"
+    },
+    {
+      "exercise": "",
+      "example": "t"
+    },
+    {
+      "exercise": "",
+      "example": "table"
+    },
+    {
+      "exercise": "",
+      "example": "tag"
+    },
+    {
+      "exercise": "",
+      "example": "tags"
+    },
+    {
+      "exercise": "",
+      "example": "task"
+    },
+    {
+      "exercise": "",
+      "example": "template"
+    },
+    {
+      "exercise": "",
+      "example": "templates"
+    },
+    {
+      "exercise": "",
+      "example": "term"
+    },
+    {
+      "exercise": "",
+      "example": "terminate"
+    },
+    {
+      "exercise": "",
+      "example": "test"
+    },
+    {
+      "exercise": "",
+      "example": "testing"
+    },
+    {
+      "exercise": "",
+      "example": "tests"
+    },
+    {
+      "exercise": "",
+      "example": "text"
+    },
+    {
+      "exercise": "",
+      "example": "that"
+    },
+    {
+      "exercise": "",
+      "example": "the"
+    },
+    {
+      "exercise": "",
+      "example": "them"
+    },
+    {
+      "exercise": "",
+      "example": "then"
+    },
+    {
+      "exercise": "",
+      "example": "they"
+    },
+    {
+      "exercise": "",
+      "example": "this"
+    },
+    {
+      "exercise": "",
+      "example": "those"
+    },
+    {
+      "exercise": "",
+      "example": "time"
+    },
+    {
+      "exercise": "",
+      "example": "timeout"
+    },
+    {
+      "exercise": "",
+      "example": "timer"
+    },
+    {
+      "exercise": "",
+      "example": "timestamps"
+    },
+    {
+      "exercise": "",
+      "example": "title"
+    },
+    {
+      "exercise": "",
+      "example": "to"
+    },
+    {
+      "exercise": "",
+      "example": "to_string"
+    },
+    {
+      "exercise": "",
+      "example": "token"
+    },
+    {
+      "exercise": "",
+      "example": "topic"
+    },
+    {
+      "exercise": "",
+      "example": "transaction"
+    },
+    {
+      "exercise": "",
+      "example": "translate"
+    },
+    {
+      "exercise": "",
+      "example": "translate_error"
+    },
+    {
+      "exercise": "",
+      "example": "translation"
+    },
+    {
+      "exercise": "",
+      "example": "transport"
+    },
+    {
+      "exercise": "",
+      "example": "true"
+    },
+    {
+      "exercise": "",
+      "example": "truth"
+    },
+    {
+      "exercise": "",
+      "example": "try"
+    },
+    {
+      "exercise": "",
+      "example": "two"
+    },
+    {
+      "exercise": "",
+      "example": "txt"
+    },
+    {
+      "exercise": "",
+      "example": "type"
+    },
+    {
+      "exercise": "",
+      "example": "uncommenting"
+    },
+    {
+      "exercise": "",
+      "example": "under"
+    },
+    {
+      "exercise": "",
+      "example": "unknown"
+    },
+    {
+      "exercise": "",
+      "example": "unless"
+    },
+    {
+      "exercise": "",
+      "example": "unload"
+    },
+    {
+      "exercise": "",
+      "example": "unquote"
+    },
+    {
+      "exercise": "",
+      "example": "unsafe"
+    },
+    {
+      "exercise": "",
+      "example": "up"
+    },
+    {
+      "exercise": "",
+      "example": "update"
+    },
+    {
+      "exercise": "",
+      "example": "updated"
+    },
+    {
+      "exercise": "",
+      "example": "updates"
+    },
+    {
+      "exercise": "",
+      "example": "upgrade"
+    },
+    {
+      "exercise": "",
+      "example": "url"
+    },
+    {
+      "exercise": "",
+      "example": "urlencoded"
+    },
+    {
+      "exercise": "",
+      "example": "uscan"
+    },
+    {
+      "exercise": "",
+      "example": "use"
+    },
+    {
+      "exercise": "",
+      "example": "used"
+    },
+    {
+      "exercise": "",
+      "example": "user"
+    },
+    {
+      "exercise": "",
+      "example": "user_id"
+    },
+    {
+      "exercise": "",
+      "example": "user_path"
+    },
+    {
+      "exercise": "",
+      "example": "username"
+    },
+    {
+      "exercise": "",
+      "example": "users"
+    },
+    {
+      "exercise": "",
+      "example": "uses"
+    },
+    {
+      "exercise": "",
+      "example": "using"
+    },
+    {
+      "exercise": "",
+      "example": "usr"
+    },
+    {
+      "exercise": "",
+      "example": "v"
+    },
+    {
+      "exercise": "",
+      "example": "val"
+    },
+    {
+      "exercise": "",
+      "example": "valid"
+    },
+    {
+      "exercise": "",
+      "example": "valid_attrs"
+    },
+    {
+      "exercise": "",
+      "example": "validate"
+    },
+    {
+      "exercise": "",
+      "example": "validation"
+    },
+    {
+      "exercise": "",
+      "example": "value"
+    },
+    {
+      "exercise": "",
+      "example": "values"
+    },
+    {
+      "exercise": "",
+      "example": "var"
+    },
+    {
+      "exercise": "",
+      "example": "variablelist"
+    },
+    {
+      "exercise": "",
+      "example": "variables"
+    },
+    {
+      "exercise": "",
+      "example": "varlistentry"
+    },
+    {
+      "exercise": "",
+      "example": "verb"
+    },
+    {
+      "exercise": "",
+      "example": "verb_aux"
+    },
+    {
+      "exercise": "",
+      "example": "verification"
+    },
+    {
+      "exercise": "",
+      "example": "verify"
+    },
+    {
+      "exercise": "",
+      "example": "version"
+    },
+    {
+      "exercise": "",
+      "example": "via"
+    },
+    {
+      "exercise": "",
+      "example": "view"
+    },
+    {
+      "exercise": "",
+      "example": "views"
+    },
+    {
+      "exercise": "",
+      "example": "w"
+    },
+    {
+      "exercise": "",
+      "example": "want"
+    },
+    {
+      "exercise": "",
+      "example": "warn"
+    },
+    {
+      "exercise": "",
+      "example": "warnings"
+    },
+    {
+      "exercise": "",
+      "example": "was"
+    },
+    {
+      "exercise": "",
+      "example": "watch"
+    },
+    {
+      "exercise": "",
+      "example": "watchers"
+    },
+    {
+      "exercise": "",
+      "example": "we"
+    },
+    {
+      "exercise": "",
+      "example": "web"
+    },
+    {
+      "exercise": "",
+      "example": "websocket"
+    },
+    {
+      "exercise": "",
+      "example": "when"
+    },
+    {
+      "exercise": "",
+      "example": "whenever"
+    },
+    {
+      "exercise": "",
+      "example": "which"
+    },
+    {
+      "exercise": "",
+      "example": "why"
+    },
+    {
+      "exercise": "",
+      "example": "will"
+    },
+    {
+      "exercise": "",
+      "example": "with"
+    },
+    {
+      "exercise": "",
+      "example": "without"
+    },
+    {
+      "exercise": "",
+      "example": "won"
+    },
+    {
+      "exercise": "",
+      "example": "work"
+    },
+    {
+      "exercise": "",
+      "example": "workers"
+    },
+    {
+      "exercise": "",
+      "example": "write"
+    },
+    {
+      "exercise": "",
+      "example": "written"
+    },
+    {
+      "exercise": "",
+      "example": "ws"
+    },
+    {
+      "exercise": "",
+      "example": "www"
+    },
+    {
+      "exercise": "",
+      "example": "x"
+    },
+    {
+      "exercise": "",
+      "example": "xml"
+    },
+    {
+      "exercise": "",
+      "example": "xsl"
+    },
+    {
+      "exercise": "",
+      "example": "xsltproc"
+    },
+    {
+      "exercise": "",
+      "example": "year"
+    },
+    {
+      "exercise": "",
+      "example": "you"
+    },
+    {
+      "exercise": "",
+      "example": "your"
+    },
+    {
+      "exercise": "",
+      "example": "~"
+    },
+    {
+      "exercise": "",
+      "example": "~S"
+    },
+    {
+      "exercise": "",
+      "example": "~r"
+    },
+    {
+      "exercise": "",
+      "example": "~s"
+    },
+    {
+      "exercise": "",
+      "example": "~w"
+    }
+  ]
+}

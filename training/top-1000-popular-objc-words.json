@@ -1,0 +1,3853 @@
+{
+  "id": "popular-objc-words",
+  "name": "Popular objc words training",
+  "mode": "objc",
+  "level": "beginner",
+  "logo": "images/languages/objc.png",
+  "lessons": [
+    {
+      "exercise": "",
+      "example": "0f"
+    },
+    {
+      "exercise": "",
+      "example": "0x00"
+    },
+    {
+      "exercise": "",
+      "example": "31IA"
+    },
+    {
+      "exercise": "",
+      "example": "4000000000000000e"
+    },
+    {
+      "exercise": "",
+      "example": "8000000000000000e"
+    },
+    {
+      "exercise": "",
+      "example": "A"
+    },
+    {
+      "exercise": "",
+      "example": "AFHTTPRequestOperation"
+    },
+    {
+      "exercise": "",
+      "example": "API"
+    },
+    {
+      "exercise": "",
+      "example": "Add"
+    },
+    {
+      "exercise": "",
+      "example": "AppDelegate"
+    },
+    {
+      "exercise": "",
+      "example": "Author"
+    },
+    {
+      "exercise": "",
+      "example": "B"
+    },
+    {
+      "exercise": "",
+      "example": "BOOL"
+    },
+    {
+      "exercise": "",
+      "example": "BackgroundColor"
+    },
+    {
+      "exercise": "",
+      "example": "C"
+    },
+    {
+      "exercise": "",
+      "example": "CDVPluginResult"
+    },
+    {
+      "exercise": "",
+      "example": "CFRelease"
+    },
+    {
+      "exercise": "",
+      "example": "CFStringRef"
+    },
+    {
+      "exercise": "",
+      "example": "CGColor"
+    },
+    {
+      "exercise": "",
+      "example": "CGContextRef"
+    },
+    {
+      "exercise": "",
+      "example": "CGFloat"
+    },
+    {
+      "exercise": "",
+      "example": "CGPoint"
+    },
+    {
+      "exercise": "",
+      "example": "CGPointMake"
+    },
+    {
+      "exercise": "",
+      "example": "CGRect"
+    },
+    {
+      "exercise": "",
+      "example": "CGRectMake"
+    },
+    {
+      "exercise": "",
+      "example": "CGSize"
+    },
+    {
+      "exercise": "",
+      "example": "CGSizeMake"
+    },
+    {
+      "exercise": "",
+      "example": "CHECK"
+    },
+    {
+      "exercise": "",
+      "example": "Check"
+    },
+    {
+      "exercise": "",
+      "example": "Class"
+    },
+    {
+      "exercise": "",
+      "example": "Cocoa"
+    },
+    {
+      "exercise": "",
+      "example": "Create"
+    },
+    {
+      "exercise": "",
+      "example": "Created"
+    },
+    {
+      "exercise": "",
+      "example": "D"
+    },
+    {
+      "exercise": "",
+      "example": "DA"
+    },
+    {
+      "exercise": "",
+      "example": "DCHECK"
+    },
+    {
+      "exercise": "",
+      "example": "DEBUG"
+    },
+    {
+      "exercise": "",
+      "example": "DQ"
+    },
+    {
+      "exercise": "",
+      "example": "Data"
+    },
+    {
+      "exercise": "",
+      "example": "Dispose"
+    },
+    {
+      "exercise": "",
+      "example": "Do"
+    },
+    {
+      "exercise": "",
+      "example": "E"
+    },
+    {
+      "exercise": "",
+      "example": "EXPECT_EQ"
+    },
+    {
+      "exercise": "",
+      "example": "Error"
+    },
+    {
+      "exercise": "",
+      "example": "F"
+    },
+    {
+      "exercise": "",
+      "example": "FontSize"
+    },
+    {
+      "exercise": "",
+      "example": "For"
+    },
+    {
+      "exercise": "",
+      "example": "Foundation"
+    },
+    {
+      "exercise": "",
+      "example": "G"
+    },
+    {
+      "exercise": "",
+      "example": "GUIDATA"
+    },
+    {
+      "exercise": "",
+      "example": "Get"
+    },
+    {
+      "exercise": "",
+      "example": "HDR"
+    },
+    {
+      "exercise": "",
+      "example": "I"
+    },
+    {
+      "exercise": "",
+      "example": "IBAction"
+    },
+    {
+      "exercise": "",
+      "example": "IBOutlet"
+    },
+    {
+      "exercise": "",
+      "example": "IN"
+    },
+    {
+      "exercise": "",
+      "example": "IO"
+    },
+    {
+      "exercise": "",
+      "example": "If"
+    },
+    {
+      "exercise": "",
+      "example": "In"
+    },
+    {
+      "exercise": "",
+      "example": "Initialization"
+    },
+    {
+      "exercise": "",
+      "example": "Input"
+    },
+    {
+      "exercise": "",
+      "example": "It"
+    },
+    {
+      "exercise": "",
+      "example": "J"
+    },
+    {
+      "exercise": "",
+      "example": "K"
+    },
+    {
+      "exercise": "",
+      "example": "KrollObject"
+    },
+    {
+      "exercise": "",
+      "example": "L"
+    },
+    {
+      "exercise": "",
+      "example": "M"
+    },
+    {
+      "exercise": "",
+      "example": "MAKE_SYSTEM_PROP"
+    },
+    {
+      "exercise": "",
+      "example": "MATLAB"
+    },
+    {
+      "exercise": "",
+      "example": "Methods"
+    },
+    {
+      "exercise": "",
+      "example": "N"
+    },
+    {
+      "exercise": "",
+      "example": "NAME"
+    },
+    {
+      "exercise": "",
+      "example": "NEXT"
+    },
+    {
+      "exercise": "",
+      "example": "NO"
+    },
+    {
+      "exercise": "",
+      "example": "NOT"
+    },
+    {
+      "exercise": "",
+      "example": "NSApp"
+    },
+    {
+      "exercise": "",
+      "example": "NSArray"
+    },
+    {
+      "exercise": "",
+      "example": "NSAssert"
+    },
+    {
+      "exercise": "",
+      "example": "NSAutoreleasePool"
+    },
+    {
+      "exercise": "",
+      "example": "NSBundle"
+    },
+    {
+      "exercise": "",
+      "example": "NSCalendar"
+    },
+    {
+      "exercise": "",
+      "example": "NSCoder"
+    },
+    {
+      "exercise": "",
+      "example": "NSColor"
+    },
+    {
+      "exercise": "",
+      "example": "NSData"
+    },
+    {
+      "exercise": "",
+      "example": "NSDate"
+    },
+    {
+      "exercise": "",
+      "example": "NSDateFormatter"
+    },
+    {
+      "exercise": "",
+      "example": "NSDictionary"
+    },
+    {
+      "exercise": "",
+      "example": "NSError"
+    },
+    {
+      "exercise": "",
+      "example": "NSEvent"
+    },
+    {
+      "exercise": "",
+      "example": "NSException"
+    },
+    {
+      "exercise": "",
+      "example": "NSFileManager"
+    },
+    {
+      "exercise": "",
+      "example": "NSIndexPath"
+    },
+    {
+      "exercise": "",
+      "example": "NSInteger"
+    },
+    {
+      "exercise": "",
+      "example": "NSLocalizedString"
+    },
+    {
+      "exercise": "",
+      "example": "NSLog"
+    },
+    {
+      "exercise": "",
+      "example": "NSMakeRange"
+    },
+    {
+      "exercise": "",
+      "example": "NSMenuItem"
+    },
+    {
+      "exercise": "",
+      "example": "NSMutableArray"
+    },
+    {
+      "exercise": "",
+      "example": "NSMutableData"
+    },
+    {
+      "exercise": "",
+      "example": "NSMutableDictionary"
+    },
+    {
+      "exercise": "",
+      "example": "NSMutableString"
+    },
+    {
+      "exercise": "",
+      "example": "NSMutableURLRequest"
+    },
+    {
+      "exercise": "",
+      "example": "NSNotFound"
+    },
+    {
+      "exercise": "",
+      "example": "NSNotification"
+    },
+    {
+      "exercise": "",
+      "example": "NSNotificationCenter"
+    },
+    {
+      "exercise": "",
+      "example": "NSNull"
+    },
+    {
+      "exercise": "",
+      "example": "NSNumber"
+    },
+    {
+      "exercise": "",
+      "example": "NSObject"
+    },
+    {
+      "exercise": "",
+      "example": "NSParameterAssert"
+    },
+    {
+      "exercise": "",
+      "example": "NSPoint"
+    },
+    {
+      "exercise": "",
+      "example": "NSRange"
+    },
+    {
+      "exercise": "",
+      "example": "NSRect"
+    },
+    {
+      "exercise": "",
+      "example": "NSSet"
+    },
+    {
+      "exercise": "",
+      "example": "NSString"
+    },
+    {
+      "exercise": "",
+      "example": "NSStringFromClass"
+    },
+    {
+      "exercise": "",
+      "example": "NSStringFromSelector"
+    },
+    {
+      "exercise": "",
+      "example": "NSThread"
+    },
+    {
+      "exercise": "",
+      "example": "NSTimeInterval"
+    },
+    {
+      "exercise": "",
+      "example": "NSUInteger"
+    },
+    {
+      "exercise": "",
+      "example": "NSURL"
+    },
+    {
+      "exercise": "",
+      "example": "NSURLConnection"
+    },
+    {
+      "exercise": "",
+      "example": "NSURLRequest"
+    },
+    {
+      "exercise": "",
+      "example": "NSUTF8StringEncoding"
+    },
+    {
+      "exercise": "",
+      "example": "NSUserDefaults"
+    },
+    {
+      "exercise": "",
+      "example": "NSView"
+    },
+    {
+      "exercise": "",
+      "example": "NSWindow"
+    },
+    {
+      "exercise": "",
+      "example": "NULL"
+    },
+    {
+      "exercise": "",
+      "example": "No"
+    },
+    {
+      "exercise": "",
+      "example": "Note"
+    },
+    {
+      "exercise": "",
+      "example": "OF"
+    },
+    {
+      "exercise": "",
+      "example": "OK"
+    },
+    {
+      "exercise": "",
+      "example": "OR"
+    },
+    {
+      "exercise": "",
+      "example": "Output"
+    },
+    {
+      "exercise": "",
+      "example": "Override"
+    },
+    {
+      "exercise": "",
+      "example": "P"
+    },
+    {
+      "exercise": "",
+      "example": "Pass"
+    },
+    {
+      "exercise": "",
+      "example": "Private"
+    },
+    {
+      "exercise": "",
+      "example": "Public"
+    },
+    {
+      "exercise": "",
+      "example": "Put"
+    },
+    {
+      "exercise": "",
+      "example": "Q"
+    },
+    {
+      "exercise": "",
+      "example": "QuartzCore"
+    },
+    {
+      "exercise": "",
+      "example": "R"
+    },
+    {
+      "exercise": "",
+      "example": "RELEASE_TO_NIL"
+    },
+    {
+      "exercise": "",
+      "example": "RationalField"
+    },
+    {
+      "exercise": "",
+      "example": "Return"
+    },
+    {
+      "exercise": "",
+      "example": "Returns"
+    },
+    {
+      "exercise": "",
+      "example": "S"
+    },
+    {
+      "exercise": "",
+      "example": "SEL"
+    },
+    {
+      "exercise": "",
+      "example": "See"
+    },
+    {
+      "exercise": "",
+      "example": "Set"
+    },
+    {
+      "exercise": "",
+      "example": "Status"
+    },
+    {
+      "exercise": "",
+      "example": "String"
+    },
+    {
+      "exercise": "",
+      "example": "T"
+    },
+    {
+      "exercise": "",
+      "example": "TARGET_OS_IPHONE"
+    },
+    {
+      "exercise": "",
+      "example": "TODO"
+    },
+    {
+      "exercise": "",
+      "example": "The"
+    },
+    {
+      "exercise": "",
+      "example": "This"
+    },
+    {
+      "exercise": "",
+      "example": "TiUtils"
+    },
+    {
+      "exercise": "",
+      "example": "TiValueRef"
+    },
+    {
+      "exercise": "",
+      "example": "U"
+    },
+    {
+      "exercise": "",
+      "example": "UI"
+    },
+    {
+      "exercise": "",
+      "example": "UIAlertView"
+    },
+    {
+      "exercise": "",
+      "example": "UIApplication"
+    },
+    {
+      "exercise": "",
+      "example": "UIApplicationMain"
+    },
+    {
+      "exercise": "",
+      "example": "UIButton"
+    },
+    {
+      "exercise": "",
+      "example": "UIColor"
+    },
+    {
+      "exercise": "",
+      "example": "UIControlStateNormal"
+    },
+    {
+      "exercise": "",
+      "example": "UIDevice"
+    },
+    {
+      "exercise": "",
+      "example": "UIEvent"
+    },
+    {
+      "exercise": "",
+      "example": "UIFont"
+    },
+    {
+      "exercise": "",
+      "example": "UIImage"
+    },
+    {
+      "exercise": "",
+      "example": "UIImageView"
+    },
+    {
+      "exercise": "",
+      "example": "UIInterfaceOrientation"
+    },
+    {
+      "exercise": "",
+      "example": "UIKit"
+    },
+    {
+      "exercise": "",
+      "example": "UILabel"
+    },
+    {
+      "exercise": "",
+      "example": "UIScreen"
+    },
+    {
+      "exercise": "",
+      "example": "UIScrollView"
+    },
+    {
+      "exercise": "",
+      "example": "UIStoryboardSegue"
+    },
+    {
+      "exercise": "",
+      "example": "UITableView"
+    },
+    {
+      "exercise": "",
+      "example": "UITableViewCell"
+    },
+    {
+      "exercise": "",
+      "example": "UITextField"
+    },
+    {
+      "exercise": "",
+      "example": "UIView"
+    },
+    {
+      "exercise": "",
+      "example": "UIViewController"
+    },
+    {
+      "exercise": "",
+      "example": "UIWindow"
+    },
+    {
+      "exercise": "",
+      "example": "URL"
+    },
+    {
+      "exercise": "",
+      "example": "URLWithString"
+    },
+    {
+      "exercise": "",
+      "example": "UTF8String"
+    },
+    {
+      "exercise": "",
+      "example": "Update"
+    },
+    {
+      "exercise": "",
+      "example": "Use"
+    },
+    {
+      "exercise": "",
+      "example": "V"
+    },
+    {
+      "exercise": "",
+      "example": "ViewController"
+    },
+    {
+      "exercise": "",
+      "example": "W"
+    },
+    {
+      "exercise": "",
+      "example": "We"
+    },
+    {
+      "exercise": "",
+      "example": "X"
+    },
+    {
+      "exercise": "",
+      "example": "XCTAssert"
+    },
+    {
+      "exercise": "",
+      "example": "XCTAssertEqual"
+    },
+    {
+      "exercise": "",
+      "example": "XCTAssertTrue"
+    },
+    {
+      "exercise": "",
+      "example": "XCTest"
+    },
+    {
+      "exercise": "",
+      "example": "Y"
+    },
+    {
+      "exercise": "",
+      "example": "YES"
+    },
+    {
+      "exercise": "",
+      "example": "_"
+    },
+    {
+      "exercise": "",
+      "example": "_NS"
+    },
+    {
+      "exercise": "",
+      "example": "__block"
+    },
+    {
+      "exercise": "",
+      "example": "__bridge"
+    },
+    {
+      "exercise": "",
+      "example": "__weak"
+    },
+    {
+      "exercise": "",
+      "example": "_cmd"
+    },
+    {
+      "exercise": "",
+      "example": "_delegate"
+    },
+    {
+      "exercise": "",
+      "example": "_tableView"
+    },
+    {
+      "exercise": "",
+      "example": "a"
+    },
+    {
+      "exercise": "",
+      "example": "aDecoder"
+    },
+    {
+      "exercise": "",
+      "example": "about"
+    },
+    {
+      "exercise": "",
+      "example": "action"
+    },
+    {
+      "exercise": "",
+      "example": "add"
+    },
+    {
+      "exercise": "",
+      "example": "addObject"
+    },
+    {
+      "exercise": "",
+      "example": "addObserver"
+    },
+    {
+      "exercise": "",
+      "example": "addSubview"
+    },
+    {
+      "exercise": "",
+      "example": "additional"
+    },
+    {
+      "exercise": "",
+      "example": "address"
+    },
+    {
+      "exercise": "",
+      "example": "after"
+    },
+    {
+      "exercise": "",
+      "example": "alert"
+    },
+    {
+      "exercise": "",
+      "example": "alertView"
+    },
+    {
+      "exercise": "",
+      "example": "all"
+    },
+    {
+      "exercise": "",
+      "example": "alloc"
+    },
+    {
+      "exercise": "",
+      "example": "alpha"
+    },
+    {
+      "exercise": "",
+      "example": "already"
+    },
+    {
+      "exercise": "",
+      "example": "also"
+    },
+    {
+      "exercise": "",
+      "example": "an"
+    },
+    {
+      "exercise": "",
+      "example": "and"
+    },
+    {
+      "exercise": "",
+      "example": "animateWithDuration"
+    },
+    {
+      "exercise": "",
+      "example": "animated"
+    },
+    {
+      "exercise": "",
+      "example": "animation"
+    },
+    {
+      "exercise": "",
+      "example": "animations"
+    },
+    {
+      "exercise": "",
+      "example": "any"
+    },
+    {
+      "exercise": "",
+      "example": "app"
+    },
+    {
+      "exercise": "",
+      "example": "appendString"
+    },
+    {
+      "exercise": "",
+      "example": "application"
+    },
+    {
+      "exercise": "",
+      "example": "applicationDidBecomeActive"
+    },
+    {
+      "exercise": "",
+      "example": "applicationDidEnterBackground"
+    },
+    {
+      "exercise": "",
+      "example": "applicationWillEnterForeground"
+    },
+    {
+      "exercise": "",
+      "example": "applicationWillResignActive"
+    },
+    {
+      "exercise": "",
+      "example": "applicationWillTerminate"
+    },
+    {
+      "exercise": "",
+      "example": "are"
+    },
+    {
+      "exercise": "",
+      "example": "arg"
+    },
+    {
+      "exercise": "",
+      "example": "argc"
+    },
+    {
+      "exercise": "",
+      "example": "args"
+    },
+    {
+      "exercise": "",
+      "example": "arguments"
+    },
+    {
+      "exercise": "",
+      "example": "argv"
+    },
+    {
+      "exercise": "",
+      "example": "array"
+    },
+    {
+      "exercise": "",
+      "example": "as"
+    },
+    {
+      "exercise": "",
+      "example": "assert"
+    },
+    {
+      "exercise": "",
+      "example": "assign"
+    },
+    {
+      "exercise": "",
+      "example": "at"
+    },
+    {
+      "exercise": "",
+      "example": "atIndex"
+    },
+    {
+      "exercise": "",
+      "example": "attribute"
+    },
+    {
+      "exercise": "",
+      "example": "attributes"
+    },
+    {
+      "exercise": "",
+      "example": "autorelease"
+    },
+    {
+      "exercise": "",
+      "example": "autoreleasepool"
+    },
+    {
+      "exercise": "",
+      "example": "available"
+    },
+    {
+      "exercise": "",
+      "example": "awakeFromNib"
+    },
+    {
+      "exercise": "",
+      "example": "axis"
+    },
+    {
+      "exercise": "",
+      "example": "b"
+    },
+    {
+      "exercise": "",
+      "example": "back"
+    },
+    {
+      "exercise": "",
+      "example": "background"
+    },
+    {
+      "exercise": "",
+      "example": "backgroundColor"
+    },
+    {
+      "exercise": "",
+      "example": "bar"
+    },
+    {
+      "exercise": "",
+      "example": "base"
+    },
+    {
+      "exercise": "",
+      "example": "based"
+    },
+    {
+      "exercise": "",
+      "example": "be"
+    },
+    {
+      "exercise": "",
+      "example": "because"
+    },
+    {
+      "exercise": "",
+      "example": "been"
+    },
+    {
+      "exercise": "",
+      "example": "before"
+    },
+    {
+      "exercise": "",
+      "example": "between"
+    },
+    {
+      "exercise": "",
+      "example": "binary"
+    },
+    {
+      "exercise": "",
+      "example": "blackColor"
+    },
+    {
+      "exercise": "",
+      "example": "block"
+    },
+    {
+      "exercise": "",
+      "example": "blue"
+    },
+    {
+      "exercise": "",
+      "example": "body"
+    },
+    {
+      "exercise": "",
+      "example": "bool"
+    },
+    {
+      "exercise": "",
+      "example": "boolValue"
+    },
+    {
+      "exercise": "",
+      "example": "bottom"
+    },
+    {
+      "exercise": "",
+      "example": "bounds"
+    },
+    {
+      "exercise": "",
+      "example": "break"
+    },
+    {
+      "exercise": "",
+      "example": "browser"
+    },
+    {
+      "exercise": "",
+      "example": "buffer"
+    },
+    {
+      "exercise": "",
+      "example": "bundle"
+    },
+    {
+      "exercise": "",
+      "example": "but"
+    },
+    {
+      "exercise": "",
+      "example": "button"
+    },
+    {
+      "exercise": "",
+      "example": "buttonIndex"
+    },
+    {
+      "exercise": "",
+      "example": "buttons"
+    },
+    {
+      "exercise": "",
+      "example": "by"
+    },
+    {
+      "exercise": "",
+      "example": "bytes"
+    },
+    {
+      "exercise": "",
+      "example": "c"
+    },
+    {
+      "exercise": "",
+      "example": "cache"
+    },
+    {
+      "exercise": "",
+      "example": "call"
+    },
+    {
+      "exercise": "",
+      "example": "callback"
+    },
+    {
+      "exercise": "",
+      "example": "callbackId"
+    },
+    {
+      "exercise": "",
+      "example": "called"
+    },
+    {
+      "exercise": "",
+      "example": "can"
+    },
+    {
+      "exercise": "",
+      "example": "cancel"
+    },
+    {
+      "exercise": "",
+      "example": "case"
+    },
+    {
+      "exercise": "",
+      "example": "catch"
+    },
+    {
+      "exercise": "",
+      "example": "cell"
+    },
+    {
+      "exercise": "",
+      "example": "cellForRowAtIndexPath"
+    },
+    {
+      "exercise": "",
+      "example": "center"
+    },
+    {
+      "exercise": "",
+      "example": "cfg"
+    },
+    {
+      "exercise": "",
+      "example": "ch"
+    },
+    {
+      "exercise": "",
+      "example": "change"
+    },
+    {
+      "exercise": "",
+      "example": "channel"
+    },
+    {
+      "exercise": "",
+      "example": "char"
+    },
+    {
+      "exercise": "",
+      "example": "check"
+    },
+    {
+      "exercise": "",
+      "example": "child"
+    },
+    {
+      "exercise": "",
+      "example": "children"
+    },
+    {
+      "exercise": "",
+      "example": "chrome"
+    },
+    {
+      "exercise": "",
+      "example": "clang"
+    },
+    {
+      "exercise": "",
+      "example": "class"
+    },
+    {
+      "exercise": "",
+      "example": "clear"
+    },
+    {
+      "exercise": "",
+      "example": "clearColor"
+    },
+    {
+      "exercise": "",
+      "example": "client"
+    },
+    {
+      "exercise": "",
+      "example": "close"
+    },
+    {
+      "exercise": "",
+      "example": "cocoa"
+    },
+    {
+      "exercise": "",
+      "example": "code"
+    },
+    {
+      "exercise": "",
+      "example": "coder"
+    },
+    {
+      "exercise": "",
+      "example": "col"
+    },
+    {
+      "exercise": "",
+      "example": "collection"
+    },
+    {
+      "exercise": "",
+      "example": "collectionView"
+    },
+    {
+      "exercise": "",
+      "example": "color"
+    },
+    {
+      "exercise": "",
+      "example": "column"
+    },
+    {
+      "exercise": "",
+      "example": "com"
+    },
+    {
+      "exercise": "",
+      "example": "command"
+    },
+    {
+      "exercise": "",
+      "example": "completion"
+    },
+    {
+      "exercise": "",
+      "example": "completionBlock"
+    },
+    {
+      "exercise": "",
+      "example": "completionHandler"
+    },
+    {
+      "exercise": "",
+      "example": "components"
+    },
+    {
+      "exercise": "",
+      "example": "condition"
+    },
+    {
+      "exercise": "",
+      "example": "conditions"
+    },
+    {
+      "exercise": "",
+      "example": "config"
+    },
+    {
+      "exercise": "",
+      "example": "connection"
+    },
+    {
+      "exercise": "",
+      "example": "const"
+    },
+    {
+      "exercise": "",
+      "example": "container"
+    },
+    {
+      "exercise": "",
+      "example": "content"
+    },
+    {
+      "exercise": "",
+      "example": "contentOffset"
+    },
+    {
+      "exercise": "",
+      "example": "contentSize"
+    },
+    {
+      "exercise": "",
+      "example": "contentView"
+    },
+    {
+      "exercise": "",
+      "example": "contents"
+    },
+    {
+      "exercise": "",
+      "example": "context"
+    },
+    {
+      "exercise": "",
+      "example": "continue"
+    },
+    {
+      "exercise": "",
+      "example": "control"
+    },
+    {
+      "exercise": "",
+      "example": "controller"
+    },
+    {
+      "exercise": "",
+      "example": "controller_"
+    },
+    {
+      "exercise": "",
+      "example": "copy"
+    },
+    {
+      "exercise": "",
+      "example": "count"
+    },
+    {
+      "exercise": "",
+      "example": "create"
+    },
+    {
+      "exercise": "",
+      "example": "created"
+    },
+    {
+      "exercise": "",
+      "example": "ctx"
+    },
+    {
+      "exercise": "",
+      "example": "current"
+    },
+    {
+      "exercise": "",
+      "example": "cursor"
+    },
+    {
+      "exercise": "",
+      "example": "customization"
+    },
+    {
+      "exercise": "",
+      "example": "d"
+    },
+    {
+      "exercise": "",
+      "example": "data"
+    },
+    {
+      "exercise": "",
+      "example": "dataSource"
+    },
+    {
+      "exercise": "",
+      "example": "date"
+    },
+    {
+      "exercise": "",
+      "example": "dateFormatter"
+    },
+    {
+      "exercise": "",
+      "example": "db"
+    },
+    {
+      "exercise": "",
+      "example": "dealloc"
+    },
+    {
+      "exercise": "",
+      "example": "decoder"
+    },
+    {
+      "exercise": "",
+      "example": "def"
+    },
+    {
+      "exercise": "",
+      "example": "default"
+    },
+    {
+      "exercise": "",
+      "example": "defaultCenter"
+    },
+    {
+      "exercise": "",
+      "example": "defaultManager"
+    },
+    {
+      "exercise": "",
+      "example": "defaults"
+    },
+    {
+      "exercise": "",
+      "example": "define"
+    },
+    {
+      "exercise": "",
+      "example": "defined"
+    },
+    {
+      "exercise": "",
+      "example": "delay"
+    },
+    {
+      "exercise": "",
+      "example": "delegate"
+    },
+    {
+      "exercise": "",
+      "example": "delete"
+    },
+    {
+      "exercise": "",
+      "example": "description"
+    },
+    {
+      "exercise": "",
+      "example": "det"
+    },
+    {
+      "exercise": "",
+      "example": "details"
+    },
+    {
+      "exercise": "",
+      "example": "device"
+    },
+    {
+      "exercise": "",
+      "example": "diagnostic"
+    },
+    {
+      "exercise": "",
+      "example": "dict"
+    },
+    {
+      "exercise": "",
+      "example": "dictionary"
+    },
+    {
+      "exercise": "",
+      "example": "dictionaryWithObjectsAndKeys"
+    },
+    {
+      "exercise": "",
+      "example": "didFinishLaunchingWithOptions"
+    },
+    {
+      "exercise": "",
+      "example": "didReceiveMemoryWarning"
+    },
+    {
+      "exercise": "",
+      "example": "didSelectRowAtIndexPath"
+    },
+    {
+      "exercise": "",
+      "example": "dismissViewControllerAnimated"
+    },
+    {
+      "exercise": "",
+      "example": "disp"
+    },
+    {
+      "exercise": "",
+      "example": "dispatch_async"
+    },
+    {
+      "exercise": "",
+      "example": "dispatch_get_main_queue"
+    },
+    {
+      "exercise": "",
+      "example": "dispatch_once"
+    },
+    {
+      "exercise": "",
+      "example": "dispatch_once_t"
+    },
+    {
+      "exercise": "",
+      "example": "display"
+    },
+    {
+      "exercise": "",
+      "example": "distribute"
+    },
+    {
+      "exercise": "",
+      "example": "distribution"
+    },
+    {
+      "exercise": "",
+      "example": "do"
+    },
+    {
+      "exercise": "",
+      "example": "document"
+    },
+    {
+      "exercise": "",
+      "example": "documentation"
+    },
+    {
+      "exercise": "",
+      "example": "does"
+    },
+    {
+      "exercise": "",
+      "example": "doesn"
+    },
+    {
+      "exercise": "",
+      "example": "don"
+    },
+    {
+      "exercise": "",
+      "example": "done"
+    },
+    {
+      "exercise": "",
+      "example": "double"
+    },
+    {
+      "exercise": "",
+      "example": "drawRect"
+    },
+    {
+      "exercise": "",
+      "example": "duration"
+    },
+    {
+      "exercise": "",
+      "example": "during"
+    },
+    {
+      "exercise": "",
+      "example": "dynamic"
+    },
+    {
+      "exercise": "",
+      "example": "e"
+    },
+    {
+      "exercise": "",
+      "example": "each"
+    },
+    {
+      "exercise": "",
+      "example": "edge"
+    },
+    {
+      "exercise": "",
+      "example": "editing"
+    },
+    {
+      "exercise": "",
+      "example": "element"
+    },
+    {
+      "exercise": "",
+      "example": "else"
+    },
+    {
+      "exercise": "",
+      "example": "elseif"
+    },
+    {
+      "exercise": "",
+      "example": "empty"
+    },
+    {
+      "exercise": "",
+      "example": "enabled"
+    },
+    {
+      "exercise": "",
+      "example": "encoding"
+    },
+    {
+      "exercise": "",
+      "example": "end"
+    },
+    {
+      "exercise": "",
+      "example": "endif"
+    },
+    {
+      "exercise": "",
+      "example": "entry"
+    },
+    {
+      "exercise": "",
+      "example": "equal"
+    },
+    {
+      "exercise": "",
+      "example": "err"
+    },
+    {
+      "exercise": "",
+      "example": "error"
+    },
+    {
+      "exercise": "",
+      "example": "event"
+    },
+    {
+      "exercise": "",
+      "example": "eventdata"
+    },
+    {
+      "exercise": "",
+      "example": "events"
+    },
+    {
+      "exercise": "",
+      "example": "ex"
+    },
+    {
+      "exercise": "",
+      "example": "example"
+    },
+    {
+      "exercise": "",
+      "example": "exception"
+    },
+    {
+      "exercise": "",
+      "example": "exist"
+    },
+    {
+      "exercise": "",
+      "example": "exists"
+    },
+    {
+      "exercise": "",
+      "example": "expect"
+    },
+    {
+      "exercise": "",
+      "example": "expected"
+    },
+    {
+      "exercise": "",
+      "example": "extension"
+    },
+    {
+      "exercise": "",
+      "example": "f"
+    },
+    {
+      "exercise": "",
+      "example": "failed"
+    },
+    {
+      "exercise": "",
+      "example": "failure"
+    },
+    {
+      "exercise": "",
+      "example": "false"
+    },
+    {
+      "exercise": "",
+      "example": "fclose"
+    },
+    {
+      "exercise": "",
+      "example": "fid"
+    },
+    {
+      "exercise": "",
+      "example": "field"
+    },
+    {
+      "exercise": "",
+      "example": "fields"
+    },
+    {
+      "exercise": "",
+      "example": "figure"
+    },
+    {
+      "exercise": "",
+      "example": "file"
+    },
+    {
+      "exercise": "",
+      "example": "filePath"
+    },
+    {
+      "exercise": "",
+      "example": "filename"
+    },
+    {
+      "exercise": "",
+      "example": "files"
+    },
+    {
+      "exercise": "",
+      "example": "filter"
+    },
+    {
+      "exercise": "",
+      "example": "find"
+    },
+    {
+      "exercise": "",
+      "example": "finished"
+    },
+    {
+      "exercise": "",
+      "example": "first"
+    },
+    {
+      "exercise": "",
+      "example": "flag"
+    },
+    {
+      "exercise": "",
+      "example": "flags"
+    },
+    {
+      "exercise": "",
+      "example": "float"
+    },
+    {
+      "exercise": "",
+      "example": "floatValue"
+    },
+    {
+      "exercise": "",
+      "example": "following"
+    },
+    {
+      "exercise": "",
+      "example": "font"
+    },
+    {
+      "exercise": "",
+      "example": "for"
+    },
+    {
+      "exercise": "",
+      "example": "forKey"
+    },
+    {
+      "exercise": "",
+      "example": "forState"
+    },
+    {
+      "exercise": "",
+      "example": "format"
+    },
+    {
+      "exercise": "",
+      "example": "formatter"
+    },
+    {
+      "exercise": "",
+      "example": "forms"
+    },
+    {
+      "exercise": "",
+      "example": "found"
+    },
+    {
+      "exercise": "",
+      "example": "fprintf"
+    },
+    {
+      "exercise": "",
+      "example": "frame"
+    },
+    {
+      "exercise": "",
+      "example": "free"
+    },
+    {
+      "exercise": "",
+      "example": "from"
+    },
+    {
+      "exercise": "",
+      "example": "function"
+    },
+    {
+      "exercise": "",
+      "example": "functions"
+    },
+    {
+      "exercise": "",
+      "example": "furnished"
+    },
+    {
+      "exercise": "",
+      "example": "future"
+    },
+    {
+      "exercise": "",
+      "example": "g"
+    },
+    {
+      "exercise": "",
+      "example": "gca"
+    },
+    {
+      "exercise": "",
+      "example": "gcf"
+    },
+    {
+      "exercise": "",
+      "example": "generated"
+    },
+    {
+      "exercise": "",
+      "example": "get"
+    },
+    {
+      "exercise": "",
+      "example": "gfx"
+    },
+    {
+      "exercise": "",
+      "example": "given"
+    },
+    {
+      "exercise": "",
+      "example": "global"
+    },
+    {
+      "exercise": "",
+      "example": "gradient"
+    },
+    {
+      "exercise": "",
+      "example": "green"
+    },
+    {
+      "exercise": "",
+      "example": "grid"
+    },
+    {
+      "exercise": "",
+      "example": "group"
+    },
+    {
+      "exercise": "",
+      "example": "h"
+    },
+    {
+      "exercise": "",
+      "example": "hObject"
+    },
+    {
+      "exercise": "",
+      "example": "handle"
+    },
+    {
+      "exercise": "",
+      "example": "handler"
+    },
+    {
+      "exercise": "",
+      "example": "handles"
+    },
+    {
+      "exercise": "",
+      "example": "has"
+    },
+    {
+      "exercise": "",
+      "example": "hasPrefix"
+    },
+    {
+      "exercise": "",
+      "example": "hash"
+    },
+    {
+      "exercise": "",
+      "example": "have"
+    },
+    {
+      "exercise": "",
+      "example": "hdr"
+    },
+    {
+      "exercise": "",
+      "example": "head"
+    },
+    {
+      "exercise": "",
+      "example": "header"
+    },
+    {
+      "exercise": "",
+      "example": "height"
+    },
+    {
+      "exercise": "",
+      "example": "here"
+    },
+    {
+      "exercise": "",
+      "example": "hidden"
+    },
+    {
+      "exercise": "",
+      "example": "hold"
+    },
+    {
+      "exercise": "",
+      "example": "host"
+    },
+    {
+      "exercise": "",
+      "example": "html"
+    },
+    {
+      "exercise": "",
+      "example": "http"
+    },
+    {
+      "exercise": "",
+      "example": "https"
+    },
+    {
+      "exercise": "",
+      "example": "i"
+    },
+    {
+      "exercise": "",
+      "example": "iOS"
+    },
+    {
+      "exercise": "",
+      "example": "icon"
+    },
+    {
+      "exercise": "",
+      "example": "id"
+    },
+    {
+      "exercise": "",
+      "example": "identifier"
+    },
+    {
+      "exercise": "",
+      "example": "idx"
+    },
+    {
+      "exercise": "",
+      "example": "if"
+    },
+    {
+      "exercise": "",
+      "example": "ifdef"
+    },
+    {
+      "exercise": "",
+      "example": "ifndef"
+    },
+    {
+      "exercise": "",
+      "example": "ignored"
+    },
+    {
+      "exercise": "",
+      "example": "ii"
+    },
+    {
+      "exercise": "",
+      "example": "image"
+    },
+    {
+      "exercise": "",
+      "example": "imageNamed"
+    },
+    {
+      "exercise": "",
+      "example": "imageSize"
+    },
+    {
+      "exercise": "",
+      "example": "imageView"
+    },
+    {
+      "exercise": "",
+      "example": "images"
+    },
+    {
+      "exercise": "",
+      "example": "img"
+    },
+    {
+      "exercise": "",
+      "example": "implementation"
+    },
+    {
+      "exercise": "",
+      "example": "import"
+    },
+    {
+      "exercise": "",
+      "example": "import_module"
+    },
+    {
+      "exercise": "",
+      "example": "in"
+    },
+    {
+      "exercise": "",
+      "example": "inProtocol"
+    },
+    {
+      "exercise": "",
+      "example": "include"
+    },
+    {
+      "exercise": "",
+      "example": "ind"
+    },
+    {
+      "exercise": "",
+      "example": "index"
+    },
+    {
+      "exercise": "",
+      "example": "indexPath"
+    },
+    {
+      "exercise": "",
+      "example": "info"
+    },
+    {
+      "exercise": "",
+      "example": "information"
+    },
+    {
+      "exercise": "",
+      "example": "init"
+    },
+    {
+      "exercise": "",
+      "example": "initWithCoder"
+    },
+    {
+      "exercise": "",
+      "example": "initWithFrame"
+    },
+    {
+      "exercise": "",
+      "example": "initWithNibName"
+    },
+    {
+      "exercise": "",
+      "example": "initWithStyle"
+    },
+    {
+      "exercise": "",
+      "example": "initialization"
+    },
+    {
+      "exercise": "",
+      "example": "initialize"
+    },
+    {
+      "exercise": "",
+      "example": "input"
+    },
+    {
+      "exercise": "",
+      "example": "instance"
+    },
+    {
+      "exercise": "",
+      "example": "instancetype"
+    },
+    {
+      "exercise": "",
+      "example": "int"
+    },
+    {
+      "exercise": "",
+      "example": "int64_t"
+    },
+    {
+      "exercise": "",
+      "example": "intValue"
+    },
+    {
+      "exercise": "",
+      "example": "integer"
+    },
+    {
+      "exercise": "",
+      "example": "interface"
+    },
+    {
+      "exercise": "",
+      "example": "into"
+    },
+    {
+      "exercise": "",
+      "example": "invalidate"
+    },
+    {
+      "exercise": "",
+      "example": "invocation"
+    },
+    {
+      "exercise": "",
+      "example": "io"
+    },
+    {
+      "exercise": "",
+      "example": "is"
+    },
+    {
+      "exercise": "",
+      "example": "isEqual"
+    },
+    {
+      "exercise": "",
+      "example": "isEqualToString"
+    },
+    {
+      "exercise": "",
+      "example": "isKindOfClass"
+    },
+    {
+      "exercise": "",
+      "example": "isempty"
+    },
+    {
+      "exercise": "",
+      "example": "it"
+    },
+    {
+      "exercise": "",
+      "example": "item"
+    },
+    {
+      "exercise": "",
+      "example": "items"
+    },
+    {
+      "exercise": "",
+      "example": "its"
+    },
+    {
+      "exercise": "",
+      "example": "j"
+    },
+    {
+      "exercise": "",
+      "example": "jsContext"
+    },
+    {
+      "exercise": "",
+      "example": "json"
+    },
+    {
+      "exercise": "",
+      "example": "just"
+    },
+    {
+      "exercise": "",
+      "example": "k"
+    },
+    {
+      "exercise": "",
+      "example": "key"
+    },
+    {
+      "exercise": "",
+      "example": "keyPath"
+    },
+    {
+      "exercise": "",
+      "example": "keys"
+    },
+    {
+      "exercise": "",
+      "example": "l"
+    },
+    {
+      "exercise": "",
+      "example": "label"
+    },
+    {
+      "exercise": "",
+      "example": "last"
+    },
+    {
+      "exercise": "",
+      "example": "launch"
+    },
+    {
+      "exercise": "",
+      "example": "launchOptions"
+    },
+    {
+      "exercise": "",
+      "example": "layer"
+    },
+    {
+      "exercise": "",
+      "example": "layout"
+    },
+    {
+      "exercise": "",
+      "example": "layoutSubviews"
+    },
+    {
+      "exercise": "",
+      "example": "left"
+    },
+    {
+      "exercise": "",
+      "example": "len"
+    },
+    {
+      "exercise": "",
+      "example": "length"
+    },
+    {
+      "exercise": "",
+      "example": "level"
+    },
+    {
+      "exercise": "",
+      "example": "line"
+    },
+    {
+      "exercise": "",
+      "example": "list"
+    },
+    {
+      "exercise": "",
+      "example": "listener"
+    },
+    {
+      "exercise": "",
+      "example": "load"
+    },
+    {
+      "exercise": "",
+      "example": "loading"
+    },
+    {
+      "exercise": "",
+      "example": "location"
+    },
+    {
+      "exercise": "",
+      "example": "lock"
+    },
+    {
+      "exercise": "",
+      "example": "log"
+    },
+    {
+      "exercise": "",
+      "example": "long"
+    },
+    {
+      "exercise": "",
+      "example": "loop"
+    },
+    {
+      "exercise": "",
+      "example": "m"
+    },
+    {
+      "exercise": "",
+      "example": "mac"
+    },
+    {
+      "exercise": "",
+      "example": "main"
+    },
+    {
+      "exercise": "",
+      "example": "mainScreen"
+    },
+    {
+      "exercise": "",
+      "example": "make"
+    },
+    {
+      "exercise": "",
+      "example": "managedObjectContext"
+    },
+    {
+      "exercise": "",
+      "example": "manager"
+    },
+    {
+      "exercise": "",
+      "example": "map"
+    },
+    {
+      "exercise": "",
+      "example": "mark"
+    },
+    {
+      "exercise": "",
+      "example": "match"
+    },
+    {
+      "exercise": "",
+      "example": "matrix"
+    },
+    {
+      "exercise": "",
+      "example": "max"
+    },
+    {
+      "exercise": "",
+      "example": "menu"
+    },
+    {
+      "exercise": "",
+      "example": "merge"
+    },
+    {
+      "exercise": "",
+      "example": "message"
+    },
+    {
+      "exercise": "",
+      "example": "method"
+    },
+    {
+      "exercise": "",
+      "example": "methods"
+    },
+    {
+      "exercise": "",
+      "example": "min"
+    },
+    {
+      "exercise": "",
+      "example": "mode"
+    },
+    {
+      "exercise": "",
+      "example": "model"
+    },
+    {
+      "exercise": "",
+      "example": "modify"
+    },
+    {
+      "exercise": "",
+      "example": "module"
+    },
+    {
+      "exercise": "",
+      "example": "more"
+    },
+    {
+      "exercise": "",
+      "example": "msg"
+    },
+    {
+      "exercise": "",
+      "example": "must"
+    },
+    {
+      "exercise": "",
+      "example": "n"
+    },
+    {
+      "exercise": "",
+      "example": "name"
+    },
+    {
+      "exercise": "",
+      "example": "names"
+    },
+    {
+      "exercise": "",
+      "example": "namespace"
+    },
+    {
+      "exercise": "",
+      "example": "nargin"
+    },
+    {
+      "exercise": "",
+      "example": "nargout"
+    },
+    {
+      "exercise": "",
+      "example": "navigation"
+    },
+    {
+      "exercise": "",
+      "example": "navigationController"
+    },
+    {
+      "exercise": "",
+      "example": "navigationItem"
+    },
+    {
+      "exercise": "",
+      "example": "need"
+    },
+    {
+      "exercise": "",
+      "example": "net"
+    },
+    {
+      "exercise": "",
+      "example": "new"
+    },
+    {
+      "exercise": "",
+      "example": "next"
+    },
+    {
+      "exercise": "",
+      "example": "nib"
+    },
+    {
+      "exercise": "",
+      "example": "nibBundleOrNil"
+    },
+    {
+      "exercise": "",
+      "example": "nibNameOrNil"
+    },
+    {
+      "exercise": "",
+      "example": "nil"
+    },
+    {
+      "exercise": "",
+      "example": "no"
+    },
+    {
+      "exercise": "",
+      "example": "noErr"
+    },
+    {
+      "exercise": "",
+      "example": "node"
+    },
+    {
+      "exercise": "",
+      "example": "non"
+    },
+    {
+      "exercise": "",
+      "example": "nonatomic"
+    },
+    {
+      "exercise": "",
+      "example": "not"
+    },
+    {
+      "exercise": "",
+      "example": "notification"
+    },
+    {
+      "exercise": "",
+      "example": "now"
+    },
+    {
+      "exercise": "",
+      "example": "null"
+    },
+    {
+      "exercise": "",
+      "example": "num2str"
+    },
+    {
+      "exercise": "",
+      "example": "number"
+    },
+    {
+      "exercise": "",
+      "example": "numberOfRowsInSection"
+    },
+    {
+      "exercise": "",
+      "example": "numberOfSectionsInTableView"
+    },
+    {
+      "exercise": "",
+      "example": "numel"
+    },
+    {
+      "exercise": "",
+      "example": "o"
+    },
+    {
+      "exercise": "",
+      "example": "obj"
+    },
+    {
+      "exercise": "",
+      "example": "objc"
+    },
+    {
+      "exercise": "",
+      "example": "object"
+    },
+    {
+      "exercise": "",
+      "example": "objectAtIndex"
+    },
+    {
+      "exercise": "",
+      "example": "objectForKey"
+    },
+    {
+      "exercise": "",
+      "example": "objects"
+    },
+    {
+      "exercise": "",
+      "example": "of"
+    },
+    {
+      "exercise": "",
+      "example": "off"
+    },
+    {
+      "exercise": "",
+      "example": "offset"
+    },
+    {
+      "exercise": "",
+      "example": "ok"
+    },
+    {
+      "exercise": "",
+      "example": "on"
+    },
+    {
+      "exercise": "",
+      "example": "onceToken"
+    },
+    {
+      "exercise": "",
+      "example": "one"
+    },
+    {
+      "exercise": "",
+      "example": "only"
+    },
+    {
+      "exercise": "",
+      "example": "open"
+    },
+    {
+      "exercise": "",
+      "example": "operation"
+    },
+    {
+      "exercise": "",
+      "example": "opt"
+    },
+    {
+      "exercise": "",
+      "example": "options"
+    },
+    {
+      "exercise": "",
+      "example": "or"
+    },
+    {
+      "exercise": "",
+      "example": "order"
+    },
+    {
+      "exercise": "",
+      "example": "org"
+    },
+    {
+      "exercise": "",
+      "example": "orientation"
+    },
+    {
+      "exercise": "",
+      "example": "origin"
+    },
+    {
+      "exercise": "",
+      "example": "other"
+    },
+    {
+      "exercise": "",
+      "example": "otherwise"
+    },
+    {
+      "exercise": "",
+      "example": "our"
+    },
+    {
+      "exercise": "",
+      "example": "out"
+    },
+    {
+      "exercise": "",
+      "example": "outProtocol"
+    },
+    {
+      "exercise": "",
+      "example": "output"
+    },
+    {
+      "exercise": "",
+      "example": "override"
+    },
+    {
+      "exercise": "",
+      "example": "own"
+    },
+    {
+      "exercise": "",
+      "example": "p"
+    },
+    {
+      "exercise": "",
+      "example": "page"
+    },
+    {
+      "exercise": "",
+      "example": "param"
+    },
+    {
+      "exercise": "",
+      "example": "parameter"
+    },
+    {
+      "exercise": "",
+      "example": "parameters"
+    },
+    {
+      "exercise": "",
+      "example": "params"
+    },
+    {
+      "exercise": "",
+      "example": "parent"
+    },
+    {
+      "exercise": "",
+      "example": "parseState"
+    },
+    {
+      "exercise": "",
+      "example": "parser"
+    },
+    {
+      "exercise": "",
+      "example": "part"
+    },
+    {
+      "exercise": "",
+      "example": "password"
+    },
+    {
+      "exercise": "",
+      "example": "path"
+    },
+    {
+      "exercise": "",
+      "example": "pause"
+    },
+    {
+      "exercise": "",
+      "example": "performSelector"
+    },
+    {
+      "exercise": "",
+      "example": "performance"
+    },
+    {
+      "exercise": "",
+      "example": "picker"
+    },
+    {
+      "exercise": "",
+      "example": "player"
+    },
+    {
+      "exercise": "",
+      "example": "plot"
+    },
+    {
+      "exercise": "",
+      "example": "point"
+    },
+    {
+      "exercise": "",
+      "example": "points"
+    },
+    {
+      "exercise": "",
+      "example": "pool"
+    },
+    {
+      "exercise": "",
+      "example": "pop"
+    },
+    {
+      "exercise": "",
+      "example": "port"
+    },
+    {
+      "exercise": "",
+      "example": "pos"
+    },
+    {
+      "exercise": "",
+      "example": "position"
+    },
+    {
+      "exercise": "",
+      "example": "pragma"
+    },
+    {
+      "exercise": "",
+      "example": "prepareForSegue"
+    },
+    {
+      "exercise": "",
+      "example": "private"
+    },
+    {
+      "exercise": "",
+      "example": "profile"
+    },
+    {
+      "exercise": "",
+      "example": "progress"
+    },
+    {
+      "exercise": "",
+      "example": "prop"
+    },
+    {
+      "exercise": "",
+      "example": "properties"
+    },
+    {
+      "exercise": "",
+      "example": "property"
+    },
+    {
+      "exercise": "",
+      "example": "protocol"
+    },
+    {
+      "exercise": "",
+      "example": "provided"
+    },
+    {
+      "exercise": "",
+      "example": "proxy"
+    },
+    {
+      "exercise": "",
+      "example": "public"
+    },
+    {
+      "exercise": "",
+      "example": "publish"
+    },
+    {
+      "exercise": "",
+      "example": "push"
+    },
+    {
+      "exercise": "",
+      "example": "q"
+    },
+    {
+      "exercise": "",
+      "example": "query"
+    },
+    {
+      "exercise": "",
+      "example": "queue"
+    },
+    {
+      "exercise": "",
+      "example": "r"
+    },
+    {
+      "exercise": "",
+      "example": "radius"
+    },
+    {
+      "exercise": "",
+      "example": "raise"
+    },
+    {
+      "exercise": "",
+      "example": "rand"
+    },
+    {
+      "exercise": "",
+      "example": "range"
+    },
+    {
+      "exercise": "",
+      "example": "re"
+    },
+    {
+      "exercise": "",
+      "example": "read"
+    },
+    {
+      "exercise": "",
+      "example": "readwrite"
+    },
+    {
+      "exercise": "",
+      "example": "realm"
+    },
+    {
+      "exercise": "",
+      "example": "reason"
+    },
+    {
+      "exercise": "",
+      "example": "recreated"
+    },
+    {
+      "exercise": "",
+      "example": "rect"
+    },
+    {
+      "exercise": "",
+      "example": "release"
+    },
+    {
+      "exercise": "",
+      "example": "reloadData"
+    },
+    {
+      "exercise": "",
+      "example": "remove"
+    },
+    {
+      "exercise": "",
+      "example": "removeAllObjects"
+    },
+    {
+      "exercise": "",
+      "example": "removeFromSuperview"
+    },
+    {
+      "exercise": "",
+      "example": "removeObserver"
+    },
+    {
+      "exercise": "",
+      "example": "request"
+    },
+    {
+      "exercise": "",
+      "example": "required"
+    },
+    {
+      "exercise": "",
+      "example": "res"
+    },
+    {
+      "exercise": "",
+      "example": "reserved"
+    },
+    {
+      "exercise": "",
+      "example": "reset"
+    },
+    {
+      "exercise": "",
+      "example": "resources"
+    },
+    {
+      "exercise": "",
+      "example": "respondsToSelector"
+    },
+    {
+      "exercise": "",
+      "example": "response"
+    },
+    {
+      "exercise": "",
+      "example": "responseObject"
+    },
+    {
+      "exercise": "",
+      "example": "result"
+    },
+    {
+      "exercise": "",
+      "example": "results"
+    },
+    {
+      "exercise": "",
+      "example": "ret"
+    },
+    {
+      "exercise": "",
+      "example": "retain"
+    },
+    {
+      "exercise": "",
+      "example": "return"
+    },
+    {
+      "exercise": "",
+      "example": "returns"
+    },
+    {
+      "exercise": "",
+      "example": "reuseIdentifier"
+    },
+    {
+      "exercise": "",
+      "example": "richcontent"
+    },
+    {
+      "exercise": "",
+      "example": "right"
+    },
+    {
+      "exercise": "",
+      "example": "root"
+    },
+    {
+      "exercise": "",
+      "example": "row"
+    },
+    {
+      "exercise": "",
+      "example": "rows"
+    },
+    {
+      "exercise": "",
+      "example": "run"
+    },
+    {
+      "exercise": "",
+      "example": "runtime"
+    },
+    {
+      "exercise": "",
+      "example": "s"
+    },
+    {
+      "exercise": "",
+      "example": "same"
+    },
+    {
+      "exercise": "",
+      "example": "sap"
+    },
+    {
+      "exercise": "",
+      "example": "save"
+    },
+    {
+      "exercise": "",
+      "example": "scale"
+    },
+    {
+      "exercise": "",
+      "example": "scanner"
+    },
+    {
+      "exercise": "",
+      "example": "screen"
+    },
+    {
+      "exercise": "",
+      "example": "scrollView"
+    },
+    {
+      "exercise": "",
+      "example": "section"
+    },
+    {
+      "exercise": "",
+      "example": "see"
+    },
+    {
+      "exercise": "",
+      "example": "segue"
+    },
+    {
+      "exercise": "",
+      "example": "sel"
+    },
+    {
+      "exercise": "",
+      "example": "selected"
+    },
+    {
+      "exercise": "",
+      "example": "selector"
+    },
+    {
+      "exercise": "",
+      "example": "self"
+    },
+    {
+      "exercise": "",
+      "example": "sell"
+    },
+    {
+      "exercise": "",
+      "example": "sender"
+    },
+    {
+      "exercise": "",
+      "example": "service"
+    },
+    {
+      "exercise": "",
+      "example": "session"
+    },
+    {
+      "exercise": "",
+      "example": "set"
+    },
+    {
+      "exercise": "",
+      "example": "setDelegate"
+    },
+    {
+      "exercise": "",
+      "example": "setEnabled"
+    },
+    {
+      "exercise": "",
+      "example": "setFrame"
+    },
+    {
+      "exercise": "",
+      "example": "setNeedsDisplay"
+    },
+    {
+      "exercise": "",
+      "example": "setObject"
+    },
+    {
+      "exercise": "",
+      "example": "setSelected"
+    },
+    {
+      "exercise": "",
+      "example": "setTitle"
+    },
+    {
+      "exercise": "",
+      "example": "setUp"
+    },
+    {
+      "exercise": "",
+      "example": "setValue"
+    },
+    {
+      "exercise": "",
+      "example": "setting"
+    },
+    {
+      "exercise": "",
+      "example": "setup"
+    },
+    {
+      "exercise": "",
+      "example": "sharedApplication"
+    },
+    {
+      "exercise": "",
+      "example": "sharedInstance"
+    },
+    {
+      "exercise": "",
+      "example": "should"
+    },
+    {
+      "exercise": "",
+      "example": "show"
+    },
+    {
+      "exercise": "",
+      "example": "since"
+    },
+    {
+      "exercise": "",
+      "example": "single"
+    },
+    {
+      "exercise": "",
+      "example": "size"
+    },
+    {
+      "exercise": "",
+      "example": "size_t"
+    },
+    {
+      "exercise": "",
+      "example": "sizeof"
+    },
+    {
+      "exercise": "",
+      "example": "so"
+    },
+    {
+      "exercise": "",
+      "example": "socket"
+    },
+    {
+      "exercise": "",
+      "example": "some"
+    },
+    {
+      "exercise": "",
+      "example": "source"
+    },
+    {
+      "exercise": "",
+      "example": "space"
+    },
+    {
+      "exercise": "",
+      "example": "specified"
+    },
+    {
+      "exercise": "",
+      "example": "sprintf"
+    },
+    {
+      "exercise": "",
+      "example": "standardUserDefaults"
+    },
+    {
+      "exercise": "",
+      "example": "start"
+    },
+    {
+      "exercise": "",
+      "example": "state"
+    },
+    {
+      "exercise": "",
+      "example": "statement"
+    },
+    {
+      "exercise": "",
+      "example": "static"
+    },
+    {
+      "exercise": "",
+      "example": "status"
+    },
+    {
+      "exercise": "",
+      "example": "std"
+    },
+    {
+      "exercise": "",
+      "example": "step"
+    },
+    {
+      "exercise": "",
+      "example": "stop"
+    },
+    {
+      "exercise": "",
+      "example": "store"
+    },
+    {
+      "exercise": "",
+      "example": "str"
+    },
+    {
+      "exercise": "",
+      "example": "strcmp"
+    },
+    {
+      "exercise": "",
+      "example": "stream"
+    },
+    {
+      "exercise": "",
+      "example": "string"
+    },
+    {
+      "exercise": "",
+      "example": "stringValue"
+    },
+    {
+      "exercise": "",
+      "example": "stringWithFormat"
+    },
+    {
+      "exercise": "",
+      "example": "strong"
+    },
+    {
+      "exercise": "",
+      "example": "strongSelf"
+    },
+    {
+      "exercise": "",
+      "example": "struct"
+    },
+    {
+      "exercise": "",
+      "example": "structure"
+    },
+    {
+      "exercise": "",
+      "example": "style"
+    },
+    {
+      "exercise": "",
+      "example": "subject"
+    },
+    {
+      "exercise": "",
+      "example": "sublicense"
+    },
+    {
+      "exercise": "",
+      "example": "subplot"
+    },
+    {
+      "exercise": "",
+      "example": "subviews"
+    },
+    {
+      "exercise": "",
+      "example": "success"
+    },
+    {
+      "exercise": "",
+      "example": "sum"
+    },
+    {
+      "exercise": "",
+      "example": "super"
+    },
+    {
+      "exercise": "",
+      "example": "superview"
+    },
+    {
+      "exercise": "",
+      "example": "support"
+    },
+    {
+      "exercise": "",
+      "example": "sure"
+    },
+    {
+      "exercise": "",
+      "example": "switch"
+    },
+    {
+      "exercise": "",
+      "example": "synchronized"
+    },
+    {
+      "exercise": "",
+      "example": "synthesize"
+    },
+    {
+      "exercise": "",
+      "example": "sys"
+    },
+    {
+      "exercise": "",
+      "example": "system"
+    },
+    {
+      "exercise": "",
+      "example": "t"
+    },
+    {
+      "exercise": "",
+      "example": "tab"
+    },
+    {
+      "exercise": "",
+      "example": "table"
+    },
+    {
+      "exercise": "",
+      "example": "tableView"
+    },
+    {
+      "exercise": "",
+      "example": "tag"
+    },
+    {
+      "exercise": "",
+      "example": "target"
+    },
+    {
+      "exercise": "",
+      "example": "task"
+    },
+    {
+      "exercise": "",
+      "example": "tearDown"
+    },
+    {
+      "exercise": "",
+      "example": "teardown"
+    },
+    {
+      "exercise": "",
+      "example": "temp"
+    },
+    {
+      "exercise": "",
+      "example": "test"
+    },
+    {
+      "exercise": "",
+      "example": "testExample"
+    },
+    {
+      "exercise": "",
+      "example": "tests"
+    },
+    {
+      "exercise": "",
+      "example": "text"
+    },
+    {
+      "exercise": "",
+      "example": "textColor"
+    },
+    {
+      "exercise": "",
+      "example": "textField"
+    },
+    {
+      "exercise": "",
+      "example": "textLabel"
+    },
+    {
+      "exercise": "",
+      "example": "textView"
+    },
+    {
+      "exercise": "",
+      "example": "than"
+    },
+    {
+      "exercise": "",
+      "example": "that"
+    },
+    {
+      "exercise": "",
+      "example": "the"
+    },
+    {
+      "exercise": "",
+      "example": "theEvent"
+    },
+    {
+      "exercise": "",
+      "example": "then"
+    },
+    {
+      "exercise": "",
+      "example": "there"
+    },
+    {
+      "exercise": "",
+      "example": "these"
+    },
+    {
+      "exercise": "",
+      "example": "this"
+    },
+    {
+      "exercise": "",
+      "example": "thread"
+    },
+    {
+      "exercise": "",
+      "example": "throw"
+    },
+    {
+      "exercise": "",
+      "example": "time"
+    },
+    {
+      "exercise": "",
+      "example": "timeout"
+    },
+    {
+      "exercise": "",
+      "example": "timer"
+    },
+    {
+      "exercise": "",
+      "example": "title"
+    },
+    {
+      "exercise": "",
+      "example": "titleLabel"
+    },
+    {
+      "exercise": "",
+      "example": "tmp"
+    },
+    {
+      "exercise": "",
+      "example": "to"
+    },
+    {
+      "exercise": "",
+      "example": "token"
+    },
+    {
+      "exercise": "",
+      "example": "toolbar"
+    },
+    {
+      "exercise": "",
+      "example": "top"
+    },
+    {
+      "exercise": "",
+      "example": "touch"
+    },
+    {
+      "exercise": "",
+      "example": "touches"
+    },
+    {
+      "exercise": "",
+      "example": "transform"
+    },
+    {
+      "exercise": "",
+      "example": "true"
+    },
+    {
+      "exercise": "",
+      "example": "try"
+    },
+    {
+      "exercise": "",
+      "example": "type"
+    },
+    {
+      "exercise": "",
+      "example": "typedef"
+    },
+    {
+      "exercise": "",
+      "example": "types"
+    },
+    {
+      "exercise": "",
+      "example": "u"
+    },
+    {
+      "exercise": "",
+      "example": "ui"
+    },
+    {
+      "exercise": "",
+      "example": "uint32_t"
+    },
+    {
+      "exercise": "",
+      "example": "unlock"
+    },
+    {
+      "exercise": "",
+      "example": "unsigned"
+    },
+    {
+      "exercise": "",
+      "example": "until"
+    },
+    {
+      "exercise": "",
+      "example": "up"
+    },
+    {
+      "exercise": "",
+      "example": "update"
+    },
+    {
+      "exercise": "",
+      "example": "url"
+    },
+    {
+      "exercise": "",
+      "example": "use"
+    },
+    {
+      "exercise": "",
+      "example": "used"
+    },
+    {
+      "exercise": "",
+      "example": "user"
+    },
+    {
+      "exercise": "",
+      "example": "userInfo"
+    },
+    {
+      "exercise": "",
+      "example": "using"
+    },
+    {
+      "exercise": "",
+      "example": "v"
+    },
+    {
+      "exercise": "",
+      "example": "val"
+    },
+    {
+      "exercise": "",
+      "example": "valid"
+    },
+    {
+      "exercise": "",
+      "example": "value"
+    },
+    {
+      "exercise": "",
+      "example": "valueForKey"
+    },
+    {
+      "exercise": "",
+      "example": "values"
+    },
+    {
+      "exercise": "",
+      "example": "var"
+    },
+    {
+      "exercise": "",
+      "example": "varargin"
+    },
+    {
+      "exercise": "",
+      "example": "vc"
+    },
+    {
+      "exercise": "",
+      "example": "vector"
+    },
+    {
+      "exercise": "",
+      "example": "version"
+    },
+    {
+      "exercise": "",
+      "example": "view"
+    },
+    {
+      "exercise": "",
+      "example": "viewController"
+    },
+    {
+      "exercise": "",
+      "example": "viewDidAppear"
+    },
+    {
+      "exercise": "",
+      "example": "viewDidLoad"
+    },
+    {
+      "exercise": "",
+      "example": "viewWillAppear"
+    },
+    {
+      "exercise": "",
+      "example": "viewWillDisappear"
+    },
+    {
+      "exercise": "",
+      "example": "views"
+    },
+    {
+      "exercise": "",
+      "example": "visible"
+    },
+    {
+      "exercise": "",
+      "example": "void"
+    },
+    {
+      "exercise": "",
+      "example": "w"
+    },
+    {
+      "exercise": "",
+      "example": "want"
+    },
+    {
+      "exercise": "",
+      "example": "warning"
+    },
+    {
+      "exercise": "",
+      "example": "was"
+    },
+    {
+      "exercise": "",
+      "example": "we"
+    },
+    {
+      "exercise": "",
+      "example": "weak"
+    },
+    {
+      "exercise": "",
+      "example": "weakSelf"
+    },
+    {
+      "exercise": "",
+      "example": "webView"
+    },
+    {
+      "exercise": "",
+      "example": "webview"
+    },
+    {
+      "exercise": "",
+      "example": "when"
+    },
+    {
+      "exercise": "",
+      "example": "where"
+    },
+    {
+      "exercise": "",
+      "example": "which"
+    },
+    {
+      "exercise": "",
+      "example": "while"
+    },
+    {
+      "exercise": "",
+      "example": "white"
+    },
+    {
+      "exercise": "",
+      "example": "whiteColor"
+    },
+    {
+      "exercise": "",
+      "example": "width"
+    },
+    {
+      "exercise": "",
+      "example": "will"
+    },
+    {
+      "exercise": "",
+      "example": "window"
+    },
+    {
+      "exercise": "",
+      "example": "with"
+    },
+    {
+      "exercise": "",
+      "example": "withEvent"
+    },
+    {
+      "exercise": "",
+      "example": "withObject"
+    },
+    {
+      "exercise": "",
+      "example": "withString"
+    },
+    {
+      "exercise": "",
+      "example": "without"
+    },
+    {
+      "exercise": "",
+      "example": "work"
+    },
+    {
+      "exercise": "",
+      "example": "write"
+    },
+    {
+      "exercise": "",
+      "example": "www"
+    },
+    {
+      "exercise": "",
+      "example": "x"
+    },
+    {
+      "exercise": "",
+      "example": "xlabel"
+    },
+    {
+      "exercise": "",
+      "example": "xx"
+    },
+    {
+      "exercise": "",
+      "example": "y"
+    },
+    {
+      "exercise": "",
+      "example": "you"
+    },
+    {
+      "exercise": "",
+      "example": "your"
+    },
+    {
+      "exercise": "",
+      "example": "z"
+    },
+    {
+      "exercise": "",
+      "example": "zeros"
+    },
+    {
+      "exercise": "",
+      "example": "zone"
+    },
+    {
+      "exercise": "",
+      "example": "~"
+    },
+    {
+      "exercise": "",
+      "example": "~isempty"
+    }
+  ]
+}

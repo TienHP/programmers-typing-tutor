@@ -1,0 +1,16 @@
+{
+  "name": "Debug Training",
+  "mode": "javascript",
+  "level": "beginner",
+  "logo": "images/languages/javascript.png",
+  "lessons": [
+    {
+      "exercise": "",
+      "example": "qwe"
+    },
+    {
+      "exercise": "",
+      "example": "asd"
+    }
+  ]
+}

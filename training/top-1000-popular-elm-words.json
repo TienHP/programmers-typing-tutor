@@ -1,0 +1,3893 @@
+{
+  "id": "popular-elm-words",
+  "name": "Popular elm words training",
+  "mode": "elm",
+  "level": "beginner",
+  "logo": "images/languages/elm.png",
+  "lessons": [
+    {
+      "exercise": "",
+      "example": "000000e"
+    },
+    {
+      "exercise": "",
+      "example": "0000cf"
+    },
+    {
+      "exercise": "",
+      "example": "10px"
+    },
+    {
+      "exercise": "",
+      "example": "4px"
+    },
+    {
+      "exercise": "",
+      "example": "600px"
+    },
+    {
+      "exercise": "",
+      "example": "A"
+    },
+    {
+      "exercise": "",
+      "example": "Action"
+    },
+    {
+      "exercise": "",
+      "example": "Add"
+    },
+    {
+      "exercise": "",
+      "example": "Address"
+    },
+    {
+      "exercise": "",
+      "example": "All"
+    },
+    {
+      "exercise": "",
+      "example": "Animate"
+    },
+    {
+      "exercise": "",
+      "example": "Animation"
+    },
+    {
+      "exercise": "",
+      "example": "AnimationFrame"
+    },
+    {
+      "exercise": "",
+      "example": "App"
+    },
+    {
+      "exercise": "",
+      "example": "Apply"
+    },
+    {
+      "exercise": "",
+      "example": "Array"
+    },
+    {
+      "exercise": "",
+      "example": "Assertion"
+    },
+    {
+      "exercise": "",
+      "example": "Attr"
+    },
+    {
+      "exercise": "",
+      "example": "Attribute"
+    },
+    {
+      "exercise": "",
+      "example": "Attributes"
+    },
+    {
+      "exercise": "",
+      "example": "Auction"
+    },
+    {
+      "exercise": "",
+      "example": "BBlack"
+    },
+    {
+      "exercise": "",
+      "example": "BLADE_PITCH"
+    },
+    {
+      "exercise": "",
+      "example": "Basics"
+    },
+    {
+      "exercise": "",
+      "example": "Bid"
+    },
+    {
+      "exercise": "",
+      "example": "Black"
+    },
+    {
+      "exercise": "",
+      "example": "Blog"
+    },
+    {
+      "exercise": "",
+      "example": "Bool"
+    },
+    {
+      "exercise": "",
+      "example": "Boolean"
+    },
+    {
+      "exercise": "",
+      "example": "Button"
+    },
+    {
+      "exercise": "",
+      "example": "C"
+    },
+    {
+      "exercise": "",
+      "example": "CSS"
+    },
+    {
+      "exercise": "",
+      "example": "CURR_BLADE"
+    },
+    {
+      "exercise": "",
+      "example": "CURR_ROTOR"
+    },
+    {
+      "exercise": "",
+      "example": "Card"
+    },
+    {
+      "exercise": "",
+      "example": "Center"
+    },
+    {
+      "exercise": "",
+      "example": "Char"
+    },
+    {
+      "exercise": "",
+      "example": "Check"
+    },
+    {
+      "exercise": "",
+      "example": "Cmd"
+    },
+    {
+      "exercise": "",
+      "example": "Collage"
+    },
+    {
+      "exercise": "",
+      "example": "Color"
+    },
+    {
+      "exercise": "",
+      "example": "ColorScheme"
+    },
+    {
+      "exercise": "",
+      "example": "Combine"
+    },
+    {
+      "exercise": "",
+      "example": "Common"
+    },
+    {
+      "exercise": "",
+      "example": "Compatible"
+    },
+    {
+      "exercise": "",
+      "example": "Component"
+    },
+    {
+      "exercise": "",
+      "example": "Config"
+    },
+    {
+      "exercise": "",
+      "example": "Content"
+    },
+    {
+      "exercise": "",
+      "example": "Conversions"
+    },
+    {
+      "exercise": "",
+      "example": "Convert"
+    },
+    {
+      "exercise": "",
+      "example": "Core"
+    },
+    {
+      "exercise": "",
+      "example": "Counter"
+    },
+    {
+      "exercise": "",
+      "example": "Create"
+    },
+    {
+      "exercise": "",
+      "example": "Css"
+    },
+    {
+      "exercise": "",
+      "example": "Date"
+    },
+    {
+      "exercise": "",
+      "example": "Debug"
+    },
+    {
+      "exercise": "",
+      "example": "Decode"
+    },
+    {
+      "exercise": "",
+      "example": "Decoder"
+    },
+    {
+      "exercise": "",
+      "example": "Decrement"
+    },
+    {
+      "exercise": "",
+      "example": "Demo"
+    },
+    {
+      "exercise": "",
+      "example": "Determine"
+    },
+    {
+      "exercise": "",
+      "example": "Diagrams"
+    },
+    {
+      "exercise": "",
+      "example": "Dict"
+    },
+    {
+      "exercise": "",
+      "example": "EQ"
+    },
+    {
+      "exercise": "",
+      "example": "Effects"
+    },
+    {
+      "exercise": "",
+      "example": "Element"
+    },
+    {
+      "exercise": "",
+      "example": "Elm"
+    },
+    {
+      "exercise": "",
+      "example": "ElmTest"
+    },
+    {
+      "exercise": "",
+      "example": "Empty"
+    },
+    {
+      "exercise": "",
+      "example": "Encode"
+    },
+    {
+      "exercise": "",
+      "example": "Equal"
+    },
+    {
+      "exercise": "",
+      "example": "Err"
+    },
+    {
+      "exercise": "",
+      "example": "Error"
+    },
+    {
+      "exercise": "",
+      "example": "Event"
+    },
+    {
+      "exercise": "",
+      "example": "Events"
+    },
+    {
+      "exercise": "",
+      "example": "Expect"
+    },
+    {
+      "exercise": "",
+      "example": "Extra"
+    },
+    {
+      "exercise": "",
+      "example": "Extract"
+    },
+    {
+      "exercise": "",
+      "example": "False"
+    },
+    {
+      "exercise": "",
+      "example": "FetchFail"
+    },
+    {
+      "exercise": "",
+      "example": "Field"
+    },
+    {
+      "exercise": "",
+      "example": "Find"
+    },
+    {
+      "exercise": "",
+      "example": "Flags"
+    },
+    {
+      "exercise": "",
+      "example": "Float"
+    },
+    {
+      "exercise": "",
+      "example": "Focus"
+    },
+    {
+      "exercise": "",
+      "example": "Footer"
+    },
+    {
+      "exercise": "",
+      "example": "For"
+    },
+    {
+      "exercise": "",
+      "example": "Foreign"
+    },
+    {
+      "exercise": "",
+      "example": "Form"
+    },
+    {
+      "exercise": "",
+      "example": "Functions"
+    },
+    {
+      "exercise": "",
+      "example": "Fuzz"
+    },
+    {
+      "exercise": "",
+      "example": "GET"
+    },
+    {
+      "exercise": "",
+      "example": "GT"
+    },
+    {
+      "exercise": "",
+      "example": "Game"
+    },
+    {
+      "exercise": "",
+      "example": "Generator"
+    },
+    {
+      "exercise": "",
+      "example": "Get"
+    },
+    {
+      "exercise": "",
+      "example": "Graphics"
+    },
+    {
+      "exercise": "",
+      "example": "Grid"
+    },
+    {
+      "exercise": "",
+      "example": "HTML"
+    },
+    {
+      "exercise": "",
+      "example": "Header"
+    },
+    {
+      "exercise": "",
+      "example": "Helpers"
+    },
+    {
+      "exercise": "",
+      "example": "Html"
+    },
+    {
+      "exercise": "",
+      "example": "Http"
+    },
+    {
+      "exercise": "",
+      "example": "I"
+    },
+    {
+      "exercise": "",
+      "example": "ID"
+    },
+    {
+      "exercise": "",
+      "example": "IO"
+    },
+    {
+      "exercise": "",
+      "example": "Icon"
+    },
+    {
+      "exercise": "",
+      "example": "If"
+    },
+    {
+      "exercise": "",
+      "example": "Increment"
+    },
+    {
+      "exercise": "",
+      "example": "Input"
+    },
+    {
+      "exercise": "",
+      "example": "Insert"
+    },
+    {
+      "exercise": "",
+      "example": "Int"
+    },
+    {
+      "exercise": "",
+      "example": "Internal"
+    },
+    {
+      "exercise": "",
+      "example": "It"
+    },
+    {
+      "exercise": "",
+      "example": "JD"
+    },
+    {
+      "exercise": "",
+      "example": "JE"
+    },
+    {
+      "exercise": "",
+      "example": "JS"
+    },
+    {
+      "exercise": "",
+      "example": "JSON"
+    },
+    {
+      "exercise": "",
+      "example": "JavaScript"
+    },
+    {
+      "exercise": "",
+      "example": "Json"
+    },
+    {
+      "exercise": "",
+      "example": "Just"
+    },
+    {
+      "exercise": "",
+      "example": "Keep"
+    },
+    {
+      "exercise": "",
+      "example": "KeyCode"
+    },
+    {
+      "exercise": "",
+      "example": "Keyboard"
+    },
+    {
+      "exercise": "",
+      "example": "L"
+    },
+    {
+      "exercise": "",
+      "example": "LBlack"
+    },
+    {
+      "exercise": "",
+      "example": "LT"
+    },
+    {
+      "exercise": "",
+      "example": "Layout"
+    },
+    {
+      "exercise": "",
+      "example": "Lazy"
+    },
+    {
+      "exercise": "",
+      "example": "LineStyle"
+    },
+    {
+      "exercise": "",
+      "example": "List"
+    },
+    {
+      "exercise": "",
+      "example": "Lists"
+    },
+    {
+      "exercise": "",
+      "example": "Location"
+    },
+    {
+      "exercise": "",
+      "example": "MODEL"
+    },
+    {
+      "exercise": "",
+      "example": "MPL"
+    },
+    {
+      "exercise": "",
+      "example": "Main"
+    },
+    {
+      "exercise": "",
+      "example": "Markdown"
+    },
+    {
+      "exercise": "",
+      "example": "Material"
+    },
+    {
+      "exercise": "",
+      "example": "Math"
+    },
+    {
+      "exercise": "",
+      "example": "Matrix"
+    },
+    {
+      "exercise": "",
+      "example": "Matrix4"
+    },
+    {
+      "exercise": "",
+      "example": "Maybe"
+    },
+    {
+      "exercise": "",
+      "example": "Mdl"
+    },
+    {
+      "exercise": "",
+      "example": "Menu"
+    },
+    {
+      "exercise": "",
+      "example": "Message"
+    },
+    {
+      "exercise": "",
+      "example": "Messages"
+    },
+    {
+      "exercise": "",
+      "example": "Model"
+    },
+    {
+      "exercise": "",
+      "example": "Models"
+    },
+    {
+      "exercise": "",
+      "example": "Mouse"
+    },
+    {
+      "exercise": "",
+      "example": "Msg"
+    },
+    {
+      "exercise": "",
+      "example": "NBlack"
+    },
+    {
+      "exercise": "",
+      "example": "NColor"
+    },
+    {
+      "exercise": "",
+      "example": "Name"
+    },
+    {
+      "exercise": "",
+      "example": "Native"
+    },
+    {
+      "exercise": "",
+      "example": "Navigation"
+    },
+    {
+      "exercise": "",
+      "example": "Never"
+    },
+    {
+      "exercise": "",
+      "example": "NoOp"
+    },
+    {
+      "exercise": "",
+      "example": "Node"
+    },
+    {
+      "exercise": "",
+      "example": "None"
+    },
+    {
+      "exercise": "",
+      "example": "Noop"
+    },
+    {
+      "exercise": "",
+      "example": "Nothing"
+    },
+    {
+      "exercise": "",
+      "example": "Notice"
+    },
+    {
+      "exercise": "",
+      "example": "Ok"
+    },
+    {
+      "exercise": "",
+      "example": "OpenSolid"
+    },
+    {
+      "exercise": "",
+      "example": "Options"
+    },
+    {
+      "exercise": "",
+      "example": "Order"
+    },
+    {
+      "exercise": "",
+      "example": "Page"
+    },
+    {
+      "exercise": "",
+      "example": "Parser"
+    },
+    {
+      "exercise": "",
+      "example": "Pass"
+    },
+    {
+      "exercise": "",
+      "example": "Person"
+    },
+    {
+      "exercise": "",
+      "example": "Platform"
+    },
+    {
+      "exercise": "",
+      "example": "Player"
+    },
+    {
+      "exercise": "",
+      "example": "Point"
+    },
+    {
+      "exercise": "",
+      "example": "Point2d"
+    },
+    {
+      "exercise": "",
+      "example": "Point3d"
+    },
+    {
+      "exercise": "",
+      "example": "Position"
+    },
+    {
+      "exercise": "",
+      "example": "Program"
+    },
+    {
+      "exercise": "",
+      "example": "Property"
+    },
+    {
+      "exercise": "",
+      "example": "Pseudo"
+    },
+    {
+      "exercise": "",
+      "example": "RBEmpty_elm_builtin"
+    },
+    {
+      "exercise": "",
+      "example": "RBNode_elm_builtin"
+    },
+    {
+      "exercise": "",
+      "example": "Random"
+    },
+    {
+      "exercise": "",
+      "example": "Red"
+    },
+    {
+      "exercise": "",
+      "example": "Reduce"
+    },
+    {
+      "exercise": "",
+      "example": "Regex"
+    },
+    {
+      "exercise": "",
+      "example": "Remove"
+    },
+    {
+      "exercise": "",
+      "example": "Reset"
+    },
+    {
+      "exercise": "",
+      "example": "Result"
+    },
+    {
+      "exercise": "",
+      "example": "Route"
+    },
+    {
+      "exercise": "",
+      "example": "Run"
+    },
+    {
+      "exercise": "",
+      "example": "Runner"
+    },
+    {
+      "exercise": "",
+      "example": "SIGNALS"
+    },
+    {
+      "exercise": "",
+      "example": "SUBSCRIPTIONS"
+    },
+    {
+      "exercise": "",
+      "example": "Same"
+    },
+    {
+      "exercise": "",
+      "example": "SearchResult"
+    },
+    {
+      "exercise": "",
+      "example": "See"
+    },
+    {
+      "exercise": "",
+      "example": "Seed"
+    },
+    {
+      "exercise": "",
+      "example": "Set"
+    },
+    {
+      "exercise": "",
+      "example": "Sets"
+    },
+    {
+      "exercise": "",
+      "example": "Shape"
+    },
+    {
+      "exercise": "",
+      "example": "Signal"
+    },
+    {
+      "exercise": "",
+      "example": "Simple"
+    },
+    {
+      "exercise": "",
+      "example": "Skeleton"
+    },
+    {
+      "exercise": "",
+      "example": "So"
+    },
+    {
+      "exercise": "",
+      "example": "Start"
+    },
+    {
+      "exercise": "",
+      "example": "StartApp"
+    },
+    {
+      "exercise": "",
+      "example": "State"
+    },
+    {
+      "exercise": "",
+      "example": "StepTree"
+    },
+    {
+      "exercise": "",
+      "example": "String"
+    },
+    {
+      "exercise": "",
+      "example": "Style"
+    },
+    {
+      "exercise": "",
+      "example": "Styles"
+    },
+    {
+      "exercise": "",
+      "example": "Stylesheet"
+    },
+    {
+      "exercise": "",
+      "example": "Sub"
+    },
+    {
+      "exercise": "",
+      "example": "Submit"
+    },
+    {
+      "exercise": "",
+      "example": "Svg"
+    },
+    {
+      "exercise": "",
+      "example": "T"
+    },
+    {
+      "exercise": "",
+      "example": "TODO"
+    },
+    {
+      "exercise": "",
+      "example": "Table"
+    },
+    {
+      "exercise": "",
+      "example": "Task"
+    },
+    {
+      "exercise": "",
+      "example": "Test"
+    },
+    {
+      "exercise": "",
+      "example": "TestHelpers"
+    },
+    {
+      "exercise": "",
+      "example": "Tests"
+    },
+    {
+      "exercise": "",
+      "example": "Text"
+    },
+    {
+      "exercise": "",
+      "example": "Textfield"
+    },
+    {
+      "exercise": "",
+      "example": "Thank"
+    },
+    {
+      "exercise": "",
+      "example": "The"
+    },
+    {
+      "exercise": "",
+      "example": "These"
+    },
+    {
+      "exercise": "",
+      "example": "This"
+    },
+    {
+      "exercise": "",
+      "example": "Tick"
+    },
+    {
+      "exercise": "",
+      "example": "Time"
+    },
+    {
+      "exercise": "",
+      "example": "Toggles"
+    },
+    {
+      "exercise": "",
+      "example": "Tom"
+    },
+    {
+      "exercise": "",
+      "example": "Transform"
+    },
+    {
+      "exercise": "",
+      "example": "True"
+    },
+    {
+      "exercise": "",
+      "example": "Type"
+    },
+    {
+      "exercise": "",
+      "example": "Types"
+    },
+    {
+      "exercise": "",
+      "example": "UPDATE"
+    },
+    {
+      "exercise": "",
+      "example": "US"
+    },
+    {
+      "exercise": "",
+      "example": "Ui"
+    },
+    {
+      "exercise": "",
+      "example": "Update"
+    },
+    {
+      "exercise": "",
+      "example": "UpdateField"
+    },
+    {
+      "exercise": "",
+      "example": "User"
+    },
+    {
+      "exercise": "",
+      "example": "Util"
+    },
+    {
+      "exercise": "",
+      "example": "Utils"
+    },
+    {
+      "exercise": "",
+      "example": "VIEW"
+    },
+    {
+      "exercise": "",
+      "example": "Value"
+    },
+    {
+      "exercise": "",
+      "example": "Values"
+    },
+    {
+      "exercise": "",
+      "example": "Vec2"
+    },
+    {
+      "exercise": "",
+      "example": "Vector2"
+    },
+    {
+      "exercise": "",
+      "example": "Vector3"
+    },
+    {
+      "exercise": "",
+      "example": "View"
+    },
+    {
+      "exercise": "",
+      "example": "Vulnerability"
+    },
+    {
+      "exercise": "",
+      "example": "Web"
+    },
+    {
+      "exercise": "",
+      "example": "WebGL"
+    },
+    {
+      "exercise": "",
+      "example": "Website"
+    },
+    {
+      "exercise": "",
+      "example": "Window"
+    },
+    {
+      "exercise": "",
+      "example": "You"
+    },
+    {
+      "exercise": "",
+      "example": "_"
+    },
+    {
+      "exercise": "",
+      "example": "_blank"
+    },
+    {
+      "exercise": "",
+      "example": "a"
+    },
+    {
+      "exercise": "",
+      "example": "abs"
+    },
+    {
+      "exercise": "",
+      "example": "absolute"
+    },
+    {
+      "exercise": "",
+      "example": "acc"
+    },
+    {
+      "exercise": "",
+      "example": "acos"
+    },
+    {
+      "exercise": "",
+      "example": "act"
+    },
+    {
+      "exercise": "",
+      "example": "action"
+    },
+    {
+      "exercise": "",
+      "example": "actions"
+    },
+    {
+      "exercise": "",
+      "example": "actual"
+    },
+    {
+      "exercise": "",
+      "example": "add"
+    },
+    {
+      "exercise": "",
+      "example": "address"
+    },
+    {
+      "exercise": "",
+      "example": "aes"
+    },
+    {
+      "exercise": "",
+      "example": "age"
+    },
+    {
+      "exercise": "",
+      "example": "alias"
+    },
+    {
+      "exercise": "",
+      "example": "alice"
+    },
+    {
+      "exercise": "",
+      "example": "align"
+    },
+    {
+      "exercise": "",
+      "example": "all"
+    },
+    {
+      "exercise": "",
+      "example": "alpha"
+    },
+    {
+      "exercise": "",
+      "example": "also"
+    },
+    {
+      "exercise": "",
+      "example": "always"
+    },
+    {
+      "exercise": "",
+      "example": "an"
+    },
+    {
+      "exercise": "",
+      "example": "and"
+    },
+    {
+      "exercise": "",
+      "example": "andThen"
+    },
+    {
+      "exercise": "",
+      "example": "angle"
+    },
+    {
+      "exercise": "",
+      "example": "angles"
+    },
+    {
+      "exercise": "",
+      "example": "any"
+    },
+    {
+      "exercise": "",
+      "example": "app"
+    },
+    {
+      "exercise": "",
+      "example": "append"
+    },
+    {
+      "exercise": "",
+      "example": "appendable"
+    },
+    {
+      "exercise": "",
+      "example": "application"
+    },
+    {
+      "exercise": "",
+      "example": "are"
+    },
+    {
+      "exercise": "",
+      "example": "argument"
+    },
+    {
+      "exercise": "",
+      "example": "arguments"
+    },
+    {
+      "exercise": "",
+      "example": "array"
+    },
+    {
+      "exercise": "",
+      "example": "as"
+    },
+    {
+      "exercise": "",
+      "example": "asin"
+    },
+    {
+      "exercise": "",
+      "example": "assert"
+    },
+    {
+      "exercise": "",
+      "example": "assertEqual"
+    },
+    {
+      "exercise": "",
+      "example": "at"
+    },
+    {
+      "exercise": "",
+      "example": "atan"
+    },
+    {
+      "exercise": "",
+      "example": "atan2"
+    },
+    {
+      "exercise": "",
+      "example": "attribute"
+    },
+    {
+      "exercise": "",
+      "example": "attributes"
+    },
+    {
+      "exercise": "",
+      "example": "author"
+    },
+    {
+      "exercise": "",
+      "example": "auto"
+    },
+    {
+      "exercise": "",
+      "example": "autofocus"
+    },
+    {
+      "exercise": "",
+      "example": "axis"
+    },
+    {
+      "exercise": "",
+      "example": "b"
+    },
+    {
+      "exercise": "",
+      "example": "background"
+    },
+    {
+      "exercise": "",
+      "example": "balance"
+    },
+    {
+      "exercise": "",
+      "example": "based"
+    },
+    {
+      "exercise": "",
+      "example": "batch"
+    },
+    {
+      "exercise": "",
+      "example": "be"
+    },
+    {
+      "exercise": "",
+      "example": "beginnerProgram"
+    },
+    {
+      "exercise": "",
+      "example": "between"
+    },
+    {
+      "exercise": "",
+      "example": "black"
+    },
+    {
+      "exercise": "",
+      "example": "block"
+    },
+    {
+      "exercise": "",
+      "example": "blog"
+    },
+    {
+      "exercise": "",
+      "example": "blue"
+    },
+    {
+      "exercise": "",
+      "example": "bob"
+    },
+    {
+      "exercise": "",
+      "example": "body"
+    },
+    {
+      "exercise": "",
+      "example": "bold"
+    },
+    {
+      "exercise": "",
+      "example": "bool"
+    },
+    {
+      "exercise": "",
+      "example": "border"
+    },
+    {
+      "exercise": "",
+      "example": "both"
+    },
+    {
+      "exercise": "",
+      "example": "bottom"
+    },
+    {
+      "exercise": "",
+      "example": "bottomLeft"
+    },
+    {
+      "exercise": "",
+      "example": "box"
+    },
+    {
+      "exercise": "",
+      "example": "br"
+    },
+    {
+      "exercise": "",
+      "example": "but"
+    },
+    {
+      "exercise": "",
+      "example": "button"
+    },
+    {
+      "exercise": "",
+      "example": "by"
+    },
+    {
+      "exercise": "",
+      "example": "c"
+    },
+    {
+      "exercise": "",
+      "example": "callback"
+    },
+    {
+      "exercise": "",
+      "example": "can"
+    },
+    {
+      "exercise": "",
+      "example": "case"
+    },
+    {
+      "exercise": "",
+      "example": "cat"
+    },
+    {
+      "exercise": "",
+      "example": "ceiling"
+    },
+    {
+      "exercise": "",
+      "example": "cell"
+    },
+    {
+      "exercise": "",
+      "example": "center"
+    },
+    {
+      "exercise": "",
+      "example": "centered"
+    },
+    {
+      "exercise": "",
+      "example": "cfpEndDate"
+    },
+    {
+      "exercise": "",
+      "example": "cfpStartDate"
+    },
+    {
+      "exercise": "",
+      "example": "characters"
+    },
+    {
+      "exercise": "",
+      "example": "checkbox"
+    },
+    {
+      "exercise": "",
+      "example": "checked"
+    },
+    {
+      "exercise": "",
+      "example": "children"
+    },
+    {
+      "exercise": "",
+      "example": "chuck"
+    },
+    {
+      "exercise": "",
+      "example": "circle"
+    },
+    {
+      "exercise": "",
+      "example": "claim"
+    },
+    {
+      "exercise": "",
+      "example": "clamp"
+    },
+    {
+      "exercise": "",
+      "example": "class"
+    },
+    {
+      "exercise": "",
+      "example": "classList"
+    },
+    {
+      "exercise": "",
+      "example": "classes"
+    },
+    {
+      "exercise": "",
+      "example": "clear"
+    },
+    {
+      "exercise": "",
+      "example": "click"
+    },
+    {
+      "exercise": "",
+      "example": "clr"
+    },
+    {
+      "exercise": "",
+      "example": "cmd"
+    },
+    {
+      "exercise": "",
+      "example": "cmd2"
+    },
+    {
+      "exercise": "",
+      "example": "cmd3"
+    },
+    {
+      "exercise": "",
+      "example": "code"
+    },
+    {
+      "exercise": "",
+      "example": "col"
+    },
+    {
+      "exercise": "",
+      "example": "collage"
+    },
+    {
+      "exercise": "",
+      "example": "color"
+    },
+    {
+      "exercise": "",
+      "example": "colr"
+    },
+    {
+      "exercise": "",
+      "example": "column"
+    },
+    {
+      "exercise": "",
+      "example": "com"
+    },
+    {
+      "exercise": "",
+      "example": "comment"
+    },
+    {
+      "exercise": "",
+      "example": "comparable"
+    },
+    {
+      "exercise": "",
+      "example": "compare"
+    },
+    {
+      "exercise": "",
+      "example": "compile"
+    },
+    {
+      "exercise": "",
+      "example": "completed"
+    },
+    {
+      "exercise": "",
+      "example": "concat"
+    },
+    {
+      "exercise": "",
+      "example": "concatMap"
+    },
+    {
+      "exercise": "",
+      "example": "config"
+    },
+    {
+      "exercise": "",
+      "example": "cons"
+    },
+    {
+      "exercise": "",
+      "example": "container"
+    },
+    {
+      "exercise": "",
+      "example": "contains"
+    },
+    {
+      "exercise": "",
+      "example": "content"
+    },
+    {
+      "exercise": "",
+      "example": "context"
+    },
+    {
+      "exercise": "",
+      "example": "copy"
+    },
+    {
+      "exercise": "",
+      "example": "core"
+    },
+    {
+      "exercise": "",
+      "example": "cos"
+    },
+    {
+      "exercise": "",
+      "example": "count"
+    },
+    {
+      "exercise": "",
+      "example": "countStyle"
+    },
+    {
+      "exercise": "",
+      "example": "counters"
+    },
+    {
+      "exercise": "",
+      "example": "cr"
+    },
+    {
+      "exercise": "",
+      "example": "crash"
+    },
+    {
+      "exercise": "",
+      "example": "create"
+    },
+    {
+      "exercise": "",
+      "example": "css"
+    },
+    {
+      "exercise": "",
+      "example": "current"
+    },
+    {
+      "exercise": "",
+      "example": "cursor"
+    },
+    {
+      "exercise": "",
+      "example": "curve2To"
+    },
+    {
+      "exercise": "",
+      "example": "customDecoder"
+    },
+    {
+      "exercise": "",
+      "example": "d"
+    },
+    {
+      "exercise": "",
+      "example": "dashed"
+    },
+    {
+      "exercise": "",
+      "example": "data"
+    },
+    {
+      "exercise": "",
+      "example": "declaration"
+    },
+    {
+      "exercise": "",
+      "example": "declarations"
+    },
+    {
+      "exercise": "",
+      "example": "decode"
+    },
+    {
+      "exercise": "",
+      "example": "decodeString"
+    },
+    {
+      "exercise": "",
+      "example": "decodeValue"
+    },
+    {
+      "exercise": "",
+      "example": "decoder"
+    },
+    {
+      "exercise": "",
+      "example": "decoders"
+    },
+    {
+      "exercise": "",
+      "example": "decoration"
+    },
+    {
+      "exercise": "",
+      "example": "def"
+    },
+    {
+      "exercise": "",
+      "example": "defPic"
+    },
+    {
+      "exercise": "",
+      "example": "default"
+    },
+    {
+      "exercise": "",
+      "example": "defaultConfig"
+    },
+    {
+      "exercise": "",
+      "example": "defaultGame"
+    },
+    {
+      "exercise": "",
+      "example": "defaultModel"
+    },
+    {
+      "exercise": "",
+      "example": "defaultOptions"
+    },
+    {
+      "exercise": "",
+      "example": "defaultSettings"
+    },
+    {
+      "exercise": "",
+      "example": "defaults"
+    },
+    {
+      "exercise": "",
+      "example": "degrees"
+    },
+    {
+      "exercise": "",
+      "example": "delta"
+    },
+    {
+      "exercise": "",
+      "example": "depth"
+    },
+    {
+      "exercise": "",
+      "example": "description"
+    },
+    {
+      "exercise": "",
+      "example": "developer"
+    },
+    {
+      "exercise": "",
+      "example": "dict"
+    },
+    {
+      "exercise": "",
+      "example": "dictionary"
+    },
+    {
+      "exercise": "",
+      "example": "diff"
+    },
+    {
+      "exercise": "",
+      "example": "different"
+    },
+    {
+      "exercise": "",
+      "example": "direction"
+    },
+    {
+      "exercise": "",
+      "example": "disabled"
+    },
+    {
+      "exercise": "",
+      "example": "display"
+    },
+    {
+      "exercise": "",
+      "example": "distributed"
+    },
+    {
+      "exercise": "",
+      "example": "div"
+    },
+    {
+      "exercise": "",
+      "example": "do"
+    },
+    {
+      "exercise": "",
+      "example": "docs"
+    },
+    {
+      "exercise": "",
+      "example": "does"
+    },
+    {
+      "exercise": "",
+      "example": "dog"
+    },
+    {
+      "exercise": "",
+      "example": "down"
+    },
+    {
+      "exercise": "",
+      "example": "dt"
+    },
+    {
+      "exercise": "",
+      "example": "e"
+    },
+    {
+      "exercise": "",
+      "example": "element"
+    },
+    {
+      "exercise": "",
+      "example": "elements"
+    },
+    {
+      "exercise": "",
+      "example": "elm"
+    },
+    {
+      "exercise": "",
+      "example": "else"
+    },
+    {
+      "exercise": "",
+      "example": "em"
+    },
+    {
+      "exercise": "",
+      "example": "emit"
+    },
+    {
+      "exercise": "",
+      "example": "empty"
+    },
+    {
+      "exercise": "",
+      "example": "emptyModel"
+    },
+    {
+      "exercise": "",
+      "example": "en"
+    },
+    {
+      "exercise": "",
+      "example": "end"
+    },
+    {
+      "exercise": "",
+      "example": "equal"
+    },
+    {
+      "exercise": "",
+      "example": "equivalent"
+    },
+    {
+      "exercise": "",
+      "example": "err"
+    },
+    {
+      "exercise": "",
+      "example": "error"
+    },
+    {
+      "exercise": "",
+      "example": "evan"
+    },
+    {
+      "exercise": "",
+      "example": "evancz"
+    },
+    {
+      "exercise": "",
+      "example": "event"
+    },
+    {
+      "exercise": "",
+      "example": "every"
+    },
+    {
+      "exercise": "",
+      "example": "everything"
+    },
+    {
+      "exercise": "",
+      "example": "exactly"
+    },
+    {
+      "exercise": "",
+      "example": "example"
+    },
+    {
+      "exercise": "",
+      "example": "expect"
+    },
+    {
+      "exercise": "",
+      "example": "expected"
+    },
+    {
+      "exercise": "",
+      "example": "exposing"
+    },
+    {
+      "exercise": "",
+      "example": "f"
+    },
+    {
+      "exercise": "",
+      "example": "fail"
+    },
+    {
+      "exercise": "",
+      "example": "false"
+    },
+    {
+      "exercise": "",
+      "example": "family"
+    },
+    {
+      "exercise": "",
+      "example": "favorability"
+    },
+    {
+      "exercise": "",
+      "example": "field"
+    },
+    {
+      "exercise": "",
+      "example": "fields"
+    },
+    {
+      "exercise": "",
+      "example": "file"
+    },
+    {
+      "exercise": "",
+      "example": "filled"
+    },
+    {
+      "exercise": "",
+      "example": "filter"
+    },
+    {
+      "exercise": "",
+      "example": "filterMap"
+    },
+    {
+      "exercise": "",
+      "example": "first"
+    },
+    {
+      "exercise": "",
+      "example": "flag"
+    },
+    {
+      "exercise": "",
+      "example": "flex"
+    },
+    {
+      "exercise": "",
+      "example": "flip"
+    },
+    {
+      "exercise": "",
+      "example": "float"
+    },
+    {
+      "exercise": "",
+      "example": "floor"
+    },
+    {
+      "exercise": "",
+      "example": "flow"
+    },
+    {
+      "exercise": "",
+      "example": "foldl"
+    },
+    {
+      "exercise": "",
+      "example": "foldp"
+    },
+    {
+      "exercise": "",
+      "example": "foldr"
+    },
+    {
+      "exercise": "",
+      "example": "following"
+    },
+    {
+      "exercise": "",
+      "example": "font"
+    },
+    {
+      "exercise": "",
+      "example": "fontVariant"
+    },
+    {
+      "exercise": "",
+      "example": "footer"
+    },
+    {
+      "exercise": "",
+      "example": "for"
+    },
+    {
+      "exercise": "",
+      "example": "form"
+    },
+    {
+      "exercise": "",
+      "example": "found"
+    },
+    {
+      "exercise": "",
+      "example": "fps"
+    },
+    {
+      "exercise": "",
+      "example": "frame"
+    },
+    {
+      "exercise": "",
+      "example": "from"
+    },
+    {
+      "exercise": "",
+      "example": "fromList"
+    },
+    {
+      "exercise": "",
+      "example": "fromPolar"
+    },
+    {
+      "exercise": "",
+      "example": "fromString"
+    },
+    {
+      "exercise": "",
+      "example": "fst"
+    },
+    {
+      "exercise": "",
+      "example": "function"
+    },
+    {
+      "exercise": "",
+      "example": "functions"
+    },
+    {
+      "exercise": "",
+      "example": "g"
+    },
+    {
+      "exercise": "",
+      "example": "game"
+    },
+    {
+      "exercise": "",
+      "example": "generate"
+    },
+    {
+      "exercise": "",
+      "example": "generator"
+    },
+    {
+      "exercise": "",
+      "example": "generic"
+    },
+    {
+      "exercise": "",
+      "example": "get"
+    },
+    {
+      "exercise": "",
+      "example": "getRandomGif"
+    },
+    {
+      "exercise": "",
+      "example": "github"
+    },
+    {
+      "exercise": "",
+      "example": "give"
+    },
+    {
+      "exercise": "",
+      "example": "given"
+    },
+    {
+      "exercise": "",
+      "example": "glsl"
+    },
+    {
+      "exercise": "",
+      "example": "gmail"
+    },
+    {
+      "exercise": "",
+      "example": "green"
+    },
+    {
+      "exercise": "",
+      "example": "greeting"
+    },
+    {
+      "exercise": "",
+      "example": "grid"
+    },
+    {
+      "exercise": "",
+      "example": "group"
+    },
+    {
+      "exercise": "",
+      "example": "h"
+    },
+    {
+      "exercise": "",
+      "example": "h1"
+    },
+    {
+      "exercise": "",
+      "example": "has"
+    },
+    {
+      "exercise": "",
+      "example": "haskell"
+    },
+    {
+      "exercise": "",
+      "example": "hats"
+    },
+    {
+      "exercise": "",
+      "example": "have"
+    },
+    {
+      "exercise": "",
+      "example": "head"
+    },
+    {
+      "exercise": "",
+      "example": "header"
+    },
+    {
+      "exercise": "",
+      "example": "headers"
+    },
+    {
+      "exercise": "",
+      "example": "height"
+    },
+    {
+      "exercise": "",
+      "example": "heightOf"
+    },
+    {
+      "exercise": "",
+      "example": "hi"
+    },
+    {
+      "exercise": "",
+      "example": "hidden"
+    },
+    {
+      "exercise": "",
+      "example": "history"
+    },
+    {
+      "exercise": "",
+      "example": "how"
+    },
+    {
+      "exercise": "",
+      "example": "href"
+    },
+    {
+      "exercise": "",
+      "example": "html"
+    },
+    {
+      "exercise": "",
+      "example": "http"
+    },
+    {
+      "exercise": "",
+      "example": "https"
+    },
+    {
+      "exercise": "",
+      "example": "i"
+    },
+    {
+      "exercise": "",
+      "example": "ian"
+    },
+    {
+      "exercise": "",
+      "example": "id"
+    },
+    {
+      "exercise": "",
+      "example": "identity"
+    },
+    {
+      "exercise": "",
+      "example": "if"
+    },
+    {
+      "exercise": "",
+      "example": "iframe"
+    },
+    {
+      "exercise": "",
+      "example": "image"
+    },
+    {
+      "exercise": "",
+      "example": "img"
+    },
+    {
+      "exercise": "",
+      "example": "import"
+    },
+    {
+      "exercise": "",
+      "example": "important"
+    },
+    {
+      "exercise": "",
+      "example": "in"
+    },
+    {
+      "exercise": "",
+      "example": "index"
+    },
+    {
+      "exercise": "",
+      "example": "indexedMap"
+    },
+    {
+      "exercise": "",
+      "example": "indexes"
+    },
+    {
+      "exercise": "",
+      "example": "infix"
+    },
+    {
+      "exercise": "",
+      "example": "infixl"
+    },
+    {
+      "exercise": "",
+      "example": "infixr"
+    },
+    {
+      "exercise": "",
+      "example": "info"
+    },
+    {
+      "exercise": "",
+      "example": "init"
+    },
+    {
+      "exercise": "",
+      "example": "initModel"
+    },
+    {
+      "exercise": "",
+      "example": "initial"
+    },
+    {
+      "exercise": "",
+      "example": "initialContent"
+    },
+    {
+      "exercise": "",
+      "example": "initialModel"
+    },
+    {
+      "exercise": "",
+      "example": "initialState"
+    },
+    {
+      "exercise": "",
+      "example": "initialize"
+    },
+    {
+      "exercise": "",
+      "example": "inline"
+    },
+    {
+      "exercise": "",
+      "example": "input"
+    },
+    {
+      "exercise": "",
+      "example": "inputs"
+    },
+    {
+      "exercise": "",
+      "example": "insert"
+    },
+    {
+      "exercise": "",
+      "example": "int"
+    },
+    {
+      "exercise": "",
+      "example": "integer"
+    },
+    {
+      "exercise": "",
+      "example": "intersect"
+    },
+    {
+      "exercise": "",
+      "example": "into"
+    },
+    {
+      "exercise": "",
+      "example": "intro"
+    },
+    {
+      "exercise": "",
+      "example": "is"
+    },
+    {
+      "exercise": "",
+      "example": "is13"
+    },
+    {
+      "exercise": "",
+      "example": "isDigit"
+    },
+    {
+      "exercise": "",
+      "example": "isEmpty"
+    },
+    {
+      "exercise": "",
+      "example": "isEven"
+    },
+    {
+      "exercise": "",
+      "example": "isInfinite"
+    },
+    {
+      "exercise": "",
+      "example": "isNaN"
+    },
+    {
+      "exercise": "",
+      "example": "it"
+    },
+    {
+      "exercise": "",
+      "example": "italic"
+    },
+    {
+      "exercise": "",
+      "example": "item"
+    },
+    {
+      "exercise": "",
+      "example": "items"
+    },
+    {
+      "exercise": "",
+      "example": "its"
+    },
+    {
+      "exercise": "",
+      "example": "javascript"
+    },
+    {
+      "exercise": "",
+      "example": "join"
+    },
+    {
+      "exercise": "",
+      "example": "jsonRoundTrips"
+    },
+    {
+      "exercise": "",
+      "example": "justify"
+    },
+    {
+      "exercise": "",
+      "example": "k"
+    },
+    {
+      "exercise": "",
+      "example": "key"
+    },
+    {
+      "exercise": "",
+      "example": "keyCode"
+    },
+    {
+      "exercise": "",
+      "example": "keyValuePairs"
+    },
+    {
+      "exercise": "",
+      "example": "keys"
+    },
+    {
+      "exercise": "",
+      "example": "l"
+    },
+    {
+      "exercise": "",
+      "example": "label"
+    },
+    {
+      "exercise": "",
+      "example": "lang"
+    },
+    {
+      "exercise": "",
+      "example": "last"
+    },
+    {
+      "exercise": "",
+      "example": "lazy"
+    },
+    {
+      "exercise": "",
+      "example": "ldquo"
+    },
+    {
+      "exercise": "",
+      "example": "left"
+    },
+    {
+      "exercise": "",
+      "example": "leftAligned"
+    },
+    {
+      "exercise": "",
+      "example": "length"
+    },
+    {
+      "exercise": "",
+      "example": "let"
+    },
+    {
+      "exercise": "",
+      "example": "li"
+    },
+    {
+      "exercise": "",
+      "example": "like"
+    },
+    {
+      "exercise": "",
+      "example": "line"
+    },
+    {
+      "exercise": "",
+      "example": "lines"
+    },
+    {
+      "exercise": "",
+      "example": "link"
+    },
+    {
+      "exercise": "",
+      "example": "list"
+    },
+    {
+      "exercise": "",
+      "example": "lists"
+    },
+    {
+      "exercise": "",
+      "example": "location"
+    },
+    {
+      "exercise": "",
+      "example": "log"
+    },
+    {
+      "exercise": "",
+      "example": "logBase"
+    },
+    {
+      "exercise": "",
+      "example": "lookup"
+    },
+    {
+      "exercise": "",
+      "example": "m"
+    },
+    {
+      "exercise": "",
+      "example": "mackenzie"
+    },
+    {
+      "exercise": "",
+      "example": "mailbox"
+    },
+    {
+      "exercise": "",
+      "example": "main"
+    },
+    {
+      "exercise": "",
+      "example": "mainContent"
+    },
+    {
+      "exercise": "",
+      "example": "mainMenu"
+    },
+    {
+      "exercise": "",
+      "example": "make"
+    },
+    {
+      "exercise": "",
+      "example": "many"
+    },
+    {
+      "exercise": "",
+      "example": "map"
+    },
+    {
+      "exercise": "",
+      "example": "map2"
+    },
+    {
+      "exercise": "",
+      "example": "map3"
+    },
+    {
+      "exercise": "",
+      "example": "map4"
+    },
+    {
+      "exercise": "",
+      "example": "map5"
+    },
+    {
+      "exercise": "",
+      "example": "margin"
+    },
+    {
+      "exercise": "",
+      "example": "markdown"
+    },
+    {
+      "exercise": "",
+      "example": "mat4"
+    },
+    {
+      "exercise": "",
+      "example": "max"
+    },
+    {
+      "exercise": "",
+      "example": "maybe"
+    },
+    {
+      "exercise": "",
+      "example": "mdl"
+    },
+    {
+      "exercise": "",
+      "example": "mediump"
+    },
+    {
+      "exercise": "",
+      "example": "member"
+    },
+    {
+      "exercise": "",
+      "example": "merge"
+    },
+    {
+      "exercise": "",
+      "example": "mergeMany"
+    },
+    {
+      "exercise": "",
+      "example": "message"
+    },
+    {
+      "exercise": "",
+      "example": "middle"
+    },
+    {
+      "exercise": "",
+      "example": "min"
+    },
+    {
+      "exercise": "",
+      "example": "mode"
+    },
+    {
+      "exercise": "",
+      "example": "model"
+    },
+    {
+      "exercise": "",
+      "example": "module"
+    },
+    {
+      "exercise": "",
+      "example": "monospace"
+    },
+    {
+      "exercise": "",
+      "example": "month"
+    },
+    {
+      "exercise": "",
+      "example": "more"
+    },
+    {
+      "exercise": "",
+      "example": "move"
+    },
+    {
+      "exercise": "",
+      "example": "mozilla"
+    },
+    {
+      "exercise": "",
+      "example": "msg"
+    },
+    {
+      "exercise": "",
+      "example": "multiple"
+    },
+    {
+      "exercise": "",
+      "example": "must"
+    },
+    {
+      "exercise": "",
+      "example": "myStyle"
+    },
+    {
+      "exercise": "",
+      "example": "n"
+    },
+    {
+      "exercise": "",
+      "example": "name"
+    },
+    {
+      "exercise": "",
+      "example": "need"
+    },
+    {
+      "exercise": "",
+      "example": "negate"
+    },
+    {
+      "exercise": "",
+      "example": "new"
+    },
+    {
+      "exercise": "",
+      "example": "newModel"
+    },
+    {
+      "exercise": "",
+      "example": "newState"
+    },
+    {
+      "exercise": "",
+      "example": "nextID"
+    },
+    {
+      "exercise": "",
+      "example": "ngon"
+    },
+    {
+      "exercise": "",
+      "example": "no"
+    },
+    {
+      "exercise": "",
+      "example": "node"
+    },
+    {
+      "exercise": "",
+      "example": "none"
+    },
+    {
+      "exercise": "",
+      "example": "not"
+    },
+    {
+      "exercise": "",
+      "example": "null"
+    },
+    {
+      "exercise": "",
+      "example": "nullOr"
+    },
+    {
+      "exercise": "",
+      "example": "number"
+    },
+    {
+      "exercise": "",
+      "example": "numbers"
+    },
+    {
+      "exercise": "",
+      "example": "numeric"
+    },
+    {
+      "exercise": "",
+      "example": "object"
+    },
+    {
+      "exercise": "",
+      "example": "object1"
+    },
+    {
+      "exercise": "",
+      "example": "object2"
+    },
+    {
+      "exercise": "",
+      "example": "object3"
+    },
+    {
+      "exercise": "",
+      "example": "of"
+    },
+    {
+      "exercise": "",
+      "example": "on"
+    },
+    {
+      "exercise": "",
+      "example": "onClick"
+    },
+    {
+      "exercise": "",
+      "example": "onEnter"
+    },
+    {
+      "exercise": "",
+      "example": "onInput"
+    },
+    {
+      "exercise": "",
+      "example": "once"
+    },
+    {
+      "exercise": "",
+      "example": "one"
+    },
+    {
+      "exercise": "",
+      "example": "oneOf"
+    },
+    {
+      "exercise": "",
+      "example": "only"
+    },
+    {
+      "exercise": "",
+      "example": "opacity"
+    },
+    {
+      "exercise": "",
+      "example": "operator"
+    },
+    {
+      "exercise": "",
+      "example": "options"
+    },
+    {
+      "exercise": "",
+      "example": "or"
+    },
+    {
+      "exercise": "",
+      "example": "order"
+    },
+    {
+      "exercise": "",
+      "example": "org"
+    },
+    {
+      "exercise": "",
+      "example": "origin"
+    },
+    {
+      "exercise": "",
+      "example": "originPoint"
+    },
+    {
+      "exercise": "",
+      "example": "other"
+    },
+    {
+      "exercise": "",
+      "example": "other_"
+    },
+    {
+      "exercise": "",
+      "example": "otherwise"
+    },
+    {
+      "exercise": "",
+      "example": "our"
+    },
+    {
+      "exercise": "",
+      "example": "out"
+    },
+    {
+      "exercise": "",
+      "example": "outdented"
+    },
+    {
+      "exercise": "",
+      "example": "output"
+    },
+    {
+      "exercise": "",
+      "example": "over"
+    },
+    {
+      "exercise": "",
+      "example": "overflow"
+    },
+    {
+      "exercise": "",
+      "example": "overline"
+    },
+    {
+      "exercise": "",
+      "example": "p"
+    },
+    {
+      "exercise": "",
+      "example": "package"
+    },
+    {
+      "exercise": "",
+      "example": "packages"
+    },
+    {
+      "exercise": "",
+      "example": "padding"
+    },
+    {
+      "exercise": "",
+      "example": "page"
+    },
+    {
+      "exercise": "",
+      "example": "pageFooter"
+    },
+    {
+      "exercise": "",
+      "example": "pair"
+    },
+    {
+      "exercise": "",
+      "example": "paired"
+    },
+    {
+      "exercise": "",
+      "example": "pairs"
+    },
+    {
+      "exercise": "",
+      "example": "partition"
+    },
+    {
+      "exercise": "",
+      "example": "pass"
+    },
+    {
+      "exercise": "",
+      "example": "password"
+    },
+    {
+      "exercise": "",
+      "example": "path"
+    },
+    {
+      "exercise": "",
+      "example": "pattern"
+    },
+    {
+      "exercise": "",
+      "example": "pct"
+    },
+    {
+      "exercise": "",
+      "example": "person"
+    },
+    {
+      "exercise": "",
+      "example": "perspective"
+    },
+    {
+      "exercise": "",
+      "example": "pi"
+    },
+    {
+      "exercise": "",
+      "example": "placeholder"
+    },
+    {
+      "exercise": "",
+      "example": "plane"
+    },
+    {
+      "exercise": "",
+      "example": "player"
+    },
+    {
+      "exercise": "",
+      "example": "point"
+    },
+    {
+      "exercise": "",
+      "example": "point3D"
+    },
+    {
+      "exercise": "",
+      "example": "pointer"
+    },
+    {
+      "exercise": "",
+      "example": "points"
+    },
+    {
+      "exercise": "",
+      "example": "polygon"
+    },
+    {
+      "exercise": "",
+      "example": "port"
+    },
+    {
+      "exercise": "",
+      "example": "pos"
+    },
+    {
+      "exercise": "",
+      "example": "position"
+    },
+    {
+      "exercise": "",
+      "example": "pre"
+    },
+    {
+      "exercise": "",
+      "example": "precision"
+    },
+    {
+      "exercise": "",
+      "example": "pred"
+    },
+    {
+      "exercise": "",
+      "example": "predicate"
+    },
+    {
+      "exercise": "",
+      "example": "pretty"
+    },
+    {
+      "exercise": "",
+      "example": "prev"
+    },
+    {
+      "exercise": "",
+      "example": "preventDefault"
+    },
+    {
+      "exercise": "",
+      "example": "profession"
+    },
+    {
+      "exercise": "",
+      "example": "program"
+    },
+    {
+      "exercise": "",
+      "example": "prop"
+    },
+    {
+      "exercise": "",
+      "example": "properly"
+    },
+    {
+      "exercise": "",
+      "example": "properties"
+    },
+    {
+      "exercise": "",
+      "example": "property"
+    },
+    {
+      "exercise": "",
+      "example": "pseudo"
+    },
+    {
+      "exercise": "",
+      "example": "px"
+    },
+    {
+      "exercise": "",
+      "example": "query"
+    },
+    {
+      "exercise": "",
+      "example": "r"
+    },
+    {
+      "exercise": "",
+      "example": "radians"
+    },
+    {
+      "exercise": "",
+      "example": "radius"
+    },
+    {
+      "exercise": "",
+      "example": "random"
+    },
+    {
+      "exercise": "",
+      "example": "range"
+    },
+    {
+      "exercise": "",
+      "example": "rawError"
+    },
+    {
+      "exercise": "",
+      "example": "rdquo"
+    },
+    {
+      "exercise": "",
+      "example": "readonly"
+    },
+    {
+      "exercise": "",
+      "example": "record"
+    },
+    {
+      "exercise": "",
+      "example": "records"
+    },
+    {
+      "exercise": "",
+      "example": "rect"
+    },
+    {
+      "exercise": "",
+      "example": "red"
+    },
+    {
+      "exercise": "",
+      "example": "reference"
+    },
+    {
+      "exercise": "",
+      "example": "references"
+    },
+    {
+      "exercise": "",
+      "example": "relative"
+    },
+    {
+      "exercise": "",
+      "example": "rem"
+    },
+    {
+      "exercise": "",
+      "example": "remove"
+    },
+    {
+      "exercise": "",
+      "example": "render"
+    },
+    {
+      "exercise": "",
+      "example": "repeat"
+    },
+    {
+      "exercise": "",
+      "example": "request"
+    },
+    {
+      "exercise": "",
+      "example": "res"
+    },
+    {
+      "exercise": "",
+      "example": "response"
+    },
+    {
+      "exercise": "",
+      "example": "rest"
+    },
+    {
+      "exercise": "",
+      "example": "result"
+    },
+    {
+      "exercise": "",
+      "example": "results"
+    },
+    {
+      "exercise": "",
+      "example": "return"
+    },
+    {
+      "exercise": "",
+      "example": "returns"
+    },
+    {
+      "exercise": "",
+      "example": "reverse"
+    },
+    {
+      "exercise": "",
+      "example": "rgb"
+    },
+    {
+      "exercise": "",
+      "example": "right"
+    },
+    {
+      "exercise": "",
+      "example": "ripple"
+    },
+    {
+      "exercise": "",
+      "example": "rotate"
+    },
+    {
+      "exercise": "",
+      "example": "round"
+    },
+    {
+      "exercise": "",
+      "example": "rounds"
+    },
+    {
+      "exercise": "",
+      "example": "route"
+    },
+    {
+      "exercise": "",
+      "example": "row"
+    },
+    {
+      "exercise": "",
+      "example": "run"
+    },
+    {
+      "exercise": "",
+      "example": "runDisplay"
+    },
+    {
+      "exercise": "",
+      "example": "runner"
+    },
+    {
+      "exercise": "",
+      "example": "s"
+    },
+    {
+      "exercise": "",
+      "example": "s1"
+    },
+    {
+      "exercise": "",
+      "example": "s2"
+    },
+    {
+      "exercise": "",
+      "example": "same"
+    },
+    {
+      "exercise": "",
+      "example": "satisfy"
+    },
+    {
+      "exercise": "",
+      "example": "scale"
+    },
+    {
+      "exercise": "",
+      "example": "score"
+    },
+    {
+      "exercise": "",
+      "example": "searchWords"
+    },
+    {
+      "exercise": "",
+      "example": "second"
+    },
+    {
+      "exercise": "",
+      "example": "section"
+    },
+    {
+      "exercise": "",
+      "example": "seed"
+    },
+    {
+      "exercise": "",
+      "example": "seed0"
+    },
+    {
+      "exercise": "",
+      "example": "seed1"
+    },
+    {
+      "exercise": "",
+      "example": "send"
+    },
+    {
+      "exercise": "",
+      "example": "set"
+    },
+    {
+      "exercise": "",
+      "example": "shape"
+    },
+    {
+      "exercise": "",
+      "example": "shapes"
+    },
+    {
+      "exercise": "",
+      "example": "should"
+    },
+    {
+      "exercise": "",
+      "example": "shouldEqual"
+    },
+    {
+      "exercise": "",
+      "example": "show"
+    },
+    {
+      "exercise": "",
+      "example": "signal"
+    },
+    {
+      "exercise": "",
+      "example": "signals"
+    },
+    {
+      "exercise": "",
+      "example": "sin"
+    },
+    {
+      "exercise": "",
+      "example": "single"
+    },
+    {
+      "exercise": "",
+      "example": "singleton"
+    },
+    {
+      "exercise": "",
+      "example": "size"
+    },
+    {
+      "exercise": "",
+      "example": "skeleton"
+    },
+    {
+      "exercise": "",
+      "example": "slice"
+    },
+    {
+      "exercise": "",
+      "example": "snd"
+    },
+    {
+      "exercise": "",
+      "example": "so"
+    },
+    {
+      "exercise": "",
+      "example": "solid"
+    },
+    {
+      "exercise": "",
+      "example": "some"
+    },
+    {
+      "exercise": "",
+      "example": "something"
+    },
+    {
+      "exercise": "",
+      "example": "sort"
+    },
+    {
+      "exercise": "",
+      "example": "sortBy"
+    },
+    {
+      "exercise": "",
+      "example": "sourceCode"
+    },
+    {
+      "exercise": "",
+      "example": "space"
+    },
+    {
+      "exercise": "",
+      "example": "span"
+    },
+    {
+      "exercise": "",
+      "example": "sqrt"
+    },
+    {
+      "exercise": "",
+      "example": "square"
+    },
+    {
+      "exercise": "",
+      "example": "srcUrl"
+    },
+    {
+      "exercise": "",
+      "example": "standard"
+    },
+    {
+      "exercise": "",
+      "example": "stars"
+    },
+    {
+      "exercise": "",
+      "example": "start"
+    },
+    {
+      "exercise": "",
+      "example": "state"
+    },
+    {
+      "exercise": "",
+      "example": "status"
+    },
+    {
+      "exercise": "",
+      "example": "step"
+    },
+    {
+      "exercise": "",
+      "example": "stopPropagation"
+    },
+    {
+      "exercise": "",
+      "example": "str"
+    },
+    {
+      "exercise": "",
+      "example": "string"
+    },
+    {
+      "exercise": "",
+      "example": "strings"
+    },
+    {
+      "exercise": "",
+      "example": "style"
+    },
+    {
+      "exercise": "",
+      "example": "stylesheet"
+    },
+    {
+      "exercise": "",
+      "example": "subMenu"
+    },
+    {
+      "exercise": "",
+      "example": "subscriptions"
+    },
+    {
+      "exercise": "",
+      "example": "succeed"
+    },
+    {
+      "exercise": "",
+      "example": "suite"
+    },
+    {
+      "exercise": "",
+      "example": "sum"
+    },
+    {
+      "exercise": "",
+      "example": "svg"
+    },
+    {
+      "exercise": "",
+      "example": "t"
+    },
+    {
+      "exercise": "",
+      "example": "t1"
+    },
+    {
+      "exercise": "",
+      "example": "t2"
+    },
+    {
+      "exercise": "",
+      "example": "table"
+    },
+    {
+      "exercise": "",
+      "example": "tag"
+    },
+    {
+      "exercise": "",
+      "example": "takes"
+    },
+    {
+      "exercise": "",
+      "example": "tan"
+    },
+    {
+      "exercise": "",
+      "example": "target"
+    },
+    {
+      "exercise": "",
+      "example": "targetValue"
+    },
+    {
+      "exercise": "",
+      "example": "task"
+    },
+    {
+      "exercise": "",
+      "example": "tasks"
+    },
+    {
+      "exercise": "",
+      "example": "td"
+    },
+    {
+      "exercise": "",
+      "example": "test"
+    },
+    {
+      "exercise": "",
+      "example": "testSuite"
+    },
+    {
+      "exercise": "",
+      "example": "tests"
+    },
+    {
+      "exercise": "",
+      "example": "text"
+    },
+    {
+      "exercise": "",
+      "example": "textarea"
+    },
+    {
+      "exercise": "",
+      "example": "textual"
+    },
+    {
+      "exercise": "",
+      "example": "texture"
+    },
+    {
+      "exercise": "",
+      "example": "than"
+    },
+    {
+      "exercise": "",
+      "example": "that"
+    },
+    {
+      "exercise": "",
+      "example": "the"
+    },
+    {
+      "exercise": "",
+      "example": "then"
+    },
+    {
+      "exercise": "",
+      "example": "theory"
+    },
+    {
+      "exercise": "",
+      "example": "there"
+    },
+    {
+      "exercise": "",
+      "example": "things"
+    },
+    {
+      "exercise": "",
+      "example": "this"
+    },
+    {
+      "exercise": "",
+      "example": "time"
+    },
+    {
+      "exercise": "",
+      "example": "title"
+    },
+    {
+      "exercise": "",
+      "example": "to"
+    },
+    {
+      "exercise": "",
+      "example": "toElement"
+    },
+    {
+      "exercise": "",
+      "example": "toFloat"
+    },
+    {
+      "exercise": "",
+      "example": "toForm"
+    },
+    {
+      "exercise": "",
+      "example": "toInt"
+    },
+    {
+      "exercise": "",
+      "example": "toList"
+    },
+    {
+      "exercise": "",
+      "example": "toMaybe"
+    },
+    {
+      "exercise": "",
+      "example": "toMonth"
+    },
+    {
+      "exercise": "",
+      "example": "toResult"
+    },
+    {
+      "exercise": "",
+      "example": "toString"
+    },
+    {
+      "exercise": "",
+      "example": "todo"
+    },
+    {
+      "exercise": "",
+      "example": "together"
+    },
+    {
+      "exercise": "",
+      "example": "toggle"
+    },
+    {
+      "exercise": "",
+      "example": "token"
+    },
+    {
+      "exercise": "",
+      "example": "top"
+    },
+    {
+      "exercise": "",
+      "example": "topRight"
+    },
+    {
+      "exercise": "",
+      "example": "topic"
+    },
+    {
+      "exercise": "",
+      "example": "tr"
+    },
+    {
+      "exercise": "",
+      "example": "transform"
+    },
+    {
+      "exercise": "",
+      "example": "tree"
+    },
+    {
+      "exercise": "",
+      "example": "trim"
+    },
+    {
+      "exercise": "",
+      "example": "true"
+    },
+    {
+      "exercise": "",
+      "example": "truncate"
+    },
+    {
+      "exercise": "",
+      "example": "tuple"
+    },
+    {
+      "exercise": "",
+      "example": "tuple1"
+    },
+    {
+      "exercise": "",
+      "example": "tuple2"
+    },
+    {
+      "exercise": "",
+      "example": "tuple3"
+    },
+    {
+      "exercise": "",
+      "example": "tuples"
+    },
+    {
+      "exercise": "",
+      "example": "turns"
+    },
+    {
+      "exercise": "",
+      "example": "turtles"
+    },
+    {
+      "exercise": "",
+      "example": "tutorial"
+    },
+    {
+      "exercise": "",
+      "example": "two"
+    },
+    {
+      "exercise": "",
+      "example": "type"
+    },
+    {
+      "exercise": "",
+      "example": "typeface"
+    },
+    {
+      "exercise": "",
+      "example": "types"
+    },
+    {
+      "exercise": "",
+      "example": "uid"
+    },
+    {
+      "exercise": "",
+      "example": "ul"
+    },
+    {
+      "exercise": "",
+      "example": "uncons"
+    },
+    {
+      "exercise": "",
+      "example": "underline"
+    },
+    {
+      "exercise": "",
+      "example": "uniform"
+    },
+    {
+      "exercise": "",
+      "example": "union"
+    },
+    {
+      "exercise": "",
+      "example": "unit"
+    },
+    {
+      "exercise": "",
+      "example": "up"
+    },
+    {
+      "exercise": "",
+      "example": "update"
+    },
+    {
+      "exercise": "",
+      "example": "updateTask"
+    },
+    {
+      "exercise": "",
+      "example": "updates"
+    },
+    {
+      "exercise": "",
+      "example": "url"
+    },
+    {
+      "exercise": "",
+      "example": "urlUpdate"
+    },
+    {
+      "exercise": "",
+      "example": "use"
+    },
+    {
+      "exercise": "",
+      "example": "used"
+    },
+    {
+      "exercise": "",
+      "example": "useful"
+    },
+    {
+      "exercise": "",
+      "example": "user"
+    },
+    {
+      "exercise": "",
+      "example": "using"
+    },
+    {
+      "exercise": "",
+      "example": "v"
+    },
+    {
+      "exercise": "",
+      "example": "val"
+    },
+    {
+      "exercise": "",
+      "example": "value"
+    },
+    {
+      "exercise": "",
+      "example": "values"
+    },
+    {
+      "exercise": "",
+      "example": "varying"
+    },
+    {
+      "exercise": "",
+      "example": "vcolor"
+    },
+    {
+      "exercise": "",
+      "example": "vcoord"
+    },
+    {
+      "exercise": "",
+      "example": "vec2"
+    },
+    {
+      "exercise": "",
+      "example": "vec3"
+    },
+    {
+      "exercise": "",
+      "example": "verb"
+    },
+    {
+      "exercise": "",
+      "example": "vertical"
+    },
+    {
+      "exercise": "",
+      "example": "view"
+    },
+    {
+      "exercise": "",
+      "example": "visibility"
+    },
+    {
+      "exercise": "",
+      "example": "void"
+    },
+    {
+      "exercise": "",
+      "example": "w"
+    },
+    {
+      "exercise": "",
+      "example": "want"
+    },
+    {
+      "exercise": "",
+      "example": "warnings"
+    },
+    {
+      "exercise": "",
+      "example": "was"
+    },
+    {
+      "exercise": "",
+      "example": "wavy"
+    },
+    {
+      "exercise": "",
+      "example": "way"
+    },
+    {
+      "exercise": "",
+      "example": "we"
+    },
+    {
+      "exercise": "",
+      "example": "weight"
+    },
+    {
+      "exercise": "",
+      "example": "when"
+    },
+    {
+      "exercise": "",
+      "example": "where"
+    },
+    {
+      "exercise": "",
+      "example": "which"
+    },
+    {
+      "exercise": "",
+      "example": "white"
+    },
+    {
+      "exercise": "",
+      "example": "whitespace"
+    },
+    {
+      "exercise": "",
+      "example": "wid"
+    },
+    {
+      "exercise": "",
+      "example": "widgets"
+    },
+    {
+      "exercise": "",
+      "example": "width"
+    },
+    {
+      "exercise": "",
+      "example": "wiki"
+    },
+    {
+      "exercise": "",
+      "example": "wikipedia"
+    },
+    {
+      "exercise": "",
+      "example": "will"
+    },
+    {
+      "exercise": "",
+      "example": "with"
+    },
+    {
+      "exercise": "",
+      "example": "withDefault"
+    },
+    {
+      "exercise": "",
+      "example": "words"
+    },
+    {
+      "exercise": "",
+      "example": "work"
+    },
+    {
+      "exercise": "",
+      "example": "would"
+    },
+    {
+      "exercise": "",
+      "example": "x"
+    },
+    {
+      "exercise": "",
+      "example": "xk"
+    },
+    {
+      "exercise": "",
+      "example": "xs"
+    },
+    {
+      "exercise": "",
+      "example": "xv"
+    },
+    {
+      "exercise": "",
+      "example": "y"
+    },
+    {
+      "exercise": "",
+      "example": "yk"
+    },
+    {
+      "exercise": "",
+      "example": "you"
+    },
+    {
+      "exercise": "",
+      "example": "your"
+    },
+    {
+      "exercise": "",
+      "example": "ys"
+    },
+    {
+      "exercise": "",
+      "example": "yv"
+    },
+    {
+      "exercise": "",
+      "example": "z"
+    },
+    {
+      "exercise": "",
+      "example": "zero"
+    },
+    {
+      "exercise": "",
+      "example": "zk"
+    },
+    {
+      "exercise": "",
+      "example": "zv"
+    },
+    {
+      "exercise": "",
+      "example": "~"
+    }
+  ]
+}
