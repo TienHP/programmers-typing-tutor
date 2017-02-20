@@ -1,6 +1,6 @@
 {
   "name": "Popular clj words training",
-  "mode": "clj",
+  "mode": "clojure",
   "level": "beginner",
   "logo": "images/languages/clj.png",
   "lessons": [

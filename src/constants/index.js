@@ -10,7 +10,7 @@ export const TRAININGS = [
   {
     id: 'html-beginner',
     name: 'HTML',
-    mode: 'html'
+    mode: 'htmlmixed'
   },
   {
     id: 'css-beginner',
@@ -20,7 +20,7 @@ export const TRAININGS = [
   {
     id: 'top-1000-popular-clj-words',
     name: 'Top 1000 popular clj words',
-    mode: 'clj'
+    mode: 'clojure'
   },
   {
     id: 'top-1000-popular-cmake-words',
