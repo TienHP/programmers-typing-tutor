@@ -91,6 +91,7 @@ class Trainer extends Component {
           </section>
           <br />
           <Button to='/'>Go to welcome page</Button>
+          <Button onClick={() => this.props.fetchTraining(training.id)}className='ui button'>Restart training</Button>
         </div>
       </div>
     )
