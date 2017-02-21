@@ -1,0 +1,406 @@
+{
+  "name": "Top 100 popular css words",
+  "mode": "css",
+  "lessons": [
+    {
+      "exercise": "",
+      "example": "color"
+    },
+    {
+      "exercise": "",
+      "example": "border"
+    },
+    {
+      "exercise": "",
+      "example": "background"
+    },
+    {
+      "exercise": "",
+      "example": "margin"
+    },
+    {
+      "exercise": "",
+      "example": "left"
+    },
+    {
+      "exercise": "",
+      "example": "width"
+    },
+    {
+      "exercise": "",
+      "example": "font"
+    },
+    {
+      "exercise": "",
+      "example": "padding"
+    },
+    {
+      "exercise": "",
+      "example": "content"
+    },
+    {
+      "exercise": "",
+      "example": "right"
+    },
+    {
+      "exercise": "",
+      "example": "before"
+    },
+    {
+      "exercise": "",
+      "example": "height"
+    },
+    {
+      "exercise": "",
+      "example": "bottom"
+    },
+    {
+      "exercise": "",
+      "example": "none"
+    },
+    {
+      "exercise": "",
+      "example": "position"
+    },
+    {
+      "exercise": "",
+      "example": "webkit"
+    },
+    {
+      "exercise": "",
+      "example": "display"
+    },
+    {
+      "exercise": "",
+      "example": "text"
+    },
+    {
+      "exercise": "",
+      "example": "size"
+    },
+    {
+      "exercise": "",
+      "example": "radius"
+    },
+    {
+      "exercise": "",
+      "example": "table"
+    },
+    {
+      "exercise": "",
+      "example": "input"
+    },
+    {
+      "exercise": "",
+      "example": "icon"
+    },
+    {
+      "exercise": "",
+      "example": "hover"
+    },
+    {
+      "exercise": "",
+      "example": "block"
+    },
+    {
+      "exercise": "",
+      "example": "important"
+    },
+    {
+      "exercise": "",
+      "example": "group"
+    },
+    {
+      "exercise": "",
+      "example": "transform"
+    },
+    {
+      "exercise": "",
+      "example": "line"
+    },
+    {
+      "exercise": "",
+      "example": "child"
+    },
+    {
+      "exercise": "",
+      "example": "active"
+    },
+    {
+      "exercise": "",
+      "example": "navbar"
+    },
+    {
+      "exercise": "",
+      "example": "solid"
+    },
+    {
+      "exercise": "",
+      "example": "align"
+    },
+    {
+      "exercise": "",
+      "example": "rgba"
+    },
+    {
+      "exercise": "",
+      "example": "10px"
+    },
+    {
+      "exercise": "",
+      "example": "button"
+    },
+    {
+      "exercise": "",
+      "example": "shadow"
+    },
+    {
+      "exercise": "",
+      "example": "focus"
+    },
+    {
+      "exercise": "",
+      "example": "form"
+    },
+    {
+      "exercise": "",
+      "example": "auto"
+    },
+    {
+      "exercise": "",
+      "example": "panel"
+    },
+    {
+      "exercise": "",
+      "example": "list"
+    },
+    {
+      "exercise": "",
+      "example": "disabled"
+    },
+    {
+      "exercise": "",
+      "example": "float"
+    },
+    {
+      "exercise": "",
+      "example": "menu"
+    },
+    {
+      "exercise": "",
+      "example": "inline"
+    },
+    {
+      "exercise": "",
+      "example": "20px"
+    },
+    {
+      "exercise": "",
+      "example": "transition"
+    },
+    {
+      "exercise": "",
+      "example": "image"
+    },
+    {
+      "exercise": "",
+      "example": "style"
+    },
+    {
+      "exercise": "",
+      "example": "item"
+    },
+    {
+      "exercise": "",
+      "example": "opacity"
+    },
+    {
+      "exercise": "",
+      "example": "type"
+    },
+    {
+      "exercise": "",
+      "example": "glyphicon"
+    },
+    {
+      "exercise": "",
+      "example": "dropdown"
+    },
+    {
+      "exercise": "",
+      "example": "weight"
+    },
+    {
+      "exercise": "",
+      "example": "default"
+    },
+    {
+      "exercise": "",
+      "example": "first"
+    },
+    {
+      "exercise": "",
+      "example": "center"
+    },
+    {
+      "exercise": "",
+      "example": "relative"
+    },
+    {
+      "exercise": "",
+      "example": "absolute"
+    },
+    {
+      "exercise": "",
+      "example": "header"
+    },
+    {
+      "exercise": "",
+      "example": "last"
+    },
+    {
+      "exercise": "",
+      "example": "after"
+    },
+    {
+      "exercise": "",
+      "example": "media"
+    },
+    {
+      "exercise": "",
+      "example": "15px"
+    },
+    {
+      "exercise": "",
+      "example": "transparent"
+    },
+    {
+      "exercise": "",
+      "example": "linear"
+    },
+    {
+      "exercise": "",
+      "example": "hidden"
+    },
+    {
+      "exercise": "",
+      "example": "overflow"
+    },
+    {
+      "exercise": "",
+      "example": "scss"
+    },
+    {
+      "exercise": "",
+      "example": "vertical"
+    },
+    {
+      "exercise": "",
+      "example": "flex"
+    },
+    {
+      "exercise": "",
+      "example": "gradient"
+    },
+    {
+      "exercise": "",
+      "example": "control"
+    },
+    {
+      "exercise": "",
+      "example": "ease"
+    },
+    {
+      "exercise": "",
+      "example": "label"
+    },
+    {
+      "exercise": "",
+      "example": "tabs"
+    },
+    {
+      "exercise": "",
+      "example": "small"
+    },
+    {
+      "exercise": "",
+      "example": "ffffff"
+    },
+    {
+      "exercise": "",
+      "example": "cursor"
+    },
+    {
+      "exercise": "",
+      "example": "span"
+    },
+    {
+      "exercise": "",
+      "example": "container"
+    },
+    {
+      "exercise": "",
+      "example": "body"
+    },
+    {
+      "exercise": "",
+      "example": "repeat"
+    },
+    {
+      "exercise": "",
+      "example": "family"
+    },
+    {
+      "exercise": "",
+      "example": "white"
+    },
+    {
+      "exercise": "",
+      "example": "decoration"
+    },
+    {
+      "exercise": "",
+      "example": "info"
+    },
+    {
+      "exercise": "",
+      "example": "success"
+    },
+    {
+      "exercise": "",
+      "example": "normal"
+    },
+    {
+      "exercise": "",
+      "example": "index"
+    },
+    {
+      "exercise": "",
+      "example": "warning"
+    },
+    {
+      "exercise": "",
+      "example": "tbody"
+    },
+    {
+      "exercise": "",
+      "example": "select"
+    },
+    {
+      "exercise": "",
+      "example": "12px"
+    },
+    {
+      "exercise": "",
+      "example": "inset"
+    },
+    {
+      "exercise": "",
+      "example": "30px"
+    },
+    {
+      "exercise": "",
+      "example": "visible"
+    }
+  ]
+}

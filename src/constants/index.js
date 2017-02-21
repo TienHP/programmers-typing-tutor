@@ -18,163 +18,163 @@ export const TRAININGS = [
     mode: 'css'
   },
   {
-    id: 'top-1000-popular-clj-words',
-    name: 'Top 1000 popular clj words',
+    id: 'top-100-popular-clj-words',
+    name: 'Top 100 popular clojure words',
     mode: 'clojure'
   },
   {
-    id: 'top-1000-popular-cmake-words',
-    name: 'Top 1000 popular cmake words',
+    id: 'top-100-popular-cmake-words',
+    name: 'Top 100 popular cmake words',
     mode: 'cmake'
   },
   {
-    id: 'top-1000-popular-cpp-words',
-    name: 'Top 1000 popular cpp words',
+    id: 'top-100-popular-cpp-words',
+    name: 'Top 100 popular cpp words',
     mode: 'cpp'
   },
   {
-    id: 'top-1000-popular-cs-words',
-    name: 'Top 1000 popular cs words',
+    id: 'top-100-popular-cs-words',
+    name: 'Top 100 popular cs words',
     mode: 'cs'
   },
   {
-    id: 'top-1000-popular-css-words',
-    name: 'Top 1000 popular css words',
+    id: 'top-100-popular-css-words',
+    name: 'Top 100 popular css words',
     mode: 'css'
   },
   {
-    id: 'top-1000-popular-elm-words',
-    name: 'Top 1000 popular elm words',
+    id: 'top-100-popular-elm-words',
+    name: 'Top 100 popular elm words',
     mode: 'elm'
   },
   {
-    id: 'top-1000-popular-erl-words',
-    name: 'Top 1000 popular erl words',
+    id: 'top-100-popular-erl-words',
+    name: 'Top 100 popular erl words',
     mode: 'erl'
   },
   {
-    id: 'top-1000-popular-ex-words',
-    name: 'Top 1000 popular ex words',
+    id: 'top-100-popular-ex-words',
+    name: 'Top 100 popular ex words',
     mode: 'ex'
   },
   {
-    id: 'top-1000-popular-fs-words',
-    name: 'Top 1000 popular fs words',
+    id: 'top-100-popular-fs-words',
+    name: 'Top 100 popular fs words',
     mode: 'fs'
   },
   {
-    id: 'top-1000-popular-go-words',
-    name: 'Top 1000 popular go words',
+    id: 'top-100-popular-go-words',
+    name: 'Top 100 popular go words',
     mode: 'go'
   },
   {
-    id: 'top-1000-popular-groovy-words',
-    name: 'Top 1000 popular groovy words',
+    id: 'top-100-popular-groovy-words',
+    name: 'Top 100 popular groovy words',
     mode: 'groovy'
   },
   {
-    id: 'top-1000-popular-hs-words',
-    name: 'Top 1000 popular hs words',
+    id: 'top-100-popular-hs-words',
+    name: 'Top 100 popular hs words',
     mode: 'hs'
   },
   {
-    id: 'top-1000-popular-html-words',
-    name: 'Top 1000 popular html words',
+    id: 'top-100-popular-html-words',
+    name: 'Top 100 popular html words',
     mode: 'html'
   },
   {
-    id: 'top-1000-popular-java-words',
-    name: 'Top 1000 popular java words',
+    id: 'top-100-popular-java-words',
+    name: 'Top 100 popular java words',
     mode: 'java'
   },
   {
-    id: 'top-1000-popular-js-words',
-    name: 'Top 1000 popular js words',
-    mode: 'js'
+    id: 'top-100-popular-js-words',
+    name: 'Top 100 popular javascript words',
+    mode: 'javascript'
   },
   {
-    id: 'top-1000-popular-jsx-words',
-    name: 'Top 1000 popular jsx words',
+    id: 'top-100-popular-jsx-words',
+    name: 'Top 100 popular jsx words',
     mode: 'jsx'
   },
   {
-    id: 'top-1000-popular-kt-words',
-    name: 'Top 1000 popular kt words',
+    id: 'top-100-popular-kt-words',
+    name: 'Top 100 popular kt words',
     mode: 'kt'
   },
   {
-    id: 'top-1000-popular-lisp-words',
-    name: 'Top 1000 popular lisp words',
+    id: 'top-100-popular-lisp-words',
+    name: 'Top 100 popular lisp words',
     mode: 'lisp'
   },
   {
-    id: 'top-1000-popular-lua-words',
-    name: 'Top 1000 popular lua words',
+    id: 'top-100-popular-lua-words',
+    name: 'Top 100 popular lua words',
     mode: 'lua'
   },
   {
-    id: 'top-1000-popular-objc-words',
-    name: 'Top 1000 popular objc words',
+    id: 'top-100-popular-objc-words',
+    name: 'Top 100 popular objc words',
     mode: 'objc'
   },
   {
-    id: 'top-1000-popular-pas-words',
-    name: 'Top 1000 popular pas words',
+    id: 'top-100-popular-pas-words',
+    name: 'Top 100 popular pas words',
     mode: 'pas'
   },
   {
-    id: 'top-1000-popular-php-words',
-    name: 'Top 1000 popular php words',
+    id: 'top-100-popular-php-words',
+    name: 'Top 100 popular php words',
     mode: 'php'
   },
   {
-    id: 'top-1000-popular-pl-words',
-    name: 'Top 1000 popular pl words',
+    id: 'top-100-popular-pl-words',
+    name: 'Top 100 popular pl words',
     mode: 'pl'
   },
   {
-    id: 'top-1000-popular-purs-words',
-    name: 'Top 1000 popular purs words',
+    id: 'top-100-popular-purs-words',
+    name: 'Top 100 popular purs words',
     mode: 'purs'
   },
   {
-    id: 'top-1000-popular-py-words',
-    name: 'Top 1000 popular py words',
+    id: 'top-100-popular-py-words',
+    name: 'Top 100 popular py words',
     mode: 'py'
   },
   {
-    id: 'top-1000-popular-r-words',
-    name: 'Top 1000 popular r words',
+    id: 'top-100-popular-r-words',
+    name: 'Top 100 popular r words',
     mode: 'r'
   },
   {
-    id: 'top-1000-popular-rb-words',
-    name: 'Top 1000 popular rb words',
+    id: 'top-100-popular-rb-words',
+    name: 'Top 100 popular rb words',
     mode: 'rb'
   },
   {
-    id: 'top-1000-popular-rs-words',
-    name: 'Top 1000 popular rs words',
+    id: 'top-100-popular-rs-words',
+    name: 'Top 100 popular rs words',
     mode: 'rs'
   },
   {
-    id: 'top-1000-popular-scala-words',
-    name: 'Top 1000 popular scala words',
+    id: 'top-100-popular-scala-words',
+    name: 'Top 100 popular scala words',
     mode: 'scala'
   },
   {
-    id: 'top-1000-popular-sql-words',
-    name: 'Top 1000 popular sql words',
+    id: 'top-100-popular-sql-words',
+    name: 'Top 100 popular sql words',
     mode: 'sql'
   },
   {
-    id: 'top-1000-popular-swift-words',
-    name: 'Top 1000 popular swift words',
+    id: 'top-100-popular-swift-words',
+    name: 'Top 100 popular swift words',
     mode: 'swift'
   },
   {
-    id: 'top-1000-popular-vim-words',
-    name: 'Top 1000 popular vim words',
+    id: 'top-100-popular-vim-words',
+    name: 'Top 100 popular vim words',
     mode: 'vim'
   }
 ]

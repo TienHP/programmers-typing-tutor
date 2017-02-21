@@ -3,27 +3,21 @@ import pluck from 'ramda/src/pluck'
 import {
   COMPLETE_LESSON,
   COMPLETE_TRAINING,
-  CREATE_TRAINING,
-  CREATE_TRAINING_FAILED,
-  CREATE_TRAINING_SUCCESS,
   FETCH_TRAINIG,
   FETCH_TRAINIG_FAILED,
   FETCH_TRAINIG_SUCCESS,
   INCREMENT_MISTAKES,
+  SET_CURRENT_LESSON,
+  SET_CURRENT_TRAINIG,
   SET_ENTITIES,
   START_LESSON,
   START_TRAINING,
-  UPDATE_EDITOR_CODE,
-  UPDATE_TRAINING_FORM,
-  SET_CURRENT_LESSON,
-  SET_CURRENT_TRAINIG
+  UPDATE_EDITOR_CODE
 } from '../constants'
 
 import {
   trackEvent,
   getRandomLesson
-  // setPage,
-  // trackPageView
 } from '../utils'
 
 export function updateEditorCode (lessonId, code) {
@@ -88,11 +82,11 @@ export function fetchTraining (trainingId) {
 }
 
 /**
- * Нормализует объект training к виду entities.
+ * Normalize training object to entities.
  *
- * @param  {Object} training Данные training.
+ * @param  {Object} training Training data.
  *
- * @return {Object}          Возвращает объект entities: { ... }
+ * @return {Object}          Entities object.
  */
 function getTrainingEntities (training) {
   const {
@@ -138,31 +132,3 @@ function getTrainingEntities (training) {
     }, { byId: {} })
   }
 }
-
-export function createTraining ({ name, mode, level, lessons }) {
-  return (dispatch, getState, services) => {
-    dispatch({ type: CREATE_TRAINING, payload: { name, mode, level, lessons } })
-
-    services.training.create({ name, mode, level, lessons }).then(
-      training => {
-        dispatch({ type: SET_ENTITIES, payload: getTrainingEntities(training) })
-        dispatch({ type: CREATE_TRAINING_SUCCESS, payload: training })
-      },
-      error => {
-        dispatch({ type: CREATE_TRAINING_FAILED, error: true, payload: error.message })
-      }
-    )
-  }
-}
-
-export function updateTrainingForm ({ name, mode, level, lessons }) {
-  return (dispatch, getState, services) => {
-    dispatch({ type: UPDATE_TRAINING_FORM, payload: { name, mode, level, lessons } })
-  }
-}
-
-// export function restartTraining (trainingId) {
-//   return (dispatch, getState, services) => {
-//     dispatch({ type: RESTART_TRAINING, payload: { trainingId } })
-//   }
-// }
