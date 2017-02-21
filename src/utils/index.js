@@ -10,7 +10,7 @@ export function getRandomArbitrary (min, max) {
   return Math.random() * (max - min) + min
 }
 
-export function getRandomLesson (lessons, completedLessons) {
+export function getRandomLesson (lessons, completedLessons = []) {
   const remainingLessons = without(completedLessons, lessons)
   const total = length(remainingLessons)
   const index = Math.floor(getRandomArbitrary(0, total))

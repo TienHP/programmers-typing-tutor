@@ -1,17 +1,25 @@
 import {
-  START_TRAINING,
-  COMPLETE_LESSON,
-  COMPLETE_TRAINING
+  SET_CURRENT_LESSON,
+  SET_CURRENT_TRAINIG
 } from '../constants'
 
 const initialState = {
+  currentTraining: null,
   currentLesson: null
 }
 
 export default (state = initialState, action) => {
   switch (action.type) {
-    case START_TRAINING:
-      // return { ...state, currentLesson: action.payload.lessonId}
+    case SET_CURRENT_LESSON:
+      return {
+        ...state,
+        currentLesson: action.payload.lessonId
+      }
+    case SET_CURRENT_TRAINIG:
+      return {
+        ...state,
+        currentTraining: action.payload.trainingId
+      }
     default:
       return state
   }

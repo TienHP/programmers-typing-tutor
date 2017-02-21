@@ -3,18 +3,12 @@ import { connect } from 'react-redux'
 import { fetchTraining, updateEditorCode } from '../../actions'
 import * as selectors from '../../selectors'
 import Trainer from '../../components/Trainer'
-import { without, head, last } from 'ramda'
 
 function mapStateToProps (state, props) {
   const { id } = props.params
 
-  const training = selectors.getTraining(state, props)
-  const currentId = training && head(without(training.lessonsCompleted, training.lessons))
-  const lastId = training && last(without(training.lessonsCompleted, training.lessons))
-  const lesson = currentId
-    ? selectors.getLessonById(state, currentId)
-    : selectors.getLessonById(state, lastId)
-
+  const training = selectors.getCurrentTraining(state, props)
+  const lesson = selectors.getCurrentLesson(state, props)
   const lessons = selectors.getLessons(state, { trainingId: id })
 
   return {
@@ -22,7 +16,7 @@ function mapStateToProps (state, props) {
     training,
     lesson,
     lessons,
-    isLoaded: !!training
+    isLoaded: !!training && !!lesson
   }
 }
 

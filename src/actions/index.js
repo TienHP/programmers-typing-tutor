@@ -14,11 +14,14 @@ import {
   START_LESSON,
   START_TRAINING,
   UPDATE_EDITOR_CODE,
-  UPDATE_TRAINING_FORM
+  UPDATE_TRAINING_FORM,
+  SET_CURRENT_LESSON,
+  SET_CURRENT_TRAINIG
 } from '../constants'
 
 import {
-  trackEvent
+  trackEvent,
+  getRandomLesson
   // setPage,
   // trackPageView
 } from '../utils'
@@ -49,8 +52,13 @@ export function updateEditorCode (lessonId, code) {
       trackEvent({ eventCategory: `Lesson`, eventAction: 'Complete lesson', eventLabel: lessonId })
 
       if (training.lessons.length - 1 === training.lessonsCompleted.length) {
-        dispatch({ type: COMPLETE_TRAINING, payload: { lessonId, trainingId } })
+        dispatch({ type: COMPLETE_TRAINING, payload: { trainingId } })
         trackEvent({ eventCategory: `Training`, eventAction: 'Complete training', eventLabel: trainingId })
+      }
+
+      const nextLessonId = getRandomLesson(training.lessons, training.lessonsCompleted.concat(lessonId))
+      if (nextLessonId) {
+        dispatch({ type: SET_CURRENT_LESSON, payload: { lessonId: nextLessonId } })
       }
     }
   }
@@ -65,8 +73,12 @@ export function fetchTraining (trainingId) {
 
     services.training.fetch(trainingId).then(
       training => {
-        dispatch({ type: SET_ENTITIES, payload: getTrainingEntities(training, trainingId) })
+        const entities = getTrainingEntities(training)
+        const lessonId = getRandomLesson(training.lessons).id
+        dispatch({ type: SET_ENTITIES, payload: entities })
         dispatch({ type: FETCH_TRAINIG_SUCCESS, payload: training })
+        dispatch({ type: SET_CURRENT_TRAINIG, payload: { trainingId } })
+        dispatch({ type: SET_CURRENT_LESSON, payload: { lessonId } })
       },
       error => {
         dispatch({ type: FETCH_TRAINIG_FAILED, error: true, payload: error.message })
@@ -82,9 +94,9 @@ export function fetchTraining (trainingId) {
  *
  * @return {Object}          Возвращает объект entities: { ... }
  */
-function getTrainingEntities (training, trainingId) {
+function getTrainingEntities (training) {
   const {
-    // id,
+    id,
     name,
     mode,
     level,
@@ -92,15 +104,15 @@ function getTrainingEntities (training, trainingId) {
   } = training
 
   const lessons = training.lessons.map((lesson, i) => {
-    lesson.id = `${trainingId}#${i}`
+    lesson.id = `${id}#${i}`
     return lesson
   })
 
   return {
     trainings: {
       byId: {
-        [trainingId]: {
-          id: trainingId,
+        [id]: {
+          id: id,
           name,
           mode,
           level,
@@ -116,7 +128,7 @@ function getTrainingEntities (training, trainingId) {
         editor: '',
         example: lesson.example,
         exercise: lesson.exercise,
-        trainingId: trainingId,
+        trainingId: id,
         finishedAt: null,
         statedAt: null,
         keystrokes: 0,

@@ -218,6 +218,9 @@ export const COMPLETE_LESSON = 'lesson/COMPLETE_LESSON'
 export const UPDATE_EDITOR_CODE = 'lesson/UPDATE_EDITOR_CODE'
 export const INCREMENT_MISTAKES = 'lesson/INCREMENT_MISTAKES'
 
+export const SET_CURRENT_LESSON = 'ui/SET_CURRENT_LESSON'
+export const SET_CURRENT_TRAINIG = 'ui/SET_CURRENT_TRAINIG'
+
 export const TEXT = {
   Success: {
     mistakes: 'Mistakes',

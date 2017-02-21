@@ -6,8 +6,13 @@ export const getTraining = (state, props) => {
   return byId[id]
 }
 
-export const getLessonById = (state, id) => {
-  return state.entitites.lessons.byId[id]
+export const getCurrentTraining = (state, props) => {
+  const id = state.ui.trainingPage.currentTraining
+  return id && state.entitites.trainings.byId[id]
+}
+export const getCurrentLesson = (state, props) => {
+  const id = state.ui.trainingPage.currentLesson
+  return id && state.entitites.lessons.byId[id]
 }
 
 export const getLessons = (state, props) => {
