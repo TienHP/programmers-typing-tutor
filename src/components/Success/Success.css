@@ -65,7 +65,7 @@ table.lessons-statistics tr th {
 }
 .Success table.lessons-statistics tbody tr:hover td,
 .Success table.lessons-statistics tbody tr:hover th {
-  background: aliceblue;
+  background: rgba(255, 255, 255, 0.10);
 }
 
 .Success table.lessons-statistics tbody tr.highlighted td,
@@ -91,7 +91,7 @@ table.lessons-statistics tr th {
   padding: 0;
 }
 .Success table.lessons-statistics tbody tr:hover td.progress-bar {
-  background: #fff;
+  /*background: rgba(255, 255, 255, 0.20);*/
 }
 .Success .CodeMirror{
   padding: 10px;
