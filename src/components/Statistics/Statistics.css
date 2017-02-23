@@ -18,10 +18,11 @@
   font-size: 20px;
   font-weight: 600;
   line-height: 30px;
+  color: rgba(255, 255, 255, 1);
 }
 .Statistics .label {
   display: block;
   font-size: 12px;
   line-height: 20px;
-  color: #aaa;
+  color: rgba(255, 255, 255, 0.75);
 }

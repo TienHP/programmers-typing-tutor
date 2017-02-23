@@ -1,3 +1,12 @@
+.ui.buttons {
+
+}
+.ui.buttons.wide {
+  display: flex;
+  justify-content: space-between;
+}
+
+
 .ui.button {
   cursor: pointer;
   display: inline-block;
@@ -5,14 +14,15 @@
   outline: 0;
   border: none;
   vertical-align: baseline;
-  background: #E0E1E2;
-  color: rgba(0,0,0,.6);
+  background: rgba(255,255,255,0.05);
+
+  color: rgba(255,255,255,0.55);
   /*font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;*/
   margin: 0 .25em 0 0;
   padding: .78571429em 1.5em;
   text-transform: none;
   text-shadow: none;
-  font-weight: 700;
+  font-weight: 500;
   line-height: 1em;
   font-style: normal;
   text-align: center;
@@ -29,8 +39,8 @@
   -webkit-tap-highlight-color: transparent;
 }
 .ui.button:hover {
-  background-color: deepskyblue;
-  color: #FFF;
+  background-color: rgba(255,255,255,0.95);
+  color: rgba(0,0,0,0.95);
   text-shadow: none;
   background-image: none;
 }

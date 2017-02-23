@@ -28,28 +28,26 @@ const Success = ({ training, lessons, fetchTraining }) => {
       <table className='lessons-statistics'>
         <thead>
           <tr>
-            <th />
             <th>
-              <Icon name='bug' size={40} color='deepskyblue' />
+              <Icon name='bug' size={40} color='rgba(255, 255, 255, 0.5)' />
               <br />{TEXT.Success.mistakes}
             </th>
             <th>
-              <Icon name='speedometer' size={40} color='deepskyblue' />
+              <Icon name='speedometer' size={40} color='rgba(255, 255, 255, 0.5)' />
               <br />{TEXT.Success.keystrokes}
             </th>
             <th>
-              <Icon name='pinpoint' size={40} color='deepskyblue' />
+              <Icon name='pinpoint' size={40} color='rgba(255, 255, 255, 0.5)' />
               <br />{TEXT.Success.accuracy}
             </th>
             <th>
-              <Icon name='clock' size={40} color='deepskyblue' />
+              <Icon name='clock' size={40} color='rgba(255, 255, 255, 0.5)' />
               <br />{TEXT.Success.elapsedTime}
             </th>
           </tr>
         </thead>
         <tbody>
           <tr className='highlighted'>
-            <th>Total for {lessons.length} lessons:</th>
             <td>{totalMistakes}</td>
             <td>{totalKeystrokes}</td>
             <td>{totalAccuracy}%</td>
@@ -57,17 +55,6 @@ const Success = ({ training, lessons, fetchTraining }) => {
           </tr>
           {lessons.map(({ id, mode, example, mistakes, keystrokes, elapsedTime }) => (
             <tr key={id}>
-              <td className='example'>
-                {/*<CodeMirror
-                  value={example}
-                  options={{
-                    mode: training.mode,
-                    theme: CODE_THEME,
-                    viewportMargin: Infinity,
-                    readOnly: 'nocursor'
-                  }}
-                />*/}
-              </td>
               <td>{mistakes}</td>
               <td>{keystrokes}</td>
               <td className='progress-bar'>
@@ -80,8 +67,11 @@ const Success = ({ training, lessons, fetchTraining }) => {
           ))}
         </tbody>
       </table>
-      <Button to='/' className='ui button'>Go to welcome page</Button>
-      <Button onClick={() => fetchTraining(training.id)}className='ui button'>Restart training</Button>
+      <br />
+      <Button.Group wide>
+        <Button to='/' className='ui button'>Go to welcome page</Button>
+        <Button onClick={() => fetchTraining(training.id)}className='ui button'>Restart training</Button>
+      </Button.Group>
     </div>
   )
 }

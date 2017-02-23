@@ -15,7 +15,7 @@
 
 .Trainer .editors {
   position: relative;
-  background: #263238;
+  background: rgba(0, 0, 0, 0.1);
 }
 
 .Trainer .editors .Example {
@@ -33,11 +33,11 @@
 }
 
 .Trainer .editors {
-  margin: 30px 0 0;
+  margin: 20px 0 0;
 }
 .Trainer .editors::before {
   height: 20px;
-  background: #ccc;
+  background: rgba(255, 255, 255, 0.05);
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
   content: '';

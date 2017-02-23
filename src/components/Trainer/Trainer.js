@@ -90,8 +90,10 @@ class Trainer extends Component {
             <Exercise exercise={exercise} />
           </section>
           <br />
-          <Button to='/'>Go to welcome page</Button>
-          <Button onClick={() => this.props.fetchTraining(training.id)}className='ui button'>Restart training</Button>
+          <Button.Group wide>
+            <Button to='/'>Go to welcome page</Button>
+            <Button onClick={() => this.props.fetchTraining(training.id)}className='ui button'>Restart training</Button>
+          </Button.Group>
         </div>
       </div>
     )
