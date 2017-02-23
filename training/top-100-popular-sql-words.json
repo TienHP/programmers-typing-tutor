@@ -1,0 +1,406 @@
+{
+  "name": "Top 100 popular sql words",
+  "mode": "sql",
+  "lessons": [
+    {
+      "exercise": "",
+      "example": "NULL"
+    },
+    {
+      "exercise": "",
+      "example": "DEFAULT"
+    },
+    {
+      "exercise": "",
+      "example": "INTO"
+    },
+    {
+      "exercise": "",
+      "example": "INSERT"
+    },
+    {
+      "exercise": "",
+      "example": "VALUES"
+    },
+    {
+      "exercise": "",
+      "example": "varchar"
+    },
+    {
+      "exercise": "",
+      "example": "TABLE"
+    },
+    {
+      "exercise": "",
+      "example": "unsigned"
+    },
+    {
+      "exercise": "",
+      "example": "name"
+    },
+    {
+      "exercise": "",
+      "example": "PRIMARY"
+    },
+    {
+      "exercise": "",
+      "example": "CREATE"
+    },
+    {
+      "exercise": "",
+      "example": "table"
+    },
+    {
+      "exercise": "",
+      "example": "utf8"
+    },
+    {
+      "exercise": "",
+      "example": "ENGINE"
+    },
+    {
+      "exercise": "",
+      "example": "AUTO_INCREMENT"
+    },
+    {
+      "exercise": "",
+      "example": "character_set_client"
+    },
+    {
+      "exercise": "",
+      "example": "CHARSET"
+    },
+    {
+      "exercise": "",
+      "example": "default"
+    },
+    {
+      "exercise": "",
+      "example": "text"
+    },
+    {
+      "exercise": "",
+      "example": "VARCHAR"
+    },
+    {
+      "exercise": "",
+      "example": "InnoDB"
+    },
+    {
+      "exercise": "",
+      "example": "ALTER"
+    },
+    {
+      "exercise": "",
+      "example": "EXISTS"
+    },
+    {
+      "exercise": "",
+      "example": "WHERE"
+    },
+    {
+      "exercise": "",
+      "example": "COMMENT"
+    },
+    {
+      "exercise": "",
+      "example": "saved_cs_client"
+    },
+    {
+      "exercise": "",
+      "example": "FROM"
+    },
+    {
+      "exercise": "",
+      "example": "null"
+    },
+    {
+      "exercise": "",
+      "example": "COLLATE"
+    },
+    {
+      "exercise": "",
+      "example": "value"
+    },
+    {
+      "exercise": "",
+      "example": "bigint"
+    },
+    {
+      "exercise": "",
+      "example": "country"
+    },
+    {
+      "exercise": "",
+      "example": "SELECT"
+    },
+    {
+      "exercise": "",
+      "example": "DROP"
+    },
+    {
+      "exercise": "",
+      "example": "tinyint"
+    },
+    {
+      "exercise": "",
+      "example": "UPDATE"
+    },
+    {
+      "exercise": "",
+      "example": "TABLES"
+    },
+    {
+      "exercise": "",
+      "example": "mob_groups"
+    },
+    {
+      "exercise": "",
+      "example": "Table"
+    },
+    {
+      "exercise": "",
+      "example": "datetime"
+    },
+    {
+      "exercise": "",
+      "example": "list"
+    },
+    {
+      "exercise": "",
+      "example": "select"
+    },
+    {
+      "exercise": "",
+      "example": "data"
+    },
+    {
+      "exercise": "",
+      "example": "structure"
+    },
+    {
+      "exercise": "",
+      "example": "into"
+    },
+    {
+      "exercise": "",
+      "example": "MyISAM"
+    },
+    {
+      "exercise": "",
+      "example": "KEYS"
+    },
+    {
+      "exercise": "",
+      "example": "values"
+    },
+    {
+      "exercise": "",
+      "example": "BEGIN"
+    },
+    {
+      "exercise": "",
+      "example": "integer"
+    },
+    {
+      "exercise": "",
+      "example": "insert"
+    },
+    {
+      "exercise": "",
+      "example": "entry"
+    },
+    {
+      "exercise": "",
+      "example": "DELETE"
+    },
+    {
+      "exercise": "",
+      "example": "from"
+    },
+    {
+      "exercise": "",
+      "example": "item_armor"
+    },
+    {
+      "exercise": "",
+      "example": "utf8_unicode_ci"
+    },
+    {
+      "exercise": "",
+      "example": "UNLOCK"
+    },
+    {
+      "exercise": "",
+      "example": "timestamp"
+    },
+    {
+      "exercise": "",
+      "example": "create"
+    },
+    {
+      "exercise": "",
+      "example": "type"
+    },
+    {
+      "exercise": "",
+      "example": "Dumping"
+    },
+    {
+      "exercise": "",
+      "example": "INTEGER"
+    },
+    {
+      "exercise": "",
+      "example": "smallint"
+    },
+    {
+      "exercise": "",
+      "example": "status"
+    },
+    {
+      "exercise": "",
+      "example": "0x00000000"
+    },
+    {
+      "exercise": "",
+      "example": "INDEX"
+    },
+    {
+      "exercise": "",
+      "example": "REFERENCES"
+    },
+    {
+      "exercise": "",
+      "example": "description"
+    },
+    {
+      "exercise": "",
+      "example": "ENTRY"
+    },
+    {
+      "exercise": "",
+      "example": "block"
+    },
+    {
+      "exercise": "",
+      "example": "code"
+    },
+    {
+      "exercise": "",
+      "example": "creature_template"
+    },
+    {
+      "exercise": "",
+      "example": "UNIQUE"
+    },
+    {
+      "exercise": "",
+      "example": "mainland"
+    },
+    {
+      "exercise": "",
+      "example": "latin1"
+    },
+    {
+      "exercise": "",
+      "example": "ENABLE"
+    },
+    {
+      "exercise": "",
+      "example": "each"
+    },
+    {
+      "exercise": "",
+      "example": "CONSTRAINT"
+    },
+    {
+      "exercise": "",
+      "example": "user_id"
+    },
+    {
+      "exercise": "",
+      "example": "DISABLE"
+    },
+    {
+      "exercise": "",
+      "example": "mediumint"
+    },
+    {
+      "exercise": "",
+      "example": "inline"
+    },
+    {
+      "exercise": "",
+      "example": "FOREIGN"
+    },
+    {
+      "exercise": "",
+      "example": "title"
+    },
+    {
+      "exercise": "",
+      "example": "THEN"
+    },
+    {
+      "exercise": "",
+      "example": "LOCK"
+    },
+    {
+      "exercise": "",
+      "example": "WRITE"
+    },
+    {
+      "exercise": "",
+      "example": "language"
+    },
+    {
+      "exercise": "",
+      "example": "ScriptName"
+    },
+    {
+      "exercise": "",
+      "example": "longtext"
+    },
+    {
+      "exercise": "",
+      "example": "Name"
+    },
+    {
+      "exercise": "",
+      "example": "utf8mb4_unicode_ci"
+    },
+    {
+      "exercise": "",
+      "example": "index"
+    },
+    {
+      "exercise": "",
+      "example": "date"
+    },
+    {
+      "exercise": "",
+      "example": "TEXT"
+    },
+    {
+      "exercise": "",
+      "example": "LANGUAGE"
+    },
+    {
+      "exercise": "",
+      "example": "char"
+    },
+    {
+      "exercise": "",
+      "example": "where"
+    },
+    {
+      "exercise": "",
+      "example": "version"
+    },
+    {
+      "exercise": "",
+      "example": "time"
+    }
+  ]
+}

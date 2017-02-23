@@ -1,0 +1,406 @@
+{
+  "name": "Top 100 popular purs words",
+  "mode": "purs",
+  "lessons": [
+    {
+      "exercise": "",
+      "example": "import"
+    },
+    {
+      "exercise": "",
+      "example": "Data"
+    },
+    {
+      "exercise": "",
+      "example": "where"
+    },
+    {
+      "exercise": "",
+      "example": "Control"
+    },
+    {
+      "exercise": "",
+      "example": "Monad"
+    },
+    {
+      "exercise": "",
+      "example": "Prelude"
+    },
+    {
+      "exercise": "",
+      "example": "SlamData"
+    },
+    {
+      "exercise": "",
+      "example": "Maybe"
+    },
+    {
+      "exercise": "",
+      "example": "Halogen"
+    },
+    {
+      "exercise": "",
+      "example": "pure"
+    },
+    {
+      "exercise": "",
+      "example": "HTML"
+    },
+    {
+      "exercise": "",
+      "example": "String"
+    },
+    {
+      "exercise": "",
+      "example": "Nothing"
+    },
+    {
+      "exercise": "",
+      "example": "next"
+    },
+    {
+      "exercise": "",
+      "example": "Either"
+    },
+    {
+      "exercise": "",
+      "example": "Tuple"
+    },
+    {
+      "exercise": "",
+      "example": "Workspace"
+    },
+    {
+      "exercise": "",
+      "example": "case"
+    },
+    {
+      "exercise": "",
+      "example": "qualified"
+    },
+    {
+      "exercise": "",
+      "example": "Unit"
+    },
+    {
+      "exercise": "",
+      "example": "return"
+    },
+    {
+      "exercise": "",
+      "example": "Card"
+    },
+    {
+      "exercise": "",
+      "example": "State"
+    },
+    {
+      "exercise": "",
+      "example": "Array"
+    },
+    {
+      "exercise": "",
+      "example": "class"
+    },
+    {
+      "exercise": "",
+      "example": "Class"
+    },
+    {
+      "exercise": "",
+      "example": "Test"
+    },
+    {
+      "exercise": "",
+      "example": "module"
+    },
+    {
+      "exercise": "",
+      "example": "Indexed"
+    },
+    {
+      "exercise": "",
+      "example": "function"
+    },
+    {
+      "exercise": "",
+      "example": "type"
+    },
+    {
+      "exercise": "",
+      "example": "unit"
+    },
+    {
+      "exercise": "",
+      "example": "purescript"
+    },
+    {
+      "exercise": "",
+      "example": "state"
+    },
+    {
+      "exercise": "",
+      "example": "Main"
+    },
+    {
+      "exercise": "",
+      "example": "main"
+    },
+    {
+      "exercise": "",
+      "example": "Model"
+    },
+    {
+      "exercise": "",
+      "example": "Foldable"
+    },
+    {
+      "exercise": "",
+      "example": "value"
+    },
+    {
+      "exercise": "",
+      "example": "List"
+    },
+    {
+      "exercise": "",
+      "example": "Types"
+    },
+    {
+      "exercise": "",
+      "example": "else"
+    },
+    {
+      "exercise": "",
+      "example": "Monoid"
+    },
+    {
+      "exercise": "",
+      "example": "decodeJson"
+    },
+    {
+      "exercise": "",
+      "example": "Console"
+    },
+    {
+      "exercise": "",
+      "example": "Events"
+    },
+    {
+      "exercise": "",
+      "example": "initialState"
+    },
+    {
+      "exercise": "",
+      "example": "Query"
+    },
+    {
+      "exercise": "",
+      "example": "render"
+    },
+    {
+      "exercise": "",
+      "example": "jsonEmptyObject"
+    },
+    {
+      "exercise": "",
+      "example": "forall"
+    },
+    {
+      "exercise": "",
+      "example": "Trans"
+    },
+    {
+      "exercise": "",
+      "example": "Interact"
+    },
+    {
+      "exercise": "",
+      "example": "then"
+    },
+    {
+      "exercise": "",
+      "example": "Argonaut"
+    },
+    {
+      "exercise": "",
+      "example": "Foreign"
+    },
+    {
+      "exercise": "",
+      "example": "Slam"
+    },
+    {
+      "exercise": "",
+      "example": "Error"
+    },
+    {
+      "exercise": "",
+      "example": "Just"
+    },
+    {
+      "exercise": "",
+      "example": "Unsafe"
+    },
+    {
+      "exercise": "",
+      "example": "json"
+    },
+    {
+      "exercise": "",
+      "example": "Port"
+    },
+    {
+      "exercise": "",
+      "example": "Properties"
+    },
+    {
+      "exercise": "",
+      "example": "Component"
+    },
+    {
+      "exercise": "",
+      "example": "show"
+    },
+    {
+      "exercise": "",
+      "example": "liftEff"
+    },
+    {
+      "exercise": "",
+      "example": "Lens"
+    },
+    {
+      "exercise": "",
+      "example": "classes"
+    },
+    {
+      "exercise": "",
+      "example": "Exception"
+    },
+    {
+      "exercise": "",
+      "example": "Functor"
+    },
+    {
+      "exercise": "",
+      "example": "false"
+    },
+    {
+      "exercise": "",
+      "example": "Path"
+    },
+    {
+      "exercise": "",
+      "example": "arbitrary"
+    },
+    {
+      "exercise": "",
+      "example": "modify"
+    },
+    {
+      "exercise": "",
+      "example": "BuildChart"
+    },
+    {
+      "exercise": "",
+      "example": "Common"
+    },
+    {
+      "exercise": "",
+      "example": "name"
+    },
+    {
+      "exercise": "",
+      "example": "eval"
+    },
+    {
+      "exercise": "",
+      "example": "data"
+    },
+    {
+      "exercise": "",
+      "example": "Number"
+    },
+    {
+      "exercise": "",
+      "example": "Left"
+    },
+    {
+      "exercise": "",
+      "example": "StrMap"
+    },
+    {
+      "exercise": "",
+      "example": "Function"
+    },
+    {
+      "exercise": "",
+      "example": "CONSOLE"
+    },
+    {
+      "exercise": "",
+      "example": "Json"
+    },
+    {
+      "exercise": "",
+      "example": "Node"
+    },
+    {
+      "exercise": "",
+      "example": "Quasar"
+    },
+    {
+      "exercise": "",
+      "example": "button"
+    },
+    {
+      "exercise": "",
+      "example": "config"
+    },
+    {
+      "exercise": "",
+      "example": "getConfig"
+    },
+    {
+      "exercise": "",
+      "example": "JCursor"
+    },
+    {
+      "exercise": "",
+      "example": "Plus"
+    },
+    {
+      "exercise": "",
+      "example": "Traversable"
+    },
+    {
+      "exercise": "",
+      "example": "DeckId"
+    },
+    {
+      "exercise": "",
+      "example": "maybe"
+    },
+    {
+      "exercise": "",
+      "example": "empty"
+    },
+    {
+      "exercise": "",
+      "example": "series"
+    },
+    {
+      "exercise": "",
+      "example": "Themes"
+    },
+    {
+      "exercise": "",
+      "example": "Bootstrap3"
+    },
+    {
+      "exercise": "",
+      "example": "input"
+    }
+  ]
+}

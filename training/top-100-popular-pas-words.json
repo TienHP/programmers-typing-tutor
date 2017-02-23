@@ -1,0 +1,406 @@
+{
+  "name": "Top 100 popular pas words",
+  "mode": "pas",
+  "lessons": [
+    {
+      "exercise": "",
+      "example": "begin"
+    },
+    {
+      "exercise": "",
+      "example": "then"
+    },
+    {
+      "exercise": "",
+      "example": "else"
+    },
+    {
+      "exercise": "",
+      "example": "Result"
+    },
+    {
+      "exercise": "",
+      "example": "procedure"
+    },
+    {
+      "exercise": "",
+      "example": "const"
+    },
+    {
+      "exercise": "",
+      "example": "Integer"
+    },
+    {
+      "exercise": "",
+      "example": "ENDIF"
+    },
+    {
+      "exercise": "",
+      "example": "function"
+    },
+    {
+      "exercise": "",
+      "example": "IFDEF"
+    },
+    {
+      "exercise": "",
+      "example": "Create"
+    },
+    {
+      "exercise": "",
+      "example": "override"
+    },
+    {
+      "exercise": "",
+      "example": "inherited"
+    },
+    {
+      "exercise": "",
+      "example": "integer"
+    },
+    {
+      "exercise": "",
+      "example": "Exit"
+    },
+    {
+      "exercise": "",
+      "example": "string"
+    },
+    {
+      "exercise": "",
+      "example": "type"
+    },
+    {
+      "exercise": "",
+      "example": "finally"
+    },
+    {
+      "exercise": "",
+      "example": "public"
+    },
+    {
+      "exercise": "",
+      "example": "False"
+    },
+    {
+      "exercise": "",
+      "example": "property"
+    },
+    {
+      "exercise": "",
+      "example": "Sender"
+    },
+    {
+      "exercise": "",
+      "example": "True"
+    },
+    {
+      "exercise": "",
+      "example": "TObject"
+    },
+    {
+      "exercise": "",
+      "example": "Begin"
+    },
+    {
+      "exercise": "",
+      "example": "private"
+    },
+    {
+      "exercise": "",
+      "example": "uses"
+    },
+    {
+      "exercise": "",
+      "example": "with"
+    },
+    {
+      "exercise": "",
+      "example": "Value"
+    },
+    {
+      "exercise": "",
+      "example": "result"
+    },
+    {
+      "exercise": "",
+      "example": "Boolean"
+    },
+    {
+      "exercise": "",
+      "example": "interface"
+    },
+    {
+      "exercise": "",
+      "example": "exit"
+    },
+    {
+      "exercise": "",
+      "example": "implementation"
+    },
+    {
+      "exercise": "",
+      "example": "Count"
+    },
+    {
+      "exercise": "",
+      "example": "Destroy"
+    },
+    {
+      "exercise": "",
+      "example": "Free"
+    },
+    {
+      "exercise": "",
+      "example": "endif"
+    },
+    {
+      "exercise": "",
+      "example": "case"
+    },
+    {
+      "exercise": "",
+      "example": "TLabel"
+    },
+    {
+      "exercise": "",
+      "example": "ELSE"
+    },
+    {
+      "exercise": "",
+      "example": "setc"
+    },
+    {
+      "exercise": "",
+      "example": "protected"
+    },
+    {
+      "exercise": "",
+      "example": "false"
+    },
+    {
+      "exercise": "",
+      "example": "except"
+    },
+    {
+      "exercise": "",
+      "example": "read"
+    },
+    {
+      "exercise": "",
+      "example": "true"
+    },
+    {
+      "exercise": "",
+      "example": "Clear"
+    },
+    {
+      "exercise": "",
+      "example": "Index"
+    },
+    {
+      "exercise": "",
+      "example": "constructor"
+    },
+    {
+      "exercise": "",
+      "example": "ifdef"
+    },
+    {
+      "exercise": "",
+      "example": "this"
+    },
+    {
+      "exercise": "",
+      "example": "while"
+    },
+    {
+      "exercise": "",
+      "example": "THREADSAFE"
+    },
+    {
+      "exercise": "",
+      "example": "FALSE"
+    },
+    {
+      "exercise": "",
+      "example": "Assigned"
+    },
+    {
+      "exercise": "",
+      "example": "destructor"
+    },
+    {
+      "exercise": "",
+      "example": "stdcall"
+    },
+    {
+      "exercise": "",
+      "example": "Self"
+    },
+    {
+      "exercise": "",
+      "example": "Close"
+    },
+    {
+      "exercise": "",
+      "example": "Length"
+    },
+    {
+      "exercise": "",
+      "example": "param"
+    },
+    {
+      "exercise": "",
+      "example": "cdecl"
+    },
+    {
+      "exercise": "",
+      "example": "SysUtils"
+    },
+    {
+      "exercise": "",
+      "example": "later"
+    },
+    {
+      "exercise": "",
+      "example": "DWORD"
+    },
+    {
+      "exercise": "",
+      "example": "BEGIN"
+    },
+    {
+      "exercise": "",
+      "example": "declarations"
+    },
+    {
+      "exercise": "",
+      "example": "summary"
+    },
+    {
+      "exercise": "",
+      "example": "write"
+    },
+    {
+      "exercise": "",
+      "example": "raise"
+    },
+    {
+      "exercise": "",
+      "example": "boolean"
+    },
+    {
+      "exercise": "",
+      "example": "Classes"
+    },
+    {
+      "exercise": "",
+      "example": "class"
+    },
+    {
+      "exercise": "",
+      "example": "repeat"
+    },
+    {
+      "exercise": "",
+      "example": "String"
+    },
+    {
+      "exercise": "",
+      "example": "value"
+    },
+    {
+      "exercise": "",
+      "example": "Pointer"
+    },
+    {
+      "exercise": "",
+      "example": "Break"
+    },
+    {
+      "exercise": "",
+      "example": "break"
+    },
+    {
+      "exercise": "",
+      "example": "_udebug"
+    },
+    {
+      "exercise": "",
+      "example": "Windows"
+    },
+    {
+      "exercise": "",
+      "example": "data"
+    },
+    {
+      "exercise": "",
+      "example": "IFNDEF"
+    },
+    {
+      "exercise": "",
+      "example": "external"
+    },
+    {
+      "exercise": "",
+      "example": "ParamByName"
+    },
+    {
+      "exercise": "",
+      "example": "Text"
+    },
+    {
+      "exercise": "",
+      "example": "TRUE"
+    },
+    {
+      "exercise": "",
+      "example": "from"
+    },
+    {
+      "exercise": "",
+      "example": "size"
+    },
+    {
+      "exercise": "",
+      "example": "Items"
+    },
+    {
+      "exercise": "",
+      "example": "Size"
+    },
+    {
+      "exercise": "",
+      "example": "file"
+    },
+    {
+      "exercise": "",
+      "example": "Shift"
+    },
+    {
+      "exercise": "",
+      "example": "CarbonLib"
+    },
+    {
+      "exercise": "",
+      "example": "code"
+    },
+    {
+      "exercise": "",
+      "example": "version"
+    },
+    {
+      "exercise": "",
+      "example": "cint"
+    },
+    {
+      "exercise": "",
+      "example": "defined"
+    },
+    {
+      "exercise": "",
+      "example": "Enabled"
+    }
+  ]
+}
