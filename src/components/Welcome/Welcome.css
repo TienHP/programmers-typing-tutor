@@ -41,16 +41,17 @@
   margin-right: 5px;
 }
 .Welcome .trainings-list {
-  margin: 50px auto 0px;
-  max-width: 400px;
-  /*display: flex;
-  justify-content: space-between;*/
+  margin: 50px 20px 0px;
+  // max-width: 800px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .Welcome .trainings-list a {
   display: block;
   /*width: 150px;*/
-  margin: 20px;
+  margin: 5px;
   text-decoration: none;
   transition: all 0.3s;
   background: rgba(255, 255, 255, 0.05);
@@ -63,10 +64,12 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+
 }
 .Welcome .trainings-list a .completed {
   font-size: 12px;
   color: #aaa;
+  margin-left: 20px;
 }
 .Welcome img {
   max-width: 100%;
