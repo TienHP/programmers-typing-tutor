@@ -18,6 +18,13 @@ export const TRAININGS = [
     mode: 'css'
   },
   {
+    id: 'git',
+    name: 'GIT',
+    mode: 'bash',
+    level: 'beginner',
+    logo: 'images/languages/git.png'
+  },
+  {
     id: 'top-100-popular-clj-words',
     name: 'Top 100 popular clojure words',
     mode: 'clojure'
