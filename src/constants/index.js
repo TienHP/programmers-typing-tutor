@@ -18,6 +18,20 @@ export const TRAININGS = [
     mode: 'css'
   },
   {
+    id: 'jquery-selectors',
+    name: 'jQuery Selectors',
+    mode: 'javascript',
+    level: 'beginner',
+    logo: 'images/languages/jquery-selectors.png'
+  },
+  {
+    id: 'jquery-event-methods',
+    name: 'jQuery Event Methods',
+    mode: 'javascript',
+    level: 'beginner',
+    logo: 'images/languages/jquery-event-methods.png'
+  },
+  {
     id: 'git',
     name: 'GIT',
     mode: 'bash',

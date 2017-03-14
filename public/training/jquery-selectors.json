@@ -1,0 +1,260 @@
+{
+  "name": "GIT Training",
+  "mode": "bash",
+  "level": "beginner",
+  "logo": "images/languages/git.png",
+  "lessons": [
+    {
+      "example": "$('*')",
+      "exercise": "All elements"
+    },
+    {
+      "example": "$('#lastname')",
+      "exercise": "The element with id='lastname'"
+    },
+    {
+      "example": "$('.intro')",
+      "exercise": "All elements with class='intro'"
+    },
+    {
+      "example": "$('.intro,.demo')",
+      "exercise": "All elements with the class 'intro' or 'demo'"
+    },
+    {
+      "example": "$('p')",
+      "exercise": "All <p> elements"
+    },
+    {
+      "example": "$('h1,div,p')",
+      "exercise": "All <h1>, <div> and <p> elements"
+    },
+         
+    {
+      "example": "$('p:first')",
+      "exercise": "The first <p> element"
+    },
+    {
+      "example": "$('p:last')",
+      "exercise": "The last <p> element"
+    },
+    {
+      "example": "$('tr:even')",
+      "exercise": "All even <tr> elements"
+    },
+    {
+      "example": "$('tr:odd')",
+      "exercise": "All odd <tr> elements"
+    },
+         
+    {
+      "example": "$('p:first-child')",
+      "exercise": "All <p> elements that are the first child of their parent"
+    },
+    {
+      "example": "$('p:first-of-type')",
+      "exercise": "All <p> elements that are the first <p> element of their parent"
+    },
+    {
+      "example": "$('p:last-child')",
+      "exercise": "All <p> elements that are the last child of their parent"
+    },
+    {
+      "example": "$('p:last-of-type')",
+      "exercise": "All <p> elements that are the last <p> element of their parent"
+    },
+    {
+      "example": "$('p:nth-child(2)')",
+      "exercise": "All <p> elements that are the 2nd child of their parent"
+    },
+    {
+      "example": "$('p:nth-last-child(2)')",
+      "exercise": "All <p> elements that are the 2nd child of their parent, counting from the last child"
+    },
+    {
+      "example": "$('p:nth-of-type(2)')",
+      "exercise": "All <p> elements that are the 2nd <p> element of their parent"
+    },
+    {
+      "example": "$('p:nth-last-of-type(2)')",
+      "exercise": "All <p> elements that are the 2nd <p> element of their parent, counting from the last child"
+    },
+    {
+      "example": "$('p:only-child')",
+      "exercise": "All <p> elements that are the only child of their parent"
+    },
+    {
+      "example": "$('p:only-of-type')",
+      "exercise": "All <p> elements that are the only child, of its type, of their parent"
+    },
+         
+    {
+      "example": "$('div > p')",
+      "exercise": "All <p> elements that are a direct child of a <div> element"
+    },
+    {
+      "example": "$('div p')",
+      "exercise": "All <p> elements that are descendants of a <div> element"
+    },
+    {
+      "example": "$('div + p')",
+      "exercise": "The <p> element that are next to each <div> elements"
+    },
+    {
+      "example": "$('div ~ p')",
+      "exercise": "All <p> elements that are siblings of a <div> element"
+    },
+         
+    {
+      "example": "$('ul li:eq(3)')",
+      "exercise": "The fourth element in a list (index starts at 0)"
+    },
+    {
+      "example": "$('ul li:gt(3)')",
+      "exercise": "List elements with an index greater than 3"
+    },
+    {
+      "example": "$('ul li:lt(3)')",
+      "exercise": "List elements with an index less than 3"
+    },
+    {
+      "example": "$('input:not(:empty)')",
+      "exercise": "All input elements that are not empty"
+    },
+         
+    {
+      "example": "$(':header')",
+      "exercise": "All header elements <h1>, <h2> ..."
+    },
+    {
+      "example": "$(':animated')",
+      "exercise": "All animated elements"
+    },
+    {
+      "example": "$(':focus')",
+      "exercise": "The element that currently has focus"
+    },
+    {
+      "example": "$(':contains('Hello')",
+      "exercise": "All elements which contains the text 'Hello'"
+    },
+    {
+      "example": "$('div:has(p)')",
+      "exercise": "All <div> elements that have a <p> element"
+    },
+    {
+      "example": "$(':empty')",
+      "exercise": "All elements that are empty"
+    },
+    {
+      "example": "$(':parent')",
+      "exercise": "All elements that are a parent of another element"
+    },
+    {
+      "example": "$('p:hidden')",
+      "exercise": "All hidden <p> elements"
+    },
+    {
+      "example": "$('table:visible')",
+      "exercise": "All visible tables"
+    },
+    {
+      "example": "$(':root')",
+      "exercise": "The document's root element"
+    },
+    {
+      "example": "$('p:lang(de)')",
+      "exercise": "All <p> elements with a lang attribute value starting with 'de'"
+    },
+         
+    {
+      "example": "$('[href]')",
+      "exercise": "All elements with a href attribute"
+    },
+    {
+      "example": "$('[href='default.htm']')",
+      "exercise": "All elements with a href attribute value equal to 'default.htm'"
+    },
+    {
+      "example": "$('[href!='default.htm']')",
+      "exercise": "All elements with a href attribute value not equal to 'default.htm'"
+    },
+    {
+      "example": "$('[href$='.jpg']')",
+      "exercise": "All elements with a href attribute value ending with '.jpg'"
+    },
+    {
+      "example": "$('[title|='Tomorrow']')",
+      "exercise": "All elements with a title attribute value equal to 'Tomorrow', or starting with 'Tomorrow' followed by a hyphen"
+    },
+    {
+      "example": "$('[title^='Tom']')",
+      "exercise": "All elements with a title attribute value starting with 'Tom'"
+    },
+    {
+      "example": "$('[title~='hello']')",
+      "exercise": "All elements with a title attribute value containing the specific word 'hello'"
+    },
+    {
+      "example": "$('[title*='hello']')",
+      "exercise": "All elements with a title attribute value containing the word 'hello'"
+    },
+         
+    {
+      "example": "$(':input')",
+      "exercise": "All input elements"
+    },
+    {
+      "example": "$(':text')",
+      "exercise": "All input elements with type='text'"
+    },
+    {
+      "example": "$(':password')",
+      "exercise": "All input elements with type='password'"
+    },
+    {
+      "example": "$(':radio')",
+      "exercise": "All input elements with type='radio'"
+    },
+    {
+      "example": "$(':checkbox')",
+      "exercise": "All input elements with type='checkbox'"
+    },
+    {
+      "example": "$(':submit')",
+      "exercise": "All input elements with type='submit'"
+    },
+    {
+      "example": "$(':reset')",
+      "exercise": "All input elements with type='reset'"
+    },
+    {
+      "example": "$(':button')",
+      "exercise": "All input elements with type='button'"
+    },
+    {
+      "example": "$(':image')",
+      "exercise": "All input elements with type='image'"
+    },
+    {
+      "example": "$(':file')",
+      "exercise": "All input elements with type='file'"
+    },
+    {
+      "example": "$(':enabled')",
+      "exercise": "All enabled input elements"
+    },
+    {
+      "example": "$(':disabled')",
+      "exercise": "All disabled input elements"
+    },
+    {
+      "example": "$(':selected')",
+      "exercise": "All selected input elements"
+    },
+    {
+      "example": "$(':checked')",
+      "exercise": "All checked input elements"
+    }
+  ]
+}
+
