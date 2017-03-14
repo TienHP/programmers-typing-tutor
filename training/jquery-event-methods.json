@@ -1,0 +1,238 @@
+{
+  "name": "jQuery Event Methods",
+  "mode": "javascript",
+  "level": "beginner",
+  "logo": "images/languages/jquery-event-methods.png",
+  "lessons": [
+    {
+      "example": "bind()",
+      "exercise": "Deprecated in version 3.0. Use the on() method instead. Attaches event handlers to elements"
+    },
+    {
+      "example": "blur()",
+      "exercise": "Attaches/Triggers the blur event"
+    },
+    {
+      "example": "change()",
+      "exercise": "Attaches/Triggers the change event"
+    },
+    {
+      "example": "click()",
+      "exercise": "Attaches/Triggers the click event"
+    },
+    {
+      "example": "dblclick()",
+      "exercise": "Attaches/Triggers the double click event"
+    },
+    {
+      "example": "delegate()",
+      "exercise": "Deprecated in version 3.0. Use the on() method instead. Attaches a handler to current, or future, specified child elements of the matching elements"
+    },
+    {
+      "example": "die()",
+      "exercise": "Removed in version 1.9. Removes all event handlers added with the live() method"
+    },
+    {
+      "example": "error()",
+      "exercise": "Removed in version 3.0. Attaches/Triggers the error event"
+    },
+    {
+      "example": "event.currentTarget",
+      "exercise": "The current DOM element within the event bubbling phase"
+    },
+    {
+      "example": "event.data",
+      "exercise": "Contains the optional data passed to an event method when the current executing handler is bound"
+    },
+    {
+      "example": "event.delegateTarget",
+      "exercise": "Returns the element where the currently-called jQuery event handler was attached"
+    },
+    {
+      "example": "event.isDefaultPrevented()",
+      "exercise": "Returns whether event.preventDefault() was called for the event object"
+    },
+    {
+      "example": "event.isImmediatePropagationStopped()",
+      "exercise": "Returns whether event.stopImmediatePropagation() was called for the event object"
+    },
+    {
+      "example": "event.isPropagationStopped()",
+      "exercise": "Returns whether event.stopPropagation() was called for the event object"
+    },
+    {
+      "example": "event.namespace",
+      "exercise": "Returns the namespace specified when the event was triggered"
+    },
+    {
+      "example": "event.pageX",
+      "exercise": "Returns the mouse position relative to the left edge of the document"
+    },
+    {
+      "example": "event.pageY",
+      "exercise": "Returns the mouse position relative to the top edge of the document"
+    },
+    {
+      "example": "event.preventDefault()",
+      "exercise": "Prevents the default action of the event"
+    },
+    {
+      "example": "event.relatedTarget",
+      "exercise": "Returns which element being entered or exited on mouse movement."
+    },
+    {
+      "example": "event.result",
+      "exercise": "Contains the last/previous value returned by an event handler triggered by the specified event"
+    },
+    {
+      "example": "event.stopImmediatePropagation()",
+      "exercise": "Prevents other event handlers from being called"
+    },
+    {
+      "example": "event.stopPropagation()",
+      "exercise": "Prevents the event from bubbling up the DOM tree, preventing any parent handlers from being notified of the event"
+    },
+    {
+      "example": "event.target",
+      "exercise": "Returns which DOM element triggered the event"
+    },
+    {
+      "example": "event.timeStamp",
+      "exercise": "Returns the number of milliseconds since January 1, 1970, when the event is triggered"
+    },
+    {
+      "example": "event.type",
+      "exercise": "Returns which event type was triggered"
+    },
+    {
+      "example": "event.which",
+      "exercise": "Returns which keyboard key or mouse button was pressed for the event"
+    },
+    {
+      "example": "focus()",
+      "exercise": "Attaches/Triggers the focus event"
+    },
+    {
+      "example": "focusin()",
+      "exercise": "Attaches an event handler to the focusin event"
+    },
+    {
+      "example": "focusout()",
+      "exercise": "Attaches an event handler to the focusout event"
+    },
+    {
+      "example": "hover()",
+      "exercise": "Attaches two event handlers to the hover event"
+    },
+    {
+      "example": "keydown()",
+      "exercise": "Attaches/Triggers the keydown event"
+    },
+    {
+      "example": "keypress()",
+      "exercise": "Attaches/Triggers the keypress event"
+    },
+    {
+      "example": "keyup()",
+      "exercise": "Attaches/Triggers the keyup event"
+    },
+    {
+      "example": "live()",
+      "exercise": "Removed in version 1.9. Adds one or more event handlers to current, or future, selected elements"
+    },
+    {
+      "example": "load()",
+      "exercise": "Removed in version 3.0. Attaches an event handler to the load event"
+    },
+    {
+      "example": "mousedown()",
+      "exercise": "Attaches/Triggers the mousedown event"
+    },
+    {
+      "example": "mouseenter()",
+      "exercise": "Attaches/Triggers the mouseenter event"
+    },
+    {
+      "example": "mouseleave()",
+      "exercise": "Attaches/Triggers the mouseleave event"
+    },
+    {
+      "example": "mousemove()",
+      "exercise": "Attaches/Triggers the mousemove event"
+    },
+    {
+      "example": "mouseout()",
+      "exercise": "Attaches/Triggers the mouseout event"
+    },
+    {
+      "example": "mouseover()",
+      "exercise": "Attaches/Triggers the mouseover event"
+    },
+    {
+      "example": "mouseup()",
+      "exercise": "Attaches/Triggers the mouseup event"
+    },
+    {
+      "example": "off()",
+      "exercise": "Removes event handlers attached with the on() method"
+    },
+    {
+      "example": "on()",
+      "exercise": "Attaches event handlers to elements"
+    },
+    {
+      "example": "one()",
+      "exercise": "Adds one or more event handlers to selected elements. This handler can only be triggered once per element"
+    },
+    {
+      "example": "$.proxy()",
+      "exercise": "Takes an existing function and returns a new one with a particular context"
+    },
+    {
+      "example": "ready()",
+      "exercise": "Specifies a function to execute when the DOM is fully loaded"
+    },
+    {
+      "example": "resize()",
+      "exercise": "Attaches/Triggers the resize event"
+    },
+    {
+      "example": "scroll()",
+      "exercise": "Attaches/Triggers the scroll event"
+    },
+    {
+      "example": "select()",
+      "exercise": "Attaches/Triggers the select event"
+    },
+    {
+      "example": "submit()",
+      "exercise": "Attaches/Triggers the submit event"
+    },
+    {
+      "example": "toggle()",
+      "exercise": "Removed in version 1.9. Attaches two or more functions to toggle between for the click event"
+    },
+    {
+      "example": "trigger()",
+      "exercise": "Triggers all events bound to the selected elements"
+    },
+    {
+      "example": "triggerHandler()",
+      "exercise": "Triggers all functions bound to a specified event for the selected elements"
+    },
+    {
+      "example": "unbind()",
+      "exercise": "Deprecated in version 3.0. Use the off() method instead. Removes an added event handler from selected elements"
+    },
+    {
+      "example": "undelegate()",
+      "exercise": "Deprecated in version 3.0. Use the off() method instead. Removes an event handler to selected elements, now or in the future"
+    },
+    {
+      "example": "unload()",
+      "exercise": "Removed in version 3.0. Attaches an event handler to the unload event"
+    }
+  ]
+}
+
+
