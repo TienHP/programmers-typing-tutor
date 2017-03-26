@@ -1,5 +1,5 @@
 import React, { PropTypes } from 'react'
-import { Link } from 'react-router'
+import { Link } from 'react-router-dom'
 import cx from 'classnames'
 
 import './Button.css'
@@ -14,9 +14,9 @@ const ButtonGroup = ({ children, wide }) => (
 )
 
 const Button = (props) => (
-  props.type === 'submit'
-  ? <button className='ui button' {...props}>{props.children || props.content }</button>
-  : <Link className='ui button' {...props}>{props.children || props.content }</Link>
+  props.to
+  ? <Link className='ui button' {...props}>{props.children || props.content }</Link>
+  : <button className='ui button' {...props}>{props.children || props.content }</button>
 )
 
 Button.propTypes = {

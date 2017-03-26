@@ -11,7 +11,6 @@ import Header from '../Header'
 import Button from '../Button'
 
 class Trainer extends Component {
-
   render () {
     const {
       training,
@@ -92,7 +91,7 @@ class Trainer extends Component {
           <br />
           <Button.Group wide>
             <Button to='/'>Go to welcome page</Button>
-            <Button onClick={() => this.props.fetchTraining(training.id)}className='ui button'>Restart training</Button>
+            <Button onClick={() => this.props.fetchTraining(training.id)} className='ui button'>Restart training</Button>
           </Button.Group>
         </div>
       </div>

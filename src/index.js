@@ -1,6 +1,5 @@
 import React from 'react'
 import { render } from 'react-dom'
-import routes from './routes'
 
 import './index.css'
 import 'codemirror/mode/javascript/javascript'
@@ -13,9 +12,16 @@ import 'codemirror/theme/material.css'
 // import 'codemirror/theme/default.css'
 
 import createStore from './redux/createStore'
-import { syncHistoryWithStore } from 'react-router-redux'
-import { Router, hashHistory } from 'react-router'
 import { Provider } from 'react-redux'
+
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route
+} from 'react-router-dom'
+
+import Trainer from './containers/Trainer'
+import Welcome from './containers/Welcome'
 
 /**
  * Create Redux Store
@@ -23,16 +29,16 @@ import { Provider } from 'react-redux'
 const store = createStore()
 
 /**
- * Create history synchronized with Redux Store
- */
-const history = syncHistoryWithStore(hashHistory, store)
-
-/**
  * Render application to DOM
  */
 render(
   <Provider store={store}>
-    <Router history={history} routes={routes} />
+    <Router basename='/programmers-typing-tutor'>
+      <Switch>
+        <Route path='/' exact component={Welcome} />
+        <Route path='/:id' component={Trainer} />
+      </Switch>
+    </Router>
   </Provider>,
   document.getElementById('root')
 )
