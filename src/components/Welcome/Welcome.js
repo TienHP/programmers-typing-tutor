@@ -2,23 +2,14 @@ import React from 'react'
 import classNames from 'classnames'
 import { Link } from 'react-router-dom'
 import { TEXT, TRAININGS } from 'constants'
-import { findIndex, propEq } from 'ramda'
 import Icon from 'components/Icon'
 
 import './Welcome.css'
-
-const completedPercent = training => Math.floor(training.lessonsCompleted.length / training.lessons.length * 100)
 
 const Welcome = (props) => {
   const classes = classNames(
     'Welcome'
   )
-  const fetchTraining = (id) => {
-    const notFetched = findIndex(propEq('id', id), props.trainings) === -1
-    if (notFetched) {
-      props.fetchTraining(id)
-    }
-  }
   return (
     <div className={classes}>
       <div className='inner'>
@@ -34,9 +25,9 @@ const Welcome = (props) => {
           {TRAININGS.map(({ id, name, logo, lessons }) => {
             const training = props.trainings[id]
             return (
-              <Link key={id} to={`/${id}`} title={name} onClick={() => !training && fetchTraining(id)}>
+              <Link key={id} to={`/${id}`} title={name}>
                 {name}
-                {training && <span className='completed'>{completedPercent(training)}%</span>}
+                {training && <span className='completed'>{props.completedPercent(training)}%</span>}
               </Link>
             )
           })}
