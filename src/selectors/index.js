@@ -28,4 +28,3 @@ export const getTrainingsById = (state, props) => {
 export const getTrainingForm = (state, props) => {
   return state.ui.trainingForm
 }
-

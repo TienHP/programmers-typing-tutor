@@ -1,8 +1,8 @@
 import { createStore, applyMiddleware } from 'redux'
 import { composeWithDevTools } from 'redux-devtools-extension'
 import {
-  autoRehydrate,
-  persistStore
+  // autoRehydrate,
+  // persistStore
 } from 'redux-persist'
 import thunk from 'redux-thunk'
 import rootReducer from 'reducers'
@@ -15,15 +15,15 @@ const configureStore = preloadedState => {
     composeWithDevTools(
       applyMiddleware(
         thunk.withExtraArgument(services)
-      ),
-      autoRehydrate()
+      )
+      // autoRehydrate()
     )
   )
 
   // begin periodically persisting the store
-  persistStore(store, {
-    blacklist: ['routing']
-  })
+  // persistStore(store, {
+  //   blacklist: ['routing']
+  // })
 
   if (module.hot) {
     module.hot.accept('reducers', () => {
