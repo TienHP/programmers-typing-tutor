@@ -1,21 +1,22 @@
 import { PropTypes } from 'react'
 import { connect } from 'react-redux'
-import { fetchTraining, updateEditorCode } from 'actions'
+import { fetchTraining } from 'actions'
 import * as selectors from 'selectors'
 import Trainer from 'components/Trainer'
 
 function mapStateToProps (state, props) {
   const { id } = props.match.params
 
-  const training = selectors.getCurrentTraining(state, props)
-  const lesson = selectors.getCurrentLesson(state, props)
-  const lessons = selectors.getLessons(state, { trainingId: id })
+  const training = selectors.getTrainingById(state, id)
+  const lesson = false // selectors.getCurrentLesson(state, props)
+  // const lessons = selectors.getLessons(state, { trainingId: id })
 
   return {
     id,
     training,
-    lesson,
-    lessons,
+    completed: false, // training.lessonsCompleted.length === training.lessons.length
+    // lesson,
+    // lessons,
     isLoaded: !!training && !!lesson
   }
 }
@@ -23,18 +24,16 @@ function mapStateToProps (state, props) {
 const TrainerContainer = connect(
   mapStateToProps,
   {
-    fetchTraining,
-    updateEditorCode
+    fetchTraining
   }
 )(Trainer)
 
 TrainerContainer.propTypes = {
   match: PropTypes.shape({
     params: PropTypes.shape({
-      mode: PropTypes.string,
-      level: PropTypes.string
-    }).isRequired
-  }).isRequired
+      id: PropTypes.string
+    })
+  })
 }
 
 export default TrainerContainer

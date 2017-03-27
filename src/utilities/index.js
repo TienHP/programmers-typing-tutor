@@ -1,10 +1,12 @@
-/* global fetch, ga */
+/* global fetch */
 
 import 'whatwg-fetch'
 import without from 'ramda/src/without'
 import length from 'ramda/src/length'
 
 export const fetchJson = url => fetch(url).then(response => response.json())
+
+export const completedPercent = training => Math.floor(training.lessonsCompleted.length / training.lessons.length * 100)
 
 export function getRandomArbitrary (min, max) {
   return Math.random() * (max - min) + min

@@ -25,6 +25,10 @@ export const getTrainingsById = (state, props) => {
   return state.entitites.trainings.byId
 }
 
+export const getTrainingById = (state, id) => {
+  return state.entitites.trainings.byId[id]
+}
+
 export const getTrainingForm = (state, props) => {
   return state.ui.trainingForm
 }

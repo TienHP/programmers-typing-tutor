@@ -1,9 +1,7 @@
 import { connect } from 'react-redux'
-import { fetchTraining } from 'actions'
 import * as selectors from 'selectors'
 import Welcome from 'components/Welcome'
-
-const completedPercent = training => Math.floor(training.lessonsCompleted.length / training.lessons.length * 100)
+import { completedPercent } from 'utilities'
 
 function mapStateToProps (state, props) {
   const trainings = selectors.getTrainingsById(state, props)
@@ -15,8 +13,7 @@ function mapStateToProps (state, props) {
 }
 
 const WelcomeContainer = connect(
-  mapStateToProps,
-  { fetchTraining }
+  mapStateToProps
 )(Welcome)
 
 export default WelcomeContainer

@@ -10,7 +10,7 @@ export const training = {
       throw new Error('Unknown training Id: ' + trainingId)
     }
 
-    return fetchJson(`training/${trainingId}.json`).then(training => {
+    return fetchJson(`/training/${trainingId}.json`).then(training => {
       training.id = trainingId
       return training
     })

@@ -1,4 +1,4 @@
-import React, { PropTypes } from 'react'
+import React, { Component, PropTypes } from 'react'
 import CodeMirror from 'react-codemirror'
 import classNames from 'classnames'
 import {
@@ -8,40 +8,48 @@ import {
 
 import './Editor.css'
 
-const Editor = (props) => {
-  const {
-    onChangeCode,
-    completed,
-    value,
-    mode
-  } = props
-
-  const options = {
-    mode: mode === 'html' ? 'htmlmixed' : mode,
-    theme: CODE_THEME,
-    autofocus: true,
-    viewportMargin: Infinity,
-    readOnly: completed ? 'nocursor' : false
+class Editor extends Component {
+  constructor () {
+    super(...arguments)
+    this.state = {
+      code: ''
+    }
+    this.onChangeCode = this.onChangeCode.bind(this)
   }
+  onChangeCode (code) {
+    this.setState({ code })
+  }
+  render () {
+    const {
+      completed,
+      mode
+    } = this.props
 
-  const classes = classNames(
-    'Editor'
-  )
+    const options = {
+      mode: mode === 'html' ? 'htmlmixed' : mode,
+      theme: CODE_THEME,
+      autofocus: true,
+      viewportMargin: Infinity,
+      readOnly: completed ? 'nocursor' : false
+    }
 
-  return (
-    <CodeMirror
-      className={classes}
-      value={value}
-      options={options}
-      onChange={onChangeCode}
-    />
-  )
+    const classes = classNames(
+      'Editor'
+    )
+
+    return (
+      <CodeMirror
+        className={classes}
+        value={this.state.code}
+        options={options}
+        onChange={this.onChangeCode}
+      />
+    )
+  }
 }
 
 Editor.propTypes = {
-  onChangeCode: PropTypes.func.isRequired,
   completed: PropTypes.bool,
-  value: PropTypes.string.isRequired,
   mode: React.PropTypes.oneOf(TRAININGS_MODES).isRequired
 }
 
