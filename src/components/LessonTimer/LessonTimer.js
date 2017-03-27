@@ -1,6 +1,6 @@
 import React, { Component, PropTypes } from 'react'
-import { TEXT } from '../../constants'
-import Statistics from '../Statistics'
+import { TEXT } from 'constants'
+import Statistics from 'components/Statistics'
 
 class LessonTimer extends Component {
   componentDidMount () {

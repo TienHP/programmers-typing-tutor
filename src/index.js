@@ -20,8 +20,8 @@ import {
   Route
 } from 'react-router-dom'
 
-import Trainer from './containers/Trainer'
-import Welcome from './containers/Welcome'
+import Trainer from 'containers/Trainer'
+import Welcome from 'containers/Welcome'
 
 /**
  * Create Redux Store

@@ -1,7 +1,7 @@
 import {
   SET_GLOBAL_NOTICE,
   RESET_GLOBAL_NOTICE
-} from '../constants'
+} from 'constants'
 
 function globalNotice (state = null, action) {
   switch (action.type) {
@@ -15,4 +15,3 @@ function globalNotice (state = null, action) {
 }
 
 export default globalNotice
-

@@ -1,9 +1,9 @@
 import React from 'react'
 import classNames from 'classnames'
 import { Link } from 'react-router-dom'
-import { TEXT, TRAININGS } from '../../constants'
+import { TEXT, TRAININGS } from 'constants'
 import { findIndex, propEq } from 'ramda'
-import Icon from '../Icon'
+import Icon from 'components/Icon'
 
 import './Welcome.css'
 

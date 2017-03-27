@@ -1,8 +1,8 @@
 import { PropTypes } from 'react'
 import { connect } from 'react-redux'
-import { fetchTraining, updateEditorCode } from '../../actions'
-import * as selectors from '../../selectors'
-import Trainer from '../../components/Trainer'
+import { fetchTraining, updateEditorCode } from 'actions'
+import * as selectors from 'selectors'
+import Trainer from 'components/Trainer'
 
 function mapStateToProps (state, props) {
   const { id } = props.match.params

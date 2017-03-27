@@ -1,14 +1,14 @@
 import React, { Component, PropTypes } from 'react'
 import classNames from 'classnames'
 import './Trainer.css'
-import { TEXT } from '../../constants'
+import { TEXT } from 'constants'
 
-import Editor from '../Editor'
-import Example from '../Example'
-import Exercise from '../Exercise'
-import Success from '../Success'
-import Header from '../Header'
-import Button from '../Button'
+import Editor from 'components/Editor'
+import Example from 'components/Example'
+import Exercise from 'components/Exercise'
+import Success from 'components/Success'
+import Header from 'components/Header'
+import Button from 'components/Button'
 
 class Trainer extends Component {
   render () {

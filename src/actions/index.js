@@ -13,12 +13,12 @@ import {
   START_LESSON,
   START_TRAINING,
   UPDATE_EDITOR_CODE
-} from '../constants'
+} from 'constants'
 
 import {
   trackEvent,
   getRandomLesson
-} from '../utils'
+} from 'utilities'
 
 export function updateEditorCode (lessonId, code) {
   return (dispatch, getState, services) => {

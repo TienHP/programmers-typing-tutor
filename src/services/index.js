@@ -1,8 +1,8 @@
-import { fetchJson } from '../utils'
+import { pluck } from 'ramda'
+import { fetchJson } from 'utilities'
 import {
   TRAININGS
-} from '../constants'
-import { pluck } from 'ramda'
+} from 'constants'
 
 export const training = {
   fetch (trainingId) {

@@ -1,8 +1,8 @@
 import React, { PropTypes } from 'react'
-import Statistics from '../Statistics'
-import LessonTimer from '../LessonTimer'
-import { TEXT } from '../../constants'
-import { calculateAccuracy } from '../../utils'
+import Statistics from 'components/Statistics'
+import LessonTimer from 'components/LessonTimer'
+import { TEXT } from 'constants'
+import { calculateAccuracy } from 'utilities'
 
 const Header = ({ lesson, training }) => {
   if (!training) {

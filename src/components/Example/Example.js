@@ -5,7 +5,7 @@ import classNames from 'classnames'
 import {
   TRAININGS_MODES,
   CODE_THEME
-} from '../../constants'
+} from 'constants'
 
 import './Example.css'
 

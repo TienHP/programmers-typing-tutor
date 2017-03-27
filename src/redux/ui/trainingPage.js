@@ -1,7 +1,7 @@
 import {
   SET_CURRENT_LESSON,
   SET_CURRENT_TRAINIG
-} from '../constants'
+} from 'constants'
 
 const initialState = {
   currentTraining: null,

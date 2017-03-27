@@ -3,13 +3,13 @@ import React, { PropTypes } from 'react'
 import classNames from 'classnames'
 import './Success.css'
 import { sum, pluck } from 'ramda'
-import { calculateAccuracy } from '../../utils'
-import Icon from '../Icon'
-import Button from '../Button'
+import { calculateAccuracy } from 'utilities'
+import Icon from 'components/Icon'
+import Button from 'components/Button'
 import {
   // CODE_THEME,
   TEXT
-} from '../../constants'
+} from 'constants'
 
 const Success = ({ training, lessons, fetchTraining }) => {
   const classes = classNames(

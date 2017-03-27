@@ -5,8 +5,8 @@ import {
   persistStore
 } from 'redux-persist'
 import thunk from 'redux-thunk'
-import rootReducer from './reducers'
-import * as services from '../services'
+import rootReducer from 'reducers'
+import * as services from 'services'
 
 const configureStore = preloadedState => {
   const store = createStore(
@@ -26,8 +26,8 @@ const configureStore = preloadedState => {
   })
 
   if (module.hot) {
-    module.hot.accept('./reducers', () => {
-      const nextRootReducer = require('./reducers').default
+    module.hot.accept('reducers', () => {
+      const nextRootReducer = require('reducers').default
       store.replaceReducer(nextRootReducer)
     })
   }

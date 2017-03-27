@@ -1,7 +1,7 @@
 import {
   SET_GLOBAL_ERROR,
   RESET_GLOBAL_ERROR
-} from '../constants'
+} from 'constants'
 
 function globalError (state = null, action) {
   switch (action.type) {
@@ -15,4 +15,3 @@ function globalError (state = null, action) {
 }
 
 export default globalError
-

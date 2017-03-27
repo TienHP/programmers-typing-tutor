@@ -1,7 +1,7 @@
 import { connect } from 'react-redux'
-import { fetchTraining } from '../../actions'
-import * as selectors from '../../selectors'
-import Welcome from '../../components/Welcome'
+import { fetchTraining } from 'actions'
+import * as selectors from 'selectors'
+import Welcome from 'components/Welcome'
 
 function mapStateToProps (state, props) {
   const trainings = selectors.getTrainingsById(state, props)
