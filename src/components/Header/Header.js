@@ -1,29 +1,29 @@
 import React, { PropTypes } from 'react'
 import Statistics from 'components/Statistics'
-import LessonTimer from 'components/LessonTimer'
-import { TEXT } from 'constants'
-import { calculateAccuracy } from 'utilities'
 
-const Header = ({ lesson, training }) => {
-  if (!training) {
-    return null
-  }
-  const { keystrokes, finishedAt, statedAt, mistakes } = lesson
-  const accuracy = calculateAccuracy(mistakes, keystrokes)
-  const completedPercent = Math.floor(training.lessonsCompleted.length / training.lessons.length * 100)
+const Header = (props) => {
+  const {
+    keystrokes,
+    elapsedTime,
+    accuracy,
+    completed
+  } = props
+
   return (
     <div className='header'>
-      <Statistics icon='speedometer' value={keystrokes} label={TEXT.Trainer.keystrokes} />
-      <LessonTimer statedAt={statedAt} finishedAt={finishedAt} />
-      <Statistics icon='pinpoint' value={`${accuracy}%`} label={TEXT.Trainer.accuracy} />
-      <Statistics icon='graph' value={`${completedPercent}%`} label={TEXT.Trainer.completed} />
+      <Statistics icon='speedometer' value={keystrokes} label='keystrokes' />
+      <Statistics icon='clock' value={`${elapsedTime} sec`} label='elapsed time' />
+      <Statistics icon='pinpoint' value={`${accuracy}%`} label='accuracy' />
+      <Statistics icon='graph' value={`${completed}%`} label='completed' />
     </div>
   )
 }
 
 Header.propTypes = {
-  lesson: PropTypes.object.isRequired,
-  training: PropTypes.object.isRequired
+  keystrokes: PropTypes.number.isRequired,
+  elapsedTime: PropTypes.number.isRequired,
+  accuracy: PropTypes.number.isRequired,
+  completed: PropTypes.number.isRequired
 }
 
 export default Header

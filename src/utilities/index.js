@@ -37,3 +37,28 @@ export const setPage = (page) => {
 export const trackPageView = () => {
   return sendGa('send', 'pageview')
 }
+
+export function calculateLessonResult (lessonResult = {}) {
+  const {
+    keystrokes = 0,
+    mistakes = 0,
+    startedAt,
+    finishedAt
+  } = lessonResult
+
+  const accuracy = calculateAccuracy(mistakes, keystrokes)
+
+  let elapsedTime = 0
+  if (startedAt) {
+    elapsedTime = ((Date.now() - startedAt) / 1000)
+  }
+  if (finishedAt) {
+    elapsedTime = ((finishedAt - startedAt) / 1000)
+  }
+
+  return {
+    keystrokes,
+    elapsedTime,
+    accuracy
+  }
+}

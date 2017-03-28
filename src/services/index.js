@@ -1,8 +1,6 @@
 import { pluck } from 'ramda'
 import { fetchJson } from 'utilities'
-import {
-  TRAININGS
-} from 'constants'
+import { TRAININGS } from 'constants'
 
 export const training = {
   fetch (trainingId) {
@@ -10,9 +8,8 @@ export const training = {
       throw new Error('Unknown training Id: ' + trainingId)
     }
 
-    return fetchJson(`/training/${trainingId}.json`).then(training => {
-      training.id = trainingId
-      return training
+    return new Promise(resolve => {
+      setTimeout(() => resolve(fetchJson(`/training/${trainingId}.json`)), 1000)
     })
   }
 }

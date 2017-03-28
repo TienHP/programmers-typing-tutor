@@ -1,6 +1,6 @@
-export const CODE_THEME = 'material'
 import { pluck } from 'ramda'
 
+export const CODE_THEME = 'material'
 export const TRAININGS = [
   {
     id: 'reactjs-beginner',
@@ -68,7 +68,7 @@ export const CREATE_TRAINING = 'training/CREATE_TRAINING'
 export const CREATE_TRAINING_SUCCESS = 'training/CREATE_TRAINING_SUCCESS'
 export const CREATE_TRAINING_FAILED = 'training/CREATE_TRAINING_FAILED'
 export const UPDATE_TRAINING_FORM = 'training/UPDATE_TRAINING_FORM'
-// export const RESTART_TRAINING = 'training/RESTART_TRAINING'
+export const RESTART_TRAINING = 'training/RESTART_TRAINING'
 
 export const START_TRAINING = 'training/START_TRAINING'
 export const COMPLETE_TRAINING = 'training/COMPLETE_TRAINING'

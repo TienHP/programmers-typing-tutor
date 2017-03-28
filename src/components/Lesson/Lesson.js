@@ -1,5 +1,5 @@
 import React, { PropTypes } from 'react'
-import classNames from 'classnames'
+// import { calculateAccuracy, calculateCompletedPercent } from 'utilities'
 
 import Header from 'components/Header'
 import Example from 'components/Example'
@@ -9,35 +9,27 @@ import Button from 'components/Button'
 
 const Lesson = (props) => {
   const {
+    code,
     training,
-    lesson
-  } = this.props
+    lesson,
+    lessonResult
+  } = props
 
-  const {
-    exercise,
-    example
-  } = lesson
-
-  const classes = classNames(
-    'Trainer'
-  )
-
-  const editor = false
   return (
-    <div className={classes}>
+    <div className='Trainer'>
       <div className='inner'>
-        <Header training={training} lesson={lesson} />
+        <Header {...lessonResult} completed={0} />
         <section className='editors'>
-          {example.startsWith(editor) && (
-            <Example value={example} mode={training.mode} />
+          {lesson.code.startsWith(code) && (
+            <Example value={lesson.code} mode={training.mode} />
           )}
           <Editor mode={training.mode} />
-          <Exercise exercise={exercise} />
+          <Exercise exercise={lesson.text} />
         </section>
         <br />
         <Button.Group wide>
           <Button to='/'>Go to welcome page</Button>
-          <Button onClick={() => this.props.fetchTraining(training.id)} className='ui button'>Restart training</Button>
+          <Button onClick={() => this.props.fetchTraining(training.slug)} className='ui button'>Restart training</Button>
         </Button.Group>
       </div>
     </div>
@@ -45,7 +37,10 @@ const Lesson = (props) => {
 }
 
 Lesson.propTypes = {
-  lesson: PropTypes.object.isRequired
+  code: PropTypes.string.isRequired,
+  training: PropTypes.object.isRequired,
+  lesson: PropTypes.object.isRequired,
+  lessonResult: PropTypes.object.isRequired
 }
 
 export default Lesson

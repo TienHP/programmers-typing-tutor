@@ -6,10 +6,11 @@
       "code": ""
     }
   },
-  "entities": {
+  "entitites": {
     "trainings": {
       "byId": {
         "j678ij": {
+          "id": "j678ij",
           "name": "JavaScript",
           "slug": "js",
           "mode": "javascript",
@@ -49,10 +50,7 @@
         }
       },
       "byLessonId": {
-        "k895gf": ["j57feq"]
-      },
-      "byTrainingId": {
-        "j678ij": ["j57feq"]
+        "k895gf": "j57feq"
       }
     }
   }

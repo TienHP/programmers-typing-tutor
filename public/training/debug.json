@@ -5,10 +5,12 @@
   "mode": "javascript",
   "lessons": [
     {
+      "id": "j68fgf",
       "code": "hello()",
       "text": "Hello world training lesson 1"
     },
     {
+      "id": "po9fg",
       "code": "world()",
       "text": "Hello world training lesson 2"
     }
