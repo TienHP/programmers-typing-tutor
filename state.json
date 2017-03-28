@@ -1,0 +1,59 @@
+{
+  "ui": {
+    "training": {
+      "trainingId": "j678ij",
+      "lessonId": "k895gf",
+      "code": ""
+    }
+  },
+  "entities": {
+    "trainings": {
+      "byId": {
+        "j678ij": {
+          "name": "JavaScript",
+          "slug": "js",
+          "mode": "javascript",
+          "lessons": [
+            "k895gf",
+            "o96hg7"
+          ]
+        }
+      },
+      "bySlug": {
+        "js": "j678ij"
+      }
+    },
+    "lessons": {
+      "byId": {
+        "k895gf": {
+          "trainingId": "j678ij",
+          "code": "var a = 1;",
+          "text": "Some text..."
+        },
+        "o96hg7": {
+          "trainingId": "j678ij",
+          "code": "var a = 1;",
+          "text": "Some text..."
+        }
+      }
+    },
+    "lessonsResults": {
+      "byId": {
+        "j57feq": {
+          "trainingId": "j678ij",
+          "lessonId": "k895gf",
+          "startedAt": 0,
+          "finishedAt": 0,
+          "keystrokes": 0,
+          "mistakes": 0
+        }
+      },
+      "byLessonId": {
+        "k895gf": ["j57feq"]
+      },
+      "byTrainingId": {
+        "j678ij": ["j57feq"]
+      }
+    }
+  }
+}

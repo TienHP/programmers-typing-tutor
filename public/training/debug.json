@@ -1,16 +1,16 @@
 {
+  "id": "j678ij",
+  "slug": "debug",
   "name": "Debug Training",
   "mode": "javascript",
-  "level": "beginner",
-  "logo": "images/languages/javascript.png",
   "lessons": [
     {
-      "exercise": "[test](/#test)",
-      "example": "qwe"
+      "code": "hello()",
+      "text": "Hello world training lesson 1"
     },
     {
-      "exercise": "",
-      "example": "asd"
+      "code": "world()",
+      "text": "Hello world training lesson 2"
     }
   ]
 }

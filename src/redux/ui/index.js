@@ -2,14 +2,12 @@ import { combineReducers } from 'redux'
 
 import globalError from './globalError'
 import globalNotice from './globalNotice'
-import trainingForm from './trainingForm'
-import trainingPage from './trainingPage'
+import training from './training'
 
 const ui = combineReducers({
   globalError,
   globalNotice,
-  trainingPage,
-  trainingForm
+  training
 })
 
 export default ui
