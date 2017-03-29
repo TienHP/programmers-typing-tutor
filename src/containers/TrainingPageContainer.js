@@ -3,11 +3,15 @@ import { connect } from 'react-redux'
 import actionCreators from 'actions'
 import Button from 'components/Button'
 import GlobalError from 'components/GlobalError'
+import { reject, isNil } from 'ramda'
 
 class TrainingPage extends Component {
   componentWillMount () {
     if (!this.props.isFetched) {
       this.props.fetchTraining(this.props.params.id)
+      .then(action => {
+        action.payload.lessons.forEach(this.props.fetchLesson)
+      })
     }
   }
   render () {
@@ -35,6 +39,16 @@ class TrainingPage extends Component {
         <h1>Editor:</h1>
         <div>code: {this.props.editor.code}</div>
         <div>example: {this.props.editor.example}</div>
+
+        <h1>Lessons:</h1>
+        {this.props.lessons.map(({ id, trainingId, example }) =>
+          <div key={id}>
+            <div>id: {id}</div>
+            <div>trainingId: {trainingId}</div>
+            <div>example: {example}</div>
+            <br />
+          </div>
+        )}
         <br />
         <Button to={`/`}>Home</Button>
         <Button to={`/${this.props.params.id}/result`}>Result</Button>
@@ -45,13 +59,17 @@ class TrainingPage extends Component {
 
 const TrainingPageContainer = connect(
   (state, props) => {
+    const training = state.entities.trainings.entities[props.match.params.id]
+    const lessons = training ? reject(isNil, training.lessons.map(id => state.entities.lessons.entities[id])) : []
+
     return {
       globalErrors: state.globalErrors,
       isFetched: state.entities.trainings.isFetched[props.match.params.id],
       params: {
         id: props.match.params.id
       },
-      training: state.entities.trainings.entities[props.match.params.id],
+      training,
+      lessons,
       header: {
         keystrokes: 0,
         elapsedTime: 0,

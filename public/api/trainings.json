@@ -1,5 +1,5 @@
-[
-  {
+{
+  "javascript": {
     "id": "javascript",
     "slug": "javascript",
     "name": "Java Script",
@@ -9,7 +9,7 @@
       "javascript-lesson-3"
     ]
   },
-  {
+  "react": {
     "id": "react",
     "slug": "react",
     "name": "React.js",
@@ -19,4 +19,4 @@
       "react-lesson-3"
     ]
   }
-]
+}
