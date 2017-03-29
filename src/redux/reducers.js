@@ -1,29 +1,29 @@
 import { combineReducers } from 'redux'
 import { handleActions } from 'redux-actions'
 import actionCreators from 'actions'
+import { indexBy, prop, map, merge, assoc } from 'ramda'
 
 export default combineReducers({
-  welcomePage: combineReducers({
-    isFetched: handleActions({
-      [actionCreators.fetch.trainings]: (state, action) => true
-    }, false),
-    trainings: handleActions({
-      [actionCreators.fetch.trainings]: (state, action) => action.payload
-    }, [])
-  }),
-
-  trainingPage: combineReducers({
-    isFetched: handleActions({
-      [actionCreators.fetch.training]: (state, action) => ({
-        ...state,
-        [action.payload.slug]: true
-      })
-    }, {}),
-    training: handleActions({
-      [actionCreators.fetch.training]: (state, action) => ({
-        ...state,
-        [action.payload.slug]: action.payload
-      })
-    }, {})
+  entities: combineReducers({
+    trainings: combineReducers({
+      entities: handleActions({
+        [actionCreators.fetch.trainings]: (state, action) => {
+          const entities = indexBy(prop('id'), action.payload)
+          return merge(state, entities)
+        },
+        [actionCreators.fetch.training]: (state, action) => {
+          return assoc(action.payload.id, action.payload, state)
+        }
+      }, {}),
+      isFetched: handleActions({
+        [actionCreators.fetch.trainings]: (state, action) => {
+          const entities = map(() => true, indexBy(prop('id'), action.payload))
+          return merge(state, entities)
+        },
+        [actionCreators.fetch.training]: (state, action) => {
+          return assoc(action.payload.id, true, state)
+        }
+      }, {})
+    })
   })
 })

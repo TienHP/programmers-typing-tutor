@@ -2,12 +2,11 @@ import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import Button from 'components/Button'
 import actionCreators from 'actions'
+import { values } from 'ramda'
 
 class WelcomePage extends Component {
   componentWillMount () {
-    if (!this.props.isFetched) {
-      this.props.fetchTrainings()
-    }
+    this.props.fetchTrainings()
   }
   render () {
     if (!this.props.isFetched) {
@@ -21,7 +20,7 @@ class WelcomePage extends Component {
             <div>name: {name}</div>
             <div>slug: {slug}</div>
             <div>progress: {progress}</div>
-            <Button to={`/${slug}`}>Open</Button>
+            <Button to={`/${id}`}>Open</Button>
           </div>
         )}
       </div>
@@ -31,9 +30,10 @@ class WelcomePage extends Component {
 
 const WelcomePageContainer = connect(
   (state, props) => {
+    const trainings = values(state.entities.trainings.entities)
     return {
-      isFetched: state.welcomePage.isFetched,
-      trainings: state.welcomePage.trainings
+      isFetched: trainings.length,
+      trainings
     }
   },
   {

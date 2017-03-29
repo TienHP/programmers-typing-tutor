@@ -6,7 +6,7 @@ import actionCreators from 'actions'
 class TrainingPage extends Component {
   componentWillMount () {
     if (!this.props.isFetched) {
-      this.props.fetchTraining(this.props.training.slug)
+      this.props.fetchTraining(this.props.params.id)
     }
   }
   render () {
@@ -37,7 +37,7 @@ class TrainingPage extends Component {
           </div>
         )}
         <br />
-        <Button to={`/${this.props.training.slug}`}>Training</Button>
+        <Button to={`/${this.props.params.id}`}>Training</Button>
         <Button to={`/`}>Home</Button>
       </div>
     )
@@ -47,11 +47,11 @@ class TrainingPage extends Component {
 const TrainingPageContainer = connect(
   (state, props) => {
     return {
-      isFetched: state.trainingPage.isFetched[props.match.params.slug],
-      training: {
-        ...state.trainingPage.training[props.match.params.slug],
-        slug: props.match.params.slug
+      isFetched: state.entities.trainings.isFetched[props.match.params.id],
+      params: {
+        id: props.match.params.id
       },
+      training: state.entities.trainings.entities[props.match.params.id],
       trainingResult: {
         mistakes: 0,
         keystrokes: 0,

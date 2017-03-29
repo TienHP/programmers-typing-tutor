@@ -37,8 +37,8 @@ render(
     <Router basename='/programmers-typing-tutor'>
       <Switch>
         <Route path='/' exact component={WelcomePageContainer} />
-        <Route path='/:slug/result' component={TrainingResultPageContainer} />
-        <Route path='/:slug' component={TrainingPageContainer} />
+        <Route path='/:id/result' component={TrainingResultPageContainer} />
+        <Route path='/:id' component={TrainingPageContainer} />
       </Switch>
     </Router>
   </Provider>,
