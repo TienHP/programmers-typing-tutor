@@ -1,6 +1,6 @@
 import { PropTypes } from 'react'
 import { connect } from 'react-redux'
-import { fetchTraining } from 'actions'
+import { fetchTraining, changeEditorCode } from 'actions'
 import Trainer from 'components/Trainer'
 import { getRandomLesson, calculateLessonResult } from 'utilities'
 
@@ -24,7 +24,10 @@ function mapStateToProps (state, props) {
 
 const TrainerContainer = connect(
   mapStateToProps,
-  { fetchTraining }
+  {
+    fetchTraining,
+    changeEditorCode
+  }
 )(Trainer)
 
 TrainerContainer.propTypes = {

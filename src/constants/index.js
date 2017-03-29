@@ -76,7 +76,7 @@ export const COMPLETE_TRAINING = 'training/COMPLETE_TRAINING'
 export const START_LESSON = 'lesson/START_LESSON'
 export const COMPLETE_LESSON = 'lesson/COMPLETE_LESSON'
 
-export const UPDATE_EDITOR_CODE = 'lesson/UPDATE_EDITOR_CODE'
+export const CHANGE_EDITOR_CODE = 'lesson/CHANGE_EDITOR_CODE'
 export const INCREMENT_MISTAKES = 'lesson/INCREMENT_MISTAKES'
 
 export const SET_CURRENT_LESSON = 'ui/SET_CURRENT_LESSON'

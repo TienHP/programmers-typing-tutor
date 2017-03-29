@@ -10,11 +10,11 @@ class Trainer extends Component {
   }
 
   render () {
-    const { training, lesson, lessonResult, code } = this.props
+    const { training, lesson, lessonResult, code, changeEditorCode } = this.props
 
     if (!training) return <p>loading training...</p>
 
-    return <Lesson {...{ training, lesson, lessonResult, code }} />
+    return <Lesson {...{ training, lesson, lessonResult, code, changeEditorCode }} />
   }
 }
 
@@ -23,7 +23,8 @@ Trainer.propTypes = {
   training: PropTypes.object,
   lesson: PropTypes.object,
   lessonResult: PropTypes.object.isRequired,
-  fetchTraining: PropTypes.func.isRequired
+  fetchTraining: PropTypes.func.isRequired,
+  changeEditorCode: PropTypes.func.isRequired
 }
 
 export default Trainer

@@ -1,5 +1,4 @@
 import React, { PropTypes } from 'react'
-// import { calculateAccuracy, calculateCompletedPercent } from 'utilities'
 
 import Header from 'components/Header'
 import Example from 'components/Example'
@@ -12,8 +11,12 @@ const Lesson = (props) => {
     code,
     training,
     lesson,
-    lessonResult
+    lessonResult,
+    changeEditorCode,
+    fetchTraining
   } = props
+
+  const isCompleted = code === lesson.code
 
   return (
     <div className='Trainer'>
@@ -21,15 +24,28 @@ const Lesson = (props) => {
         <Header {...lessonResult} completed={0} />
         <section className='editors'>
           {lesson.code.startsWith(code) && (
-            <Example value={lesson.code} mode={training.mode} />
+            <Example
+              value={lesson.code}
+              mode={training.mode}
+            />
           )}
-          <Editor mode={training.mode} />
+          <Editor
+            mode={training.mode}
+            onChangeCode={changeEditorCode}
+            code={code}
+            isCompleted={isCompleted}
+          />
           <Exercise exercise={lesson.text} />
         </section>
         <br />
         <Button.Group wide>
           <Button to='/'>Go to welcome page</Button>
-          <Button onClick={() => this.props.fetchTraining(training.slug)} className='ui button'>Restart training</Button>
+          <Button
+            onClick={() => fetchTraining(training.slug)}
+            className='ui button'
+          >
+            Restart training
+          </Button>
         </Button.Group>
       </div>
     </div>

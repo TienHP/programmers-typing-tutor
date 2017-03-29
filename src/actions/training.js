@@ -9,11 +9,17 @@ import {
   // INCREMENT_MISTAKES,
   // SET_CURRENT_LESSON,
   // SET_CURRENT_TRAINIG,
-  SET_ENTITIES
+  SET_ENTITIES,
   // START_LESSON,
   // START_TRAINING,
-  // UPDATE_EDITOR_CODE
+  CHANGE_EDITOR_CODE
 } from 'constants'
+
+export function changeEditorCode (code) {
+  return (dispatch, getState, services) => {
+    dispatch({ type: CHANGE_EDITOR_CODE, payload: { code } })
+  }
+}
 
 export function fetchTraining (slug) {
   return (dispatch, getState, services) => {

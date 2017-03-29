@@ -1,4 +1,7 @@
 import { handleActions } from 'redux-actions'
+import {
+  CHANGE_EDITOR_CODE
+} from 'constants'
 
 const initialState = {
   trainingId: null,
@@ -7,5 +10,8 @@ const initialState = {
 }
 
 export default handleActions({
-  'TEST': () => initialState
+  [CHANGE_EDITOR_CODE]: (state, action) => ({
+    ...state,
+    code: action.payload.code
+  })
 }, initialState)

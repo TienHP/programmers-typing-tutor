@@ -1,6 +1,5 @@
 /* global fetch */
 
-import 'whatwg-fetch'
 import without from 'ramda/src/without'
 import length from 'ramda/src/length'
 
