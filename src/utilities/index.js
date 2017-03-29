@@ -3,6 +3,16 @@
 import without from 'ramda/src/without'
 import length from 'ramda/src/length'
 
+/**
+ * Вычисляет процент выполенных уроков
+ * @param  {Number} completedLessons Количество пройденных уроков
+ * @param  {Number} totalLessons     Количество всех уроков
+ * @return {Number}                  Процент выполненных уроков
+ */
+export function computeTrainingProgress (completedLessons, totalLessons) {
+  return Math.floor(completedLessons / totalLessons * 100)
+}
+
 export const fetchJson = url => fetch(url).then(response => response.json())
 
 export const completedPercent = training => Math.floor(training.lessonsCompleted.length / training.lessons.length * 100)

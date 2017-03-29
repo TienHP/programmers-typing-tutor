@@ -20,6 +20,7 @@ class Trainer extends Component {
 
 Trainer.propTypes = {
   slug: PropTypes.string.isRequired,
+  progress: PropTypes.number.isRequired,
   training: PropTypes.object,
   lesson: PropTypes.object,
   lessonResult: PropTypes.object.isRequired,
