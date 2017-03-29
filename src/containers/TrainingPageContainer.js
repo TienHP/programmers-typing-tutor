@@ -6,13 +6,11 @@ import GlobalError from 'components/GlobalError'
 import { reject, isNil } from 'ramda'
 
 class TrainingPage extends Component {
-  componentWillMount () {
-    if (!this.props.isFetched) {
-      this.props.fetchTraining(this.props.params.id)
-      .then(action => {
-        action.payload.lessons.forEach(this.props.fetchLesson)
-      })
-    }
+  componentWillMount () {  
+    this.props.fetchTraining(this.props.params.id)
+    .then(action => {
+      action.payload.lessons.forEach(this.props.fetchLesson)
+    })
   }
   render () {
     if (this.props.globalErrors.length) {
