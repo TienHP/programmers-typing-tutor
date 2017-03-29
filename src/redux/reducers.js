@@ -2,19 +2,28 @@ import { combineReducers } from 'redux'
 import { handleActions } from 'redux-actions'
 import actionCreators from 'actions'
 
-const rootReducer = combineReducers({
+export default combineReducers({
   welcomePage: combineReducers({
     isFetched: handleActions({
-      [actionCreators.fetch.trainings]: (state, action) => {
-        return true
-      }
+      [actionCreators.fetch.trainings]: (state, action) => true
     }, false),
     trainings: handleActions({
-      [actionCreators.fetch.trainings]: (state, action) => {
-        return action.payload
-      }
+      [actionCreators.fetch.trainings]: (state, action) => action.payload
     }, [])
+  }),
+
+  trainingPage: combineReducers({
+    isFetched: handleActions({
+      [actionCreators.fetch.training]: (state, action) => ({
+        ...state,
+        [action.payload.slug]: true
+      })
+    }, {}),
+    training: handleActions({
+      [actionCreators.fetch.training]: (state, action) => ({
+        ...state,
+        [action.payload.slug]: action.payload
+      })
+    }, {})
   })
 })
-
-export default rootReducer

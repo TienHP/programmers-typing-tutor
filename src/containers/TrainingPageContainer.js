@@ -1,16 +1,13 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import Button from 'components/Button'
-
-const fetchTraining = (slug) => {
-  return () => {
-    console.log('fetchTraining:', slug)
-  }
-}
+import actionCreators from 'actions'
 
 class TrainingPage extends Component {
   componentWillMount () {
-    this.props.fetchTraining(this.props.training.slug)
+    if (!this.props.isFetched) {
+      this.props.fetchTraining(this.props.training.slug)
+    }
   }
   render () {
     if (!this.props.isFetched) {
@@ -19,11 +16,17 @@ class TrainingPage extends Component {
 
     return (
       <div>
+        <h1>Training:</h1>
+        <div>id: {this.props.training.id}</div>
+        <div>slug: {this.props.training.slug}</div>
+        <div>name: {this.props.training.name}</div>
+
         <h1>Header:</h1>
         <div>keystrokes: {this.props.header.keystrokes}</div>
         <div>elapsedTime: {this.props.header.elapsedTime}</div>
         <div>accuracy: {this.props.header.accuracy}</div>
         <div>progress: {this.props.header.progress}</div>
+
         <h1>Editor:</h1>
         <div>code: {this.props.editor.code}</div>
         <div>example: {this.props.editor.example}</div>
@@ -38,9 +41,9 @@ class TrainingPage extends Component {
 const TrainingPageContainer = connect(
   (state, props) => {
     return {
-      isFetched: true,
+      isFetched: state.trainingPage.isFetched[props.match.params.slug],
       training: {
-        id: '9ghty',
+        ...state.trainingPage.training[props.match.params.slug],
         slug: props.match.params.slug
       },
       header: {
@@ -56,7 +59,7 @@ const TrainingPageContainer = connect(
     }
   },
   {
-    fetchTraining
+    fetchTraining: actionCreators.fetch.training
   }
 )(TrainingPage)
 

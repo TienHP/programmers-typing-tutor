@@ -1,16 +1,13 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import Button from 'components/Button'
-
-const fetchTraining = (slug) => {
-  return () => {
-    console.log('fetchTraining:', slug)
-  }
-}
+import actionCreators from 'actions'
 
 class TrainingPage extends Component {
   componentWillMount () {
-    this.props.fetchTraining(this.props.training.slug)
+    if (!this.props.isFetched) {
+      this.props.fetchTraining(this.props.training.slug)
+    }
   }
   render () {
     if (!this.props.isFetched) {
@@ -20,7 +17,9 @@ class TrainingPage extends Component {
     return (
       <div>
         <h1>Training:</h1>
-        <div>training name: {this.props.training.name}</div>
+        <div>id: {this.props.training.id}</div>
+        <div>slug: {this.props.training.slug}</div>
+        <div>name: {this.props.training.name}</div>
 
         <h1>Training result:</h1>
         <div>mistakes: {this.props.trainingResult.mistakes}</div>
@@ -48,11 +47,10 @@ class TrainingPage extends Component {
 const TrainingPageContainer = connect(
   (state, props) => {
     return {
-      isFetched: true,
+      isFetched: state.trainingPage.isFetched[props.match.params.slug],
       training: {
-        id: '9ghty6',
-        slug: 'javascript',
-        name: 'Java Script Training'
+        ...state.trainingPage.training[props.match.params.slug],
+        slug: props.match.params.slug
       },
       trainingResult: {
         mistakes: 0,
@@ -72,7 +70,7 @@ const TrainingPageContainer = connect(
     }
   },
   {
-    fetchTraining
+    fetchTraining: actionCreators.fetch.training
   }
 )(TrainingPage)
 
