@@ -10,8 +10,8 @@ class WelcomePage extends Component {
     this.props.fetchTrainings()
   }
   render () {
-    if (this.props.errors.length) {
-      return <GlobalError errors={this.props.errors} />
+    if (this.props.globalErrors.length) {
+      return <GlobalError errors={this.props.globalErrors} />
     }
 
     if (!this.props.isFetched) {
@@ -37,9 +37,9 @@ const WelcomePageContainer = connect(
   (state, props) => {
     const trainings = values(state.entities.trainings.entities)
     return {
+      globalErrors: state.globalErrors,
       isFetched: trainings.length,
-      trainings,
-      errors: state.errors
+      trainings
     }
   },
   {

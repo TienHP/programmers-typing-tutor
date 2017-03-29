@@ -4,7 +4,7 @@ import actionCreators from 'actions'
 import { indexBy, prop, map, merge, assoc } from 'ramda'
 
 export default combineReducers({
-  errors: (state = [], action) => {
+  globalErrors: (state = [], action) => {
     if (action.error) {
       console.error(action.payload)
       return [

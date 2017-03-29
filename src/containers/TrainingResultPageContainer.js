@@ -1,7 +1,8 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
-import Button from 'components/Button'
 import actionCreators from 'actions'
+import Button from 'components/Button'
+import GlobalError from 'components/GlobalError'
 
 class TrainingPage extends Component {
   componentWillMount () {
@@ -10,6 +11,10 @@ class TrainingPage extends Component {
     }
   }
   render () {
+    if (this.props.globalErrors.length) {
+      return <GlobalError errors={this.props.globalErrors} />
+    }
+
     if (!this.props.isFetched) {
       return <div>fetching...</div>
     }
@@ -47,6 +52,7 @@ class TrainingPage extends Component {
 const TrainingPageContainer = connect(
   (state, props) => {
     return {
+      globalErrors: state.globalErrors,
       isFetched: state.entities.trainings.isFetched[props.match.params.id],
       params: {
         id: props.match.params.id
