@@ -4,6 +4,7 @@ import {
   // autoRehydrate,
   // persistStore
 } from 'redux-persist'
+import promiseMiddleware from 'redux-promise'
 import thunk from 'redux-thunk'
 import rootReducer from 'reducers'
 import * as services from 'services'
@@ -14,6 +15,7 @@ const configureStore = preloadedState => {
     preloadedState,
     composeWithDevTools(
       applyMiddleware(
+        promiseMiddleware,
         thunk.withExtraArgument(services)
       )
       // autoRehydrate()

@@ -1,16 +1,13 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import Button from 'components/Button'
-
-const fetchTrainings = () => {
-  return () => {
-    console.log('fetchTrainings')
-  }
-}
+import actionCreators from 'actions'
 
 class WelcomePage extends Component {
   componentWillMount () {
-    this.props.fetchTrainings()
+    if (!this.props.isFetched) {
+      this.props.fetchTrainings()
+    }
   }
   render () {
     if (!this.props.isFetched) {
@@ -35,25 +32,12 @@ class WelcomePage extends Component {
 const WelcomePageContainer = connect(
   (state, props) => {
     return {
-      isFetched: true,
-      trainings: [
-        {
-          id: '9gj56h',
-          name: 'Java Script',
-          slug: 'javascript',
-          progress: 0
-        },
-        {
-          id: '0jfht6',
-          name: 'React.js',
-          slug: 'react',
-          progress: 0
-        }
-      ]
+      isFetched: state.welcomePage.isFetched,
+      trainings: state.welcomePage.trainings
     }
   },
   {
-    fetchTrainings
+    fetchTrainings: actionCreators.fetch.trainings
   }
 )(WelcomePage)
 
