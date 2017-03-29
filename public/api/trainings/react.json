@@ -1,5 +1,10 @@
 {
   "id": "react",
   "slug": "react",
-  "name": "React.js"
+  "name": "React.js",
+  "lessons": [
+    "react-lesson-1",
+    "react-lesson-2",
+    "react-lesson-3"
+  ]
 }

@@ -65,7 +65,8 @@ const TrainingPageContainer = connect(
     }
   },
   {
-    fetchTraining: actionCreators.fetch.training
+    fetchTraining: actionCreators.fetch.training,
+    fetchLesson: actionCreators.fetch.lesson
   }
 )(TrainingPage)
 

@@ -1,5 +1,10 @@
 {
   "id": "javascript",
   "slug": "javascript",
-  "name": "Java Script"
+  "name": "Java Script",
+  "lessons": [
+    "javascript-lesson-1",
+    "javascript-lesson-2",
+    "javascript-lesson-3"
+  ]
 }

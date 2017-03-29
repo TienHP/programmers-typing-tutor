@@ -38,6 +38,31 @@ export default combineReducers({
           return assoc(action.payload.id, true, state)
         }
       }, {})
+    }),
+
+    lessons: combineReducers({
+      entities: handleActions({
+        [actionCreators.fetch.lessons]: (state, action) => {
+          if (action.error) return state
+          const entities = indexBy(prop('id'), action.payload)
+          return merge(state, entities)
+        },
+        [actionCreators.fetch.lesson]: (state, action) => {
+          if (action.error) return state
+          return assoc(action.payload.id, action.payload, state)
+        }
+      }, {}),
+      isFetched: handleActions({
+        [actionCreators.fetch.lessons]: (state, action) => {
+          if (action.error) return state
+          const entities = map(() => true, indexBy(prop('id'), action.payload))
+          return merge(state, entities)
+        },
+        [actionCreators.fetch.lesson]: (state, action) => {
+          if (action.error) return state
+          return assoc(action.payload.id, true, state)
+        }
+      }, {})
     })
   })
 })
