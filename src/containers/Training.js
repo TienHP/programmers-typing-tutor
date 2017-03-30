@@ -1,16 +1,20 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
-import actionCreators from 'actions'
+import * as trainingsActions from 'actions/trainings'
+import * as lessonsActions from 'actions/lessons'
 import Button from 'components/Button'
 import GlobalError from 'components/GlobalError'
 import { reject, isNil } from 'ramda'
 
 class TrainingPage extends Component {
-  componentWillMount () {  
+  async loadData () {
     this.props.fetchTraining(this.props.params.id)
     .then(action => {
-      action.payload.lessons.forEach(this.props.fetchLesson)
+      this.props.fetchLesson(action.payload.lessons[0])
     })
+  }
+  componentWillMount () {
+    this.loadData()
   }
   render () {
     if (this.props.globalErrors.length) {
@@ -81,8 +85,8 @@ const TrainingPageContainer = connect(
     }
   },
   {
-    fetchTraining: actionCreators.fetch.training,
-    fetchLesson: actionCreators.fetch.lesson
+    fetchTraining: trainingsActions.fetchTraining,
+    fetchLesson: lessonsActions.fetchLesson
   }
 )(TrainingPage)
 

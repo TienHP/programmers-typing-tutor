@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
-import actionCreators from 'actions'
+import * as trainingsActions from 'actions/trainings'
+import * as lessonsActions from 'actions/lessons'
 import Button from 'components/Button'
 import GlobalError from 'components/GlobalError'
 
@@ -76,7 +77,8 @@ const TrainingPageContainer = connect(
     }
   },
   {
-    fetchTraining: actionCreators.fetch.training
+    fetchTraining: trainingsActions.fetchTraining,
+    fetchLesson: lessonsActions.fetchLesson
   }
 )(TrainingPage)
 

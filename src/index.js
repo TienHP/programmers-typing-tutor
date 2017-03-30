@@ -20,9 +20,9 @@ import {
   Route
 } from 'react-router-dom'
 
-import WelcomePageContainer from 'containers/WelcomePageContainer'
-import TrainingPageContainer from 'containers/TrainingPageContainer'
-import TrainingResultPageContainer from 'containers/TrainingResultPageContainer'
+import Landing from 'containers/Landing'
+import Training from 'containers/Training'
+import TrainingResult from 'containers/TrainingResult'
 
 /**
  * Create Redux Store
@@ -36,9 +36,9 @@ render(
   <Provider store={store}>
     <Router basename='/programmers-typing-tutor'>
       <Switch>
-        <Route path='/' exact component={WelcomePageContainer} />
-        <Route path='/:id/result' component={TrainingResultPageContainer} />
-        <Route path='/:id' component={TrainingPageContainer} />
+        <Route path='/' exact component={Landing} />
+        <Route path='/:id/result' component={TrainingResult} />
+        <Route path='/:id' component={Training} />
       </Switch>
     </Router>
   </Provider>,
